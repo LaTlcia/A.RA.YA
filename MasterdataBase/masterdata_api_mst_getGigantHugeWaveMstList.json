@@ -1,0 +1,463 @@
+{
+  "url": "/api/mst/getGigantHugeWaveMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "gigantHugeWaveMstId": 10101,
+        "gigantHugeStageMstId": 101,
+        "appearanceGroupId": 10101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 10201,
+        "gigantHugeStageMstId": 102,
+        "appearanceGroupId": 10201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 10301,
+        "gigantHugeStageMstId": 103,
+        "appearanceGroupId": 10301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010101,
+        "gigantHugeStageMstId": 10101,
+        "appearanceGroupId": 1010101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010201,
+        "gigantHugeStageMstId": 10102,
+        "appearanceGroupId": 1010201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010301,
+        "gigantHugeStageMstId": 10103,
+        "appearanceGroupId": 1010301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010401,
+        "gigantHugeStageMstId": 10104,
+        "appearanceGroupId": 1010401,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010501,
+        "gigantHugeStageMstId": 10105,
+        "appearanceGroupId": 1010501,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010601,
+        "gigantHugeStageMstId": 10106,
+        "appearanceGroupId": 1010601,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1010701,
+        "gigantHugeStageMstId": 10107,
+        "appearanceGroupId": 1010701,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020101,
+        "gigantHugeStageMstId": 10201,
+        "appearanceGroupId": 1020101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020201,
+        "gigantHugeStageMstId": 10202,
+        "appearanceGroupId": 1020201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020301,
+        "gigantHugeStageMstId": 10203,
+        "appearanceGroupId": 1020301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020401,
+        "gigantHugeStageMstId": 10204,
+        "appearanceGroupId": 1020401,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020501,
+        "gigantHugeStageMstId": 10205,
+        "appearanceGroupId": 1020501,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020601,
+        "gigantHugeStageMstId": 10206,
+        "appearanceGroupId": 1020601,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1020701,
+        "gigantHugeStageMstId": 10207,
+        "appearanceGroupId": 1020701,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1030101,
+        "gigantHugeStageMstId": 10301,
+        "appearanceGroupId": 1030101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1030201,
+        "gigantHugeStageMstId": 10302,
+        "appearanceGroupId": 1030201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1040101,
+        "gigantHugeStageMstId": 10401,
+        "appearanceGroupId": 1040101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1040201,
+        "gigantHugeStageMstId": 10402,
+        "appearanceGroupId": 1040201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1090101,
+        "gigantHugeStageMstId": 10901,
+        "appearanceGroupId": 1090101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1090201,
+        "gigantHugeStageMstId": 10902,
+        "appearanceGroupId": 1090201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1090301,
+        "gigantHugeStageMstId": 10903,
+        "appearanceGroupId": 1090301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1090401,
+        "gigantHugeStageMstId": 10904,
+        "appearanceGroupId": 1090401,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 1090501,
+        "gigantHugeStageMstId": 10905,
+        "appearanceGroupId": 1090501,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2010101,
+        "gigantHugeStageMstId": 20101,
+        "appearanceGroupId": 2010101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2010201,
+        "gigantHugeStageMstId": 20102,
+        "appearanceGroupId": 2010201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2020101,
+        "gigantHugeStageMstId": 20201,
+        "appearanceGroupId": 2020101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2020201,
+        "gigantHugeStageMstId": 20202,
+        "appearanceGroupId": 2020201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2030101,
+        "gigantHugeStageMstId": 20301,
+        "appearanceGroupId": 2030101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2030201,
+        "gigantHugeStageMstId": 20302,
+        "appearanceGroupId": 2030201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2040101,
+        "gigantHugeStageMstId": 20401,
+        "appearanceGroupId": 2040101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2040201,
+        "gigantHugeStageMstId": 20402,
+        "appearanceGroupId": 2040201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2090101,
+        "gigantHugeStageMstId": 20901,
+        "appearanceGroupId": 2090101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2090201,
+        "gigantHugeStageMstId": 20902,
+        "appearanceGroupId": 2090201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2090301,
+        "gigantHugeStageMstId": 20903,
+        "appearanceGroupId": 2090301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2090401,
+        "gigantHugeStageMstId": 20904,
+        "appearanceGroupId": 2090401,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 2090501,
+        "gigantHugeStageMstId": 20905,
+        "appearanceGroupId": 2090501,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3010101,
+        "gigantHugeStageMstId": 30101,
+        "appearanceGroupId": 3010101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3010201,
+        "gigantHugeStageMstId": 30102,
+        "appearanceGroupId": 3010201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3020101,
+        "gigantHugeStageMstId": 30201,
+        "appearanceGroupId": 3020101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3020201,
+        "gigantHugeStageMstId": 30202,
+        "appearanceGroupId": 3020201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3030101,
+        "gigantHugeStageMstId": 30301,
+        "appearanceGroupId": 3030101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3030201,
+        "gigantHugeStageMstId": 30302,
+        "appearanceGroupId": 3030201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3040101,
+        "gigantHugeStageMstId": 30401,
+        "appearanceGroupId": 3040101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3040201,
+        "gigantHugeStageMstId": 30402,
+        "appearanceGroupId": 3040201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3090101,
+        "gigantHugeStageMstId": 30901,
+        "appearanceGroupId": 3090101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3090201,
+        "gigantHugeStageMstId": 30902,
+        "appearanceGroupId": 3090201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3090301,
+        "gigantHugeStageMstId": 30903,
+        "appearanceGroupId": 3090301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3090401,
+        "gigantHugeStageMstId": 30904,
+        "appearanceGroupId": 3090401,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 3090501,
+        "gigantHugeStageMstId": 30905,
+        "appearanceGroupId": 3090501,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4010101,
+        "gigantHugeStageMstId": 40101,
+        "appearanceGroupId": 4010101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4010201,
+        "gigantHugeStageMstId": 40102,
+        "appearanceGroupId": 4010201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4020101,
+        "gigantHugeStageMstId": 40201,
+        "appearanceGroupId": 4020101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4020201,
+        "gigantHugeStageMstId": 40202,
+        "appearanceGroupId": 4020201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4030101,
+        "gigantHugeStageMstId": 40301,
+        "appearanceGroupId": 4030101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4030201,
+        "gigantHugeStageMstId": 40302,
+        "appearanceGroupId": 4030201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4040101,
+        "gigantHugeStageMstId": 40401,
+        "appearanceGroupId": 4040101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 4040201,
+        "gigantHugeStageMstId": 40402,
+        "appearanceGroupId": 4040201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 5010101,
+        "gigantHugeStageMstId": 50101,
+        "appearanceGroupId": 5010101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 5010201,
+        "gigantHugeStageMstId": 50102,
+        "appearanceGroupId": 5010201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 10110101,
+        "gigantHugeStageMstId": 101101,
+        "appearanceGroupId": 10110101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 10310101,
+        "gigantHugeStageMstId": 103101,
+        "appearanceGroupId": 10310101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 10420101,
+        "gigantHugeStageMstId": 104201,
+        "appearanceGroupId": 10420101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      }
+    ]
+  }
+}

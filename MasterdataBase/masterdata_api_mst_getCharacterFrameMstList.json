@@ -1,0 +1,104 @@
+{
+  "url": "/api/mst/getCharacterFrameMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "characterFrameMstId": 100110182,
+        "name": "キャラクターフレーム金",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018200,
+        "startTime": 1671091200,
+        "endTime": 1681113599
+      },
+      {
+        "characterFrameMstId": 100110183,
+        "name": "キャラクターフレーム銀",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018300,
+        "startTime": 1671091200,
+        "endTime": 1681113599
+      },
+      {
+        "characterFrameMstId": 100110184,
+        "name": "キャラクターフレーム銅",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018400,
+        "startTime": 1671091200,
+        "endTime": 1681113599
+      },
+      {
+        "characterFrameMstId": 100210182,
+        "name": "キャラクターフレーム金",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018200,
+        "startTime": 1681113600,
+        "endTime": 1689148799
+      },
+      {
+        "characterFrameMstId": 100210183,
+        "name": "キャラクターフレーム銀",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018300,
+        "startTime": 1681113600,
+        "endTime": 1689148799
+      },
+      {
+        "characterFrameMstId": 100210184,
+        "name": "キャラクターフレーム銅",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018400,
+        "startTime": 1681113600,
+        "endTime": 1689148799
+      },
+      {
+        "characterFrameMstId": 100210206,
+        "name": "キャラクターフレーム金",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1020600,
+        "startTime": 1681113600,
+        "endTime": 1689148799
+      },
+      {
+        "characterFrameMstId": 100210207,
+        "name": "キャラクターフレーム銀",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1020700,
+        "startTime": 1681113600,
+        "endTime": 1689148799
+      },
+      {
+        "characterFrameMstId": 100210208,
+        "name": "キャラクターフレーム銅",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1020800,
+        "startTime": 1681113600,
+        "endTime": 1689148799
+      },
+      {
+        "characterFrameMstId": 100310209,
+        "name": "キャラクターフレーム金",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1020900,
+        "startTime": 1689148800,
+        "endTime": 1697011199
+      },
+      {
+        "characterFrameMstId": 100310210,
+        "name": "キャラクターフレーム銀",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1021000,
+        "startTime": 1689148800,
+        "endTime": 1697011199
+      },
+      {
+        "characterFrameMstId": 100310211,
+        "name": "キャラクターフレーム銅",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1021100,
+        "startTime": 1689148800,
+        "endTime": 1697011199
+      }
+    ]
+  }
+}

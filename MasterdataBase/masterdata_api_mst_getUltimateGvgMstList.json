@@ -1,0 +1,50 @@
+{
+  "url": "/api/mst/getUltimateGvgMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "ultimateGvgMstId": 1,
+        "grandGvgMstId": 10000,
+        "preliminaryStartTime": 1665648000,
+        "preliminaryEndTime": 1671091199,
+        "gvgStartTime": 1671091200,
+        "gvgEndTime": 1673103599,
+        "resultStartTime": 1673164800,
+        "resultEndTime": 1673621999,
+        "eventName": "レギオンチャンピオンシップ ポインセチア杯",
+        "eventImageId": 4,
+        "announceMstId": 2879,
+        "homeAppealImageId": 1504
+      },
+      {
+        "ultimateGvgMstId": 2,
+        "grandGvgMstId": 10001,
+        "preliminaryStartTime": 1674615600,
+        "preliminaryEndTime": 1679471999,
+        "gvgStartTime": 1679472000,
+        "gvgEndTime": 1681052399,
+        "resultStartTime": 1681113600,
+        "resultEndTime": 1681657199,
+        "eventName": "レギオンチャンピオンシップ チューリップ杯",
+        "eventImageId": 1,
+        "announceMstId": 3504,
+        "homeAppealImageId": 1504
+      },
+      {
+        "ultimateGvgMstId": 3,
+        "grandGvgMstId": 10002,
+        "preliminaryStartTime": 1681718400,
+        "preliminaryEndTime": 1687334399,
+        "gvgStartTime": 1687334400,
+        "gvgEndTime": 1689087599,
+        "resultStartTime": 1689148800,
+        "resultEndTime": 1689519599,
+        "eventName": "レギオンチャンピオンシップ バラ杯",
+        "eventImageId": 2,
+        "announceMstId": 4028,
+        "homeAppealImageId": 1783
+      }
+    ]
+  }
+}

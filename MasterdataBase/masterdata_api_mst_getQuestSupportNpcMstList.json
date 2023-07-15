@@ -1,0 +1,341 @@
+{
+  "url": "/api/mst/getQuestSupportNpcMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "questSupportNpcMstId": 1001001,
+        "characterJobMstId": 1001,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1002001,
+        "characterJobMstId": 1002,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1003001,
+        "characterJobMstId": 1003,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1003002,
+        "characterJobMstId": 1003,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1004001,
+        "characterJobMstId": 1004,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1004002,
+        "characterJobMstId": 1004,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1005001,
+        "characterJobMstId": 1005,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1006001,
+        "characterJobMstId": 1006,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1007001,
+        "characterJobMstId": 1007,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1008001,
+        "characterJobMstId": 1008,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1009001,
+        "characterJobMstId": 1009,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1026001,
+        "characterJobMstId": 1026,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1027001,
+        "characterJobMstId": 1027,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1040001,
+        "characterJobMstId": 1040,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1041001,
+        "characterJobMstId": 1041,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1042001,
+        "characterJobMstId": 1042,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1043001,
+        "characterJobMstId": 1043,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1044001,
+        "characterJobMstId": 1044,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1045001,
+        "characterJobMstId": 1045,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 1046001,
+        "characterJobMstId": 1046,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 2002001,
+        "characterJobMstId": 2002,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 2005001,
+        "characterJobMstId": 2005,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 2014001,
+        "characterJobMstId": 2014,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 8001001,
+        "characterJobMstId": 8001,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 8002001,
+        "characterJobMstId": 8002,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 8003001,
+        "characterJobMstId": 8003,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 20028001,
+        "characterJobMstId": 20028,
+        "maxHp": 50000,
+        "physicalAttack": 20000,
+        "magicalAttack": 20000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 20029001,
+        "characterJobMstId": 20029,
+        "maxHp": 50000,
+        "physicalAttack": 20000,
+        "magicalAttack": 20000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 20030001,
+        "characterJobMstId": 20030,
+        "maxHp": 50000,
+        "physicalAttack": 20000,
+        "magicalAttack": 20000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39026001,
+        "characterJobMstId": 39026,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39040001,
+        "characterJobMstId": 39040,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39041001,
+        "characterJobMstId": 39041,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39042001,
+        "characterJobMstId": 39042,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39043001,
+        "characterJobMstId": 39043,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39044001,
+        "characterJobMstId": 39044,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39045001,
+        "characterJobMstId": 39045,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
+        "questSupportNpcMstId": 39046001,
+        "characterJobMstId": 39046,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      }
+    ]
+  }
+}
