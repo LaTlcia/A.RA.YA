@@ -74,6 +74,41 @@
         "skillEffectGroup": 60102014
       },
       {
+        "legendarySkillGroupMstId": 6010301,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを2%アップさせる。",
+        "skillEffectGroup": 60103010
+      },
+      {
+        "legendarySkillGroupMstId": 6010301,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを2.2%アップさせる。",
+        "skillEffectGroup": 60103011
+      },
+      {
+        "legendarySkillGroupMstId": 6010301,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを2.5%アップさせる。",
+        "skillEffectGroup": 60103012
+      },
+      {
+        "legendarySkillGroupMstId": 6010301,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを2.7%アップさせる。",
+        "skillEffectGroup": 60103013
+      },
+      {
+        "legendarySkillGroupMstId": 6010301,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60103014
+      },
+      {
         "legendarySkillGroupMstId": 6020101,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]火特:ダメージUP Ⅰ",
@@ -142,6 +177,41 @@
         "name": "[レギオンマッチ]水特:ダメージUP Ⅴ",
         "description": "レギオンマッチ限定、水属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
         "skillEffectGroup": 60202014
+      },
+      {
+        "legendarySkillGroupMstId": 6020301,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを2%アップさせる。",
+        "skillEffectGroup": 60203010
+      },
+      {
+        "legendarySkillGroupMstId": 6020301,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを2.2%アップさせる。",
+        "skillEffectGroup": 60203011
+      },
+      {
+        "legendarySkillGroupMstId": 6020301,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを2.5%アップさせる。",
+        "skillEffectGroup": 60203012
+      },
+      {
+        "legendarySkillGroupMstId": 6020301,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを2.7%アップさせる。",
+        "skillEffectGroup": 60203013
+      },
+      {
+        "legendarySkillGroupMstId": 6020301,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60203014
       },
       {
         "legendarySkillGroupMstId": 6030101,

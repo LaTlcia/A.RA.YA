@@ -3007,8 +3007,71 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10437,
+        "title": "招待キャンペーン対象ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10438,
+        "title": "Summer Lilies Vacation【個人】",
+        "completeMissionMstId": 10438001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10439,
+        "title": "Summer Lilies Vacation【レギオン】",
+        "completeMissionMstId": 10439001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10440,
+        "title": "Summer Lilies Vacation【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10441,
+        "title": "マルチデイリーミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10442,
+        "title": "2.5周年リリサマ!!シャイン特別ミッション -梨璃編-",
+        "completeMissionMstId": 10442001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2012
+      },
+      {
+        "missionTitleMstId": 10443,
+        "title": "2.5周年記念ともだち招待キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10444,
+        "title": "梅誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10450,
         "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10452,
+        "title": "ラスバレ2.5周年Twitterキャンペーン第1弾",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

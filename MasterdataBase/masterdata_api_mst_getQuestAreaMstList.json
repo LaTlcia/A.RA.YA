@@ -676,6 +676,46 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4116,
+        "questMapMstId": 4,
+        "name": "16話",
+        "description": "ヘルヴォルの実験",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4117,
+        "questMapMstId": 4,
+        "name": "17話",
+        "description": "壊れた楯 ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4118,
+        "questMapMstId": 4,
+        "name": "18話",
+        "description": "あの日の誓い",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4119,
+        "questMapMstId": 4,
+        "name": "19話",
+        "description": "竜と楯",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4120,
+        "questMapMstId": 4,
+        "name": "20話",
+        "description": "覚醒のスキャルドメール",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -792,6 +832,46 @@
         "questMapMstId": 4,
         "name": "15話",
         "description": "羊たちの慟哭",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4216,
+        "questMapMstId": 4,
+        "name": "16話",
+        "description": "ヘルヴォルの実験",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4217,
+        "questMapMstId": 4,
+        "name": "17話",
+        "description": "壊れた楯 ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4218,
+        "questMapMstId": 4,
+        "name": "18話",
+        "description": "あの日の誓い",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4219,
+        "questMapMstId": 4,
+        "name": "19話",
+        "description": "竜と楯",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4220,
+        "questMapMstId": 4,
+        "name": "20話",
+        "description": "覚醒のスキャルドメール",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -1256,6 +1336,14 @@
         "questMapMstId": 155,
         "name": "特別イベント",
         "description": "2.5周年スペシャルストーリー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 156101,
+        "questMapMstId": 156,
+        "name": "マルチバトル",
+        "description": "2.5周年リリサマ!! 共闘バトル",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -2672,6 +2760,22 @@
         "questMapMstId": 298,
         "name": "メダルイベント",
         "description": "星月夜に咲く花",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 299101,
+        "questMapMstId": 299,
+        "name": "メダルイベント",
+        "description": "Summer Lilies Vacation",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 299201,
+        "questMapMstId": 299,
+        "name": "メダルイベント",
+        "description": "Summer Lilies Vacation",
         "mode": 2,
         "hasNextComingSoon": false
       },
