@@ -2006,6 +2006,18 @@
         "conditionValue2": 0,
         "startTime": 1689044400,
         "endTime": 1689821999
+      },
+      {
+        "chatStampMstId": 191,
+        "name": "あら？",
+        "characterMstId": 16,
+        "type": 1,
+        "howToGetText": "Twinkle Lilies Party【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1690772400,
+        "endTime": 1691636399
       }
     ]
   }

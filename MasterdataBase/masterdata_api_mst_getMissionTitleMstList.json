@@ -3063,7 +3063,49 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10445,
+        "title": "レギオンリーグ記念ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10446,
+        "title": "マルチデイリーミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10447,
+        "title": "Twinkle Lilies Party【個人】",
+        "completeMissionMstId": 10447001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10448,
+        "title": "Twinkle Lilies Party【レギオン】",
+        "completeMissionMstId": 10448001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10449,
+        "title": "Twinkle Lilies Party【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10450,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10451,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
@@ -3072,6 +3114,13 @@
       {
         "missionTitleMstId": 10452,
         "title": "ラスバレ2.5周年Twitterキャンペーン第1弾",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10453,
+        "title": "ラスバレ2.5周年Twitterキャンペーン第2弾",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

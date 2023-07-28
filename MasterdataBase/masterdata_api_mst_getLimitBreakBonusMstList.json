@@ -935,6 +935,25 @@
         "awakenedAddBonusValue4": 1200
       },
       {
+        "limitBreakBonusMstId": 101114,
+        "bonusType1": 2,
+        "bonusValue1": 200,
+        "bonusType2": 1,
+        "bonusValue2": 300,
+        "bonusType3": 2,
+        "bonusValue3": 300,
+        "bonusType4": 1,
+        "bonusValue4": 500,
+        "awakenedAddBonusType1": 2,
+        "awakenedAddBonusValue1": 200,
+        "awakenedAddBonusType2": 1,
+        "awakenedAddBonusValue2": 200,
+        "awakenedAddBonusType3": 2,
+        "awakenedAddBonusValue3": 200,
+        "awakenedAddBonusType4": 1,
+        "awakenedAddBonusValue4": 200
+      },
+      {
         "limitBreakBonusMstId": 101217,
         "bonusType1": 4,
         "bonusValue1": 150,
@@ -1847,6 +1866,25 @@
         "awakenedAddBonusValue4": 1200
       },
       {
+        "limitBreakBonusMstId": 102119,
+        "bonusType1": 4,
+        "bonusValue1": 200,
+        "bonusType2": 3,
+        "bonusValue2": 300,
+        "bonusType3": 4,
+        "bonusValue3": 300,
+        "bonusType4": 3,
+        "bonusValue4": 500,
+        "awakenedAddBonusType1": 4,
+        "awakenedAddBonusValue1": 200,
+        "awakenedAddBonusType2": 3,
+        "awakenedAddBonusValue2": 200,
+        "awakenedAddBonusType3": 4,
+        "awakenedAddBonusValue3": 200,
+        "awakenedAddBonusType4": 3,
+        "awakenedAddBonusValue4": 200
+      },
+      {
         "limitBreakBonusMstId": 102216,
         "bonusType1": 4,
         "bonusValue1": 150,
@@ -2244,6 +2282,25 @@
         "awakenedAddBonusValue3": 400,
         "awakenedAddBonusType4": 7,
         "awakenedAddBonusValue4": 600
+      },
+      {
+        "limitBreakBonusMstId": 103026,
+        "bonusType1": 7,
+        "bonusValue1": 100,
+        "bonusType2": 7,
+        "bonusValue2": 150,
+        "bonusType3": 7,
+        "bonusValue3": 150,
+        "bonusType4": 7,
+        "bonusValue4": 250,
+        "awakenedAddBonusType1": 7,
+        "awakenedAddBonusValue1": 100,
+        "awakenedAddBonusType2": 7,
+        "awakenedAddBonusValue2": 100,
+        "awakenedAddBonusType3": 7,
+        "awakenedAddBonusValue3": 100,
+        "awakenedAddBonusType4": 7,
+        "awakenedAddBonusValue4": 100
       },
       {
         "limitBreakBonusMstId": 103027,
@@ -4049,6 +4106,25 @@
         "awakenedAddBonusValue3": 400,
         "awakenedAddBonusType4": 8,
         "awakenedAddBonusValue4": 600
+      },
+      {
+        "limitBreakBonusMstId": 104136,
+        "bonusType1": 8,
+        "bonusValue1": 100,
+        "bonusType2": 8,
+        "bonusValue2": 150,
+        "bonusType3": 8,
+        "bonusValue3": 150,
+        "bonusType4": 8,
+        "bonusValue4": 250,
+        "awakenedAddBonusType1": 8,
+        "awakenedAddBonusValue1": 100,
+        "awakenedAddBonusType2": 8,
+        "awakenedAddBonusValue2": 100,
+        "awakenedAddBonusType3": 8,
+        "awakenedAddBonusValue3": 100,
+        "awakenedAddBonusType4": 8,
+        "awakenedAddBonusValue4": 100
       },
       {
         "limitBreakBonusMstId": 105020,

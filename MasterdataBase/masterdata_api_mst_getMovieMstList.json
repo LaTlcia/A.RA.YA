@@ -1518,9 +1518,19 @@
         "movieTitle": "イベント PV",
         "fileName": "Movie/Movie000523.usm",
         "category": 2,
-        "isCollection": false,
+        "isCollection": true,
         "isAlwaysOnAlbum": false,
         "startTime": 1689822000,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 20125,
+        "movieTitle": "イベント PV",
+        "fileName": "Movie/Movie000525.usm",
+        "category": 2,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1690772400,
         "endTime": -62170017539
       },
       {

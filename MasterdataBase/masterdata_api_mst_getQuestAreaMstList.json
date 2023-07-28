@@ -1348,6 +1348,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 157101,
+        "questMapMstId": 157,
+        "name": "マルチバトル",
+        "description": "2.5周年リリサマ!! 共闘バトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -3040,6 +3048,22 @@
         "questMapMstId": 605,
         "name": "凶敵討伐イベント",
         "description": "凶敵討伐戦 -マオルヴルフ襲来-",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 701101,
+        "questMapMstId": 701,
+        "name": "メダルイベント",
+        "description": "Twinkle Lilies Party",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 701201,
+        "questMapMstId": 701,
+        "name": "メダルイベント",
+        "description": "Twinkle Lilies Party",
         "mode": 2,
         "hasNextComingSoon": false
       },
