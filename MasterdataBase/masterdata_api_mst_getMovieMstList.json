@@ -1515,7 +1515,7 @@
       },
       {
         "movieMstId": 20124,
-        "movieTitle": "イベント PV",
+        "movieTitle": "Summer Lilies Vacation PV",
         "fileName": "Movie/Movie000523.usm",
         "category": 2,
         "isCollection": true,
@@ -1525,12 +1525,22 @@
       },
       {
         "movieMstId": 20125,
-        "movieTitle": "イベント PV",
+        "movieTitle": "Twinkle Lilies Party PV",
         "fileName": "Movie/Movie000525.usm",
         "category": 2,
         "isCollection": true,
         "isAlwaysOnAlbum": false,
         "startTime": 1690772400,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 20126,
+        "movieTitle": "ギガント級ヒュージ討伐 -カオスサーペント- Chapter.2 開催",
+        "fileName": "Movie/Movie000526.usm",
+        "category": 2,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1691636400,
         "endTime": -62170017539
       },
       {

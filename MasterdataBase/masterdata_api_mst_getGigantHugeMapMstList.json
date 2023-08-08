@@ -410,6 +410,40 @@
         "gigantHugeRankingRewardGroupId": 0,
         "isBookmarkRelease": false,
         "bookmarkReleaseStartTime": -62170017539
+      },
+      {
+        "gigantHugeMapMstId": 2001,
+        "name": "ギガント級共闘戦",
+        "description": "カオスサーペント",
+        "mapType": 4,
+        "bannerId": 1229597,
+        "sortOrder": 100,
+        "backgroundImage": 4000202,
+        "appearType": 2,
+        "defaultMapBgm": "bgm_gigant-map_event_001",
+        "appearanceGigantHugeBgm": "bgm_gigant-map_event_002",
+        "mapLoginBonusItemMstId": 0,
+        "mapLoginBonusItemNum": 0,
+        "gigantHugeRankingRewardGroupId": 0,
+        "isBookmarkRelease": false,
+        "bookmarkReleaseStartTime": -62170017539
+      },
+      {
+        "gigantHugeMapMstId": 3001,
+        "name": "ギガント級共闘戦EX",
+        "description": "カオスサーペントEX",
+        "mapType": 4,
+        "bannerId": 1229598,
+        "sortOrder": 100,
+        "backgroundImage": 4000202,
+        "appearType": 2,
+        "defaultMapBgm": "bgm_gigant-map_event_001",
+        "appearanceGigantHugeBgm": "bgm_gigant-map_event_002",
+        "mapLoginBonusItemMstId": 0,
+        "mapLoginBonusItemNum": 0,
+        "gigantHugeRankingRewardGroupId": 0,
+        "isBookmarkRelease": false,
+        "bookmarkReleaseStartTime": -62170017539
       }
     ]
   }

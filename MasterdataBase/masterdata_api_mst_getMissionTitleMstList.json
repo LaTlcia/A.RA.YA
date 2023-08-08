@@ -3126,6 +3126,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10454,
+        "title": "2.5周年リリサマ!!シャイン特別ミッション -夢結編-",
+        "completeMissionMstId": 10454001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2081
+      },
+      {
+        "missionTitleMstId": 10455,
+        "title": "ラスバレ2.5周年Twitterキャンペーン第3弾",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10456,
+        "title": "真実の刃＆リリィコレクション",
+        "completeMissionMstId": 10456001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2095
+      },
+      {
+        "missionTitleMstId": 10457,
+        "title": "一葉誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10458,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,
@@ -3947,6 +3982,27 @@
       {
         "missionTitleMstId": 12981,
         "title": "星月夜に咲く花デイリーミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 17021,
+        "title": "迷い猫と夏の空デイリーミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 20011,
+        "title": "ギガント級共闘戦",
+        "completeMissionMstId": 20011001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 20012,
+        "title": "ギガント級共闘戦",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

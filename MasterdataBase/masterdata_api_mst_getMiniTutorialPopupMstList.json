@@ -332,6 +332,18 @@
         "miniTutorialType": 33,
         "sortOrder": 6,
         "imageId": 153
+      },
+      {
+        "miniTutorialPopupMstId": 60,
+        "miniTutorialType": 41,
+        "sortOrder": 1,
+        "imageId": 154
+      },
+      {
+        "miniTutorialPopupMstId": 61,
+        "miniTutorialType": 41,
+        "sortOrder": 2,
+        "imageId": 155
       }
     ]
   }

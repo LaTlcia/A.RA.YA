@@ -2018,6 +2018,18 @@
         "conditionValue2": 0,
         "startTime": 1690772400,
         "endTime": 1691636399
+      },
+      {
+        "chatStampMstId": 193,
+        "name": "どうしても……？",
+        "characterMstId": 41,
+        "type": 4,
+        "howToGetText": "ギガント級共闘戦特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1691636400,
+        "endTime": 1692500399
       }
     ]
   }

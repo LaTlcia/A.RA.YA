@@ -6386,6 +6386,66 @@
         "limitBreakBonusValue2": 120,
         "limitBreakBonusValue3": 130,
         "limitBreakBonusValue4": 140
+      },
+      {
+        "questCardBonusRateMstId": 702001,
+        "cardUniqueId": 10082041,
+        "itemMstId": 4000417,
+        "questMapMstId": 702,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600
+      },
+      {
+        "questCardBonusRateMstId": 702002,
+        "cardUniqueId": 10082040,
+        "itemMstId": 4000417,
+        "questMapMstId": 702,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600
+      },
+      {
+        "questCardBonusRateMstId": 702003,
+        "cardUniqueId": 10082043,
+        "itemMstId": 4000417,
+        "questMapMstId": 702,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600
+      },
+      {
+        "questCardBonusRateMstId": 702004,
+        "cardUniqueId": 50000029,
+        "itemMstId": 4000417,
+        "questMapMstId": 702,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140
+      },
+      {
+        "questCardBonusRateMstId": 702005,
+        "cardUniqueId": 70000226,
+        "itemMstId": 4000417,
+        "questMapMstId": 702,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140
       }
     ]
   }

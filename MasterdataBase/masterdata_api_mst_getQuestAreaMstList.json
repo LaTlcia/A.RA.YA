@@ -3068,6 +3068,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 702101,
+        "questMapMstId": 702,
+        "name": "メダルイベント",
+        "description": "迷い猫と夏の空",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 702201,
+        "questMapMstId": 702,
+        "name": "メダルイベント",
+        "description": "迷い猫と夏の空",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
