@@ -8644,6 +8644,726 @@
         "levelUpExp": 0
       },
       {
+        "weaponLegendaryLevelUpMstId": 60001,
+        "uniqueId": 60,
+        "level": 1,
+        "levelUpExp": 70
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60002,
+        "uniqueId": 60,
+        "level": 2,
+        "levelUpExp": 85
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60003,
+        "uniqueId": 60,
+        "level": 3,
+        "levelUpExp": 95
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60004,
+        "uniqueId": 60,
+        "level": 4,
+        "levelUpExp": 110
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60005,
+        "uniqueId": 60,
+        "level": 5,
+        "levelUpExp": 125
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60006,
+        "uniqueId": 60,
+        "level": 6,
+        "levelUpExp": 145
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60007,
+        "uniqueId": 60,
+        "level": 7,
+        "levelUpExp": 170
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60008,
+        "uniqueId": 60,
+        "level": 8,
+        "levelUpExp": 195
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60009,
+        "uniqueId": 60,
+        "level": 9,
+        "levelUpExp": 225
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60010,
+        "uniqueId": 60,
+        "level": 10,
+        "levelUpExp": 260
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60011,
+        "uniqueId": 60,
+        "level": 11,
+        "levelUpExp": 300
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60012,
+        "uniqueId": 60,
+        "level": 12,
+        "levelUpExp": 345
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60013,
+        "uniqueId": 60,
+        "level": 13,
+        "levelUpExp": 400
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60014,
+        "uniqueId": 60,
+        "level": 14,
+        "levelUpExp": 460
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60015,
+        "uniqueId": 60,
+        "level": 15,
+        "levelUpExp": 535
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60016,
+        "uniqueId": 60,
+        "level": 16,
+        "levelUpExp": 615
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60017,
+        "uniqueId": 60,
+        "level": 17,
+        "levelUpExp": 710
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60018,
+        "uniqueId": 60,
+        "level": 18,
+        "levelUpExp": 820
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60019,
+        "uniqueId": 60,
+        "level": 19,
+        "levelUpExp": 950
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60020,
+        "uniqueId": 60,
+        "level": 20,
+        "levelUpExp": 1095
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60021,
+        "uniqueId": 60,
+        "level": 21,
+        "levelUpExp": 1265
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60022,
+        "uniqueId": 60,
+        "level": 22,
+        "levelUpExp": 1460
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60023,
+        "uniqueId": 60,
+        "level": 23,
+        "levelUpExp": 1690
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60024,
+        "uniqueId": 60,
+        "level": 24,
+        "levelUpExp": 1950
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60025,
+        "uniqueId": 60,
+        "level": 25,
+        "levelUpExp": 2255
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60026,
+        "uniqueId": 60,
+        "level": 26,
+        "levelUpExp": 2605
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60027,
+        "uniqueId": 60,
+        "level": 27,
+        "levelUpExp": 3010
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60028,
+        "uniqueId": 60,
+        "level": 28,
+        "levelUpExp": 3480
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60029,
+        "uniqueId": 60,
+        "level": 29,
+        "levelUpExp": 4020
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60030,
+        "uniqueId": 60,
+        "level": 30,
+        "levelUpExp": 4645
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60031,
+        "uniqueId": 60,
+        "level": 31,
+        "levelUpExp": 5370
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60032,
+        "uniqueId": 60,
+        "level": 32,
+        "levelUpExp": 6205
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60033,
+        "uniqueId": 60,
+        "level": 33,
+        "levelUpExp": 7170
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60034,
+        "uniqueId": 60,
+        "level": 34,
+        "levelUpExp": 8285
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60035,
+        "uniqueId": 60,
+        "level": 35,
+        "levelUpExp": 9570
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60036,
+        "uniqueId": 60,
+        "level": 36,
+        "levelUpExp": 11060
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60037,
+        "uniqueId": 60,
+        "level": 37,
+        "levelUpExp": 12780
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60038,
+        "uniqueId": 60,
+        "level": 38,
+        "levelUpExp": 14770
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60039,
+        "uniqueId": 60,
+        "level": 39,
+        "levelUpExp": 17070
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60040,
+        "uniqueId": 60,
+        "level": 40,
+        "levelUpExp": 19725
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60041,
+        "uniqueId": 60,
+        "level": 41,
+        "levelUpExp": 21745
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60042,
+        "uniqueId": 60,
+        "level": 42,
+        "levelUpExp": 23975
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60043,
+        "uniqueId": 60,
+        "level": 43,
+        "levelUpExp": 26430
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60044,
+        "uniqueId": 60,
+        "level": 44,
+        "levelUpExp": 29140
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60045,
+        "uniqueId": 60,
+        "level": 45,
+        "levelUpExp": 32130
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60046,
+        "uniqueId": 60,
+        "level": 46,
+        "levelUpExp": 35420
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60047,
+        "uniqueId": 60,
+        "level": 47,
+        "levelUpExp": 39050
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60048,
+        "uniqueId": 60,
+        "level": 48,
+        "levelUpExp": 43055
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60049,
+        "uniqueId": 60,
+        "level": 49,
+        "levelUpExp": 47465
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60050,
+        "uniqueId": 60,
+        "level": 50,
+        "levelUpExp": 52330
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60051,
+        "uniqueId": 60,
+        "level": 51,
+        "levelUpExp": 53385
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60052,
+        "uniqueId": 60,
+        "level": 52,
+        "levelUpExp": 54455
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60053,
+        "uniqueId": 60,
+        "level": 53,
+        "levelUpExp": 55550
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60054,
+        "uniqueId": 60,
+        "level": 54,
+        "levelUpExp": 56670
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60055,
+        "uniqueId": 60,
+        "level": 55,
+        "levelUpExp": 57805
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60056,
+        "uniqueId": 60,
+        "level": 56,
+        "levelUpExp": 58970
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60057,
+        "uniqueId": 60,
+        "level": 57,
+        "levelUpExp": 60155
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60058,
+        "uniqueId": 60,
+        "level": 58,
+        "levelUpExp": 61365
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60059,
+        "uniqueId": 60,
+        "level": 59,
+        "levelUpExp": 62595
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60060,
+        "uniqueId": 60,
+        "level": 60,
+        "levelUpExp": 63855
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60061,
+        "uniqueId": 60,
+        "level": 61,
+        "levelUpExp": 65140
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60062,
+        "uniqueId": 60,
+        "level": 62,
+        "levelUpExp": 66445
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60063,
+        "uniqueId": 60,
+        "level": 63,
+        "levelUpExp": 67780
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60064,
+        "uniqueId": 60,
+        "level": 64,
+        "levelUpExp": 69145
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60065,
+        "uniqueId": 60,
+        "level": 65,
+        "levelUpExp": 70535
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60066,
+        "uniqueId": 60,
+        "level": 66,
+        "levelUpExp": 71950
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60067,
+        "uniqueId": 60,
+        "level": 67,
+        "levelUpExp": 73400
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60068,
+        "uniqueId": 60,
+        "level": 68,
+        "levelUpExp": 74875
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60069,
+        "uniqueId": 60,
+        "level": 69,
+        "levelUpExp": 76380
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60070,
+        "uniqueId": 60,
+        "level": 70,
+        "levelUpExp": 77915
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60071,
+        "uniqueId": 60,
+        "level": 71,
+        "levelUpExp": 79480
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60072,
+        "uniqueId": 60,
+        "level": 72,
+        "levelUpExp": 81075
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60073,
+        "uniqueId": 60,
+        "level": 73,
+        "levelUpExp": 82705
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60074,
+        "uniqueId": 60,
+        "level": 74,
+        "levelUpExp": 84370
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60075,
+        "uniqueId": 60,
+        "level": 75,
+        "levelUpExp": 86065
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60076,
+        "uniqueId": 60,
+        "level": 76,
+        "levelUpExp": 87795
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60077,
+        "uniqueId": 60,
+        "level": 77,
+        "levelUpExp": 89560
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60078,
+        "uniqueId": 60,
+        "level": 78,
+        "levelUpExp": 91360
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60079,
+        "uniqueId": 60,
+        "level": 79,
+        "levelUpExp": 93195
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60080,
+        "uniqueId": 60,
+        "level": 80,
+        "levelUpExp": 95070
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60081,
+        "uniqueId": 60,
+        "level": 81,
+        "levelUpExp": 96980
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60082,
+        "uniqueId": 60,
+        "level": 82,
+        "levelUpExp": 98930
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60083,
+        "uniqueId": 60,
+        "level": 83,
+        "levelUpExp": 100915
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60084,
+        "uniqueId": 60,
+        "level": 84,
+        "levelUpExp": 102945
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60085,
+        "uniqueId": 60,
+        "level": 85,
+        "levelUpExp": 105015
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60086,
+        "uniqueId": 60,
+        "level": 86,
+        "levelUpExp": 107125
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60087,
+        "uniqueId": 60,
+        "level": 87,
+        "levelUpExp": 109280
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60088,
+        "uniqueId": 60,
+        "level": 88,
+        "levelUpExp": 111475
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60089,
+        "uniqueId": 60,
+        "level": 89,
+        "levelUpExp": 113715
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60090,
+        "uniqueId": 60,
+        "level": 90,
+        "levelUpExp": 116000
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60091,
+        "uniqueId": 60,
+        "level": 91,
+        "levelUpExp": 118335
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60092,
+        "uniqueId": 60,
+        "level": 92,
+        "levelUpExp": 120710
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60093,
+        "uniqueId": 60,
+        "level": 93,
+        "levelUpExp": 123140
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60094,
+        "uniqueId": 60,
+        "level": 94,
+        "levelUpExp": 125615
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60095,
+        "uniqueId": 60,
+        "level": 95,
+        "levelUpExp": 128140
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60096,
+        "uniqueId": 60,
+        "level": 96,
+        "levelUpExp": 130715
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60097,
+        "uniqueId": 60,
+        "level": 97,
+        "levelUpExp": 133340
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60098,
+        "uniqueId": 60,
+        "level": 98,
+        "levelUpExp": 136020
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60099,
+        "uniqueId": 60,
+        "level": 99,
+        "levelUpExp": 138755
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60100,
+        "uniqueId": 60,
+        "level": 100,
+        "levelUpExp": 141545
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60101,
+        "uniqueId": 60,
+        "level": 101,
+        "levelUpExp": 144390
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60102,
+        "uniqueId": 60,
+        "level": 102,
+        "levelUpExp": 147290
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60103,
+        "uniqueId": 60,
+        "level": 103,
+        "levelUpExp": 150250
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60104,
+        "uniqueId": 60,
+        "level": 104,
+        "levelUpExp": 153270
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60105,
+        "uniqueId": 60,
+        "level": 105,
+        "levelUpExp": 156350
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60106,
+        "uniqueId": 60,
+        "level": 106,
+        "levelUpExp": 159495
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60107,
+        "uniqueId": 60,
+        "level": 107,
+        "levelUpExp": 162700
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60108,
+        "uniqueId": 60,
+        "level": 108,
+        "levelUpExp": 165970
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60109,
+        "uniqueId": 60,
+        "level": 109,
+        "levelUpExp": 169305
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60110,
+        "uniqueId": 60,
+        "level": 110,
+        "levelUpExp": 172710
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60111,
+        "uniqueId": 60,
+        "level": 111,
+        "levelUpExp": 176180
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60112,
+        "uniqueId": 60,
+        "level": 112,
+        "levelUpExp": 179720
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60113,
+        "uniqueId": 60,
+        "level": 113,
+        "levelUpExp": 183335
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60114,
+        "uniqueId": 60,
+        "level": 114,
+        "levelUpExp": 187020
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60115,
+        "uniqueId": 60,
+        "level": 115,
+        "levelUpExp": 190780
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60116,
+        "uniqueId": 60,
+        "level": 116,
+        "levelUpExp": 194615
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60117,
+        "uniqueId": 60,
+        "level": 117,
+        "levelUpExp": 198525
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60118,
+        "uniqueId": 60,
+        "level": 118,
+        "levelUpExp": 202515
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60119,
+        "uniqueId": 60,
+        "level": 119,
+        "levelUpExp": 206585
+      },
+      {
+        "weaponLegendaryLevelUpMstId": 60120,
+        "uniqueId": 60,
+        "level": 120,
+        "levelUpExp": 0
+      },
+      {
         "weaponLegendaryLevelUpMstId": 62001,
         "uniqueId": 62,
         "level": 1,

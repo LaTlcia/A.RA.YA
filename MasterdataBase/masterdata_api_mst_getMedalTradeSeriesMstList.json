@@ -3865,6 +3865,19 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1295,
+        "rewardGroupId": 0,
+        "name": "エレガンス・セッションペンダントEX交換券",
+        "description": "エレガンス・セッションペンダントEX交換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 5064,
+        "itemMstId": 1016806,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -5215,6 +5228,19 @@
         "endTime": 1693148399,
         "dailyStartTime": 1691636400,
         "dailyEndTime": 1692561599
+      },
+      {
+        "medalTradeSeriesMstId": 5703,
+        "rewardGroupId": 1001,
+        "name": "エレガンス・セッションメダル交換所",
+        "description": "イベント『エレガンス・セッション』で獲得できるメダル",
+        "sortOrder": 4069,
+        "itemMstId": 4000517,
+        "viewable": 1,
+        "startTime": 1692500400,
+        "endTime": 1694098799,
+        "dailyStartTime": 1692500400,
+        "dailyEndTime": 1693511999
       },
       {
         "medalTradeSeriesMstId": 6101,

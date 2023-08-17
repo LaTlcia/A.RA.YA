@@ -1388,6 +1388,50 @@
         "motion": "Anger",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 107001,
+        "type": 0,
+        "characterMstId": 107,
+        "title": "【雪陽】ログインボーナス1",
+        "voiceId": "cv_outgame_001_107-login_normal_001",
+        "faceType": "Smile",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 107002,
+        "type": 0,
+        "characterMstId": 107,
+        "title": "【雪陽】ログインボーナス2",
+        "voiceId": "cv_outgame_001_107-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 108001,
+        "type": 0,
+        "characterMstId": 108,
+        "title": "【広夢】ログインボーナス1",
+        "voiceId": "cv_outgame_001_108-login_normal_001",
+        "faceType": "Anger",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 108002,
+        "type": 0,
+        "characterMstId": 108,
+        "title": "【広夢】ログインボーナス2",
+        "voiceId": "cv_outgame_001_108-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

@@ -274,6 +274,15 @@
         "magicalDefense": 50000
       },
       {
+        "questSupportNpcMstId": 39027001,
+        "characterJobMstId": 39027,
+        "maxHp": 50000,
+        "physicalAttack": 50000,
+        "magicalAttack": 50000,
+        "physicalDefense": 50000,
+        "magicalDefense": 50000
+      },
+      {
         "questSupportNpcMstId": 39040001,
         "characterJobMstId": 39040,
         "maxHp": 50000,

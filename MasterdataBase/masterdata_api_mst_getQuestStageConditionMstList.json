@@ -1804,6 +1804,36 @@
         "conditionQuestStageMstId3": 0
       },
       {
+        "questStageConditionMstId": 15810101,
+        "questStageMstId": 15810101,
+        "conditionType": 8,
+        "conditionValue": 200601,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 0,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 15810102,
+        "questStageMstId": 15810102,
+        "conditionType": 8,
+        "conditionValue": 200603,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 0,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 15810103,
+        "questStageMstId": 15810103,
+        "conditionType": 8,
+        "conditionValue": 200606,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 0,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
         "questStageConditionMstId": 20220111,
         "questStageMstId": 20220111,
         "conditionType": 6,
@@ -2930,6 +2960,26 @@
         "conditionValue": 0,
         "conditionTime": -62170017539,
         "conditionQuestStageMstId1": 70210110,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 70310114,
+        "questStageMstId": 70310114,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 70310105,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 70310119,
+        "questStageMstId": 70310119,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 70310110,
         "conditionQuestStageMstId2": 0,
         "conditionQuestStageMstId3": 0
       },

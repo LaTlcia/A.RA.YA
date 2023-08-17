@@ -1356,6 +1356,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 158101,
+        "questMapMstId": 158,
+        "name": "リリィ解放イベント",
+        "description": "共闘任務2ND-番匠谷依奈-",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -3081,6 +3089,38 @@
         "name": "メダルイベント",
         "description": "迷い猫と夏の空",
         "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 703101,
+        "questMapMstId": 703,
+        "name": "メダルイベント",
+        "description": "エレガンス・セッション",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 703201,
+        "questMapMstId": 703,
+        "name": "メダルイベント",
+        "description": "エレガンス・セッション",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 704101,
+        "questMapMstId": 704,
+        "name": "ミニイベント",
+        "description": "プレストーリー妹島広夢編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 705101,
+        "questMapMstId": 705,
+        "name": "ミニイベント",
+        "description": "プレストーリー倉又雪陽編",
+        "mode": 1,
         "hasNextComingSoon": false
       },
       {

@@ -3161,6 +3161,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10459,
+        "title": "エレガンス・セッション【個人】",
+        "completeMissionMstId": 10459001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10460,
+        "title": "エレガンス・セッション【レギオン】",
+        "completeMissionMstId": 10460001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10461,
+        "title": "エレガンス・セッション【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10462,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10468,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

@@ -741,6 +741,39 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 15810101,
+        "questStageMstId": 15810101,
+        "title": "共闘任務2ND-番匠谷依奈- 1",
+        "isFullVoice": false,
+        "fileName1": "story_enak2_0001",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1687334400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 15810102,
+        "questStageMstId": 15810102,
+        "title": "共闘任務2ND-番匠谷依奈- 2",
+        "isFullVoice": false,
+        "fileName1": "story_enak2_0002",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1687334400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 15810103,
+        "questStageMstId": 15810103,
+        "title": "共闘任務2ND-番匠谷依奈- 3",
+        "isFullVoice": false,
+        "fileName1": "story_enak2_0003",
+        "fileName2": "story_enak2_0004",
+        "imageId": 0,
+        "startTime": 1687334400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 20110101,
         "questStageMstId": 20110101,
         "title": "1話:ハナニカゼ-1",
@@ -14306,7 +14339,7 @@
       {
         "eventStoryMstId": 70210111,
         "questStageMstId": 70210111,
-        "title": "1話:妖精たちのバカンス-1",
+        "title": "1話:夏空の妖精-1",
         "isFullVoice": false,
         "fileName1": "story_event_giganto_0502001",
         "fileName2": "",
@@ -14317,7 +14350,7 @@
       {
         "eventStoryMstId": 70210112,
         "questStageMstId": 70210112,
-        "title": "1話:妖精たちのバカンス-2",
+        "title": "1話:夏空の妖精-2",
         "isFullVoice": false,
         "fileName1": "story_event_giganto_0502002",
         "fileName2": "",
@@ -14328,7 +14361,7 @@
       {
         "eventStoryMstId": 70210113,
         "questStageMstId": 70210113,
-        "title": "1話:妖精たちのバカンス-3",
+        "title": "1話:夏空の妖精-3",
         "isFullVoice": false,
         "fileName1": "story_event_giganto_0502003",
         "fileName2": "",
@@ -14411,6 +14444,149 @@
         "fileName2": "",
         "imageId": 490010,
         "startTime": 1691636400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310111,
+        "questStageMstId": 70310111,
+        "title": "1話:赤の刻印-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_01",
+        "fileName2": "",
+        "imageId": 500001,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310112,
+        "questStageMstId": 70310112,
+        "title": "1話:赤の刻印-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_02",
+        "fileName2": "",
+        "imageId": 500002,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310113,
+        "questStageMstId": 70310113,
+        "title": "1話:赤の刻印-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_03",
+        "fileName2": "",
+        "imageId": 500003,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310114,
+        "questStageMstId": 70310114,
+        "title": "2話:晴天に集う-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_04",
+        "fileName2": "",
+        "imageId": 500004,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310115,
+        "questStageMstId": 70310115,
+        "title": "2話:晴天に集う-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_05",
+        "fileName2": "",
+        "imageId": 500005,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310116,
+        "questStageMstId": 70310116,
+        "title": "2話:晴天に集う-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_06",
+        "fileName2": "",
+        "imageId": 500006,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310117,
+        "questStageMstId": 70310117,
+        "title": "2話:晴天に集う-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_07",
+        "fileName2": "",
+        "imageId": 500007,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310118,
+        "questStageMstId": 70310118,
+        "title": "2話:晴天に集う-5",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_08",
+        "fileName2": "",
+        "imageId": 500008,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310119,
+        "questStageMstId": 70310119,
+        "title": "3話:これまでの成果-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_09",
+        "fileName2": "",
+        "imageId": 500009,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310120,
+        "questStageMstId": 70310120,
+        "title": "3話:これまでの成果-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_10",
+        "fileName2": "",
+        "imageId": 500010,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70310121,
+        "questStageMstId": 70310121,
+        "title": "3話:これまでの成果-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yukihiro_11",
+        "fileName2": "",
+        "imageId": 500011,
+        "startTime": 1692500400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70410101,
+        "questStageMstId": 70410101,
+        "title": "プレストーリー妹島広夢編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_108",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1692327600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 70510101,
+        "questStageMstId": 70510101,
+        "title": "プレストーリー倉又雪陽編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_107",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1692414000,
         "endTime": -62170017539
       },
       {
