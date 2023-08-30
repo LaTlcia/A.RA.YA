@@ -1564,6 +1564,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 20129,
+        "movieTitle": "イベント PV",
+        "fileName": "Movie/Movie000528.usm",
+        "category": 2,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1693450800,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 30001,
         "movieTitle": "梨璃と二水のラスバレ攻略講座①",
         "fileName": "Movie/Movie000064.usm",
@@ -3211,6 +3221,16 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1690081200,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30187,
+        "movieTitle": "ガチャ PV",
+        "fileName": "Movie/Movie000530.usm",
+        "category": 3,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1693710000,
         "endTime": -62170017539
       }
     ]

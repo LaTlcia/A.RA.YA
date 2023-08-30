@@ -3124,6 +3124,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 706101,
+        "questMapMstId": 706,
+        "name": "メダルイベント",
+        "description": "とある科学と楯の乙女",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 706201,
+        "questMapMstId": 706,
+        "name": "メダルイベント",
+        "description": "とある科学と楯の乙女",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

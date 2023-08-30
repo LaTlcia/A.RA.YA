@@ -46597,6 +46597,1275 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 110101001,
+        "type": 101,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110101002,
+        "type": 101,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110102001,
+        "type": 102,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_heel_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110102002,
+        "type": 102,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_heel_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110103001,
+        "type": 103,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_buff_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110103002,
+        "type": 103,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_buff_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110104001,
+        "type": 104,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_debuff_give_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110104002,
+        "type": 104,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_debuff_give_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110105001,
+        "type": 105,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_tactics_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110106001,
+        "type": 106,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_rareskill_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110107001,
+        "type": 107,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110107002,
+        "type": 107,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110201001,
+        "type": 201,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110201002,
+        "type": 201,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gve_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110202001,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 112,
+        "cueName": "cv_battle_001_110-pair_start2_112",
+        "text": "呼びかけ（バトル開始時） / 白井黒子へ"
+      },
+      {
+        "ingameVoiceMstId": 110202002,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 113,
+        "cueName": "cv_battle_001_110-pair_start2_113",
+        "text": "呼びかけ（バトル開始時） / 食蜂操祈へ"
+      },
+      {
+        "ingameVoiceMstId": 110202003,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 10,
+        "cueName": "cv_battle_001_110-pair_start2_010",
+        "text": "呼びかけ（バトル開始時） / 相澤一葉へ"
+      },
+      {
+        "ingameVoiceMstId": 110202004,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 11,
+        "cueName": "cv_battle_001_110-pair_start2_011",
+        "text": "呼びかけ（バトル開始時） / 佐々木藍へ"
+      },
+      {
+        "ingameVoiceMstId": 110202005,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 12,
+        "cueName": "cv_battle_001_110-pair_start2_012",
+        "text": "呼びかけ（バトル開始時） / 飯島恋花へ"
+      },
+      {
+        "ingameVoiceMstId": 110202006,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 13,
+        "cueName": "cv_battle_001_110-pair_start2_013",
+        "text": "呼びかけ（バトル開始時） / 初鹿野瑤へ"
+      },
+      {
+        "ingameVoiceMstId": 110202007,
+        "type": 202,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 14,
+        "cueName": "cv_battle_001_110-pair_start2_014",
+        "text": "呼びかけ（バトル開始時） / 芹沢千香瑠へ"
+      },
+      {
+        "ingameVoiceMstId": 110204001,
+        "type": 204,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110204002,
+        "type": 204,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gve_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110205001,
+        "type": 205,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-huge_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110206001,
+        "type": 206,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_join_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110207001,
+        "type": 207,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_wave_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110207002,
+        "type": 207,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_wave_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110208001,
+        "type": 208,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gve_danger_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110209001,
+        "type": 209,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_continue_check",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110210001,
+        "type": 210,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110211001,
+        "type": 211,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-solo_continue",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110212001,
+        "type": 212,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-all_breakdown",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110301001,
+        "type": 301,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110302001,
+        "type": 302,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110303001,
+        "type": 303,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110304001,
+        "type": 304,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110305001,
+        "type": 305,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110307001,
+        "type": 307,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_rebirth_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110308001,
+        "type": 308,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_destruction_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110309001,
+        "type": 309,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_change_front",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110310001,
+        "type": 310,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_change_back",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 110311001,
+        "type": 311,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-guild_welt_fast",
+        "text": "私からいかせてもらうわね"
+      },
+      {
+        "ingameVoiceMstId": 110312001,
+        "type": 312,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-guild_welt_pass_give_01",
+        "text": "まかせたっ"
+      },
+      {
+        "ingameVoiceMstId": 110313001,
+        "type": 313,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-guild_welt_pass_get",
+        "text": "サンキュー！"
+      },
+      {
+        "ingameVoiceMstId": 110314001,
+        "type": 314,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-guild_welt_lastpass_get",
+        "text": "これで終わらせるわ……！"
+      },
+      {
+        "ingameVoiceMstId": 110315001,
+        "type": 315,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gve_welt_lastshot_01",
+        "text": "これで……ラスト！！"
+      },
+      {
+        "ingameVoiceMstId": 110315002,
+        "type": 315,
+        "characterMstId": 110,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_110-gvg_welt_lastshot",
+        "text": "歯を食いしばれー！"
+      },
+      {
+        "ingameVoiceMstId": 112101001,
+        "type": 101,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112101002,
+        "type": 101,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112102001,
+        "type": 102,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_heel_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112102002,
+        "type": 102,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_heel_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112103001,
+        "type": 103,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_buff_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112103002,
+        "type": 103,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_buff_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112104001,
+        "type": 104,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_debuff_give_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112104002,
+        "type": 104,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_debuff_give_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112105001,
+        "type": 105,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_tactics_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112106001,
+        "type": 106,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_rareskill_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112107001,
+        "type": 107,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112107002,
+        "type": 107,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112201001,
+        "type": 201,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112201002,
+        "type": 201,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gve_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112202001,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 110,
+        "cueName": "cv_battle_001_112-pair_start2_110",
+        "text": "呼びかけ（バトル開始時） / 御坂美琴へ"
+      },
+      {
+        "ingameVoiceMstId": 112202002,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 113,
+        "cueName": "cv_battle_001_112-pair_start2_113",
+        "text": "呼びかけ（バトル開始時） / 食蜂操祈へ"
+      },
+      {
+        "ingameVoiceMstId": 112202003,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 10,
+        "cueName": "cv_battle_001_112-pair_start2_010",
+        "text": "呼びかけ（バトル開始時） / 相澤一葉へ"
+      },
+      {
+        "ingameVoiceMstId": 112202004,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 11,
+        "cueName": "cv_battle_001_112-pair_start2_011",
+        "text": "呼びかけ（バトル開始時） / 佐々木藍へ"
+      },
+      {
+        "ingameVoiceMstId": 112202005,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 12,
+        "cueName": "cv_battle_001_112-pair_start2_012",
+        "text": "呼びかけ（バトル開始時） / 飯島恋花へ"
+      },
+      {
+        "ingameVoiceMstId": 112202006,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 13,
+        "cueName": "cv_battle_001_112-pair_start2_013",
+        "text": "呼びかけ（バトル開始時） / 初鹿野瑤へ"
+      },
+      {
+        "ingameVoiceMstId": 112202007,
+        "type": 202,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 14,
+        "cueName": "cv_battle_001_112-pair_start2_014",
+        "text": "呼びかけ（バトル開始時） / 芹沢千香瑠へ"
+      },
+      {
+        "ingameVoiceMstId": 112204001,
+        "type": 204,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112204002,
+        "type": 204,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gve_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112205001,
+        "type": 205,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-huge_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112206001,
+        "type": 206,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_join_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112207001,
+        "type": 207,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_wave_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112207002,
+        "type": 207,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_wave_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112208001,
+        "type": 208,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gve_danger_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112209001,
+        "type": 209,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_continue_check",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112210001,
+        "type": 210,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112211001,
+        "type": 211,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-solo_continue",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112212001,
+        "type": 212,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-all_breakdown",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112301001,
+        "type": 301,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112302001,
+        "type": 302,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112303001,
+        "type": 303,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112304001,
+        "type": 304,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112305001,
+        "type": 305,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112307001,
+        "type": 307,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_rebirth_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112308001,
+        "type": 308,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_destruction_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112309001,
+        "type": 309,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_change_front",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112310001,
+        "type": 310,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_change_back",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 112311001,
+        "type": 311,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-guild_welt_fast",
+        "text": "わたくしから失礼いたしますの"
+      },
+      {
+        "ingameVoiceMstId": 112312001,
+        "type": 312,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-guild_welt_pass_give_01",
+        "text": "受け取って下さいまし！"
+      },
+      {
+        "ingameVoiceMstId": 112313001,
+        "type": 313,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-guild_welt_pass_get",
+        "text": "必ず繋いでみせますの"
+      },
+      {
+        "ingameVoiceMstId": 112314001,
+        "type": 314,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-guild_welt_lastpass_get",
+        "text": "みなさまの想い、受け取りましたの"
+      },
+      {
+        "ingameVoiceMstId": 112315001,
+        "type": 315,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gve_welt_lastshot_01",
+        "text": "さあ、覚悟なさい！"
+      },
+      {
+        "ingameVoiceMstId": 112315002,
+        "type": 315,
+        "characterMstId": 112,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_112-gvg_welt_lastshot",
+        "text": "ごめんあそばせ！"
+      },
+      {
+        "ingameVoiceMstId": 113101001,
+        "type": 101,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113101002,
+        "type": 101,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113102001,
+        "type": 102,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_heel_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113102002,
+        "type": 102,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_heel_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113103001,
+        "type": 103,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_buff_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113103002,
+        "type": 103,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_buff_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113104001,
+        "type": 104,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_debuff_give_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113104002,
+        "type": 104,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_debuff_give_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113105001,
+        "type": 105,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_tactics_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113106001,
+        "type": 106,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_rareskill_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113107001,
+        "type": 107,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113107002,
+        "type": 107,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113201001,
+        "type": 201,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113201002,
+        "type": 201,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gve_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113202001,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 110,
+        "cueName": "cv_battle_001_113-pair_start2_110",
+        "text": "呼びかけ（バトル開始時） / 御坂美琴へ"
+      },
+      {
+        "ingameVoiceMstId": 113202002,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 112,
+        "cueName": "cv_battle_001_113-pair_start2_112",
+        "text": "呼びかけ（バトル開始時） / 白井黒子へ"
+      },
+      {
+        "ingameVoiceMstId": 113202003,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 10,
+        "cueName": "cv_battle_001_113-pair_start2_010",
+        "text": "呼びかけ（バトル開始時） / 相澤一葉へ"
+      },
+      {
+        "ingameVoiceMstId": 113202004,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 11,
+        "cueName": "cv_battle_001_113-pair_start2_011",
+        "text": "呼びかけ（バトル開始時） / 佐々木藍へ"
+      },
+      {
+        "ingameVoiceMstId": 113202005,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 12,
+        "cueName": "cv_battle_001_113-pair_start2_012",
+        "text": "呼びかけ（バトル開始時） / 飯島恋花へ"
+      },
+      {
+        "ingameVoiceMstId": 113202006,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 13,
+        "cueName": "cv_battle_001_113-pair_start2_013",
+        "text": "呼びかけ（バトル開始時） / 初鹿野瑤へ"
+      },
+      {
+        "ingameVoiceMstId": 113202007,
+        "type": 202,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 14,
+        "cueName": "cv_battle_001_113-pair_start2_014",
+        "text": "呼びかけ（バトル開始時） / 芹沢千香瑠へ"
+      },
+      {
+        "ingameVoiceMstId": 113204001,
+        "type": 204,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113204002,
+        "type": 204,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gve_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113205001,
+        "type": 205,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-huge_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113206001,
+        "type": 206,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_join_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113207001,
+        "type": 207,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_wave_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113207002,
+        "type": 207,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_wave_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113208001,
+        "type": 208,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gve_danger_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113209001,
+        "type": 209,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_continue_check",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113210001,
+        "type": 210,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113211001,
+        "type": 211,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-solo_continue",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113212001,
+        "type": 212,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-all_breakdown",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113301001,
+        "type": 301,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113302001,
+        "type": 302,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113303001,
+        "type": 303,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113304001,
+        "type": 304,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113305001,
+        "type": 305,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113307001,
+        "type": 307,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_rebirth_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113308001,
+        "type": 308,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_destruction_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113309001,
+        "type": 309,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_change_front",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113310001,
+        "type": 310,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_change_back",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 113311001,
+        "type": 311,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-guild_welt_fast",
+        "text": "私からぁ？　別にいいけどぉ"
+      },
+      {
+        "ingameVoiceMstId": 113312001,
+        "type": 312,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-guild_welt_pass_give_01",
+        "text": "落としたらお仕置きだゾ☆"
+      },
+      {
+        "ingameVoiceMstId": 113313001,
+        "type": 313,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-guild_welt_pass_get",
+        "text": "ナイスパース"
+      },
+      {
+        "ingameVoiceMstId": 113314001,
+        "type": 314,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-guild_welt_lastpass_get",
+        "text": "あらあら、花を持たせてくれるのぉ？"
+      },
+      {
+        "ingameVoiceMstId": 113315001,
+        "type": 315,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gve_welt_lastshot_01",
+        "text": "決着力を喰らいなさぁい"
+      },
+      {
+        "ingameVoiceMstId": 113315002,
+        "type": 315,
+        "characterMstId": 113,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_113-gvg_welt_lastshot",
+        "text": "私たちからのプレゼントよぉ"
+      },
+      {
         "ingameVoiceMstId": 120100118,
         "type": 201,
         "characterMstId": 1,

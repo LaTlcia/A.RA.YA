@@ -428,8 +428,44 @@
         "characterJobMstId": 1097
       },
       {
+        "weaponUniqueId": 144,
+        "characterJobMstId": 83110
+      },
+      {
+        "weaponUniqueId": 145,
+        "characterJobMstId": 83112
+      },
+      {
+        "weaponUniqueId": 146,
+        "characterJobMstId": 83113
+      },
+      {
         "weaponUniqueId": 147,
         "characterJobMstId": 82043
+      },
+      {
+        "weaponUniqueId": 162,
+        "characterJobMstId": 85110
+      },
+      {
+        "weaponUniqueId": 163,
+        "characterJobMstId": 85112
+      },
+      {
+        "weaponUniqueId": 164,
+        "characterJobMstId": 85113
+      },
+      {
+        "weaponUniqueId": 165,
+        "characterJobMstId": 84110
+      },
+      {
+        "weaponUniqueId": 166,
+        "characterJobMstId": 84112
+      },
+      {
+        "weaponUniqueId": 167,
+        "characterJobMstId": 84113
       }
     ]
   }

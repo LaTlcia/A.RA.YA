@@ -2042,6 +2042,18 @@
         "conditionValue2": 0,
         "startTime": 1691636400,
         "endTime": 1692500399
+      },
+      {
+        "chatStampMstId": 194,
+        "name": "これが私の全力だぁ！",
+        "characterMstId": 110,
+        "type": 3,
+        "howToGetText": "とある科学と楯の乙女【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1693450800,
+        "endTime": 1694703599
       }
     ]
   }

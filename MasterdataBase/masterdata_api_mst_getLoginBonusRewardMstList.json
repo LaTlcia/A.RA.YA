@@ -6764,6 +6764,102 @@
         "num": 1
       },
       {
+        "loginBonusRewardMstId": 1007900,
+        "loginBonusMstId": 10079,
+        "dayCount": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 10000000
+      },
+      {
+        "loginBonusRewardMstId": 1007901,
+        "loginBonusMstId": 10079,
+        "dayCount": 2,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 1007902,
+        "loginBonusMstId": 10079,
+        "dayCount": 3,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 500
+      },
+      {
+        "loginBonusRewardMstId": 1007903,
+        "loginBonusMstId": 10079,
+        "dayCount": 4,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 1007904,
+        "loginBonusMstId": 10079,
+        "dayCount": 5,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 30
+      },
+      {
+        "loginBonusRewardMstId": 1007905,
+        "loginBonusMstId": 10079,
+        "dayCount": 6,
+        "objectType": 3,
+        "objectId": 201626,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1007906,
+        "loginBonusMstId": 10079,
+        "dayCount": 7,
+        "objectType": 4,
+        "objectId": 85110,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1008000,
+        "loginBonusMstId": 10080,
+        "dayCount": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 10000000
+      },
+      {
+        "loginBonusRewardMstId": 1008001,
+        "loginBonusMstId": 10080,
+        "dayCount": 2,
+        "objectType": 5,
+        "objectId": 2007800,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1008002,
+        "loginBonusMstId": 10080,
+        "dayCount": 3,
+        "objectType": 5,
+        "objectId": 2002700,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1008003,
+        "loginBonusMstId": 10080,
+        "dayCount": 4,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 30
+      },
+      {
+        "loginBonusRewardMstId": 1008004,
+        "loginBonusMstId": 10080,
+        "dayCount": 5,
+        "objectType": 5,
+        "objectId": 1015300,
+        "num": 1
+      },
+      {
         "loginBonusRewardMstId": 10037001,
         "loginBonusMstId": 10037,
         "dayCount": 1,

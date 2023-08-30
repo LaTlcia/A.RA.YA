@@ -1090,6 +1090,22 @@
         "forceBgmEndTime": 1693371599,
         "startTime": 1689822000,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 69,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 0,
+        "title": "only my railgun",
+        "lyrics": "ＹＵＫＩ－ＫＡ／八木沼悟志",
+        "composition": "八木沼悟志",
+        "arrangement": "八木沼悟志",
+        "cv": "fripSide",
+        "fileName": "bgm_outsource_102-001",
+        "forceBgmStartTime": 1693450800,
+        "forceBgmEndTime": 1694314799,
+        "startTime": 1693450800,
+        "endTime": 1694703599
       }
     ]
   }
