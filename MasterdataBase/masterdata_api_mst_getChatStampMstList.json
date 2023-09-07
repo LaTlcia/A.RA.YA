@@ -2054,6 +2054,18 @@
         "conditionValue2": 0,
         "startTime": 1693450800,
         "endTime": 1694703599
+      },
+      {
+        "chatStampMstId": 195,
+        "name": "遅れんなよ！",
+        "characterMstId": 109,
+        "type": 1,
+        "howToGetText": "竜が生まれた日【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1694314800,
+        "endTime": 1695178799
       }
     ]
   }

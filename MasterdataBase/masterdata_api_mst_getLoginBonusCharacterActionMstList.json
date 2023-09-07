@@ -1432,6 +1432,39 @@
         "motion": "Think",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 109001,
+        "type": 0,
+        "characterMstId": 109,
+        "title": "【緋紅】ログインボーナス1",
+        "voiceId": "cv_outgame_001_109-login_normal_001",
+        "faceType": "Anger",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 109002,
+        "type": 0,
+        "characterMstId": 109,
+        "title": "【緋紅】ログインボーナス2",
+        "voiceId": "cv_outgame_001_109-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 109003,
+        "type": 0,
+        "characterMstId": 109,
+        "title": "【緋紅】ログインボーナス3",
+        "voiceId": "cv_outgame_001_109-login_normal_003",
+        "faceType": "Strong",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

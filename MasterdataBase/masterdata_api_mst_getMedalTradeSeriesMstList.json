@@ -3982,6 +3982,58 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1304,
+        "rewardGroupId": 0,
+        "name": "竜の生まれた日ペンダントEX交換券Ⅰ",
+        "description": "竜の生まれた日ペンダントEX交換券Ⅰ交換所で使用することができる交換用のアイテム",
+        "sortOrder": 5061,
+        "itemMstId": 1017107,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1305,
+        "rewardGroupId": 0,
+        "name": "竜の生まれた日ペンダントEX交換券Ⅱ",
+        "description": "竜の生まれた日ペンダントEX交換券Ⅱ交換所で使用することができる交換用のアイテム",
+        "sortOrder": 5060,
+        "itemMstId": 1017207,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1306,
+        "rewardGroupId": 0,
+        "name": "スキル特化メモリアボーナスメダル",
+        "description": "スキル特化メモリアボーナスメダル交換所で使用することができる交換用のメダル",
+        "sortOrder": 1982,
+        "itemMstId": 3000221,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1307,
+        "rewardGroupId": 0,
+        "name": "衣装付きメモリアコレクション引換券",
+        "description": "衣装付きメモリアコレクション引換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 1039,
+        "itemMstId": 4008002,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -5358,6 +5410,19 @@
         "endTime": 1695308399,
         "dailyStartTime": 1693450800,
         "dailyEndTime": 1694375999
+      },
+      {
+        "medalTradeSeriesMstId": 5707,
+        "rewardGroupId": 1001,
+        "name": "竜の生まれた日メダル交換所",
+        "description": "イベント『竜の生まれた日』で獲得できるメダル",
+        "sortOrder": 4066,
+        "itemMstId": 4000717,
+        "viewable": 1,
+        "startTime": 1694314800,
+        "endTime": 1695826799,
+        "dailyStartTime": 1694314800,
+        "dailyEndTime": 1695239999
       },
       {
         "medalTradeSeriesMstId": 6101,

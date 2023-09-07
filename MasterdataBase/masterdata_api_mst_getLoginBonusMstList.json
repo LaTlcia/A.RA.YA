@@ -1488,6 +1488,34 @@
         "endTime": 1694462399
       },
       {
+        "loginBonusMstId": 10081,
+        "title": "クエレブレ登場記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3010501,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1694289600,
+        "endTime": 1695239999
+      },
+      {
+        "loginBonusMstId": 10082,
+        "title": "運命のトリニティ 一柳隊開幕ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3010601,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1694808000,
+        "endTime": 1697140799
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

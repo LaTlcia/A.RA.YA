@@ -284,6 +284,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 10026,
+        "movieTitle": "双星のコントラスト 予告",
+        "fileName": "Movie/Movie000595.usm",
+        "category": 1,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1694682000,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 20001,
         "movieTitle": "守護天使の誓い 予告",
         "fileName": "Movie/Movie000030.usm",
@@ -1571,6 +1581,16 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1693450800,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 20130,
+        "movieTitle": "竜の生まれた日 PV",
+        "fileName": "Movie/Movie000555.usm",
+        "category": 2,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1694314800,
         "endTime": -62170017539
       },
       {

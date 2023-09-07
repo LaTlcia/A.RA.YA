@@ -3231,6 +3231,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10469,
+        "title": "クエレブレ登場記念",
+        "completeMissionMstId": 10469001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2179
+      },
+      {
+        "missionTitleMstId": 10470,
+        "title": "運命のトリニティ 一柳隊開幕",
+        "completeMissionMstId": 10470001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2181
+      },
+      {
+        "missionTitleMstId": 10471,
+        "title": "竜の生まれた日【個人】",
+        "completeMissionMstId": 10471001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10472,
+        "title": "竜の生まれた日【レギオン】",
+        "completeMissionMstId": 10472001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10473,
+        "title": "竜の生まれた日【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10474,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

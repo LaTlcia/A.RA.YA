@@ -1106,6 +1106,22 @@
         "forceBgmEndTime": 1694314799,
         "startTime": 1693450800,
         "endTime": 1694703599
+      },
+      {
+        "optionBgmMstId": 70,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 120001,
+        "title": "REFLECTIONS（クエレブレver.）",
+        "lyrics": "吾龍",
+        "composition": "大和",
+        "arrangement": "大和",
+        "cv": "クエレブレ（松村優珂＆牧野美岳＆賀川蒔菜＆森本結爾＆苅谷緋紅）",
+        "fileName": "bgm_outsource_99-001",
+        "forceBgmStartTime": 1694314800,
+        "forceBgmEndTime": 1695178799,
+        "startTime": 1694314800,
+        "endTime": -62170017539
       }
     ]
   }

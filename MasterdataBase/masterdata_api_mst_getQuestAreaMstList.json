@@ -3140,6 +3140,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 707101,
+        "questMapMstId": 707,
+        "name": "メダルイベント",
+        "description": "竜の生まれた日",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 707201,
+        "questMapMstId": 707,
+        "name": "メダルイベント",
+        "description": "竜の生まれた日",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 708101,
+        "questMapMstId": 708,
+        "name": "ミニイベント",
+        "description": "プレストーリー早川弥宏編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 709101,
+        "questMapMstId": 709,
+        "name": "ミニイベント",
+        "description": "プレストーリー苅谷緋紅編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
