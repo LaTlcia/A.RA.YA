@@ -344,6 +344,23 @@
         "bookmarkReleaseStartTime": -62170017539
       },
       {
+        "gigantHugeMapMstId": 409,
+        "name": "ギガント級ヒュージ討伐",
+        "description": "ドゥームサーペント高難度",
+        "mapType": 3,
+        "bannerId": 1229725,
+        "sortOrder": 100,
+        "backgroundImage": 4000106,
+        "appearType": 0,
+        "defaultMapBgm": "bgm_gigant-map_event_001",
+        "appearanceGigantHugeBgm": "bgm_gigant-map_event_002",
+        "mapLoginBonusItemMstId": 4005824,
+        "mapLoginBonusItemNum": 5,
+        "gigantHugeRankingRewardGroupId": 4091,
+        "isBookmarkRelease": false,
+        "bookmarkReleaseStartTime": -62170017539
+      },
+      {
         "gigantHugeMapMstId": 501,
         "name": "ギガント級ヒュージ討伐",
         "description": "カオスサーペントCh.1",

@@ -1402,6 +1402,16 @@
         "objectType": 6,
         "objectId": 1,
         "num": 30
+      },
+      {
+        "cardStoryMstId": 150,
+        "isFullVoice": false,
+        "fileName": "story_emoria_0009",
+        "uniqueId": 80000009,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
       }
     ]
   }

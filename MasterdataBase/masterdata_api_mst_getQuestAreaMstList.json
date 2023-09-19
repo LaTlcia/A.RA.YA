@@ -3172,6 +3172,30 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 710101,
+        "questMapMstId": 710,
+        "name": "",
+        "description": "絢爛たる宵の明星",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 710201,
+        "questMapMstId": 710,
+        "name": "",
+        "description": "絢爛たる宵の明星",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 711101,
+        "questMapMstId": 711,
+        "name": "ミニイベント",
+        "description": "プレストーリー＋弥宏＆真",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

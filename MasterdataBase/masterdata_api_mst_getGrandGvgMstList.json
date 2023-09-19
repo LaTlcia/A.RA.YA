@@ -379,6 +379,19 @@
         "eventName": "",
         "eventImageId": 0,
         "isUltimateGvg": true
+      },
+      {
+        "grandGvgMstId": 10003,
+        "entryStartTime": 1695103199,
+        "entryEndTime": 1695103199,
+        "gvgStartTime": 1695103200,
+        "gvgEndTime": 1696949999,
+        "resultStartTime": 1697011200,
+        "resultEndTime": 1697381999,
+        "featuredCardMstId": 0,
+        "eventName": "",
+        "eventImageId": 0,
+        "isUltimateGvg": true
       }
     ]
   }

@@ -25,6 +25,13 @@
         "imageId": 1016100
       },
       {
+        "nicknameMstId": 100401,
+        "name": "震天動地の戦乙女",
+        "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
         "nicknameMstId": 200101,
         "name": "深淵の蛇を討ちし者",
         "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
@@ -41,6 +48,13 @@
       {
         "nicknameMstId": 200301,
         "name": "雪原に煌めく勇士",
+        "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 200401,
+        "name": "一騎当千の戦乙女",
         "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
         "resourceId": 2,
         "imageId": 1016000
@@ -104,6 +118,34 @@
       {
         "nicknameMstId": 300304,
         "name": "吹雪舞う戦場の花",
+        "description": "ギガント級ヒュージ討伐に参加したリリィに送られる称号",
+        "resourceId": 3,
+        "imageId": 1015900
+      },
+      {
+        "nicknameMstId": 300401,
+        "name": "威風堂々の戦乙女",
+        "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
+        "resourceId": 3,
+        "imageId": 1015900
+      },
+      {
+        "nicknameMstId": 300402,
+        "name": "堅忍不抜の戦乙女",
+        "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
+        "resourceId": 3,
+        "imageId": 1015900
+      },
+      {
+        "nicknameMstId": 300403,
+        "name": "武功を上げしもの",
+        "description": "ギガント級ヒュージ討伐にて功績を残したリリィに送られる称号",
+        "resourceId": 3,
+        "imageId": 1015900
+      },
+      {
+        "nicknameMstId": 300404,
+        "name": "勇気を胸に抱くもの",
         "description": "ギガント級ヒュージ討伐に参加したリリィに送られる称号",
         "resourceId": 3,
         "imageId": 1015900

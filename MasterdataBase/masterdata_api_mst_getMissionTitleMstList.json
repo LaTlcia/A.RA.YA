@@ -3273,6 +3273,20 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10475,
+        "title": "灯莉誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10476,
+        "title": "ギガント級ヒュージ討伐高難度デイリーミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,
@@ -4106,6 +4120,13 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 17101,
+        "title": "絢爛たる宵の明星【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 20011,
         "title": "ギガント級共闘戦",
         "completeMissionMstId": 20011001,
@@ -4117,6 +4138,13 @@
         "title": "ギガント級共闘戦",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 20014,
+        "title": "ギガント級ヒュージ討伐高難度",
+        "completeMissionMstId": 20014001,
+        "specialMissionImageId": 4,
         "completeResourceId": 0
       },
       {

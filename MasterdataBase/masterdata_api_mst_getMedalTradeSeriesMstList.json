@@ -4034,6 +4034,71 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1308,
+        "rewardGroupId": 0,
+        "name": "サマー・フェアリーテールⅢペンダントEX交換券",
+        "description": "サマー・フェアリーテールⅢペンダントEX交換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 5059,
+        "itemMstId": 1019704,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1309,
+        "rewardGroupId": 1002,
+        "name": "絢爛たる宵の明星引換券",
+        "description": "絢爛たる宵の明星引換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 4065,
+        "itemMstId": 4006103,
+        "viewable": 1,
+        "startTime": 1695178800,
+        "endTime": 1697036399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1310,
+        "rewardGroupId": 0,
+        "name": "丹羽灯莉★5メモリア引換券",
+        "description": "丹羽灯莉★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 1038,
+        "itemMstId": 4008101,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1311,
+        "rewardGroupId": 0,
+        "name": "丹羽灯莉衣装引換券",
+        "description": "丹羽灯莉衣装引換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 1038,
+        "itemMstId": 4006404,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1312,
+        "rewardGroupId": 0,
+        "name": "エモーショナルメモリアボーナスメダルⅧ",
+        "description": "エモーショナルメモリアボーナスメダルⅧ交換所で使用することができる交換用のメダル",
+        "sortOrder": 6078,
+        "itemMstId": 3001114,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -5423,6 +5488,19 @@
         "endTime": 1695826799,
         "dailyStartTime": 1694314800,
         "dailyEndTime": 1695239999
+      },
+      {
+        "medalTradeSeriesMstId": 5710,
+        "rewardGroupId": 1001,
+        "name": "絢爛たる宵の明星メダル交換所",
+        "description": "イベント『絢爛たる宵の明星』で獲得できるメダル",
+        "sortOrder": 4065,
+        "itemMstId": 4000817,
+        "viewable": 1,
+        "startTime": 1695178800,
+        "endTime": 1696690799,
+        "dailyStartTime": 1695178800,
+        "dailyEndTime": 1696103999
       },
       {
         "medalTradeSeriesMstId": 6101,

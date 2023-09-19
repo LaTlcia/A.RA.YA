@@ -2066,6 +2066,18 @@
         "conditionValue2": 0,
         "startTime": 1694314800,
         "endTime": 1695178799
+      },
+      {
+        "chatStampMstId": 196,
+        "name": "かわいいわね",
+        "characterMstId": 42,
+        "type": 3,
+        "howToGetText": "ギガント級ヒュージ討伐高難度特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1695178800,
+        "endTime": 1696042799
       }
     ]
   }
