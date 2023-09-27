@@ -3196,6 +3196,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 712101,
+        "questMapMstId": 712,
+        "name": "メダルイベント",
+        "description": "双星のコントラスト",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 712201,
+        "questMapMstId": 712,
+        "name": "メダルイベント",
+        "description": "双星のコントラスト",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

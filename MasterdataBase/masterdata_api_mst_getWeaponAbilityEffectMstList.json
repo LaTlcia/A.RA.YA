@@ -3244,6 +3244,126 @@
         "type": 0
       },
       {
+        "weaponAbilityMstId": 1061,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+1%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+2%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+3%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+3%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+4%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+6%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+6%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1061,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+7%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+1%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+1%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+2%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+2%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+3%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+4%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+4%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 1062,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+6%。",
+        "type": 0
+      },
+      {
         "weaponAbilityMstId": 2000,
         "level": 1,
         "description": "メモリアスキル効果UP+1%",
@@ -6481,6 +6601,126 @@
         "weaponAbilityMstId": 2060,
         "level": 10,
         "description": "メモリアスキル効果UP+10%。メモリア使用時、それが風属性メモリアの場合、さらにメモリアスキル効果UP+7%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+1%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+2%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+3%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+3%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+4%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+6%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+6%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2061,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、それが火属性メモリアの場合、さらにメモリアスキル効果UP+7%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+1%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+1%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+2%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+2%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+3%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+4%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+4%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+5%。",
+        "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2062,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、それが火/風属性メモリアの場合、さらにメモリアスキル効果UP+6%。",
         "type": 0
       },
       {

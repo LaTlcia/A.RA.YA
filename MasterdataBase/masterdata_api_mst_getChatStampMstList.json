@@ -2078,6 +2078,18 @@
         "conditionValue2": 0,
         "startTime": 1695178800,
         "endTime": 1696042799
+      },
+      {
+        "chatStampMstId": 197,
+        "name": "わたしにお任せ！",
+        "characterMstId": 114,
+        "type": 4,
+        "howToGetText": "双星のコントラスト【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1696042800,
+        "endTime": 1697079599
       }
     ]
   }

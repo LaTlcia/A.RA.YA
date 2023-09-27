@@ -3287,6 +3287,55 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10477,
+        "title": "千香瑠誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10478,
+        "title": "双星のコントラスト【個人】",
+        "completeMissionMstId": 10478001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10479,
+        "title": "双星のコントラスト【レギオン】",
+        "completeMissionMstId": 10479001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10480,
+        "title": "双星のコントラスト【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10481,
+        "title": "メインストーリー 双星のコントラスト",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10482,
+        "title": "百合ヶ丘ティーパーティー2023",
+        "completeMissionMstId": 10482001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2215
+      },
+      {
+        "missionTitleMstId": 10483,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

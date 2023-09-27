@@ -1122,6 +1122,22 @@
         "forceBgmEndTime": 1695178799,
         "startTime": 1694314800,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 71,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 130001,
+        "title": "Adabana（1 Chorus ver）",
+        "lyrics": "安藤紗々",
+        "composition": "俊龍",
+        "arrangement": "gaze//he's me",
+        "cv": "一柳隊 with 早川弥宏・富永真",
+        "fileName": "bgm_outsource_105-001",
+        "forceBgmStartTime": 1696042800,
+        "forceBgmEndTime": 1697079599,
+        "startTime": 1696042800,
+        "endTime": -62170017539
       }
     ]
   }

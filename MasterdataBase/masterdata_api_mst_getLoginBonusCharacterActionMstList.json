@@ -1465,6 +1465,39 @@
         "motion": "Fun",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 114001,
+        "type": 0,
+        "characterMstId": 114,
+        "title": "【弥宏】ログインボーナス1",
+        "voiceId": "cv_outgame_001_114-login_normal_001",
+        "faceType": "Normal",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 114002,
+        "type": 0,
+        "characterMstId": 114,
+        "title": "【弥宏】ログインボーナス2",
+        "voiceId": "cv_outgame_001_114-login_normal_002",
+        "faceType": "Smile",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 114003,
+        "type": 0,
+        "characterMstId": 114,
+        "title": "【弥宏】ログインボーナス3",
+        "voiceId": "cv_outgame_001_114-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

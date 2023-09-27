@@ -3136,6 +3136,42 @@
         "colorIndex": 23
       },
       {
+        "weaponColoringMstId": 13001,
+        "uniqueId": 130,
+        "conditionType": 1,
+        "colorIndex": 1
+      },
+      {
+        "weaponColoringMstId": 13002,
+        "uniqueId": 130,
+        "conditionType": 2,
+        "colorIndex": 2
+      },
+      {
+        "weaponColoringMstId": 13003,
+        "uniqueId": 130,
+        "conditionType": 3,
+        "colorIndex": 3
+      },
+      {
+        "weaponColoringMstId": 13021,
+        "uniqueId": 130,
+        "conditionType": 255,
+        "colorIndex": 21
+      },
+      {
+        "weaponColoringMstId": 13022,
+        "uniqueId": 130,
+        "conditionType": 255,
+        "colorIndex": 22
+      },
+      {
+        "weaponColoringMstId": 13023,
+        "uniqueId": 130,
+        "conditionType": 255,
+        "colorIndex": 23
+      },
+      {
         "weaponColoringMstId": 13501,
         "uniqueId": 135,
         "conditionType": 1,
@@ -3168,6 +3204,42 @@
       {
         "weaponColoringMstId": 13523,
         "uniqueId": 135,
+        "conditionType": 255,
+        "colorIndex": 23
+      },
+      {
+        "weaponColoringMstId": 13601,
+        "uniqueId": 136,
+        "conditionType": 1,
+        "colorIndex": 1
+      },
+      {
+        "weaponColoringMstId": 13602,
+        "uniqueId": 136,
+        "conditionType": 2,
+        "colorIndex": 2
+      },
+      {
+        "weaponColoringMstId": 13603,
+        "uniqueId": 136,
+        "conditionType": 3,
+        "colorIndex": 3
+      },
+      {
+        "weaponColoringMstId": 13621,
+        "uniqueId": 136,
+        "conditionType": 255,
+        "colorIndex": 21
+      },
+      {
+        "weaponColoringMstId": 13622,
+        "uniqueId": 136,
+        "conditionType": 255,
+        "colorIndex": 22
+      },
+      {
+        "weaponColoringMstId": 13623,
+        "uniqueId": 136,
         "conditionType": 255,
         "colorIndex": 23
       },

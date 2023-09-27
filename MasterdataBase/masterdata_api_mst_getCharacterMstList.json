@@ -2699,6 +2699,37 @@
         "startTime": 1693450800,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 114,
+        "name": "早川弥宏",
+        "kanaName": "はやかわやひろ",
+        "firstName": "弥宏",
+        "lilyProfileListName": "",
+        "cv": "大西亜玖璃",
+        "legionMstId": 4,
+        "grade": "2年",
+        "birthday": 1676559600,
+        "bloodType": "A",
+        "favoriteFood": "地元(鎌倉府）、鷹",
+        "hatedFood": "目立つこと/人前で何かすること。",
+        "hobby": "美食家（おいしいお店を探して食する。食べ物に好き嫌いはない。自分は作らない）",
+        "introduction": "鎌倉出身のスターリリィ。百合ヶ丘女学院初等部入学時は補欠合格だったが、現在はパートナーである真と共に「最強のフリーランス」と呼ばれるほどの実力派。夢結とは中等部時代に一緒の予備隊で交流があり、今でも親しい仲。",
+        "defaultCharacterJobMstId": 1114,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_114",
+        "supportWeaponMstId": 201301,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60190902,
+        "gvgRareSkillMstId": 50190902,
+        "victoryMotionId": 9,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1696042800,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }
