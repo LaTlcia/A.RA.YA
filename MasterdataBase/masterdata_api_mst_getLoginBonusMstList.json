@@ -396,6 +396,20 @@
         "endTime": 1924959599
       },
       {
+        "loginBonusMstId": 4020,
+        "title": "誕生日ログインボーナス：松村優珂",
+        "cycleType": 3,
+        "isExactDate": true,
+        "sortOrder": 5,
+        "characterJobMstId": 1069,
+        "backGroundId": 0,
+        "isCharacterVisible": true,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1577804400,
+        "endTime": 1924959599
+      },
+      {
         "loginBonusMstId": 5001,
         "title": "アニメ3周年 第１話 スイレン",
         "cycleType": 2,
@@ -422,6 +436,20 @@
         "cardMstId": 0,
         "startTime": 1696690800,
         "endTime": 1696777199
+      },
+      {
+        "loginBonusMstId": 5003,
+        "title": "アニメ3周年 第３話 ワスレナグサ",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 10,
+        "characterJobMstId": 0,
+        "backGroundId": 3011501,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1697295600,
+        "endTime": 1697381999
       },
       {
         "loginBonusMstId": 10001,
@@ -1556,6 +1584,34 @@
         "cardMstId": 0,
         "startTime": 1696449600,
         "endTime": 1698609599
+      },
+      {
+        "loginBonusMstId": 10084,
+        "title": "思い出はカメラの中にログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3011001,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1697572800,
+        "endTime": 1698782399
+      },
+      {
+        "loginBonusMstId": 10085,
+        "title": "ハッピー！ハロウィン2023ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3010901,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1697054400,
+        "endTime": 1698782399
       },
       {
         "loginBonusMstId": 520201,

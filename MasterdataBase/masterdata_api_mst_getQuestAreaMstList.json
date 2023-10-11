@@ -3212,6 +3212,30 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 713101,
+        "questMapMstId": 713,
+        "name": "メダルイベント",
+        "description": "モンスターズ・パニック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 713201,
+        "questMapMstId": 713,
+        "name": "メダルイベント",
+        "description": "モンスターズ・パニック",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 714101,
+        "questMapMstId": 714,
+        "name": "メダルイベント",
+        "description": "思い出はカメラの中に",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

@@ -3336,6 +3336,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10484,
+        "title": "モンスターズ・パニック【個人】",
+        "completeMissionMstId": 10484001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10485,
+        "title": "モンスターズ・パニック【レギオン】",
+        "completeMissionMstId": 10485001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10486,
+        "title": "モンスターズ・パニック【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10487,
+        "title": "優珂誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10488,
+        "title": "ハッピー！ハロウィン2023",
+        "completeMissionMstId": 10488001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2231
+      },
+      {
+        "missionTitleMstId": 10490,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

@@ -2090,6 +2090,18 @@
         "conditionValue2": 0,
         "startTime": 1696042800,
         "endTime": 1697079599
+      },
+      {
+        "chatStampMstId": 198,
+        "name": "お仕置きの時間ですよ～",
+        "characterMstId": 105,
+        "type": 4,
+        "howToGetText": "モンスターズ・パニック【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1697079600,
+        "endTime": 1697943599
       }
     ]
   }

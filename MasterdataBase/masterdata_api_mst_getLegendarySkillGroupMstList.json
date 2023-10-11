@@ -354,6 +354,41 @@
         "skillEffectGroup": 60401014
       },
       {
+        "legendarySkillGroupMstId": 6040201,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]水回:回復UP Ⅰ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を2%アップさせる。",
+        "skillEffectGroup": 60402010
+      },
+      {
+        "legendarySkillGroupMstId": 6040201,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]水回:回復UP Ⅱ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を2.2%アップさせる。",
+        "skillEffectGroup": 60402011
+      },
+      {
+        "legendarySkillGroupMstId": 6040201,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]水回:回復UP Ⅲ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を2.5%アップさせる。",
+        "skillEffectGroup": 60402012
+      },
+      {
+        "legendarySkillGroupMstId": 6040201,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]水回:回復UP Ⅳ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を2.7%アップさせる。",
+        "skillEffectGroup": 60402013
+      },
+      {
+        "legendarySkillGroupMstId": 6040201,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]水回:回復UP Ⅴ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を3%アップさせる。",
+        "skillEffectGroup": 60402014
+      },
+      {
         "legendarySkillGroupMstId": 6040301,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]風回:回復UP Ⅰ",

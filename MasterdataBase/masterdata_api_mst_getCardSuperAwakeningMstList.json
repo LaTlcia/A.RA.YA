@@ -1,0 +1,44 @@
+{
+  "url": "/api/mst/getCardSuperAwakeningMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "cardSuperAwakeningMstId": 9900015,
+        "cardUniqueId": 10088088,
+        "defaultFrontCardType": 2,
+        "defaultBackCardType": 5,
+        "itemMstId1": 2002700,
+        "num1": 15,
+        "itemMstId2": 2002800,
+        "num2": 80,
+        "itemMstId3": 2002900,
+        "num3": 80,
+        "itemMstId4": 0,
+        "num4": 0,
+        "itemMstId5": 0,
+        "num5": 0,
+        "price": 500000,
+        "startTime": 1697079600
+      },
+      {
+        "cardSuperAwakeningMstId": 9900016,
+        "cardUniqueId": 70000239,
+        "defaultFrontCardType": 2,
+        "defaultBackCardType": 6,
+        "itemMstId1": 2002700,
+        "num1": 15,
+        "itemMstId2": 2002800,
+        "num2": 80,
+        "itemMstId3": 2002900,
+        "num3": 80,
+        "itemMstId4": 0,
+        "num4": 0,
+        "itemMstId5": 0,
+        "num5": 0,
+        "price": 500000,
+        "startTime": 1697425200
+      }
+    ]
+  }
+}
