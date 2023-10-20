@@ -473,6 +473,20 @@
         "dropRewardMaxNum": 0
       },
       {
+        "gigantHugeWaveMstId": 6010101,
+        "gigantHugeStageMstId": 60101,
+        "appearanceGroupId": 6010101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 6010201,
+        "gigantHugeStageMstId": 60102,
+        "appearanceGroupId": 6010201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
         "gigantHugeWaveMstId": 10110101,
         "gigantHugeStageMstId": 101101,
         "appearanceGroupId": 10110101,

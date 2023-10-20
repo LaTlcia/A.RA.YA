@@ -2084,12 +2084,12 @@
         "name": "わたしにお任せ！",
         "characterMstId": 114,
         "type": 4,
-        "howToGetText": "双星のコントラスト【個人】特別ミッションで入手可能",
+        "howToGetText": "メインストーリー「運命のトリニティ」HARD25話ステージ03クリアで入手可能",
         "transitionSceneName": "NULL",
         "conditionValue1": 0,
         "conditionValue2": 0,
         "startTime": 1696042800,
-        "endTime": 1697079599
+        "endTime": 1924959599
       },
       {
         "chatStampMstId": 198,
@@ -2102,6 +2102,18 @@
         "conditionValue2": 0,
         "startTime": 1697079600,
         "endTime": 1697943599
+      },
+      {
+        "chatStampMstId": 199,
+        "name": "壊れちゃいました…",
+        "characterMstId": 49,
+        "type": 4,
+        "howToGetText": "失われた刻を探して【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1697943600,
+        "endTime": 1698721199
       }
     ]
   }

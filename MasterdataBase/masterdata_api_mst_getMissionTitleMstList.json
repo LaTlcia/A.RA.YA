@@ -3371,7 +3371,21 @@
         "completeResourceId": 2231
       },
       {
+        "missionTitleMstId": 10489,
+        "title": "失われた刻を探して【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10490,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10497,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
@@ -3526,6 +3540,20 @@
       },
       {
         "missionTitleMstId": 11041,
+        "title": "ギガント級ヒュージ討伐イベント",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11042,
+        "title": "ギガント級ヒュージ討伐イベント",
+        "completeMissionMstId": 11042001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11043,
         "title": "ギガント級ヒュージ討伐イベント",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

@@ -378,6 +378,23 @@
         "bookmarkReleaseStartTime": -62170017539
       },
       {
+        "gigantHugeMapMstId": 601,
+        "name": "ギガント級ヒュージ討伐",
+        "description": "アビスサーペントCh.1",
+        "mapType": 2,
+        "bannerId": 1229797,
+        "sortOrder": 100,
+        "backgroundImage": 4000102,
+        "appearType": 1,
+        "defaultMapBgm": "bgm_gigant-map_event_001",
+        "appearanceGigantHugeBgm": "bgm_gigant-map_event_002",
+        "mapLoginBonusItemMstId": 4005825,
+        "mapLoginBonusItemNum": 2,
+        "gigantHugeRankingRewardGroupId": 0,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": -62170017539
+      },
+      {
         "gigantHugeMapMstId": 1011,
         "name": "ギガント級ヒュージ討伐",
         "description": "アビスサーペントCh.1EX",

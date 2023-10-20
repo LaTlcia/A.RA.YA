@@ -2020,6 +2020,134 @@
         "num": 850000
       },
       {
+        "gigantHugeRewardGroupMstId": 601100,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1012216,
+        "num": 10
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601101,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2007000,
+        "num": 15
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601102,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2007300,
+        "num": 4
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601103,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2007600,
+        "num": 4
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601104,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 2
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601105,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2008100,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601106,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2006200,
+        "num": 2
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601200,
+        "rewardGroupId": 60101,
+        "rewardType": 3,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 600000
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601201,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1012216,
+        "num": 25
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601202,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 6
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601203,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2007400,
+        "num": 2
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601204,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2007700,
+        "num": 2
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601205,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2008000,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601206,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1001100,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601207,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 2006200,
+        "num": 3
+      },
+      {
+        "gigantHugeRewardGroupMstId": 601208,
+        "rewardGroupId": 60102,
+        "rewardType": 3,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 850000
+      },
+      {
         "gigantHugeRewardGroupMstId": 1011301,
         "rewardGroupId": 101101,
         "rewardType": 1,

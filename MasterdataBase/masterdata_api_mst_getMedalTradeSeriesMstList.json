@@ -4307,6 +4307,58 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1332,
+        "rewardGroupId": 0,
+        "name": "ゴシック・ノスタルジカⅠペンダントEX交換券",
+        "description": "ゴシック・ノスタルジカⅠペンダントEX交換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 5056,
+        "itemMstId": 1016908,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1333,
+        "rewardGroupId": 1002,
+        "name": "失われた刻を探して引換券",
+        "description": "失われた刻を探して引換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 4060,
+        "itemMstId": 4007903,
+        "viewable": 1,
+        "startTime": 1697943600,
+        "endTime": 1699714799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1334,
+        "rewardGroupId": 0,
+        "name": "ボーナスメダルⅪ",
+        "description": "ボーナスメダルⅪ交換所で使用することができる交換用のメダル",
+        "sortOrder": 6076,
+        "itemMstId": 3000420,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1335,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券10月Ⅲ",
+        "description": "BRAND-NEW★5メモリア引換券10月Ⅲ交換所で使用することができる交換用のアイテム",
+        "sortOrder": 1025,
+        "itemMstId": 4006004,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -5737,6 +5789,19 @@
         "dailyEndTime": 1698004799
       },
       {
+        "medalTradeSeriesMstId": 5715,
+        "rewardGroupId": 1001,
+        "name": "失われた刻を探してメダル交換所",
+        "description": "イベント『失われた刻を探して』で獲得できるメダル",
+        "sortOrder": 4060,
+        "itemMstId": 4000618,
+        "viewable": 1,
+        "startTime": 1697943600,
+        "endTime": 1699369199,
+        "dailyStartTime": 1697943600,
+        "dailyEndTime": 1698782399
+      },
+      {
         "medalTradeSeriesMstId": 6101,
         "rewardGroupId": 0,
         "name": "アビスサーペントCh.1メダル交換所",
@@ -5902,6 +5967,19 @@
         "viewable": 1,
         "startTime": 1695178800,
         "endTime": 1696690799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 6504,
+        "rewardGroupId": 1006,
+        "name": "ギガント級ヒュージ討伐衣装引換券",
+        "description": "ギガント級ヒュージ討伐衣装引換券交換所で使用することができる交換用のアイテム",
+        "sortOrder": 4060,
+        "itemMstId": 4009203,
+        "viewable": 1,
+        "startTime": 1697943600,
+        "endTime": 1699369199,
         "dailyStartTime": -62170017539,
         "dailyEndTime": -62170017539
       },

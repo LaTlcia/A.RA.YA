@@ -716,6 +716,46 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4121,
+        "questMapMstId": 4,
+        "name": "21話",
+        "description": "気づけなかった予兆",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4122,
+        "questMapMstId": 4,
+        "name": "22話",
+        "description": "最強のフリーランス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4123,
+        "questMapMstId": 4,
+        "name": "23話",
+        "description": "残響",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4124,
+        "questMapMstId": 4,
+        "name": "24話",
+        "description": "パラダイス・ロスト",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4125,
+        "questMapMstId": 4,
+        "name": "25話",
+        "description": "手放してしまったもの",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -872,6 +912,46 @@
         "questMapMstId": 4,
         "name": "20話",
         "description": "覚醒のスキャルドメール",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4221,
+        "questMapMstId": 4,
+        "name": "21話",
+        "description": "気づけなかった予兆",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4222,
+        "questMapMstId": 4,
+        "name": "22話",
+        "description": "最強のフリーランス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4223,
+        "questMapMstId": 4,
+        "name": "23話",
+        "description": "残響",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4224,
+        "questMapMstId": 4,
+        "name": "24話",
+        "description": "パラダイス・ロスト",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4225,
+        "questMapMstId": 4,
+        "name": "25話",
+        "description": "手放してしまったもの",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -3232,6 +3312,30 @@
         "questMapMstId": 714,
         "name": "メダルイベント",
         "description": "思い出はカメラの中に",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 715101,
+        "questMapMstId": 715,
+        "name": "メダルイベント",
+        "description": "失われた刻を探して",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 715201,
+        "questMapMstId": 715,
+        "name": "メダルイベント",
+        "description": "失われた刻を探して",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 716101,
+        "questMapMstId": 716,
+        "name": "メダルイベント",
+        "description": "ラブリーアンドピース",
         "mode": 1,
         "hasNextComingSoon": false
       },

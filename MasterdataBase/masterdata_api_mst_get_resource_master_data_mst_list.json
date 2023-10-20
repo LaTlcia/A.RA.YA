@@ -5,8 +5,8 @@
     "mstList": [
       {
         "method": "getBannerMstList",
-        "size": 642285,
-        "hash": "0f7d73dbdf1fd11e0dc5e54c10060dd9"
+        "size": 647426,
+        "hash": "1e246fc7b154755a33d4aee80cd0659c"
       },
       {
         "method": "getBattleAuraMstList",
@@ -20,8 +20,8 @@
       },
       {
         "method": "getCardAwakeningMstList",
-        "size": 93615,
-        "hash": "8ffbb212d06705353c3907030d6de9ed"
+        "size": 94254,
+        "hash": "fc4bcc2ae10c69e82bfd083de24ec2f7"
       },
       {
         "method": "getCardEvolveEventMstList",
@@ -35,8 +35,8 @@
       },
       {
         "method": "getCardMstList",
-        "size": 2343411,
-        "hash": "1b23cbe4c810bb4b0164ee80a128113b"
+        "size": 2354379,
+        "hash": "df4263423ebea0f28bdc2ea178049535"
       },
       {
         "method": "getCardStoryMstList",
@@ -45,13 +45,13 @@
       },
       {
         "method": "getCardSuperAwakeningCardTypeMstList",
-        "size": 5463,
-        "hash": "c7dd8562d7967af65fe92882764109e6"
+        "size": 10923,
+        "hash": "23e43c882356c15b9a0b371e0f78ae9b"
       },
       {
         "method": "getCardSuperAwakeningMstList",
-        "size": 533,
-        "hash": "f65d3f231260c5072da6ae74993107f0"
+        "size": 1065,
+        "hash": "53bbe8d09f8a81466ab8eca454d3fabd"
       },
       {
         "method": "getCharacterFrameMstList",
@@ -60,8 +60,8 @@
       },
       {
         "method": "getCharacterJobAwakeningMstList",
-        "size": 40141,
-        "hash": "0e6161598d1f8cb349b8825d7232ecbc"
+        "size": 40918,
+        "hash": "940870604060302aa27f876c239f94df"
       },
       {
         "method": "getCharacterJobLevelUpMstList",
@@ -70,8 +70,8 @@
       },
       {
         "method": "getCharacterJobMstList",
-        "size": 362165,
-        "hash": "3b45aec1dc3e5b7d3baadb59be08e03d"
+        "size": 365416,
+        "hash": "fb2ddb21c0a87f7371f3af059ee494b3"
       },
       {
         "method": "getCharacterJobSkillMstList",
@@ -85,8 +85,8 @@
       },
       {
         "method": "getCharacterJobSpecialSkillMstList",
-        "size": 34198,
-        "hash": "bb75b3598f880d569ebd58d2f1f9daff"
+        "size": 35049,
+        "hash": "c3d5416cd1f1d92d4ab097957d4a3acc"
       },
       {
         "method": "getCharacterMstList",
@@ -110,13 +110,13 @@
       },
       {
         "method": "getChatStampMstList",
-        "size": 48860,
-        "hash": "7c99653155024e2be4587cadc7dbbac8"
+        "size": 49173,
+        "hash": "0ade076a00d9e485f2e44f7a7e4e8c3f"
       },
       {
         "method": "getCollectionPublicationRestrictionsMstList",
-        "size": 399172,
-        "hash": "42484e96c75c7bd68a0cf2568fd5c8c3"
+        "size": 401339,
+        "hash": "44ce887fc5a32b7028ad3c48d8673399"
       },
       {
         "method": "getCopyrightMstList",
@@ -135,8 +135,8 @@
       },
       {
         "method": "getEventStoryMstList",
-        "size": 302268,
-        "hash": "2aa90ae6853506c4aa489c43fc9eacd7"
+        "size": 304714,
+        "hash": "9e0c5d6ddb587e0ea87f9367b70297ff"
       },
       {
         "method": "getGardenMstList",
@@ -145,8 +145,8 @@
       },
       {
         "method": "getGigantHugeCardBonusRateMstModelList",
-        "size": 15600,
-        "hash": "e27b298f7107b60d7a47e33503b0ffbe"
+        "size": 16500,
+        "hash": "53dc4fae0a8a357cdfe07ce1c39eee5c"
       },
       {
         "method": "getGigantHugeCharacterJobBonusRateMstModelList",
@@ -170,8 +170,8 @@
       },
       {
         "method": "getGigantHugeMapMstList",
-        "size": 11437,
-        "hash": "e0088c43c00a7ed6e5ceef28567d3b9f"
+        "size": 11860,
+        "hash": "d0a7124f7f499fc324bafc2e34c72f52"
       },
       {
         "method": "getGigantHugeMissionMstModelList",
@@ -190,18 +190,18 @@
       },
       {
         "method": "getGigantHugeRewardGroupMstModelList",
-        "size": 28655,
-        "hash": "22770f47df65d39396bd2d22586f611b"
+        "size": 30320,
+        "hash": "f199567da5363179d758aa9400947222"
       },
       {
         "method": "getGigantHugeScheduleMstList",
-        "size": 3384,
-        "hash": "3dc3cd53d4fd31c3c7939fa496580052"
+        "size": 3509,
+        "hash": "f98bf1a528eae45a28183d9377c47c78"
       },
       {
         "method": "getGigantHugeStageMstModelList",
-        "size": 53735,
-        "hash": "3c7f8c06dd318ec1269f15c66747d683"
+        "size": 55118,
+        "hash": "e8f7b4bf61be4a6ef5afc50d2a60e0d7"
       },
       {
         "method": "getGigantHugeStoryMstModelList",
@@ -215,8 +215,8 @@
       },
       {
         "method": "getGigantHugeWaveMstList",
-        "size": 9624,
-        "hash": "30a72c93124133b0db245ce8853ddfa5"
+        "size": 9864,
+        "hash": "46dbff402be5ac4b48a03804f99394dd"
       },
       {
         "method": "getGrandGvgMstList",
@@ -375,8 +375,8 @@
       },
       {
         "method": "getItemMstList",
-        "size": 898421,
-        "hash": "1ab33ef4476defe581a98aa0f628994b"
+        "size": 909222,
+        "hash": "9974872abf52d4ac93cc7cdfbf1a79ad"
       },
       {
         "method": "getLegendarySkillGroupMstList",
@@ -410,23 +410,23 @@
       },
       {
         "method": "getLoginBonusMstList",
-        "size": 40001,
-        "hash": "5f98e53a06688dfafacd3fea4ae75c88"
+        "size": 40781,
+        "hash": "322523d5f78bf8a7b3f29ec75b64ccb5"
       },
       {
         "method": "getLoginBonusRewardMstList",
-        "size": 119832,
-        "hash": "4a3adc9128f5a2ec7b617c4c5ca0d324"
+        "size": 120531,
+        "hash": "cc54e06f694ed73568f5e5e43ae89ea9"
       },
       {
         "method": "getMapLinkMstList",
-        "size": 872,
-        "hash": "0c7c1df8dffeed30d74e7c3f9da89b00"
+        "size": 959,
+        "hash": "e03356d7d9d463555ad5f338fa2bb005"
       },
       {
         "method": "getMedalTradeMstList",
-        "size": 7495597,
-        "hash": "1e77e10aea4b6e8a20ce00e61ab9e570"
+        "size": 7511491,
+        "hash": "e915779c96a8636d17d1bad4cb394003"
       },
       {
         "method": "getMedalTradePickupMstList",
@@ -435,8 +435,8 @@
       },
       {
         "method": "getMedalTradeSeriesMstList",
-        "size": 170414,
-        "hash": "089449a842a10f6604af6b5c73732b77"
+        "size": 172700,
+        "hash": "88c5f0e3e7af12ecd1f2be6bd99362ff"
       },
       {
         "method": "getMiniTutorialMaterialMstList",
@@ -455,13 +455,13 @@
       },
       {
         "method": "getMissionMstList",
-        "size": 3918951,
-        "hash": "87b4697694fe3caf5c3804f93e8e70bd"
+        "size": 3943092,
+        "hash": "1118a1415dba769d7f740c397e00f4b9"
       },
       {
         "method": "getMissionTitleMstList",
-        "size": 111639,
-        "hash": "56a3cb65ab8de2ad54d2cbd8709c3d0b"
+        "size": 112320,
+        "hash": "8779ddb3cff3556cd0711f6c1c166f8a"
       },
       {
         "method": "getMissionTransitionMstList",
@@ -470,8 +470,8 @@
       },
       {
         "method": "getMovieMstList",
-        "size": 66703,
-        "hash": "870c2c9d70d8f188b242b1926dee9256"
+        "size": 67110,
+        "hash": "f4fd2efc8b48ac1cf693354b920a817f"
       },
       {
         "method": "getMusicCopyrightMstList",
@@ -535,8 +535,8 @@
       },
       {
         "method": "getQuestAreaMstList",
-        "size": 53558,
-        "hash": "348268615c3e5c27e6c398661567df43"
+        "size": 55080,
+        "hash": "fe282c73442d82ccadc64fb11bdf495a"
       },
       {
         "method": "getQuestCampaignMstList",
@@ -545,13 +545,13 @@
       },
       {
         "method": "getQuestCardBonusRateMstList",
-        "size": 124902,
-        "hash": "72bdf9e0b3fb04268e936c606a2ca97f"
+        "size": 125786,
+        "hash": "8947e16d309f7608669bd5bc79cfab7a"
       },
       {
         "method": "getQuestEnemyEnhanceMstList",
-        "size": 66234,
-        "hash": "81344409704a980f9e3aeff59978c9a4"
+        "size": 66335,
+        "hash": "ca52391ba3823c96d0ab09d9e71bc3f8"
       },
       {
         "method": "getQuestEnemySkillEffectFileMstList",
@@ -570,8 +570,8 @@
       },
       {
         "method": "getQuestEventMedalMstList",
-        "size": 19916,
-        "hash": "f4d4d6c9e2f1e8b99cbb4104a4b36bb3"
+        "size": 20053,
+        "hash": "0516e72655f9474ce95140208b0502f7"
       },
       {
         "method": "getQuestEventMedalRewardMstList",
@@ -580,8 +580,8 @@
       },
       {
         "method": "getQuestMapMstList",
-        "size": 96518,
-        "hash": "3947e40162b8cac65b9e886a50f64dbe"
+        "size": 97480,
+        "hash": "0d011dd8d4a4357503f092e7abd7db5e"
       },
       {
         "method": "getQuestMissionMstList",
@@ -595,23 +595,23 @@
       },
       {
         "method": "getQuestScheduleMstList",
-        "size": 55332,
-        "hash": "55e0ad9470986236a6185e1d9aaa46de"
+        "size": 55794,
+        "hash": "b6c616a68e1605d0533a187e68bff74b"
       },
       {
         "method": "getQuestStageConditionMstList",
-        "size": 67534,
-        "hash": "1610b872c16fdbdfd2bce9ee07dd07f8"
+        "size": 69030,
+        "hash": "446e3af6fc1a4bd9175e7b761628de8b"
       },
       {
         "method": "getQuestStageMstList",
-        "size": 3170155,
-        "hash": "2dbc5f5cec6d815f7151dc2d72a5559e"
+        "size": 3222112,
+        "hash": "cdfdae31a289e10aac1e3f0affa005a5"
       },
       {
         "method": "getQuestStoryMstList",
-        "size": 39338,
-        "hash": "70b73ef336e5178505a1b2854d5bca1a"
+        "size": 42322,
+        "hash": "fb6425aa0cfce528c5a128dd16c299a3"
       },
       {
         "method": "getQuestSupportNpcMstList",
@@ -625,8 +625,8 @@
       },
       {
         "method": "getQuestWaveMstList",
-        "size": 1214328,
-        "hash": "f2ea62e5964c8bd6774c20f1c220d2ed"
+        "size": 1234182,
+        "hash": "b0fe27d7d8897dfeb2e2462b85d7de43"
       },
       {
         "method": "getRecycleMedalCardMstList",
@@ -665,8 +665,8 @@
       },
       {
         "method": "getSkillMstList",
-        "size": 2552885,
-        "hash": "930ef472a1d046b4855f41a79a5c613d"
+        "size": 2561096,
+        "hash": "903b4929a689f209eda7345820ac63f9"
       },
       {
         "method": "getSnsPostsMstList",
@@ -720,8 +720,8 @@
       },
       {
         "method": "getWeaponAbilityEffectMstList",
-        "size": 606008,
-        "hash": "d61e041324a35e1285af1666404ececf"
+        "size": 610862,
+        "hash": "c0ccc38a4c29695e24d53612b631ea3d"
       },
       {
         "method": "getWeaponAbilityLevelUpMstList",
@@ -730,13 +730,13 @@
       },
       {
         "method": "getWeaponAbilityMstList",
-        "size": 29256,
-        "hash": "b1565fca81c45cb9d53230324da60af9"
+        "size": 29592,
+        "hash": "613b42dd09e35e1ab2efe3be55a4b2d1"
       },
       {
         "method": "getWeaponColoringMstList",
-        "size": 43131,
-        "hash": "0a6d3e8ee0b09f9fe8367ff604af92b9"
+        "size": 43977,
+        "hash": "7f8b1dab770ae17c374292cc10ae2d35"
       },
       {
         "method": "getWeaponCreationMstList",
@@ -750,8 +750,8 @@
       },
       {
         "method": "getWeaponExclusiveCharacterJobMstList",
-        "size": 5100,
-        "hash": "e0d0d5d4b1f56f426514d5bbf498ae3e"
+        "size": 5537,
+        "hash": "c6a215534b1942cfbb76ba4249ce51d1"
       },
       {
         "method": "getWeaponLegendaryLevelUpMstList",
@@ -765,8 +765,8 @@
       },
       {
         "method": "getWeaponMstList",
-        "size": 371339,
-        "hash": "2f1e3bb1e060c4796e1d6e238689c12a"
+        "size": 372641,
+        "hash": "cd199e8a5dc377e876003d2ebf875d0c"
       },
       {
         "method": "getWeaponPlusLevelUpMstList",
