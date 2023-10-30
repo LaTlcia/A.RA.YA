@@ -3340,6 +3340,30 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 717101,
+        "questMapMstId": 717,
+        "name": "メダルイベント",
+        "description": "百合ヶ丘に咲う紫紺の花",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 717201,
+        "questMapMstId": 717,
+        "name": "メダルイベント",
+        "description": "百合ヶ丘に咲う紫紺の花",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 718101,
+        "questMapMstId": 718,
+        "name": "メダルイベント",
+        "description": "優しい夕暮れ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

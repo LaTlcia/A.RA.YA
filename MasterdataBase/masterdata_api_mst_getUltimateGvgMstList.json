@@ -58,6 +58,20 @@
         "eventImageId": 3,
         "announceMstId": 4497,
         "homeAppealImageId": 1783
+      },
+      {
+        "ultimateGvgMstId": 5,
+        "grandGvgMstId": 10004,
+        "preliminaryStartTime": 1699344000,
+        "preliminaryEndTime": 1702965599,
+        "gvgStartTime": 1702965600,
+        "gvgEndTime": 1704812399,
+        "resultStartTime": 1704873600,
+        "resultEndTime": 1705244399,
+        "eventName": "レギオンチャンピオンシップ ポインセチア杯",
+        "eventImageId": 4,
+        "announceMstId": 4708,
+        "homeAppealImageId": 1783
       }
     ]
   }

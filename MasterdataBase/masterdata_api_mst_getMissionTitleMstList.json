@@ -3385,7 +3385,63 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10491,
+        "title": "百合ヶ丘に咲う紫紺の花【個人】",
+        "completeMissionMstId": 10491001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10492,
+        "title": "百合ヶ丘に咲う紫紺の花【レギオン】",
+        "completeMissionMstId": 10492001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10493,
+        "title": "百合ヶ丘に咲う紫紺の花【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10494,
+        "title": "Re:ゼロから始める異世界生活コラボ開催記念",
+        "completeMissionMstId": 10494001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2247
+      },
+      {
+        "missionTitleMstId": 10495,
+        "title": "叶星誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10496,
+        "title": "瑤誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10497,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10504,
+        "title": "コラボ開始記念キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10505,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

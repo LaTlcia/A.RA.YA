@@ -1828,6 +1828,54 @@
         "windowsHash": "782e9766ce4da954925fb347a6fb2607"
       },
       {
+        "assetBundleName": "asset_bundle/adv_effects/adv_effect_rezero_attack_01",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 426050,
+        "iosFileSize": 363999,
+        "windowsFileSize": 514182,
+        "androidHash": "1bb653dda5911e4ddbf972af7b6dfbd6",
+        "iosHash": "b456614152004142c8572cd9df5d15f7",
+        "windowsHash": "9f7aa398e5220058bc8d6204a98c4bb1"
+      },
+      {
+        "assetBundleName": "asset_bundle/adv_effects/adv_effect_rezero_attack_02",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 386176,
+        "iosFileSize": 338322,
+        "windowsFileSize": 466236,
+        "androidHash": "ae5b80fd51c721567f90b35473dc1fa7",
+        "iosHash": "32e3c9b987e58be5b11821f1b8b5e66a",
+        "windowsHash": "dfb8ea24d11c6625c984b66da97b381c"
+      },
+      {
+        "assetBundleName": "asset_bundle/adv_effects/adv_effect_rezero_attack_03",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 286202,
+        "iosFileSize": 266510,
+        "windowsFileSize": 331017,
+        "androidHash": "e6358da4072e59266126cfd5c6a5a207",
+        "iosHash": "8af5de4254b44aa851899fcad4b93030",
+        "windowsHash": "4cdfac17b71a983782614ec9c6ed686d"
+      },
+      {
+        "assetBundleName": "asset_bundle/adv_effects/adv_effect_rezero_scan_01",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 376121,
+        "iosFileSize": 327818,
+        "windowsFileSize": 453969,
+        "androidHash": "c7990d9e5884d457bac10af1f78aa113",
+        "iosHash": "de8bbc2e7754f0596d6f8d7c58f054c4",
+        "windowsHash": "789cdc2a3564a8e517be55a899cf131f"
+      },
+      {
         "assetBundleName": "asset_bundle/adv_effects/adv_effect_shout",
         "downloadType": 0,
         "expireType": 0,
@@ -2567,9 +2615,9 @@
         "androidFileSize": 239239,
         "iosFileSize": 213319,
         "windowsFileSize": 280489,
-        "androidHash": "877f74b556aafdec7cff5123b4cdabe4",
-        "iosHash": "531d314feaeddda0fb9635954bc8c0fe",
-        "windowsHash": "946877bbf9c7f8fa82c4c7432ca2dcf1"
+        "androidHash": "05046e134e9ad2d319f24449301a3e5a",
+        "iosHash": "69beda8a62adb1369b15bc68244f2ba8",
+        "windowsHash": "5a885118acac1dd8a7c4937d8acb0332"
       },
       {
         "assetBundleName": "asset_bundle/battle_enemy_effect/eff_common_laser_active_dark",
@@ -8740,6 +8788,66 @@
         "windowsHash": "280e32f264e47fd916df4cb1a094e2e0"
       },
       {
+        "assetBundleName": "asset_bundle/card_prefab/card_010091008",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 2464461,
+        "iosFileSize": 3222887,
+        "windowsFileSize": 2398753,
+        "androidHash": "fcf55e6bb70282d7d233ba6e85be9e85",
+        "iosHash": "3476fcdaefa0c89e0951e9385d708896",
+        "windowsHash": "b4546edaf4a4dc6f83e4f64384f4a53e"
+      },
+      {
+        "assetBundleName": "asset_bundle/card_prefab/card_010091116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 1970183,
+        "iosFileSize": 2463992,
+        "windowsFileSize": 2025172,
+        "androidHash": "df7f76557f203b1775e24ed73f10cef5",
+        "iosHash": "7672b4997506d0460eec77de44ab1906",
+        "windowsHash": "13acfd2a14c45e72484d219ba5b2b77b"
+      },
+      {
+        "assetBundleName": "asset_bundle/card_prefab/card_010091117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 1546429,
+        "iosFileSize": 2309308,
+        "windowsFileSize": 1519645,
+        "androidHash": "cc4586c73465f6972df5a7aed7b02c21",
+        "iosHash": "8bbf6c8b4718cefe53585106a6423588",
+        "windowsHash": "81b028526d74ea0b7a4191bd80d7fab5"
+      },
+      {
+        "assetBundleName": "asset_bundle/card_prefab/card_010091118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 2004457,
+        "iosFileSize": 2962796,
+        "windowsFileSize": 2002966,
+        "androidHash": "b367b3e4a6211adf3cef9baec000bbb4",
+        "iosHash": "afa3ba06e39eaf7f467ed5ca97cb472c",
+        "windowsHash": "2aed83758057199ecea3d3966372a2f2"
+      },
+      {
+        "assetBundleName": "asset_bundle/card_prefab/card_010092120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 2886187,
+        "iosFileSize": 3450256,
+        "windowsFileSize": 2881779,
+        "androidHash": "fcef0c612c3630165c9509895fb19d44",
+        "iosHash": "7f8c595630fe1ff49ee99c5c87b0eff4",
+        "windowsHash": "85cd046d456c2c0cb427b53032226038"
+      },
+      {
         "assetBundleName": "asset_bundle/card_prefab/card_020000001",
         "downloadType": 0,
         "expireType": 0,
@@ -11224,6 +11332,18 @@
         "windowsHash": "5f06074906bd6fa814640b6782fbc845"
       },
       {
+        "assetBundleName": "asset_bundle/card_prefab/card_020000240",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 2569600,
+        "iosFileSize": 3429628,
+        "windowsFileSize": 2563459,
+        "androidHash": "ec13620cb66bce2135a06521a8df1b95",
+        "iosHash": "6b979385b4430d7de96ce7e2baccf31a",
+        "windowsHash": "ec55b4f534571d0473564bfefb11b04a"
+      },
+      {
         "assetBundleName": "asset_bundle/card_prefab/card_050000001",
         "downloadType": 0,
         "expireType": 0,
@@ -12004,6 +12124,18 @@
         "windowsHash": "da1ef90fe8b44da63550ce706e232a59"
       },
       {
+        "assetBundleName": "asset_bundle/card_prefab/card_060003013",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 957539,
+        "iosFileSize": 1207005,
+        "windowsFileSize": 1361534,
+        "androidHash": "7e1a384a1734826acdba412115778e0e",
+        "iosHash": "ce997b58b70afadeb1a159f04582c6df",
+        "windowsHash": "acf328092b22457230ec8b8f2e13e8f4"
+      },
+      {
         "assetBundleName": "asset_bundle/card_prefab/card_060003014",
         "downloadType": 0,
         "expireType": 0,
@@ -12014,6 +12146,18 @@
         "androidHash": "32b5c219e699aba0a9bac6f0b2766a24",
         "iosHash": "c7518d7f31550cfa9c870aa046b79656",
         "windowsHash": "23f976c3219b5b377b254becb135af2d"
+      },
+      {
+        "assetBundleName": "asset_bundle/card_prefab/card_060003015",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 1363807,
+        "iosFileSize": 1695906,
+        "windowsFileSize": 1955853,
+        "androidHash": "7f3c843dcb2e86e6e5f9a63aa7f9f8a7",
+        "iosHash": "b8a2715804a43fe91e637a04d28348c3",
+        "windowsHash": "50f7b2c588759c9af5490b0ccdf4eec3"
       },
       {
         "assetBundleName": "asset_bundle/card_prefab/card_060003016",
@@ -13708,6 +13852,30 @@
         "windowsHash": "db87ecd596ed9c104eadd5bd69c6de52"
       },
       {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0011_012",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 256666,
+        "iosFileSize": 266298,
+        "windowsFileSize": 238583,
+        "androidHash": "c166148797efdc4a6e03d4742ceddc90",
+        "iosHash": "b5d93bb3c75ed857633c1839535c668f",
+        "windowsHash": "c6a7e2215025c46d7aa76dc995a2ab13"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0011_013",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 247026,
+        "iosFileSize": 258810,
+        "windowsFileSize": 230346,
+        "androidHash": "960f8c8c4875ef79eaa0c8524e56cef9",
+        "iosHash": "0f8af6af5f6760959d700aaa3903c48c",
+        "windowsHash": "8f375208eb1a4d158808253470a1d7ec"
+      },
+      {
         "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0011_014",
         "downloadType": 0,
         "expireType": 0,
@@ -14834,6 +15002,30 @@
         "androidHash": "98b341eb8aaef109f87c3cab47992e67",
         "iosHash": "c3e17663006934ad6cd5a5f3783ebda9",
         "windowsHash": "d7af38e6fc8d6caf9b3d1c67c41cecdc"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0036_002",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 304975,
+        "iosFileSize": 317974,
+        "windowsFileSize": 283358,
+        "androidHash": "fa808d860e8cd3b5a3de2c66d7ec9b97",
+        "iosHash": "b7f77d3f0b8b44c1fbeb387620bf33ae",
+        "windowsHash": "2cbfd9b96cd3f7d81b878e19f86ca2bc"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0036_010",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 256252,
+        "iosFileSize": 264226,
+        "windowsFileSize": 239920,
+        "androidHash": "3d69abab7de3307bc0cfe5cfd4fb4023",
+        "iosHash": "bcb2ff8ffdeb80d8519fb3a769f81bf6",
+        "windowsHash": "46597787cf8cd0c71e0fcf3a7bc72a3b"
       },
       {
         "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0036_021",
@@ -17224,6 +17416,102 @@
         "windowsHash": "d062f43446575a23d22efe460df9397c"
       },
       {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0091_007",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 258540,
+        "iosFileSize": 267177,
+        "windowsFileSize": 240185,
+        "androidHash": "857588ea24e9906dc36f10b178d228b0",
+        "iosHash": "236956b4c70329b3edd8997e1a27ee54",
+        "windowsHash": "d360ef593798005db8f6fa64db64964f"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0091_008",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 254478,
+        "iosFileSize": 264481,
+        "windowsFileSize": 236555,
+        "androidHash": "da72b4a6e4922883c6aeeb1129a482dc",
+        "iosHash": "baedc41be28ed0989a31f63386a3165d",
+        "windowsHash": "11d37b5c4035692ac7afcccecb42c864"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0091_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 271130,
+        "iosFileSize": 285383,
+        "windowsFileSize": 251433,
+        "androidHash": "f3f212d3b21dca71a9414a94de91a9c4",
+        "iosHash": "e887fb59ed7299158114811f8967dda9",
+        "windowsHash": "828813e5b51f2efccba2c13a14c088c8"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0091_117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 237554,
+        "iosFileSize": 248155,
+        "windowsFileSize": 220522,
+        "androidHash": "f32c733d4f2581829a9f8d18baafa1ad",
+        "iosHash": "3e2d4e631fa526f5846a3d8c49c418fa",
+        "windowsHash": "7a35b1d0de817f0936f4197e05982dd3"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0091_118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 221444,
+        "iosFileSize": 230533,
+        "windowsFileSize": 205123,
+        "androidHash": "0df13966268afceab81c1a7f1be66287",
+        "iosHash": "93f168232927c812801e2a0d1acc0ca2",
+        "windowsHash": "3bc0a43f10815797f95e403d7ff76fba"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0092_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 302794,
+        "iosFileSize": 325710,
+        "windowsFileSize": 280259,
+        "androidHash": "cec70013197684df99c92849faa593dd",
+        "iosHash": "deb4c9a1118963225875e52ddb9533a7",
+        "windowsHash": "255815be77348e5f10160b046e6f4f22"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0092_119",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 243818,
+        "iosFileSize": 255750,
+        "windowsFileSize": 227648,
+        "androidHash": "53dd40bbed75ed93058ed9f207403065",
+        "iosHash": "e1b08df2eb191ae13cdd4255f4f94edc",
+        "windowsHash": "7111db423722a787713ba41b46446b89"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0092_120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 237570,
+        "iosFileSize": 249609,
+        "windowsFileSize": 220660,
+        "androidHash": "59fa51034671e152b887386cc39b1666",
+        "iosHash": "19d5e13e3dd32f8a3db18c3e9e389281",
+        "windowsHash": "d10e28f11243732b6208c661b68b829f"
+      },
+      {
         "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0093_001",
         "downloadType": 0,
         "expireType": 0,
@@ -17450,6 +17738,18 @@
         "androidHash": "0d0b55bd795c6bda393e893b10ce28f9",
         "iosHash": "160de6ea5417ad7935b15d1f2dfa3058",
         "windowsHash": "6de28df7f380e6b7c5a4a1e2c4b216ce"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_01_0109_004",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 250113,
+        "iosFileSize": 255458,
+        "windowsFileSize": 233334,
+        "androidHash": "8a178fb6bc6d64dc7b15ad51ae0c2b2a",
+        "iosHash": "6fc44373bbcb0e3d39a127ec8238976c",
+        "windowsHash": "43d85b5a35fd3c9d2bf5c1f1277cbb58"
       },
       {
         "assetBundleName": "asset_bundle/character_job_spine/character_job_spine_02_0077_100",
@@ -19636,6 +19936,30 @@
         "windowsHash": "3ca255dbd3532eb549166873d1e40612"
       },
       {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010011012",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 552580,
+        "iosFileSize": 634708,
+        "windowsFileSize": 805358,
+        "androidHash": "ef3f9021bfa28da1b57d1de16ae9bc39",
+        "iosHash": "20cd43123c701640d94cb06302a7e328",
+        "windowsHash": "0602d0a4737576814b77e03bab2ebef0"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010011013",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 481163,
+        "iosFileSize": 534778,
+        "windowsFileSize": 674420,
+        "androidHash": "72d7db40f9c1cddec7c748955352128e",
+        "iosHash": "5e58d470de3a439524a79059435ae4b8",
+        "windowsHash": "7772be98d1173aded04c602265172c7c"
+      },
+      {
         "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010011014",
         "downloadType": 0,
         "expireType": 0,
@@ -20954,6 +21278,30 @@
         "androidHash": "41eb6cfa97f59f7774b5c452c7d85cd9",
         "iosHash": "72b57d97725ef90e35c412e84528cccc",
         "windowsHash": "d7a9c396b8133393ac75852d3b0d0285"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010036002",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 698547,
+        "iosFileSize": 788584,
+        "windowsFileSize": 1007219,
+        "androidHash": "343e45d1cc97cb7bf20952a04f68b209",
+        "iosHash": "ac803acef82ee2bf8b2860e91a490796",
+        "windowsHash": "3312ce693678a1a1f4f50b6becb1b047"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010036010",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 578517,
+        "iosFileSize": 636931,
+        "windowsFileSize": 818772,
+        "androidHash": "a983949bf9ebbeb7ac13a19730e09327",
+        "iosHash": "5be01082b672247125cda8c09ff3a1df",
+        "windowsHash": "6eca4b250ca9b2949f658045a98eaf94"
       },
       {
         "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010036021",
@@ -23680,6 +24028,102 @@
         "windowsHash": "bf1e6e8245c27b21804ade7ba8695296"
       },
       {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010091007",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 631376,
+        "iosFileSize": 728368,
+        "windowsFileSize": 927541,
+        "androidHash": "5dbb14659152e94512e529c20696ca35",
+        "iosHash": "f11322d3c2df2db76a1dcb503c732069",
+        "windowsHash": "9b044bb67dc4fbb66545f46bf4727477"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010091008",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 553760,
+        "iosFileSize": 640401,
+        "windowsFileSize": 1247919,
+        "androidHash": "d52180ef2e6636a12c996f066e8f95a2",
+        "iosHash": "fa34f72fde978d7c7674f36147bc0317",
+        "windowsHash": "f6cb4141c278b638ccb3f8ad5b7b0838"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010091116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 633283,
+        "iosFileSize": 674079,
+        "windowsFileSize": 851427,
+        "androidHash": "fd69a35b393b449c689d9ac641afa8b6",
+        "iosHash": "d3f6ddc34d1dd8dc6f03286624c185cb",
+        "windowsHash": "bc0b32818b1456596a97190a6ae308ac"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010091117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 497169,
+        "iosFileSize": 583951,
+        "windowsFileSize": 745205,
+        "androidHash": "b8b23036e6480fa5ad85595e056ff055",
+        "iosHash": "6aa270e7687a70036170644943ec3cca",
+        "windowsHash": "1e245e19e548f0760e964948f215aa5e"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010091118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 484605,
+        "iosFileSize": 588764,
+        "windowsFileSize": 747263,
+        "androidHash": "982a44d7e0e8bb920c9bd31bd3d75e9c",
+        "iosHash": "20cb6d6261e90743a2599ed24e203ceb",
+        "windowsHash": "271421c32f716dfee1c07f5f51331fae"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010092116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 696918,
+        "iosFileSize": 734077,
+        "windowsFileSize": 926907,
+        "androidHash": "e15422efa7241e0cdc928865ebc1e7e8",
+        "iosHash": "e888aef374ffcb06685c23b34761df2c",
+        "windowsHash": "cbbedb148b8a86a47412b7266d8c398a"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010092119",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 497738,
+        "iosFileSize": 535993,
+        "windowsFileSize": 678388,
+        "androidHash": "9876e4b1b0f0afa78da709c2808d36bb",
+        "iosHash": "efa7d4840e269fc0f3bd226e28f40577",
+        "windowsHash": "d5bbf604dec771821a70844e9a206462"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010092120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 490802,
+        "iosFileSize": 529155,
+        "windowsFileSize": 669153,
+        "androidHash": "558e677d9c64fd9a3f1164147e6f4903",
+        "iosHash": "22dec5371546459ed8879aeeda29b248",
+        "windowsHash": "a59a40bcacf1ba3dcc9d950c6bf1c455"
+      },
+      {
         "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010093001",
         "downloadType": 0,
         "expireType": 0,
@@ -23906,6 +24350,18 @@
         "androidHash": "5261debc529dacad6b00a348ba8bcea9",
         "iosHash": "a942249d65509aa528d99c7da4cb08b9",
         "windowsHash": "7638494ddbeb73a195e92fc76147f7c0"
+      },
+      {
+        "assetBundleName": "asset_bundle/character_talk_spine/character_job_spine_010109004",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 528581,
+        "iosFileSize": 573322,
+        "windowsFileSize": 718133,
+        "androidHash": "51c2db68e8e99dbbe33c22275ece0b87",
+        "iosHash": "449e0d25867b4622e19f2eed84fd9ca8",
+        "windowsHash": "b35e0be72af04b6ceb65062a20fd3ce2"
       },
       {
         "assetBundleName": "asset_bundle/character_talk_spine/enemy_spine_01_0001_01_s",
@@ -34312,6 +34768,66 @@
         "windowsHash": "acd39721731f2e73ae79a30b529622ea"
       },
       {
+        "assetBundleName": "asset_bundle/loading_icon/loading_icon_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 24653,
+        "iosFileSize": 25832,
+        "windowsFileSize": 25247,
+        "androidHash": "992e053b497514b31adfeffca7df3b49",
+        "iosHash": "56a823e93aa14787f04911900ea59e7e",
+        "windowsHash": "4eb5d664acc98555f2e53e40a718a477"
+      },
+      {
+        "assetBundleName": "asset_bundle/loading_icon/loading_icon_117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 105865,
+        "iosFileSize": 107052,
+        "windowsFileSize": 106527,
+        "androidHash": "511fed801c42ab2c431247e26e402511",
+        "iosHash": "780e44e8bca5870bb3ccaa8df45dc9a0",
+        "windowsHash": "c5f16590f1436990d79b68a30e9ee75c"
+      },
+      {
+        "assetBundleName": "asset_bundle/loading_icon/loading_icon_118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 105846,
+        "iosFileSize": 107036,
+        "windowsFileSize": 106516,
+        "androidHash": "6103306126cbb98750efff1c3a9542d6",
+        "iosHash": "ca0d8a531dd9085adbb9a094dd050a52",
+        "windowsHash": "d322bbda43e3fba6ba0d1e824fefd18c"
+      },
+      {
+        "assetBundleName": "asset_bundle/loading_icon/loading_icon_119",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 105891,
+        "iosFileSize": 107074,
+        "windowsFileSize": 106553,
+        "androidHash": "035cf3d59d00a28e127c4a4cc2114f17",
+        "iosHash": "c3ba2925357885bc34fd31cc461a0a63",
+        "windowsHash": "71951f5afdef0aa1975b36c881e2cb5c"
+      },
+      {
+        "assetBundleName": "asset_bundle/loading_icon/loading_icon_120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 105901,
+        "iosFileSize": 107085,
+        "windowsFileSize": 106562,
+        "androidHash": "0209239585781b748c3aec7ad2839173",
+        "iosHash": "74b6f15fed5b2c9965683f4a8ba435fc",
+        "windowsHash": "6dde996d4004539bc8d0d5f875783672"
+      },
+      {
         "assetBundleName": "asset_bundle/map/legion_core",
         "downloadType": 0,
         "expireType": 0,
@@ -36740,72 +37256,72 @@
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 3920973,
-        "iosFileSize": 4033178,
-        "windowsFileSize": 4080582,
-        "androidHash": "c9e49e074ff2f24700da9ab67e10a804",
-        "iosHash": "979e7f6b88b359301d25625a57a80932",
-        "windowsHash": "0ba90f60ea151918ccb67835b8f50ea4"
+        "androidFileSize": 3994252,
+        "iosFileSize": 4127443,
+        "windowsFileSize": 4205538,
+        "androidHash": "d6989a96e8b18c3a1ede24f316789587",
+        "iosHash": "384c73010ca35621e9eb8e142cea7b9b",
+        "windowsHash": "cab9619c283831063209e45921b46383"
       },
       {
         "assetBundleName": "asset_bundle/mini_game/stage_group_01",
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 4183130,
-        "iosFileSize": 4281204,
-        "windowsFileSize": 4348302,
-        "androidHash": "c43ef22208bc6de387a897e55868ae5b",
-        "iosHash": "cfde6c6745b557053f3ad4b71b09b74f",
-        "windowsHash": "a612f1e1a10455d228b31783c1bf04dd"
+        "androidFileSize": 4284632,
+        "iosFileSize": 4387056,
+        "windowsFileSize": 4444644,
+        "androidHash": "da8a2b4c1a40dd0ecf464f863b330899",
+        "iosHash": "ef30804f551758009bca02618fd62d1d",
+        "windowsHash": "c921841603bc36f3f378d1c21864462a"
       },
       {
         "assetBundleName": "asset_bundle/mini_game/stage_group_02",
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 3462531,
-        "iosFileSize": 3575314,
-        "windowsFileSize": 3468856,
-        "androidHash": "69a1dc142c4a52cdb10d6bec516f1040",
-        "iosHash": "bff31e4ee5020891eaeec1335e671a8b",
-        "windowsHash": "f19220220a7d4fcf2cb09a3dfe6c39f2"
+        "androidFileSize": 3547776,
+        "iosFileSize": 3680470,
+        "windowsFileSize": 3553553,
+        "androidHash": "2f7be9970e748ba47d9d5810386c766d",
+        "iosHash": "d3ca5269d4a0f024dc2ebf9f48e56d07",
+        "windowsHash": "8aa34f44de5384452cbcdf7572f46caa"
       },
       {
         "assetBundleName": "asset_bundle/mini_game/stage_group_03",
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 4014703,
-        "iosFileSize": 4147359,
-        "windowsFileSize": 4228884,
-        "androidHash": "1ad9149dc6e066c25002b955d4afbcdf",
-        "iosHash": "93118f36906f9d5871977f28bbb4a5fd",
-        "windowsHash": "8846eb1ec0e452185bb8f444276d51de"
+        "androidFileSize": 4139986,
+        "iosFileSize": 4243063,
+        "windowsFileSize": 4343941,
+        "androidHash": "0c887a31e6a723721aac115e11be8e6e",
+        "iosHash": "3a651ef9e69f99cd911b5a3436966a53",
+        "windowsHash": "441679bb822db38e0be9b6137150a134"
       },
       {
         "assetBundleName": "asset_bundle/mini_game/stage_group_04",
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 4204952,
-        "iosFileSize": 4339628,
-        "windowsFileSize": 4414795,
-        "androidHash": "0a98f9c2b7e4d5b45f6aa63999cdbddf",
-        "iosHash": "6a8f7f16ea1433c4e8455fc76fa76325",
-        "windowsHash": "f9b1575b1d3b3775ff00d699b294da5f"
+        "androidFileSize": 4297182,
+        "iosFileSize": 4459026,
+        "windowsFileSize": 4508934,
+        "androidHash": "91fdb656d91322fe677428257219b7a6",
+        "iosHash": "aa337a9637a60fa323ea8ba70a09b49a",
+        "windowsHash": "2a96345155098c833cf0ce65166d2f58"
       },
       {
         "assetBundleName": "asset_bundle/mini_game/stage_group_05",
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 4134634,
-        "iosFileSize": 4340334,
-        "windowsFileSize": 4332737,
-        "androidHash": "b29a154aace70fc498cebec620a5a569",
-        "iosHash": "66fd0dcd6283d73e6dd7ba492af0bd04",
-        "windowsHash": "96af95f3f42891efbe3cc11e3f3b5bb2"
+        "androidFileSize": 4242617,
+        "iosFileSize": 4445450,
+        "windowsFileSize": 4432898,
+        "androidHash": "561ce2e6719579d92ba4fb83ba6ebfb5",
+        "iosHash": "5a24a9042fa6ae030deff1697c3c18ca",
+        "windowsHash": "833e33cae7ccdf19aca1e186633b717f"
       },
       {
         "assetBundleName": "asset_bundle/mini_game_eat/mini_game_eat_stage_data_001",
@@ -46828,6 +47344,246 @@
         "windowsHash": "b18e639db7376aa7641959a445daec63"
       },
       {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_01",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 12458,
+        "iosFileSize": 12458,
+        "windowsFileSize": 12458,
+        "androidHash": "b333fe1eeb8212eb97626df5265ec25e",
+        "iosHash": "52fed5267748ac4f1d19aed65ca4ad2c",
+        "windowsHash": "8952eecf90aa1004f1c7d34ece122425"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_02",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 13400,
+        "iosFileSize": 13400,
+        "windowsFileSize": 13400,
+        "androidHash": "c0c9a7d7baee52789209817d7b3bedd2",
+        "iosHash": "893b33284bcebe8e3548c9a97a373a0a",
+        "windowsHash": "37cfd64c0443cb438bf0dbc8d8b5ed80"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_03",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 9508,
+        "iosFileSize": 9508,
+        "windowsFileSize": 9508,
+        "androidHash": "f3850053d78c6ef6c8ec1afb2ec92caf",
+        "iosHash": "a18de878eec326b6492701718c413388",
+        "windowsHash": "9019a663867249b63946de764980dd1b"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_04",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 10472,
+        "iosFileSize": 10472,
+        "windowsFileSize": 10472,
+        "androidHash": "53213732f87af0f50c9c5b3af4b3bfd1",
+        "iosHash": "e62be5aac952611b71771c69570577a6",
+        "windowsHash": "ec28c185b6c5c0547036818a8a348daa"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_05",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 11686,
+        "iosFileSize": 11686,
+        "windowsFileSize": 11686,
+        "androidHash": "9481c7de5eb1711eccac296a82d4a278",
+        "iosHash": "9e012fa3ad408997ed73b225effdef71",
+        "windowsHash": "38ec8688faf71839909d08a11c181a45"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_06",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 13443,
+        "iosFileSize": 13443,
+        "windowsFileSize": 13443,
+        "androidHash": "15ccb919125dceff74a55118d9b07441",
+        "iosHash": "584ad21a112e79d077f17d5a6c224401",
+        "windowsHash": "bfc31936e74e31e8e519891f34e79c67"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_07",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 11764,
+        "iosFileSize": 11764,
+        "windowsFileSize": 11764,
+        "androidHash": "612b76ec576a5e4eca1ff1dafe764608",
+        "iosHash": "b66a1f8582663d45c192e72e6ad50537",
+        "windowsHash": "ce9acd918d0f489441a1f95486f3b25b"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_08",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 6889,
+        "iosFileSize": 6889,
+        "windowsFileSize": 6889,
+        "androidHash": "5aefda27a660edaa563edc11d62c2446",
+        "iosHash": "69bb1203b59fc99f754089e27c9c581b",
+        "windowsHash": "07d10a991a93d1044f7cf2381c8eac80"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_09",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 7811,
+        "iosFileSize": 7811,
+        "windowsFileSize": 7811,
+        "androidHash": "9285280d43160faa0076ccaa43632fae",
+        "iosHash": "46566acdaf65904a5d79d2fa9047ef15",
+        "windowsHash": "c9610f6215b5881d77bc3d424899ea32"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_10",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 11808,
+        "iosFileSize": 11808,
+        "windowsFileSize": 11808,
+        "androidHash": "038f0fcf0b466210d452bfcb2fa0bcdb",
+        "iosHash": "10ad059be3c3ffbe17e75defd3baedca",
+        "windowsHash": "d0c903b7da3992012ecaafbcc60c5b5d"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_11",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 8545,
+        "iosFileSize": 8545,
+        "windowsFileSize": 8545,
+        "androidHash": "948a71e454581a4dad5ad05286083b16",
+        "iosHash": "d4397d7f91eec8d330d6a06743a7e413",
+        "windowsHash": "7ce0ffc8ca66e1f7a5098c22b6023166"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_12",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 7855,
+        "iosFileSize": 7855,
+        "windowsFileSize": 7855,
+        "androidHash": "33f2b1335300956f3fbf999b0aacc9c2",
+        "iosHash": "e2cc715a7374803b3635b6d36a10db9e",
+        "windowsHash": "69d9a990e1b25294b830bf4c0eda9f97"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_13",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 8945,
+        "iosFileSize": 8945,
+        "windowsFileSize": 8945,
+        "androidHash": "c5b220dbdb346fa43593090ec73e87c6",
+        "iosHash": "ad074c189dd9ae6fdd1ffed6a79ef5d4",
+        "windowsHash": "3d8b6a003e6b5044b1ecdc04a159ff5b"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_14",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 9350,
+        "iosFileSize": 9350,
+        "windowsFileSize": 9350,
+        "androidHash": "0fcfeba54d7b33d8aa1b968828fa5dfa",
+        "iosHash": "9ace0b036b6e294f342bf2fbb7306048",
+        "windowsHash": "a51f8bad258940b9510cc6ccda82d5bc"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_15",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 10251,
+        "iosFileSize": 10251,
+        "windowsFileSize": 10251,
+        "androidHash": "4473b809d6dcb891cca7fcad55a3d591",
+        "iosHash": "2caefcb9c9d49e4cbdc2f6fc20920d2b",
+        "windowsHash": "079a49afad651113e46c659b3c8c15e1"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_16",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 8048,
+        "iosFileSize": 8048,
+        "windowsFileSize": 8048,
+        "androidHash": "f4ff247bf90072a4ee2bbd96e7f30868",
+        "iosHash": "52b938d5022c5be7d19147ef65a41ea8",
+        "windowsHash": "7fa94693b0927e8adb7e2563948f7e7d"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_17",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 7337,
+        "iosFileSize": 7337,
+        "windowsFileSize": 7337,
+        "androidHash": "3f5b3046f339e48f10f010280027b8ae",
+        "iosHash": "54c6809568e1eca21bdeef2ed782fe62",
+        "windowsHash": "0a2c05b99c139820edd32fbd29629b3a"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_18",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 9011,
+        "iosFileSize": 9011,
+        "windowsFileSize": 9011,
+        "androidHash": "91aad45d9d9f7945a786de8783198fb5",
+        "iosHash": "03dcae8fad51d19d80c2efc50c1ce8ca",
+        "windowsHash": "cba39a83f77ce1af293eb4677e35140b"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_19",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 12148,
+        "iosFileSize": 12148,
+        "windowsFileSize": 12148,
+        "androidHash": "07a1a857ed72332e93eb0cbcef43c19a",
+        "iosHash": "b96c90f86565f1052aaf9faa9256080a",
+        "windowsHash": "ae4010fefd4b13046feb62fd96277844"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_event_rezero_20",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 10150,
+        "iosFileSize": 10150,
+        "windowsFileSize": 10150,
+        "androidHash": "76aac4eb7aad79720bd0df1859b3f051",
+        "iosHash": "0dc3689360aa2017b9f219c78e656527",
+        "windowsHash": "56c8c91d32830771e89ae77aa01ba062"
+      },
+      {
         "assetBundleName": "asset_bundle/plot_scenario/story_event_risu_01",
         "downloadType": 0,
         "expireType": 0,
@@ -48644,12 +49400,12 @@
         "downloadType": 0,
         "expireType": 0,
         "ignoreBuildIn": false,
-        "androidFileSize": 12198,
-        "iosFileSize": 12198,
-        "windowsFileSize": 12198,
-        "androidHash": "6c3d97d20265f1867c974a73233460b6",
-        "iosHash": "8eab0e150f329f6ca62623698334b04b",
-        "windowsHash": "d6a8cdf993cb8c7323ecf24aa733ab66"
+        "androidFileSize": 12215,
+        "iosFileSize": 12215,
+        "windowsFileSize": 12215,
+        "androidHash": "64099508e64552b7182cc331cc136c7b",
+        "iosHash": "6309ddb29833113bb120e024a0793447",
+        "windowsHash": "e1a5839cc2ea6ed2a03b12d7537924a8"
       },
       {
         "assetBundleName": "asset_bundle/plot_scenario/story_event_vilan_10",
@@ -57460,6 +58216,30 @@
         "windowsHash": "9a64356d74c21691e5a7c5a5dc2b8bbd"
       },
       {
+        "assetBundleName": "asset_bundle/plot_scenario/story_memoria_yugure_01",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 7749,
+        "iosFileSize": 7749,
+        "windowsFileSize": 7749,
+        "androidHash": "eda83137dd091b6d3d02982faeeecff1",
+        "iosHash": "ce2bce0548948a7613b045975d3f91e9",
+        "windowsHash": "e8d59a36a7c3af8149ad46343ae098f0"
+      },
+      {
+        "assetBundleName": "asset_bundle/plot_scenario/story_memoria_yugure_02",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 9352,
+        "iosFileSize": 9352,
+        "windowsFileSize": 9352,
+        "androidHash": "bbd7dbaff6e7b49dda370c05a80ddde4",
+        "iosHash": "ada90f2a970067f2248d07d4e0624cc7",
+        "windowsHash": "231fe4f73b8704f270ba078082b7970e"
+      },
+      {
         "assetBundleName": "asset_bundle/plot_scenario/story_misorak_0001",
         "downloadType": 0,
         "expireType": 0,
@@ -59699,9 +60479,9 @@
         "androidFileSize": 221291,
         "iosFileSize": 367412,
         "windowsFileSize": 353510,
-        "androidHash": "6ce25af84a6eeb884c1f69a632d6049f",
-        "iosHash": "fa1e00ac11c45c33a58fb14022c8fde6",
-        "windowsHash": "34bbdd207c71554e91cc2b8146012851"
+        "androidHash": "b5b7af890ecd27bda4005be1c7833011",
+        "iosHash": "8be7fe8041f5080fa291003ceda2f94d",
+        "windowsHash": "d30bc097bf52d0f7490c6301cbaa5c52"
       },
       {
         "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0001_096",
@@ -60052,6 +60832,78 @@
         "windowsHash": "f16ed4dc9b4e41e5a69f7a09c5420e0a"
       },
       {
+        "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0091_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 224119,
+        "iosFileSize": 385306,
+        "windowsFileSize": 365815,
+        "androidHash": "9d621a8a6b0c81b0d572a09665b10f11",
+        "iosHash": "e7cd1abd5e79feed756327306aef3d6a",
+        "windowsHash": "2d812f7a69ad7ba12b007b2bc4d5928a"
+      },
+      {
+        "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0091_117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 217400,
+        "iosFileSize": 342950,
+        "windowsFileSize": 332010,
+        "androidHash": "7ca41a12de0e4866ce4bd6aec0af682c",
+        "iosHash": "b9ee6e168adfb1914907d69fbc92d174",
+        "windowsHash": "e15a5bcc8773c21ad088c71fb6ec99ab"
+      },
+      {
+        "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0091_118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 205555,
+        "iosFileSize": 323806,
+        "windowsFileSize": 313871,
+        "androidHash": "45dfd6ecad59832f74c5dbc974a4c74b",
+        "iosHash": "71abdef26e024497e6bbe06fb8e0fb1f",
+        "windowsHash": "cb82af092cafc7b54dc89b1a47e81626"
+      },
+      {
+        "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0092_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 224131,
+        "iosFileSize": 385317,
+        "windowsFileSize": 365822,
+        "androidHash": "896acfbb8c0b289737813f0b4b9c0ea8",
+        "iosHash": "91b86c1a695199d0ad6348a167216376",
+        "windowsHash": "2315e1d5cdc25a4405eb8572df9e5435"
+      },
+      {
+        "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0092_119",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 217426,
+        "iosFileSize": 342958,
+        "windowsFileSize": 332012,
+        "androidHash": "78f3a0f742fa1c3d19e32d4ceb5982ba",
+        "iosHash": "d4287a1ca05c04a66a5f1199194868eb",
+        "windowsHash": "88c08aee96ac5126bd69d8dac293e0e1"
+      },
+      {
+        "assetBundleName": "asset_bundle/rare_skill_spine/character_job_skill_spine_0092_120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 205564,
+        "iosFileSize": 323823,
+        "windowsFileSize": 313888,
+        "androidHash": "ccb8268db7e9a6c79d210d24e4ea0bd0",
+        "iosHash": "25819de2f3f5be7a9c676be2ac3a610f",
+        "windowsHash": "748de11477061910964282c55fbdd149"
+      },
+      {
         "assetBundleName": "asset_bundle/touch_effect/touch_effect_1",
         "downloadType": 0,
         "expireType": 0,
@@ -60208,6 +61060,54 @@
         "windowsHash": "12134bf16c3e9af6219e95b58d24900d"
       },
       {
+        "assetBundleName": "asset_bundle/touch_effect/touch_effect_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128713,
+        "iosFileSize": 126470,
+        "windowsFileSize": 128555,
+        "androidHash": "be6dfea3ab899647db1f525fab99511d",
+        "iosHash": "e9a730e10c2fd94b1109bab89d9dcfcd",
+        "windowsHash": "df801dcbe988273ef0359a880351c365"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect/touch_effect_117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128616,
+        "iosFileSize": 126373,
+        "windowsFileSize": 128455,
+        "androidHash": "e1985115ae35367adfedda2ee9ab5c2d",
+        "iosHash": "797952b6c2a5cf9483b1b5094f1c5247",
+        "windowsHash": "05a8e5e7127c7ef14d161d600834c1a5"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect/touch_effect_118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128746,
+        "iosFileSize": 126498,
+        "windowsFileSize": 128584,
+        "androidHash": "b87458cfa3920ea52499f850a532e970",
+        "iosHash": "532294f413f1463073dffd03dc6db940",
+        "windowsHash": "fba5d3ff30a85fa9423a91d7bd26dec2"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect/touch_effect_119",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128797,
+        "iosFileSize": 126555,
+        "windowsFileSize": 128643,
+        "androidHash": "a6b4fff3e646248a07be1b16db1c59df",
+        "iosHash": "c58cb60386c64c17a8207baa4f236bce",
+        "windowsHash": "18a22940ae0df25b3be3b9f123ca2983"
+      },
+      {
         "assetBundleName": "asset_bundle/touch_effect/touch_effect_12",
         "downloadType": 0,
         "expireType": 0,
@@ -60218,6 +61118,18 @@
         "androidHash": "90ed050664fa565bfc07ee168f2f8cc5",
         "iosHash": "0aac0f1e854b61bb49c475d5a03e2099",
         "windowsHash": "2e0b370172560050de0a1228fe8dd399"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect/touch_effect_120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128766,
+        "iosFileSize": 126519,
+        "windowsFileSize": 128607,
+        "androidHash": "365f59143904422003d57e86506620a6",
+        "iosHash": "eab8eb420478520125690426585f7012",
+        "windowsHash": "84ddd2663cdfd254cba8a1d31f63146c"
       },
       {
         "assetBundleName": "asset_bundle/touch_effect/touch_effect_13",
@@ -61264,6 +62176,54 @@
         "windowsHash": "e097b14974dac05e337d5ab666d75aaf"
       },
       {
+        "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_116",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128646,
+        "iosFileSize": 126398,
+        "windowsFileSize": 128490,
+        "androidHash": "2713309d168038b049daf0b39af08cd6",
+        "iosHash": "1daa8514a8ed847f23d3ab0e39faad46",
+        "windowsHash": "8d299814b3000af9a8898706cef601a0"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_117",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128659,
+        "iosFileSize": 126415,
+        "windowsFileSize": 128506,
+        "androidHash": "a31a72bc57820dd78a94c81bc5d9e490",
+        "iosHash": "5ec92216cc55167bd3c6f5beba9dcb62",
+        "windowsHash": "5acf4a6e6387c68a4fa1fd191389790a"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_118",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128927,
+        "iosFileSize": 126677,
+        "windowsFileSize": 128771,
+        "androidHash": "d6da5016f4ab1283357c2640bcc58243",
+        "iosHash": "733d9c5fb8d3c2bd9b6a2fee4bb519f0",
+        "windowsHash": "6e3e8069f38fe639106e095223138196"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_119",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128955,
+        "iosFileSize": 126705,
+        "windowsFileSize": 128795,
+        "androidHash": "da3509d1e351131979747720c35a4e4b",
+        "iosHash": "6c36763f622e704d75a89c1b61055d43",
+        "windowsHash": "d3f936fca5a45853352a665e42313bd6"
+      },
+      {
         "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_12",
         "downloadType": 0,
         "expireType": 0,
@@ -61274,6 +62234,18 @@
         "androidHash": "12b2eea0944e4e760a8439b28b647c2a",
         "iosHash": "728117dd2f5b21fa730a387b9095d1e3",
         "windowsHash": "9ce26eca10c1cdf894459b28ce889b17"
+      },
+      {
+        "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_120",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 128840,
+        "iosFileSize": 126596,
+        "windowsFileSize": 128688,
+        "androidHash": "6406560e529171b74b831d27d79ccc10",
+        "iosHash": "a981a089d8cce09b627e4a516b7e96d2",
+        "windowsHash": "76bb1e242b3614589a72425c30204480"
       },
       {
         "assetBundleName": "asset_bundle/touch_effect_distance/touch_effect_distance_13",
@@ -63842,6 +64814,18 @@
         "androidHash": "6d6cef6a46d38c960ffd25804d87f999",
         "iosHash": "7338c605c6b9bf591bb408bade305883",
         "windowsHash": "e3ead89f2c03a3589c15b9c31488832d"
+      },
+      {
+        "assetBundleName": "asset_bundle/weapon/weapon_0153",
+        "downloadType": 0,
+        "expireType": 0,
+        "ignoreBuildIn": false,
+        "androidFileSize": 36260,
+        "iosFileSize": 36722,
+        "windowsFileSize": 39380,
+        "androidHash": "466268095e09610ccbafb0760f2b976f",
+        "iosHash": "3ee48240281ce0d49f5d042cb98d9baf",
+        "windowsHash": "9b1b9ee1b3a4c40f2332e425caf524ac"
       }
     ]
   }

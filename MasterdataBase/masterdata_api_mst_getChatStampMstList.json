@@ -2114,6 +2114,18 @@
         "conditionValue2": 0,
         "startTime": 1697943600,
         "endTime": 1698721199
+      },
+      {
+        "chatStampMstId": 200,
+        "name": "ありがとう",
+        "characterMstId": 116,
+        "type": 3,
+        "howToGetText": "百合ヶ丘に咲う紫紺の花【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1698721200,
+        "endTime": 1699930799
       }
     ]
   }

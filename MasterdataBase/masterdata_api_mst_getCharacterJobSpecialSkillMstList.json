@@ -220,6 +220,24 @@
         "contentsType": 6
       },
       {
+        "characterJobSpecialSkillMstId": 1101200,
+        "characterJobMstId": 11012,
+        "characterJobSpecialSkillEffectMstId": 20102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 1101300,
+        "characterJobMstId": 11013,
+        "characterJobSpecialSkillEffectMstId": 20101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 1101301,
+        "characterJobMstId": 11013,
+        "characterJobSpecialSkillEffectMstId": 11100,
+        "contentsType": 6
+      },
+      {
         "characterJobSpecialSkillMstId": 1302100,
         "characterJobMstId": 13021,
         "characterJobSpecialSkillEffectMstId": 10101,
@@ -368,6 +386,24 @@
         "characterJobMstId": 33062,
         "characterJobSpecialSkillEffectMstId": 40100,
         "contentsType": 1
+      },
+      {
+        "characterJobSpecialSkillMstId": 3600200,
+        "characterJobMstId": 36002,
+        "characterJobSpecialSkillEffectMstId": 20102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 3601000,
+        "characterJobMstId": 36010,
+        "characterJobSpecialSkillEffectMstId": 20101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 3601001,
+        "characterJobMstId": 36010,
+        "characterJobSpecialSkillEffectMstId": 11100,
+        "contentsType": 6
       },
       {
         "characterJobSpecialSkillMstId": 4000700,
@@ -1570,6 +1606,78 @@
         "contentsType": 6
       },
       {
+        "characterJobSpecialSkillMstId": 9100700,
+        "characterJobMstId": 91007,
+        "characterJobSpecialSkillEffectMstId": 10101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9100701,
+        "characterJobMstId": 91007,
+        "characterJobSpecialSkillEffectMstId": 31100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9100800,
+        "characterJobMstId": 91008,
+        "characterJobSpecialSkillEffectMstId": 10102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9111600,
+        "characterJobMstId": 91116,
+        "characterJobSpecialSkillEffectMstId": 10101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9111601,
+        "characterJobMstId": 91116,
+        "characterJobSpecialSkillEffectMstId": 31100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9111700,
+        "characterJobMstId": 91117,
+        "characterJobSpecialSkillEffectMstId": 10101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9111701,
+        "characterJobMstId": 91117,
+        "characterJobSpecialSkillEffectMstId": 31100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9111800,
+        "characterJobMstId": 91118,
+        "characterJobSpecialSkillEffectMstId": 10102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9211600,
+        "characterJobMstId": 92116,
+        "characterJobSpecialSkillEffectMstId": 10102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9211900,
+        "characterJobMstId": 92119,
+        "characterJobSpecialSkillEffectMstId": 10102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9212000,
+        "characterJobMstId": 92120,
+        "characterJobSpecialSkillEffectMstId": 10101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 9212001,
+        "characterJobMstId": 92120,
+        "characterJobSpecialSkillEffectMstId": 31100,
+        "contentsType": 6
+      },
+      {
         "characterJobSpecialSkillMstId": 9300100,
         "characterJobMstId": 93001,
         "characterJobSpecialSkillEffectMstId": 20101,
@@ -1741,6 +1849,18 @@
         "characterJobSpecialSkillMstId": 10601601,
         "characterJobMstId": 106016,
         "characterJobSpecialSkillEffectMstId": 11100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 10900400,
+        "characterJobMstId": 109004,
+        "characterJobSpecialSkillEffectMstId": 10101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 10900401,
+        "characterJobMstId": 109004,
+        "characterJobSpecialSkillEffectMstId": 31100,
         "contentsType": 6
       }
     ]
