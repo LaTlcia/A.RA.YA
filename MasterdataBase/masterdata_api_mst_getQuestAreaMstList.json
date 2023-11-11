@@ -3364,6 +3364,30 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 719101,
+        "questMapMstId": 719,
+        "name": "メダルイベント",
+        "description": "カガヤキ☆アクトレス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 719201,
+        "questMapMstId": 719,
+        "name": "メダルイベント",
+        "description": "カガヤキ☆アクトレス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 720101,
+        "questMapMstId": 720,
+        "name": "ミニイベント",
+        "description": "プレストーリー富永真編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

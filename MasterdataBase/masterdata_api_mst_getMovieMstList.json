@@ -304,6 +304,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 10028,
+        "movieTitle": "誓いのリコネクト 予告",
+        "fileName": "Movie/Movie000599.usm",
+        "category": 1,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1699765200,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 20001,
         "movieTitle": "守護天使の誓い 予告",
         "fileName": "Movie/Movie000030.usm",
@@ -1651,6 +1661,16 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1698721200,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 20136,
+        "movieTitle": "カガヤキ☆アクトレス PV",
+        "fileName": "Movie/Movie000600.usm",
+        "category": 2,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1699671600,
         "endTime": -62170017539
       },
       {

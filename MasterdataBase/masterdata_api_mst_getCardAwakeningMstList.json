@@ -7250,6 +7250,38 @@
         "num5": 0,
         "price": 500000,
         "startTime": 1699412400
+      },
+      {
+        "cardAwakeningMstId": 100464,
+        "cardUniqueId": 10081015,
+        "itemMstId1": 2002700,
+        "num1": 15,
+        "itemMstId2": 2002800,
+        "num2": 80,
+        "itemMstId3": 2002900,
+        "num3": 80,
+        "itemMstId4": 0,
+        "num4": 0,
+        "itemMstId5": 0,
+        "num5": 0,
+        "price": 500000,
+        "startTime": 1699671600
+      },
+      {
+        "cardAwakeningMstId": 100465,
+        "cardUniqueId": 10109011,
+        "itemMstId1": 2002700,
+        "num1": 15,
+        "itemMstId2": 2002800,
+        "num2": 80,
+        "itemMstId3": 2002900,
+        "num3": 80,
+        "itemMstId4": 0,
+        "num4": 0,
+        "itemMstId5": 0,
+        "num5": 0,
+        "price": 500000,
+        "startTime": 1699844400
       }
     ]
   }

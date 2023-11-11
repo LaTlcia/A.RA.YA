@@ -3434,6 +3434,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10498,
+        "title": "カガヤキ☆アクトレス【個人】",
+        "completeMissionMstId": 10498001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10499,
+        "title": "カガヤキ☆アクトレス【レギオン】",
+        "completeMissionMstId": 10499001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10500,
+        "title": "カガヤキ☆アクトレス【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10501,
+        "title": "運命のトリニティ 一柳隊クライマックス",
+        "completeMissionMstId": 10501001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2318
+      },
+      {
+        "missionTitleMstId": 10502,
+        "title": "公開生放送応募ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10503,
+        "title": "公開生放送応募デイリーミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10504,
         "title": "コラボ開始記念キャンペーン",
         "completeMissionMstId": 0,
