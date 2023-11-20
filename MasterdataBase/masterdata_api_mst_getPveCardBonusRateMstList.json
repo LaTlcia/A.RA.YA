@@ -1,0 +1,7 @@
+{
+  "url": "/api/mst/getPveCardBonusRateMstList",
+  "status": 200,
+  "payload": {
+    "mstList": []
+  }
+}
