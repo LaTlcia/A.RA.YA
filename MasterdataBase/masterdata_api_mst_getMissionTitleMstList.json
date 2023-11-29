@@ -3525,11 +3525,46 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10511,
+        "title": "誓いのリコネクト【個人】",
+        "completeMissionMstId": 10511001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10512,
+        "title": "誓いのリコネクト【レギオン】",
+        "completeMissionMstId": 10512001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10513,
+        "title": "誓いのリコネクト【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10515,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10519,
+        "title": "メインストーリー 誓いのリコネクト投稿ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10521,
+        "title": "Merry Christmas!! 2023",
+        "completeMissionMstId": 10521001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2346
       },
       {
         "missionTitleMstId": 11020,

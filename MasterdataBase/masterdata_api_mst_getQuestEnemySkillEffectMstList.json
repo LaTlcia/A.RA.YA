@@ -21109,6 +21109,96 @@
         "showValueType": 4
       },
       {
+        "skillMstId": 16023101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023401,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20035,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023411,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20035,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023501,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20037,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
+        "skillMstId": 16023511,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20037,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+      },
+      {
         "skillMstId": 17013101,
         "motionId": 1,
         "activeEffectId": 0,

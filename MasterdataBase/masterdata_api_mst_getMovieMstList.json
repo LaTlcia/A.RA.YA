@@ -314,6 +314,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 10029,
+        "movieTitle": "誓いのリコネクト PV",
+        "fileName": "Movie/Movie000602.usm",
+        "category": 1,
+        "isCollection": true,
+        "isAlwaysOnAlbum": true,
+        "startTime": 1701313200,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 20001,
         "movieTitle": "守護天使の誓い 予告",
         "fileName": "Movie/Movie000030.usm",
@@ -3371,6 +3381,16 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1698980400,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30190,
+        "movieTitle": "ガチャ PV",
+        "fileName": "Movie/Movie000612.usm",
+        "category": 3,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1701745200,
         "endTime": -62170017539
       }
     ]

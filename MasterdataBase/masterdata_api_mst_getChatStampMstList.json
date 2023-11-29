@@ -2150,6 +2150,18 @@
         "conditionValue2": 0,
         "startTime": 1700622000,
         "endTime": 1701313199
+      },
+      {
+        "chatStampMstId": 203,
+        "name": "ウソやろ！？",
+        "characterMstId": 115,
+        "type": 3,
+        "howToGetText": "誓いのリコネクト【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1701313200,
+        "endTime": 1703991599
       }
     ]
   }

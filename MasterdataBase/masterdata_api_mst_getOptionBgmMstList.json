@@ -1127,7 +1127,7 @@
         "optionBgmMstId": 71,
         "type": 0,
         "mstId": 0,
-        "sortOrder": 130001,
+        "sortOrder": 140002,
         "title": "Adabana（1 Chorus ver）",
         "lyrics": "安藤紗々",
         "composition": "俊龍",
@@ -1137,6 +1137,38 @@
         "forceBgmStartTime": 1696042800,
         "forceBgmEndTime": 1697079599,
         "startTime": 1696042800,
+        "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 72,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 140001,
+        "title": "Adabana（2 Chorus ver）",
+        "lyrics": "安藤紗々",
+        "composition": "俊龍",
+        "arrangement": "gaze//he's me",
+        "cv": "一柳隊 with 早川弥宏・富永真",
+        "fileName": "bgm_outsource_107-001",
+        "forceBgmStartTime": 1701313200,
+        "forceBgmEndTime": 1702177199,
+        "startTime": 1701313200,
+        "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 73,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 140003,
+        "title": "Adabana（Full）",
+        "lyrics": "安藤紗々",
+        "composition": "俊龍",
+        "arrangement": "gaze//he's me",
+        "cv": "一柳隊 with 早川弥宏・富永真",
+        "fileName": "bgm_outsource_103-001",
+        "forceBgmStartTime": -62170017539,
+        "forceBgmEndTime": -62170017539,
+        "startTime": 1701313200,
         "endTime": -62170017539
       }
     ]

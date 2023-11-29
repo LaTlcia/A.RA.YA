@@ -3420,6 +3420,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 724101,
+        "questMapMstId": 724,
+        "name": "メダルイベント",
+        "description": "誓いのリコネクト",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 724201,
+        "questMapMstId": 724,
+        "name": "メダルイベント",
+        "description": "誓いのリコネクト",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
