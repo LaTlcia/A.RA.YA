@@ -1,0 +1,68 @@
+{
+  "url": "/api/mst/getUltimateGvgPreliminaryMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "ultimateGvgMstId": 1,
+        "grandGvgMstId": 17,
+        "preliminaryNo": 1,
+        "eventName": "第17回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 1,
+        "grandGvgMstId": 18,
+        "preliminaryNo": 2,
+        "eventName": "第18回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 2,
+        "grandGvgMstId": 20,
+        "preliminaryNo": 1,
+        "eventName": "2周年記念レギオンリーグ1st"
+      },
+      {
+        "ultimateGvgMstId": 2,
+        "grandGvgMstId": 21,
+        "preliminaryNo": 2,
+        "eventName": "2周年記念レギオンリーグ2nd"
+      },
+      {
+        "ultimateGvgMstId": 3,
+        "grandGvgMstId": 22,
+        "preliminaryNo": 1,
+        "eventName": "第22回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 3,
+        "grandGvgMstId": 23,
+        "preliminaryNo": 2,
+        "eventName": "第23回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 4,
+        "grandGvgMstId": 25,
+        "preliminaryNo": 1,
+        "eventName": "第25回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 4,
+        "grandGvgMstId": 26,
+        "preliminaryNo": 2,
+        "eventName": "第26回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 5,
+        "grandGvgMstId": 28,
+        "preliminaryNo": 1,
+        "eventName": "第28回レギオンリーグ"
+      },
+      {
+        "ultimateGvgMstId": 5,
+        "grandGvgMstId": 29,
+        "preliminaryNo": 2,
+        "eventName": "第29回レギオンリーグ"
+      }
+    ]
+  }
+}

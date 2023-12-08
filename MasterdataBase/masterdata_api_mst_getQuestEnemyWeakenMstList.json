@@ -1,0 +1,7 @@
+{
+  "url": "/api/mst/getQuestEnemyWeakenMstList",
+  "status": 200,
+  "payload": {
+    "mstList": []
+  }
+}
