@@ -1866,6 +1866,48 @@
         "endTime": 1704657599
       },
       {
+        "loginBonusMstId": 10094,
+        "title": "謹賀新年 2024ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3013001,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1704034800,
+        "endTime": 1705071599
+      },
+      {
+        "loginBonusMstId": 10095,
+        "title": "静かに肩を寄せてログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3013101,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1703793600,
+        "endTime": 1705089599
+      },
+      {
+        "loginBonusMstId": 10096,
+        "title": "3rdAnniversaryカウントダウンログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3013201,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1705089600,
+        "endTime": 1705953599
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

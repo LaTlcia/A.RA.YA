@@ -2186,6 +2186,30 @@
         "conditionValue2": 0,
         "startTime": 1702177200,
         "endTime": 1703991599
+      },
+      {
+        "chatStampMstId": 206,
+        "name": "あけおめ☆",
+        "characterMstId": 12,
+        "type": 3,
+        "howToGetText": "龍炎舞踊のエージェント【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1703991600,
+        "endTime": 1704898799
+      },
+      {
+        "chatStampMstId": 210,
+        "name": "ハートブレイク……",
+        "characterMstId": 50,
+        "type": 3,
+        "howToGetText": "ギガント級ヒュージ討伐【特別】で入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1704510000,
+        "endTime": 1705719599
       }
     ]
   }

@@ -1202,6 +1202,22 @@
         "forceBgmEndTime": 1703516399,
         "startTime": 1703041200,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 76,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 501,
+        "title": "カンフー・シークレット ",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_73-001",
+        "forceBgmStartTime": 1704034800,
+        "forceBgmEndTime": 1704898799,
+        "startTime": 1704034800,
+        "endTime": -62170017539
       }
     ]
   }

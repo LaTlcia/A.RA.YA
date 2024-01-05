@@ -756,6 +756,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4126,
+        "questMapMstId": 4,
+        "name": "26話",
+        "description": "崩れゆくもの",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4127,
+        "questMapMstId": 4,
+        "name": "27話",
+        "description": "上陸",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4128,
+        "questMapMstId": 4,
+        "name": "28話",
+        "description": "立ちはだかるもの",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4129,
+        "questMapMstId": 4,
+        "name": "29話",
+        "description": "想いの行き先",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -952,6 +984,38 @@
         "questMapMstId": 4,
         "name": "25話",
         "description": "手放してしまったもの",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4226,
+        "questMapMstId": 4,
+        "name": "26話",
+        "description": "崩れゆくもの",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4227,
+        "questMapMstId": 4,
+        "name": "27話",
+        "description": "上陸",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4228,
+        "questMapMstId": 4,
+        "name": "28話",
+        "description": "立ちはだかるもの",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4229,
+        "questMapMstId": 4,
+        "name": "29話",
+        "description": "想いの行き先",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -3494,6 +3558,54 @@
       {
         "questAreaMstId": 729101,
         "questMapMstId": 729,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 730101,
+        "questMapMstId": 730,
+        "name": "ミニイベント",
+        "description": "静かに肩を寄せて",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 731101,
+        "questMapMstId": 731,
+        "name": "メダルイベント",
+        "description": "龍炎舞踊のエージェント",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 731201,
+        "questMapMstId": 731,
+        "name": "メダルイベント",
+        "description": "龍炎舞踊のエージェント",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 732101,
+        "questMapMstId": 732,
+        "name": "メダルイベント",
+        "description": "可惜夜に響く鐘",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 732201,
+        "questMapMstId": 732,
+        "name": "メダルイベント",
+        "description": "可惜夜に響く鐘",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 733101,
+        "questMapMstId": 733,
         "name": "ミニイベント",
         "description": "ふじの食堂",
         "mode": 1,

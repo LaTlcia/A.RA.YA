@@ -3658,8 +3658,78 @@
         "completeResourceId": 2345
       },
       {
+        "missionTitleMstId": 10531,
+        "title": "龍炎舞踊のエージェント【個人】",
+        "completeMissionMstId": 10531001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10532,
+        "title": "龍炎舞踊のエージェント【レギオン】",
+        "completeMissionMstId": 10532001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10533,
+        "title": "龍炎舞踊のエージェント【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10534,
         "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10535,
+        "title": "楓誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10536,
+        "title": "謹賀新年 2024",
+        "completeMissionMstId": 10536001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2415
+      },
+      {
+        "missionTitleMstId": 10537,
+        "title": "可惜夜に響く鐘【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10538,
+        "title": "ギガント級ヒュージ討伐【特別】",
+        "completeMissionMstId": 10538001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10539,
+        "title": "「LCS決勝配信」を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10540,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10541,
+        "title": "「ラスバレ放送局」を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0
