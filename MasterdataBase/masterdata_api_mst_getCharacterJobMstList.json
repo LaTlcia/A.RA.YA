@@ -18586,7 +18586,7 @@
         "mainWeaponMode": 1,
         "hairType": 1,
         "costumeFixedPositionType": 3,
-        "isSetExclusiveWeaponOnly": false,
+        "isSetExclusiveWeaponOnly": true,
         "bonusWeaponMstId": 201796,
         "bonusSubWeaponMstId": 201806,
         "supportSkillMstId1": 30010401,
