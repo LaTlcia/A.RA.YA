@@ -2172,6 +2172,38 @@
         "num": 200
       },
       {
+        "gigantHugeRewardGroupMstId": 4001100,
+        "rewardGroupId": 400101,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1024500,
+        "num": 10
+      },
+      {
+        "gigantHugeRewardGroupMstId": 4001200,
+        "rewardGroupId": 400102,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1024500,
+        "num": 35
+      },
+      {
+        "gigantHugeRewardGroupMstId": 4001300,
+        "rewardGroupId": 400103,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1024500,
+        "num": 130
+      },
+      {
+        "gigantHugeRewardGroupMstId": 4001400,
+        "rewardGroupId": 400104,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1024500,
+        "num": 450
+      },
+      {
         "gigantHugeRewardGroupMstId": 20010101,
         "rewardGroupId": 200101,
         "rewardType": 3,

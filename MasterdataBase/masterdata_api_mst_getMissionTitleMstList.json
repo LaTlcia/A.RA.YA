@@ -32,6 +32,13 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 6,
+        "title": "「広告動画を視聴しよう」ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 1001,
         "title": "初心者ミッション",
         "completeMissionMstId": 0,
@@ -3730,6 +3737,55 @@
       {
         "missionTitleMstId": 10541,
         "title": "「ラスバレ放送局」を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10542,
+        "title": "Dreamin'☆Celebration【個人】",
+        "completeMissionMstId": 10542001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10543,
+        "title": "Dreamin'☆Celebration【レギオン】",
+        "completeMissionMstId": 10543001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10544,
+        "title": "Dreamin'☆Celebration【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10545,
+        "title": "3rd Anniv. DREAMプレシャス",
+        "completeMissionMstId": 10545001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2477
+      },
+      {
+        "missionTitleMstId": 10546,
+        "title": "3周年記念ともだち招待キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10547,
+        "title": "招待キャンペーン対象ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10548,
+        "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

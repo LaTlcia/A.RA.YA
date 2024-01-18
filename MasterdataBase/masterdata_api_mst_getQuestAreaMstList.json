@@ -788,6 +788,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4130,
+        "questMapMstId": 4,
+        "name": "30話",
+        "description": "青空の果て",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4131,
+        "questMapMstId": 4,
+        "name": "31話",
+        "description": "祝福の守護天使",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -1016,6 +1032,22 @@
         "questMapMstId": 4,
         "name": "29話",
         "description": "想いの行き先",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4230,
+        "questMapMstId": 4,
+        "name": "30話",
+        "description": "青空の果て",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4231,
+        "questMapMstId": 4,
+        "name": "31話",
+        "description": "祝福の守護天使",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -3608,6 +3640,38 @@
         "questMapMstId": 733,
         "name": "ミニイベント",
         "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 734101,
+        "questMapMstId": 734,
+        "name": "メダルイベント",
+        "description": "Dreamin'☆Celebration",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 734201,
+        "questMapMstId": 734,
+        "name": "メダルイベント",
+        "description": "Dreamin'☆Celebration",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 735101,
+        "questMapMstId": 735,
+        "name": "ミニイベント",
+        "description": "3rd Anniv. DREAM Party",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 736101,
+        "questMapMstId": 736,
+        "name": "ミニイベント",
+        "description": "3rd Anniv. DREAM Party",
         "mode": 1,
         "hasNextComingSoon": false
       },

@@ -496,6 +496,18 @@
         "endTime": 1683471599
       },
       {
+        "chatStampMstId": 43,
+        "name": "はっはぁはぁ",
+        "characterMstId": 17,
+        "type": 3,
+        "howToGetText": "「ケイブ頻出区域出撃任務」で入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1705564800,
+        "endTime": 1924959599
+      },
+      {
         "chatStampMstId": 46,
         "name": "ふぅん？",
         "characterMstId": 99999,
@@ -2156,12 +2168,12 @@
         "name": "ウソやろ！？",
         "characterMstId": 115,
         "type": 3,
-        "howToGetText": "誓いのリコネクト【個人】特別ミッションで入手可能",
+        "howToGetText": "メインストーリー「運命のトリニティ」HARD31話ステージ03クリアで入手可能",
         "transitionSceneName": "NULL",
         "conditionValue1": 0,
         "conditionValue2": 0,
         "startTime": 1701313200,
-        "endTime": 1703991599
+        "endTime": 1924959599
       },
       {
         "chatStampMstId": 204,
@@ -2200,6 +2212,42 @@
         "endTime": 1704898799
       },
       {
+        "chatStampMstId": 207,
+        "name": "祝3周年！！！",
+        "characterMstId": 1,
+        "type": 1,
+        "howToGetText": "「3rdAnniv.160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1705719600,
+        "endTime": 1709009999
+      },
+      {
+        "chatStampMstId": 208,
+        "name": "推ししか勝たん",
+        "characterMstId": 17,
+        "type": 3,
+        "howToGetText": "「3rdAnniv.160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1705719600,
+        "endTime": 1709009999
+      },
+      {
+        "chatStampMstId": 209,
+        "name": "完全に理解",
+        "characterMstId": 26,
+        "type": 4,
+        "howToGetText": "「3rdAnniv.160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1705719600,
+        "endTime": 1709009999
+      },
+      {
         "chatStampMstId": 210,
         "name": "ハートブレイク……",
         "characterMstId": 50,
@@ -2210,6 +2258,18 @@
         "conditionValue2": 0,
         "startTime": 1704510000,
         "endTime": 1705719599
+      },
+      {
+        "chatStampMstId": 211,
+        "name": "カンパイ☆",
+        "characterMstId": 2,
+        "type": 1,
+        "howToGetText": "Dreamin'☆Celebration【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1705719600,
+        "endTime": 1707620399
       }
     ]
   }

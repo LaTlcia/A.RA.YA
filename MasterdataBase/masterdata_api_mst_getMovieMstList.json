@@ -1744,6 +1744,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 20143,
+        "movieTitle": "Dreamin'☆Celebration PV",
+        "fileName": "Movie/Movie000618.usm",
+        "category": 2,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1705719600,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 30001,
         "movieTitle": "梨璃と二水のラスバレ攻略講座①",
         "fileName": "Movie/Movie000064.usm",
@@ -3431,6 +3441,26 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1701745200,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30191,
+        "movieTitle": "ガチャ PV",
+        "fileName": "Movie/Movie000617.usm",
+        "category": 3,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1706410800,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30192,
+        "movieTitle": "3周年キャンペーンPV",
+        "fileName": "Movie/Movie000619.usm",
+        "category": 3,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1705719600,
         "endTime": -62170017539
       }
     ]
