@@ -72,6 +72,20 @@
         "eventImageId": 4,
         "announceMstId": 4915,
         "homeAppealImageId": 1783
+      },
+      {
+        "ultimateGvgMstId": 6,
+        "grandGvgMstId": 10005,
+        "preliminaryStartTime": 1706688000,
+        "preliminaryEndTime": 1710827999,
+        "gvgStartTime": 1710828000,
+        "gvgEndTime": 1712674799,
+        "resultStartTime": 1712736000,
+        "resultEndTime": 1713106799,
+        "eventName": "レギオンチャンピオンシップ チューリップ杯",
+        "eventImageId": 1,
+        "announceMstId": 5219,
+        "homeAppealImageId": 1783
       }
     ]
   }

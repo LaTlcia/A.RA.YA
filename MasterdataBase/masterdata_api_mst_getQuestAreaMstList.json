@@ -804,6 +804,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4132,
+        "questMapMstId": 4,
+        "name": "32話",
+        "description": "凶兆",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4133,
+        "questMapMstId": 4,
+        "name": "33話",
+        "description": "青ヶ島上陸",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -1048,6 +1064,22 @@
         "questMapMstId": 4,
         "name": "31話",
         "description": "祝福の守護天使",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4232,
+        "questMapMstId": 4,
+        "name": "32話",
+        "description": "凶兆",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4233,
+        "questMapMstId": 4,
+        "name": "33話",
+        "description": "青ヶ島上陸",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -1544,6 +1576,22 @@
         "questMapMstId": 159,
         "name": "マルチバトル",
         "description": "Xmas直前！みんなで共闘バトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 160101,
+        "questMapMstId": 160,
+        "name": "マルチバトル",
+        "description": "3rd Anniv. DREAM ミスティック共闘バトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 161101,
+        "questMapMstId": 161,
+        "name": "マルチバトル",
+        "description": "3rd Anniv. DREAM ミスティック共闘バトル",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -2980,6 +3028,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 300101,
+        "questMapMstId": 300,
+        "name": "ミニイベント",
+        "description": "3rd Anniv. DREAM Party",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 301101,
         "questMapMstId": 301,
         "name": "マルチバトル",
@@ -3676,6 +3732,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 737101,
+        "questMapMstId": 737,
+        "name": "メダルイベント",
+        "description": "幻想スリリング・パーティ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 737201,
+        "questMapMstId": 737,
+        "name": "メダルイベント",
+        "description": "幻想スリリング・パーティ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -3712,6 +3784,14 @@
         "questMapMstId": 906,
         "name": "クライマックスADV",
         "description": "アラヤ喰ライマックス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 907101,
+        "questMapMstId": 907,
+        "name": "",
+        "description": "リリィサバイバル",
         "mode": 1,
         "hasNextComingSoon": false
       }

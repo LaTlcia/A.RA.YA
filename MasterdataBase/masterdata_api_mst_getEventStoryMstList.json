@@ -14172,6 +14172,28 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 30010101,
+        "questStageMstId": 30010101,
+        "title": "優美な花に誘われて",
+        "isFullVoice": false,
+        "fileName1": "story_memoria_010100114",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1706929200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30010102,
+        "questStageMstId": 30010102,
+        "title": "瞳の中のステラ",
+        "isFullVoice": false,
+        "fileName1": "story_memoria_010100050",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1706929200,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -17065,6 +17087,116 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 73710111,
+        "questStageMstId": 73710111,
+        "title": "1話:不思議な幻想-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_01",
+        "fileName2": "",
+        "imageId": 680001,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710112,
+        "questStageMstId": 73710112,
+        "title": "1話:不思議な幻想-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_02",
+        "fileName2": "",
+        "imageId": 680002,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710113,
+        "questStageMstId": 73710113,
+        "title": "1話:不思議な幻想-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_03",
+        "fileName2": "",
+        "imageId": 680003,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710114,
+        "questStageMstId": 73710114,
+        "title": "1話:不思議な幻想-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_04",
+        "fileName2": "",
+        "imageId": 680004,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710115,
+        "questStageMstId": 73710115,
+        "title": "2話:尊しイメージ-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_05",
+        "fileName2": "",
+        "imageId": 680005,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710116,
+        "questStageMstId": 73710116,
+        "title": "2話:尊しイメージ-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_06",
+        "fileName2": "",
+        "imageId": 680006,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710117,
+        "questStageMstId": 73710117,
+        "title": "2話:尊しイメージ-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_07",
+        "fileName2": "",
+        "imageId": 680007,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710118,
+        "questStageMstId": 73710118,
+        "title": "2話:尊しイメージ-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_08",
+        "fileName2": "",
+        "imageId": 680008,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710119,
+        "questStageMstId": 73710119,
+        "title": "3話:妄想はかくあるべし-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_09",
+        "fileName2": "",
+        "imageId": 680009,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 73710120,
+        "questStageMstId": 73710120,
+        "title": "3話:妄想はかくあるべし-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_3rddream_10",
+        "fileName2": "",
+        "imageId": 680010,
+        "startTime": 1706670000,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 90110101,
         "questStageMstId": 90110101,
         "title": "1話　告知編",
@@ -17216,6 +17348,50 @@
         "fileName2": "",
         "imageId": 280005,
         "startTime": 1680274800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 90710101,
+        "questStageMstId": 90710101,
+        "title": "ステージ1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_survive_01",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1707102000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 90710103,
+        "questStageMstId": 90710103,
+        "title": "ステージ2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_survive_02",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1707102000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 90710105,
+        "questStageMstId": 90710105,
+        "title": "ステージ3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_survive_03",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1707102000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 90710107,
+        "questStageMstId": 90710107,
+        "title": "ステージ4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_survive_04",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1707102000,
         "endTime": -62170017539
       }
     ]

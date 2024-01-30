@@ -2270,6 +2270,18 @@
         "conditionValue2": 0,
         "startTime": 1705719600,
         "endTime": 1707620399
+      },
+      {
+        "chatStampMstId": 212,
+        "name": "♡",
+        "characterMstId": 31,
+        "type": 3,
+        "howToGetText": "幻想スリリング・パーティ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1706670000,
+        "endTime": 1707620399
       }
     ]
   }
