@@ -6066,6 +6066,34 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1431,
+        "rewardGroupId": 2020,
+        "name": "3rd Anniv.アルティメットメモリア前衛交換券",
+        "description": "3rd Anniv.アルティメットメモリア前衛交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 970,
+        "itemMstId": 4007205,
+        "viewable": 1,
+        "startTime": 1707188400,
+        "endTime": 1710428399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1432,
+        "rewardGroupId": 2021,
+        "name": "3rd Anniv.アルティメットメモリア後衛交換券",
+        "description": "3rd Anniv.アルティメットメモリア後衛交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 970,
+        "itemMstId": 4007305,
+        "viewable": 1,
+        "startTime": 1707188400,
+        "endTime": 1710428399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 1433,
         "rewardGroupId": 2019,
         "name": "3rd Anniv.イベントガチャスペシャル交換券",

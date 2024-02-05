@@ -19544,6 +19544,26 @@
         "endTime": 1705244399
       },
       {
+        "itemMstId": 4007205,
+        "name": "3rd Anniv.アルティメットメモリア前衛交換券",
+        "description": "3rdAnniv.アルティメットメモリア前衛交換券交換所で使用することができる交換用のアイテム",
+        "category": 5,
+        "type": 51,
+        "effectValue": 0,
+        "sortOrder": 43,
+        "rarity": 1,
+        "price": 0,
+        "canSell": false,
+        "canUse": true,
+        "isSeparateEndTime": false,
+        "limitDay": 0,
+        "limitEndOfMonth": 0,
+        "transitionSceneName": "SceneMedalExchange",
+        "transitionSceneParam": 0,
+        "startTime": 1707188400,
+        "endTime": 1710428399
+      },
+      {
         "itemMstId": 4007300,
         "name": "アルティメットメモリア後衛交換券",
         "description": "アルティメットメモリア後衛交換券交換所で使用することができる交換用のアイテム",
@@ -19642,6 +19662,26 @@
         "transitionSceneParam": 0,
         "startTime": 1700362800,
         "endTime": 1705244399
+      },
+      {
+        "itemMstId": 4007305,
+        "name": "3rd Anniv.アルティメットメモリア後衛交換券",
+        "description": "3rdAnniv.アルティメットメモリア後衛交換券交換所で使用することができる交換用のアイテム",
+        "category": 5,
+        "type": 51,
+        "effectValue": 0,
+        "sortOrder": 43,
+        "rarity": 1,
+        "price": 0,
+        "canSell": false,
+        "canUse": true,
+        "isSeparateEndTime": false,
+        "limitDay": 0,
+        "limitEndOfMonth": 0,
+        "transitionSceneName": "SceneMedalExchange",
+        "transitionSceneParam": 0,
+        "startTime": 1707188400,
+        "endTime": 1710428399
       },
       {
         "itemMstId": 4007400,
