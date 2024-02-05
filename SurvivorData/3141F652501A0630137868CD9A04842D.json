@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "description": "0:00-0:30大砲と雑魚",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 30,
+    "createEnemyPeriod": 2,
+    "createEnemyNum": 10,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30002,
+        "rate": 9000
+      },
+      {
+        "enemyId": 30009,
+        "rate": 1000
+      }
+    ],
+    "initEnemyIds": []
+  },
+  {
+    "id": 2,
+    "description": "0:30-1:00雑魚敵増",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 30,
+    "createEnemyPeriod": 2,
+    "createEnemyNum": 15,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30002,
+        "rate": 9000
+      },
+      {
+        "enemyId": 30009,
+        "rate": 1000
+      }
+    ],
+    "initEnemyIds": []
+  },
+  {
+    "id": 3,
+    "description": "1:00-2:00中ボスでる",
+    "type": 1,
+    "zoomOut": 0.1,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 10,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30009,
+        "rate": 1000
+      },
+      {
+        "enemyId": 30002,
+        "rate": 9000
+      }
+    ],
+    "initEnemyIds": [
+      30051
+    ]
+  },
+  {
+    "id": 4,
+    "description": "1回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.2,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30101,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "2:00-3:00堅い敵",
+    "type": 0,
+    "zoomOut": 0.2,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 5,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30003,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "3:00‐4:00中ボスでる",
+    "type": 1,
+    "zoomOut": 0.2,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 10,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30003,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": [
+      30052
+    ]
+  },
+  {
+    "id": 7,
+    "description": "2回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.3,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30102,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "description": "4:00-5:00上位の雑魚",
+    "type": 0,
+    "zoomOut": 0.3,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 15,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30004,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "description": "5:00-6:00中ボス登場",
+    "type": 1,
+    "zoomOut": 0.3,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 20,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30004,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": [
+      30053
+    ]
+  },
+  {
+    "id": 10,
+    "description": "3回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.4,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30103,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "description": "6:00-7:00堅い敵",
+    "type": 0,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 20,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30005,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "description": "7:00-8:00早い＆堅い敵",
+    "type": 0,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 0.5,
+    "createEnemyNum": 25,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30004,
+        "rate": 1000
+      },
+      {
+        "enemyId": 30006,
+        "rate": 9000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "description": "4回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.4,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30104,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "description": "8:00-9:00弾幕",
+    "type": 0,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 20,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30007,
+        "rate": 2000
+      },
+      {
+        "enemyId": 30008,
+        "rate": 8000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "description": "9:00-10:00中ボスラッシュ",
+    "type": 1,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 25,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30007,
+        "rate": 2000
+      },
+      {
+        "enemyId": 30008,
+        "rate": 5000
+      },
+      {
+        "enemyId": 30009,
+        "rate": 3000
+      }
+    ],
+    "initEnemyIds": [
+      30051,
+      30051,
+      30051
+    ]
+  },
+  {
+    "id": 16,
+    "description": "5回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.4,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 30105,
+        "rate": 10000
+      }
+    ]
+  }
+]

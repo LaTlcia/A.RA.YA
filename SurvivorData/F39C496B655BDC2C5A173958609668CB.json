@@ -1,0 +1,231 @@
+[
+  {
+    "id": 1,
+    "description": "【ボス敵】レイザーレイ種 マオルヴルフ",
+    "actions": [
+      {
+        "id": 1,
+        "description": "移動なし",
+        "actionType": 0,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 10000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "【ボス敵】テイルズ種ヴェスティエ",
+    "actions": [
+      {
+        "id": 1,
+        "description": "追尾",
+        "actionType": 0,
+        "moveType": 1,
+        "actionParams": [],
+        "time": 5
+      },
+      {
+        "id": 2,
+        "description": "狙いを定める",
+        "actionType": 1,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 1
+      },
+      {
+        "id": 3,
+        "description": "突進",
+        "actionType": 0,
+        "moveType": 2,
+        "actionParams": [],
+        "time": 1
+      },
+      {
+        "id": 4,
+        "description": "狙いを定める",
+        "actionType": 1,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 1
+      },
+      {
+        "id": 5,
+        "description": "突進",
+        "actionType": 0,
+        "moveType": 2,
+        "actionParams": [],
+        "time": 1
+      },
+      {
+        "id": 6,
+        "description": "狙いを定める",
+        "actionType": 1,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 1
+      },
+      {
+        "id": 7,
+        "description": "突進",
+        "actionType": 0,
+        "moveType": 2,
+        "actionParams": [],
+        "time": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "【ボス敵】レイザーレイ種ゲボイデ",
+    "actions": [
+      {
+        "id": 1,
+        "description": "移動なし",
+        "actionType": 0,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 5
+      },
+      {
+        "id": 2,
+        "description": "敵を召喚(1体目)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          10008,
+          10007,
+          10007,
+          10006,
+          10006
+        ],
+        "time": 2
+      },
+      {
+        "id": 3,
+        "description": "敵を召喚(2体目)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          10008,
+          10007,
+          10007,
+          10006,
+          10006
+        ],
+        "time": 2
+      },
+      {
+        "id": 4,
+        "description": "敵を召喚(中ボス)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          10054
+        ],
+        "time": 1.2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "description": "【S3ボス敵】レイザーレイ種ゲボイデ",
+    "actions": [
+      {
+        "id": 1,
+        "description": "移動なし",
+        "actionType": 0,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 5
+      },
+      {
+        "id": 2,
+        "description": "敵を召喚",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          30011,
+          30011,
+          30011
+        ],
+        "time": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "【S3ボス敵】レイザーレイ種ゲボイデ2",
+    "actions": [
+      {
+        "id": 1,
+        "description": "移動なし",
+        "actionType": 0,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 5
+      },
+      {
+        "id": 2,
+        "description": "敵を召喚(1体目)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          30011,
+          30011,
+          30011,
+          30011,
+          30011
+        ],
+        "time": 2
+      },
+      {
+        "id": 3,
+        "description": "敵を召喚(2体目)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          30051
+        ],
+        "time": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "【S4ボス敵】レイザーレイ種ゲボイデ",
+    "actions": [
+      {
+        "id": 1,
+        "description": "移動なし",
+        "actionType": 0,
+        "moveType": 0,
+        "actionParams": [],
+        "time": 5
+      },
+      {
+        "id": 2,
+        "description": "敵を召喚(1体目)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          40061,
+          40061
+        ],
+        "time": 2
+      },
+      {
+        "id": 3,
+        "description": "敵を召喚(2体目)",
+        "actionType": 2,
+        "moveType": 0,
+        "actionParams": [
+          40062,
+          40062,
+          40062
+        ],
+        "time": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "stage1",
+    "description": "草原",
+    "backgroundType": 1,
+    "skillLotteryTableId": 1
+  },
+  {
+    "id": 2,
+    "name": "stage3",
+    "description": "溶岩地帯",
+    "backgroundType": 2,
+    "skillLotteryTableId": 1
+  },
+  {
+    "id": 3,
+    "name": "stage3",
+    "description": "魔王城",
+    "backgroundType": 3,
+    "skillLotteryTableId": 1
+  },
+  {
+    "id": 4,
+    "name": "extra stage",
+    "description": "草原、全てのスキル解放",
+    "backgroundType": 1,
+    "skillLotteryTableId": 2
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "skillId": 30,
+    "name": "グングニル（進化）",
+    "description": "グングニル(Lv.5)+少女の日記(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 15,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 3,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "skillId": 23,
+    "name": "妖精の女王",
+    "description": "赤の精霊(Lv.5)+青の精霊(Lv.5)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 6,
+        "lv": 5
+      },
+      {
+        "type": 1,
+        "skillId": 7,
+        "lv": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "skillId": 27,
+    "name": "神聖なオーブ",
+    "description": "オーブの魔法(Lv.5)+魔法の砂時計(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 3,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 8,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "skillId": 22,
+    "name": "神秘の魔法陣",
+    "description": "雷の魔法陣(Lv.5)+魔法のラムネ(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 10,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 2,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "skillId": 16,
+    "name": "疾風のゴーレム",
+    "description": "緑のゴーレム(Lv.5)+俊足の魔法石(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 5,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 7,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "skillId": 29,
+    "name": "岩石ゴーレム",
+    "description": "岩のゴーレム(Lv.5)+炸裂魔法石(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 8,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 6,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "skillId": 25,
+    "name": "巨大隕石魔法",
+    "description": "隕石魔法(Lv.5)+炸裂魔法石(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 14,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 6,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "skillId": 21,
+    "name": "煉獄の魔法陣",
+    "description": "炎の魔法陣(Lv.5)+魔法のラムネ(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 2,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 2,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "skillId": 28,
+    "name": "疾風の魔法",
+    "description": "風の魔法(Lv.5)+アイテム吸収器(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 11,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 5,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "skillId": 26,
+    "name": "追跡の籠手",
+    "description": "魔法の籠手(Lv.5)+魔法のお守り(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 9,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 9,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "skillId": 20,
+    "name": "雷光の魔法",
+    "description": "雷の魔法(Lv.5)+速射のオーブ(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 12,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 1,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "skillId": 19,
+    "name": "大地の魔法",
+    "description": "土の魔法(Lv.5)+速射のオーブ(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 4,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 1,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "skillId": 24,
+    "name": "光輝の魔法",
+    "description": "光の魔法(Lv.5)+体力増加の魔導書(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 13,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 10,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "skillId": 18,
+    "name": "火炎地雷魔法陣",
+    "description": "氷の地雷魔法陣(Lv.5)+炎の魔法陣(Lv.5)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 1,
+        "lv": 5
+      },
+      {
+        "type": 1,
+        "skillId": 2,
+        "lv": 5
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "skillId": 17,
+    "name": "土雷地雷魔法陣",
+    "description": "氷の地雷魔法陣(Lv.5)+土の魔法(Lv.5)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 1,
+        "lv": 5
+      },
+      {
+        "type": 1,
+        "skillId": 4,
+        "lv": 5
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "skillId": 33,
+    "name": "ブリューナク（進化後）",
+    "description": "ブリューナク(Lv.5)+体力増加の魔導書(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 31,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 10,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "skillId": 34,
+    "name": "アステリオン（進化後）",
+    "description": "アステリオン(Lv.5)+力の指輪(Lv.1〜)",
+    "needSkills": [
+      {
+        "type": 1,
+        "skillId": 32,
+        "lv": 5
+      },
+      {
+        "type": 2,
+        "skillId": 4,
+        "lv": 1
+      }
+    ]
+  }
+]

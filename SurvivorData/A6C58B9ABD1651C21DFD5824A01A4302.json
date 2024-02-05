@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "enemySettings": {
+      "noDamageTime": 0.5
+    },
+    "treasureBoxSettings": {
+      "initializeNum": 1,
+      "existNum": 3
+    },
+    "luckyChestSettings": {
+      "description": "ラッキーチェストイベントから出現する宝箱の数抽選テーブル",
+      "table": [
+        {
+          "num": 1,
+          "rate": 8000
+        },
+        {
+          "num": 3,
+          "rate": 1500
+        },
+        {
+          "num": 5,
+          "rate": 500
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "description": "経験値（小）",
+    "table": [
+      {
+        "itemId": 0,
+        "rate": 2000
+      },
+      {
+        "itemId": 1,
+        "rate": 8000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "経験値（中）",
+    "table": [
+      {
+        "itemId": 0,
+        "rate": 6000
+      },
+      {
+        "itemId": 1,
+        "rate": 3000
+      },
+      {
+        "itemId": 2,
+        "rate": 1000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "経験値（大）",
+    "table": [
+      {
+        "itemId": 0,
+        "rate": 8000
+      },
+      {
+        "itemId": 3,
+        "rate": 2000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "description": "錬金術の爆弾",
+    "table": [
+      {
+        "itemId": 5,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "アイテム吸収器",
+    "table": [
+      {
+        "itemId": 6,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "薬草",
+    "table": [
+      {
+        "itemId": 7,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "description": "BOSS級のドロップ宝箱",
+    "table": [
+      {
+        "itemId": 4,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "description": "経験値（小10%）",
+    "table": [
+      {
+        "itemId": 0,
+        "rate": 9000
+      },
+      {
+        "itemId": 1,
+        "rate": 1000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "description": "経験値（大）100％",
+    "table": [
+      {
+        "itemId": 3,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "description": "経験値（大）50％",
+    "table": [
+      {
+        "itemId": 0,
+        "rate": 5000
+      },
+      {
+        "itemId": 3,
+        "rate": 5000
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "description": "フィールド上の宝箱",
+    "table": [
+      {
+        "itemId": 5,
+        "rate": 500
+      },
+      {
+        "itemId": 6,
+        "rate": 500
+      },
+      {
+        "itemId": 7,
+        "rate": 500
+      },
+      {
+        "itemId": 3,
+        "rate": 8500
+      }
+    ]
+  },
+  {
+    "id": 10000,
+    "description": "テスト(10%の確率でアイテム(ID:1)が出現する)",
+    "table": [
+      {
+        "itemId": 0,
+        "rate": 9000
+      },
+      {
+        "itemId": 1,
+        "rate": 1000
+      }
+    ]
+  }
+]

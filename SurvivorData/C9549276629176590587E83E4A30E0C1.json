@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "description": "0:00-0:30毒沼敵",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 2,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": []
+  },
+  {
+    "id": 2,
+    "description": "0:31-0:45雑魚敵",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 15,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 3,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 7000
+      },
+      {
+        "enemyId": 20002,
+        "rate": 3000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "0:46-1:00雑魚敵数の増加",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 15,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 5,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 4000
+      },
+      {
+        "enemyId": 20002,
+        "rate": 6000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "description": "1:01-2:00スキルpt稼ぐための雑魚の追加",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 5,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20003,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": []
+  },
+  {
+    "id": 5,
+    "description": "2:00-2:30毒の中ボス＋雑魚多くなる",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 8,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20003,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": [
+      20051
+    ]
+  },
+  {
+    "id": 6,
+    "description": "2:30-3:00の雑魚多くなる",
+    "type": 0,
+    "zoomOut": 0,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 10,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20003,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "description": "3:00-4:00ヒュージ襲来毒雑魚大量",
+    "type": 1,
+    "zoomOut": 0.1,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 8,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "description": "4:00-4:30雑魚でスキルpt稼ぎ",
+    "type": 0,
+    "zoomOut": 0.1,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 8,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20002,
+        "rate": 3000
+      },
+      {
+        "enemyId": 20003,
+        "rate": 7000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "description": "4:30-5:00雑魚でスキルpt稼ぎ",
+    "type": 0,
+    "zoomOut": 0.1,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 10,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20002,
+        "rate": 5000
+      },
+      {
+        "enemyId": 20003,
+        "rate": 5000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "description": "1回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.2,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20101,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "description": "5:00-5:30堅い敵の追加",
+    "type": 0,
+    "zoomOut": 0.2,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 3,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20004,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "description": "5:30-6:00堅い敵＋毒",
+    "type": 0,
+    "zoomOut": 0.2,
+    "timeSpan": 30,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 8,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 7000
+      },
+      {
+        "enemyId": 20004,
+        "rate": 3000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "description": "6:00-7:00堅い敵＋毒の配分が変わる",
+    "type": 0,
+    "zoomOut": 0.2,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 8,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 3000
+      },
+      {
+        "enemyId": 20004,
+        "rate": 7000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "description": "7:00-8:00雑魚敵が大量ゾーン（スキルpt稼ぎ）",
+    "type": 0,
+    "zoomOut": 0.2,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 25,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20002,
+        "rate": 5000
+      },
+      {
+        "enemyId": 20003,
+        "rate": 5000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "description": "8:00-9:00ヒュージ発生で毒大量",
+    "type": 1,
+    "zoomOut": 0.3,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 20,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "description": "09:00-10:00_堅いボスが出てくる",
+    "type": 0,
+    "zoomOut": 0.3,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 8,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20004,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": [
+      20052
+    ]
+  },
+  {
+    "id": 17,
+    "description": "2回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.4,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20102,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "description": "10:00-11:00より上位の雑魚",
+    "type": 1,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 20,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 5000
+      },
+      {
+        "enemyId": 20005,
+        "rate": 5000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "description": "11:00-12:00毒の中ボス",
+    "type": 1,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 25,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 5000
+      },
+      {
+        "enemyId": 20006,
+        "rate": 5000
+      }
+    ],
+    "initEnemyIds": [
+      20053
+    ]
+  },
+  {
+    "id": 20,
+    "description": "12:00-13:00早い敵と雑魚弾幕",
+    "type": 1,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 40,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20003,
+        "rate": 5000
+      },
+      {
+        "enemyId": 20005,
+        "rate": 5000
+      }
+    ],
+    "initEnemyIds": [
+      20054
+    ]
+  },
+  {
+    "id": 21,
+    "description": "13:00-14:00ややつよ敵の弾幕",
+    "type": 1,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 40,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20006,
+        "rate": 10000
+      }
+    ],
+    "initEnemyIds": [
+      20053
+    ]
+  },
+  {
+    "id": 22,
+    "description": "14:00-15:00ややつよと毒弾幕",
+    "type": 1,
+    "zoomOut": 0.4,
+    "timeSpan": 60,
+    "createEnemyPeriod": 1,
+    "createEnemyNum": 60,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20001,
+        "rate": 3000
+      },
+      {
+        "enemyId": 20006,
+        "rate": 7000
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "description": "3回目のBOSS登場",
+    "type": 2,
+    "zoomOut": 0.5,
+    "timeSpan": 3600,
+    "createEnemyPeriod": 3600,
+    "createEnemyNum": 1,
+    "enemyDistributionModels": [
+      {
+        "enemyId": 20103,
+        "rate": 10000
+      }
+    ]
+  }
+]
