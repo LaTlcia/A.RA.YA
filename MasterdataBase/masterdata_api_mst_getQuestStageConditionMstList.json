@@ -394,6 +394,26 @@
         "conditionQuestStageMstId3": 0
       },
       {
+        "questStageConditionMstId": 423401,
+        "questStageMstId": 423401,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 413407,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 423501,
+        "questStageMstId": 423501,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 413507,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
         "questStageConditionMstId": 10110101,
         "questStageMstId": 10110101,
         "conditionType": 4,
@@ -3750,6 +3770,26 @@
         "conditionValue": 0,
         "conditionTime": -62170017539,
         "conditionQuestStageMstId1": 73710110,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 73910114,
+        "questStageMstId": 73910114,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 73910105,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 73910117,
+        "questStageMstId": 73910117,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 73910110,
         "conditionQuestStageMstId2": 0,
         "conditionQuestStageMstId3": 0
       },

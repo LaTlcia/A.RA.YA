@@ -820,6 +820,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4134,
+        "questMapMstId": 4,
+        "name": "34話",
+        "description": "顕現",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4135,
+        "questMapMstId": 4,
+        "name": "35話",
+        "description": "激戦絶島",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -1080,6 +1096,22 @@
         "questMapMstId": 4,
         "name": "33話",
         "description": "青ヶ島上陸",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4234,
+        "questMapMstId": 4,
+        "name": "34話",
+        "description": "顕現",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4235,
+        "questMapMstId": 4,
+        "name": "35話",
+        "description": "激戦絶島",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -3744,6 +3776,22 @@
         "questMapMstId": 737,
         "name": "メダルイベント",
         "description": "幻想スリリング・パーティ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 739101,
+        "questMapMstId": 739,
+        "name": "メダルイベント",
+        "description": "もふもふバレンタイン",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 739201,
+        "questMapMstId": 739,
+        "name": "メダルイベント",
+        "description": "もふもふバレンタイン",
         "mode": 2,
         "hasNextComingSoon": false
       },

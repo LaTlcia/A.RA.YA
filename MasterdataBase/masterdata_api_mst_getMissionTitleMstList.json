@@ -3847,6 +3847,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10557,
+        "title": "もふもふバレンタイン【個人】",
+        "completeMissionMstId": 10557001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10558,
+        "title": "もふもふバレンタイン【レギオン】",
+        "completeMissionMstId": 10558001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10559,
+        "title": "もふもふバレンタイン【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10560,
+        "title": "鶴紗誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10561,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10564,
+        "title": "3rd Anniv. DREAMスウィーティ",
+        "completeMissionMstId": 10564001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2635
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,
