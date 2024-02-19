@@ -14194,6 +14194,83 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 30510101,
+        "questStageMstId": 30510101,
+        "title": "プレストーリー槇若菜編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_047",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708329600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30610101,
+        "questStageMstId": 30610101,
+        "title": "プレストーリー+槇若菜編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_ex047",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708858800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30710101,
+        "questStageMstId": 30710101,
+        "title": "四品目　たいようけんのハヤシライス",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_04",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708873200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30810101,
+        "questStageMstId": 30810101,
+        "title": "ライブSPストーリー～梨璃編～",
+        "isFullVoice": false,
+        "fileName1": "story_pd_live6_0001",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708484400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30810102,
+        "questStageMstId": 30810102,
+        "title": "ライブSPストーリー～一葉編～",
+        "isFullVoice": false,
+        "fileName1": "story_pd_live6_0002",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708484400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30810103,
+        "questStageMstId": 30810103,
+        "title": "ライブSPストーリー～叶星編～",
+        "isFullVoice": false,
+        "fileName1": "story_pd_live6_0003",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708484400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 30810104,
+        "questStageMstId": 30810104,
+        "title": "ライブSPストーリー～出撃～",
+        "isFullVoice": false,
+        "fileName1": "story_pd_live6_0004",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1708484400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",

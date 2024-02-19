@@ -2396,6 +2396,30 @@
         "num": 200
       },
       {
+        "gigantHugeRewardGroupMstId": 20020401,
+        "rewardGroupId": 200204,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1012700,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 20020402,
+        "rewardGroupId": 200205,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1012800,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 20020403,
+        "rewardGroupId": 200206,
+        "rewardType": 3,
+        "objectType": 1,
+        "objectId": 1210255,
+        "num": 1
+      },
+      {
         "gigantHugeRewardGroupMstId": 30010101,
         "rewardGroupId": 300101,
         "rewardType": 3,
@@ -2490,6 +2514,62 @@
         "objectType": 5,
         "objectId": 3001500,
         "num": 30
+      },
+      {
+        "gigantHugeRewardGroupMstId": 30020401,
+        "rewardGroupId": 300204,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1018600,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 30020402,
+        "rewardGroupId": 300205,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1018600,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 30020403,
+        "rewardGroupId": 300206,
+        "rewardType": 3,
+        "objectType": 1,
+        "objectId": 1210255,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 50020701,
+        "rewardGroupId": 500207,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1025300,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 50020702,
+        "rewardGroupId": 500208,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1025300,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 50020703,
+        "rewardGroupId": 500209,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 1015600,
+        "num": 1
+      },
+      {
+        "gigantHugeRewardGroupMstId": 50020704,
+        "rewardGroupId": 500209,
+        "rewardType": 3,
+        "objectType": 21,
+        "objectId": 50001,
+        "num": 1
       }
     ]
   }

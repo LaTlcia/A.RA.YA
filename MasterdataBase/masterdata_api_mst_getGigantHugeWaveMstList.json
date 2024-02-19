@@ -646,6 +646,27 @@
         "appearanceGroupId": 40010401,
         "dropRewardMinNum": 0,
         "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 50020101,
+        "gigantHugeStageMstId": 500201,
+        "appearanceGroupId": 50020101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 50020201,
+        "gigantHugeStageMstId": 500202,
+        "appearanceGroupId": 50020201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 50020301,
+        "gigantHugeStageMstId": 500203,
+        "appearanceGroupId": 50020301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
       }
     ]
   }

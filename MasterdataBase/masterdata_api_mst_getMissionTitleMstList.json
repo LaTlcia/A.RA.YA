@@ -3882,11 +3882,32 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10562,
+        "title": "秋日誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10563,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10563001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10564,
         "title": "3rd Anniv. DREAMスウィーティ",
         "completeMissionMstId": 10564001,
         "specialMissionImageId": 4,
         "completeResourceId": 2635
+      },
+      {
+        "missionTitleMstId": 10565,
+        "title": "新章-白百合の十二聖剣-",
+        "completeMissionMstId": 10565001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2696
       },
       {
         "missionTitleMstId": 11020,

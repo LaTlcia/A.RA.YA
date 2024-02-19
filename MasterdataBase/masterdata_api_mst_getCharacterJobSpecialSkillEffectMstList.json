@@ -22,6 +22,18 @@
         "type": 0
       },
       {
+        "characterJobSpecialSkillEffectMstId": 10104,
+        "name": "火属性メモリア効果増加AⅡ",
+        "description": "ギガント級ヒュージ討伐限定、自身が使用する火属性メモリアのスキル効果3％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 10105,
+        "name": "火属性メモリア効果増加AⅢ",
+        "description": "ギガント級ヒュージ討伐限定、自身が使用する火属性メモリアのスキル効果5％UP",
+        "type": 0
+      },
+      {
         "characterJobSpecialSkillEffectMstId": 11100,
         "name": "火属性メモリア効果耐性AⅠ",
         "description": "自身に対する火属性メモリアのダメージ/妨害スキル効果2%DOWN",

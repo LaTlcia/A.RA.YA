@@ -170,6 +170,60 @@
         "gigantHugeRankingRewardGroupId": 4091,
         "rankingNum": 100000,
         "rewardGroupId": 4091007
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021001,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 1,
+        "rewardGroupId": 5002101
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021002,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 10,
+        "rewardGroupId": 5002102
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021003,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 50,
+        "rewardGroupId": 5002103
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021004,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 100,
+        "rewardGroupId": 5002104
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021005,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 300,
+        "rewardGroupId": 5002105
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021006,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 500,
+        "rewardGroupId": 5002106
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021007,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 1000,
+        "rewardGroupId": 5002107
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021008,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 2000,
+        "rewardGroupId": 5002108
+      },
+      {
+        "gigantHugeRankingRewardMstId": 50021009,
+        "gigantHugeRankingRewardGroupId": 50021,
+        "rankingNum": 9999,
+        "rewardGroupId": 5002109
       }
     ]
   }

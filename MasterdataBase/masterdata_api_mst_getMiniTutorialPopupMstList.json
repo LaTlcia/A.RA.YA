@@ -350,6 +350,24 @@
         "miniTutorialType": 43,
         "sortOrder": 1,
         "imageId": 156
+      },
+      {
+        "miniTutorialPopupMstId": 63,
+        "miniTutorialType": 42,
+        "sortOrder": 1,
+        "imageId": 154
+      },
+      {
+        "miniTutorialPopupMstId": 64,
+        "miniTutorialType": 42,
+        "sortOrder": 2,
+        "imageId": 155
+      },
+      {
+        "miniTutorialPopupMstId": 65,
+        "miniTutorialType": 42,
+        "sortOrder": 3,
+        "imageId": 157
       }
     ]
   }

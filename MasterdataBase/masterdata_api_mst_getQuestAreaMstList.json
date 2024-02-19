@@ -3092,6 +3092,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 305101,
+        "questMapMstId": 305,
+        "name": "ミニイベント",
+        "description": "プレストーリー槇若菜編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 306101,
+        "questMapMstId": 306,
+        "name": "ミニイベント",
+        "description": "プレストーリー+槇若菜編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 307101,
+        "questMapMstId": 307,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 308101,
+        "questMapMstId": 308,
+        "name": "ミニイベント",
+        "description": "スペシャルストーリー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",

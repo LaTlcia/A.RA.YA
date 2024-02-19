@@ -1472,6 +1472,66 @@
         "objectType": 6,
         "objectId": 1,
         "num": 30
+      },
+      {
+        "cardStoryMstId": 157,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010100008",
+        "uniqueId": 10100008,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 158,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010100018",
+        "uniqueId": 10100018,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 159,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010100011",
+        "uniqueId": 10100011,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 160,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010100002",
+        "uniqueId": 10100002,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 161,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010100114",
+        "uniqueId": 10100115,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 162,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010100050",
+        "uniqueId": 10100050,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
       }
     ]
   }

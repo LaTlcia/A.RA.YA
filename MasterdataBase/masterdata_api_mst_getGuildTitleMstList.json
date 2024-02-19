@@ -4,6 +4,69 @@
   "payload": {
     "mstList": [
       {
+        "guildTitleMstId": 10001001,
+        "name": "APOCALYPSE Feb 2024 1位",
+        "detail": "APOCALYPSE[Feb2024]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 10001001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001002,
+        "name": "APOCALYPSE Feb 2024 TOP10位",
+        "detail": "APOCALYPSE[Feb2024]で10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001003,
+        "name": "APOCALYPSE Feb 2024 TOP50位",
+        "detail": "APOCALYPSE[Feb2024]で50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001004,
+        "name": "APOCALYPSE Feb 2024 TOP100位",
+        "detail": "APOCALYPSE[Feb2024]で100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001004,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001005,
+        "name": "APOCALYPSE Feb 2024 TOP300位",
+        "detail": "APOCALYPSE[Feb2024]で300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001005,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001006,
+        "name": "APOCALYPSE Feb 2024 TOP500位",
+        "detail": "APOCALYPSE[Feb2024]で500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001006,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001007,
+        "name": "APOCALYPSE Feb 2024 TOP1000位",
+        "detail": "APOCALYPSE[Feb2024]で1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001007,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001008,
+        "name": "APOCALYPSE Feb 2024 TOP2000位",
+        "detail": "APOCALYPSE[Feb2024]で2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001008,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10001009,
+        "name": "APOCALYPSE Feb 2024 TOP9999",
+        "detail": "APOCALYPSE[Feb2024]で9999位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10001009,
+        "limitTime": -62170017539
+      },
+      {
         "guildTitleMstId": 20010011,
         "name": "第1回レギオンリーグ1位[12:30]",
         "detail": "第1回レギオンリーグ[12:30時間帯]で1位に輝いたレギオンに与えられる称号",
