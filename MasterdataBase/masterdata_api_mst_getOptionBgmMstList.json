@@ -1234,6 +1234,22 @@
         "forceBgmEndTime": 1709096399,
         "startTime": 1705676400,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 601,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 601,
+        "title": "Ljósálfr",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_81-001",
+        "forceBgmStartTime": 1709175600,
+        "forceBgmEndTime": 1709953199,
+        "startTime": 1709175600,
+        "endTime": -62170017539
       }
     ]
   }

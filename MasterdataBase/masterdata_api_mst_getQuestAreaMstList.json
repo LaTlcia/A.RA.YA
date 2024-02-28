@@ -836,6 +836,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 4136,
+        "questMapMstId": 4,
+        "name": "36話",
+        "description": "九つの世界、その先へ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 4201,
         "questMapMstId": 4,
         "name": "1話",
@@ -1112,6 +1120,14 @@
         "questMapMstId": 4,
         "name": "35話",
         "description": "激戦絶島",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 4236,
+        "questMapMstId": 4,
+        "name": "36話",
+        "description": "九つの世界、その先へ",
         "mode": 2,
         "hasNextComingSoon": false
       },
@@ -3824,6 +3840,22 @@
         "questMapMstId": 739,
         "name": "メダルイベント",
         "description": "もふもふバレンタイン",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 740101,
+        "questMapMstId": 740,
+        "name": "メダルイベント",
+        "description": "絶海のワールプール",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 740201,
+        "questMapMstId": 740,
+        "name": "メダルイベント",
+        "description": "絶海のワールプール",
         "mode": 2,
         "hasNextComingSoon": false
       },

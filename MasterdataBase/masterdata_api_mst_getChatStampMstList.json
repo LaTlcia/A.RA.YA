@@ -2192,12 +2192,12 @@
         "name": "ひれ伏せ",
         "characterMstId": 121,
         "type": 3,
-        "howToGetText": "極天に集いし花々【個人】特別ミッションで入手可能",
+        "howToGetText": "メインストーリー「運命のトリニティ」HARD36話ステージ03クリアで入手可能",
         "transitionSceneName": "NULL",
         "conditionValue1": 0,
         "conditionValue2": 0,
         "startTime": 1702177200,
-        "endTime": 1703991599
+        "endTime": 1924959599
       },
       {
         "chatStampMstId": 206,
@@ -2294,6 +2294,18 @@
         "conditionValue2": 0,
         "startTime": 1707620400,
         "endTime": 1709175599
+      },
+      {
+        "chatStampMstId": 214,
+        "name": "あらあら♡",
+        "characterMstId": 47,
+        "type": 3,
+        "howToGetText": "絶海のワールプール【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1709175600,
+        "endTime": 1710557999
       }
     ]
   }

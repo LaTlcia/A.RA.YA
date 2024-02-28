@@ -994,6 +994,39 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 47001,
+        "type": 0,
+        "characterMstId": 47,
+        "title": "【若菜】ログインボーナス1",
+        "voiceId": "cv_outgame_001_047-login_normal_001",
+        "faceType": "Surprise",
+        "motion": "Surprise",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 47002,
+        "type": 0,
+        "characterMstId": 47,
+        "title": "【若菜】ログインボーナス1",
+        "voiceId": "cv_outgame_001_047-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 47003,
+        "type": 0,
+        "characterMstId": 47,
+        "title": "【若菜】ログインボーナス1",
+        "voiceId": "cv_outgame_001_047-login_normal_003",
+        "faceType": "Anger",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 49001,
         "type": 0,
         "characterMstId": 49,

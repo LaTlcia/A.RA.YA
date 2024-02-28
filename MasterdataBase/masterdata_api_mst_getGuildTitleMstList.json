@@ -61,7 +61,7 @@
       },
       {
         "guildTitleMstId": 10001009,
-        "name": "APOCALYPSE Feb 2024 TOP9999",
+        "name": "APOCALYPSE Feb 2024 TOP9999位",
         "detail": "APOCALYPSE[Feb2024]で9999位以内に輝いたレギオンに与えられる称号",
         "imageId": 10001009,
         "limitTime": -62170017539
@@ -26104,6 +26104,1266 @@
         "name": "3周年記念レギオンリーグ[Division3]TOP3000位[23:00]",
         "detail": "3周年記念レギオンリーグ[Division3][23:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
         "imageId": 6030301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311011,
+        "name": "第31回レギオンリーグ[Division1] 1位[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 4031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311012,
+        "name": "第31回レギオンリーグ[Division1] 1位[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 4031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311013,
+        "name": "第31回レギオンリーグ[Division1] 1位[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 4031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311014,
+        "name": "第31回レギオンリーグ[Division1] 1位[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 4031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311015,
+        "name": "第31回レギオンリーグ[Division1] 1位[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 4031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311021,
+        "name": "第31回レギオンリーグ[Division1] 2位[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 4031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311022,
+        "name": "第31回レギオンリーグ[Division1] 2位[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 4031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311023,
+        "name": "第31回レギオンリーグ[Division1] 2位[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 4031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311024,
+        "name": "第31回レギオンリーグ[Division1] 2位[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 4031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311025,
+        "name": "第31回レギオンリーグ[Division1] 2位[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 4031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311031,
+        "name": "第31回レギオンリーグ[Division1] 3位[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 4031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311032,
+        "name": "第31回レギオンリーグ[Division1] 3位[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 4031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311033,
+        "name": "第31回レギオンリーグ[Division1] 3位[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 4031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311034,
+        "name": "第31回レギオンリーグ[Division1] 3位[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 4031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311035,
+        "name": "第31回レギオンリーグ[Division1] 3位[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 4031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311041,
+        "name": "第31回レギオンリーグ[Division1] TOP10[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311042,
+        "name": "第31回レギオンリーグ[Division1] TOP10[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311043,
+        "name": "第31回レギオンリーグ[Division1] TOP10[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311044,
+        "name": "第31回レギオンリーグ[Division1] TOP10[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311045,
+        "name": "第31回レギオンリーグ[Division1] TOP10[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311051,
+        "name": "第31回レギオンリーグ[Division1] TOP50[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311052,
+        "name": "第31回レギオンリーグ[Division1] TOP50[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311053,
+        "name": "第31回レギオンリーグ[Division1] TOP50[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311054,
+        "name": "第31回レギオンリーグ[Division1] TOP50[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311055,
+        "name": "第31回レギオンリーグ[Division1] TOP50[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311061,
+        "name": "第31回レギオンリーグ[Division1] TOP100[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311062,
+        "name": "第31回レギオンリーグ[Division1] TOP100[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311063,
+        "name": "第31回レギオンリーグ[Division1] TOP100[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311064,
+        "name": "第31回レギオンリーグ[Division1] TOP100[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311065,
+        "name": "第31回レギオンリーグ[Division1] TOP100[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311071,
+        "name": "第31回レギオンリーグ[Division1] TOP300[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311072,
+        "name": "第31回レギオンリーグ[Division1] TOP300[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311073,
+        "name": "第31回レギオンリーグ[Division1] TOP300[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311074,
+        "name": "第31回レギオンリーグ[Division1] TOP300[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311075,
+        "name": "第31回レギオンリーグ[Division1] TOP300[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311081,
+        "name": "第31回レギオンリーグ[Division1] TOP500[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311082,
+        "name": "第31回レギオンリーグ[Division1] TOP500[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311083,
+        "name": "第31回レギオンリーグ[Division1] TOP500[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311084,
+        "name": "第31回レギオンリーグ[Division1] TOP500[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311085,
+        "name": "第31回レギオンリーグ[Division1] TOP500[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311091,
+        "name": "第31回レギオンリーグ[Division1] TOP1000[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311092,
+        "name": "第31回レギオンリーグ[Division1] TOP1000[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311093,
+        "name": "第31回レギオンリーグ[Division1] TOP1000[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311094,
+        "name": "第31回レギオンリーグ[Division1] TOP1000[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311095,
+        "name": "第31回レギオンリーグ[Division1] TOP1000[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311101,
+        "name": "第31回レギオンリーグ[Division1] TOP1500[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311102,
+        "name": "第31回レギオンリーグ[Division1] TOP1500[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311103,
+        "name": "第31回レギオンリーグ[Division1] TOP1500[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311104,
+        "name": "第31回レギオンリーグ[Division1] TOP1500[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311105,
+        "name": "第31回レギオンリーグ[Division1] TOP1500[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311111,
+        "name": "第31回レギオンリーグ[Division1] TOP2000[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311112,
+        "name": "第31回レギオンリーグ[Division1] TOP2000[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311113,
+        "name": "第31回レギオンリーグ[Division1] TOP2000[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311114,
+        "name": "第31回レギオンリーグ[Division1] TOP2000[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311115,
+        "name": "第31回レギオンリーグ[Division1] TOP2000[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311121,
+        "name": "第31回レギオンリーグ[Division1] TOP3000[12:30]",
+        "detail": "第31回レギオンリーグ[Division1][12:30時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311122,
+        "name": "第31回レギオンリーグ[Division1] TOP3000[20:00]",
+        "detail": "第31回レギオンリーグ[Division1][20:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311123,
+        "name": "第31回レギオンリーグ[Division1] TOP3000[21:00]",
+        "detail": "第31回レギオンリーグ[Division1][21:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311124,
+        "name": "第31回レギオンリーグ[Division1] TOP3000[22:00]",
+        "detail": "第31回レギオンリーグ[Division1][22:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20311125,
+        "name": "第31回レギオンリーグ[Division1] TOP3000[23:00]",
+        "detail": "第31回レギオンリーグ[Division1][23:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 4031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312011,
+        "name": "第31回レギオンリーグ[Division2] 1位[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 5031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312012,
+        "name": "第31回レギオンリーグ[Division2] 1位[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 5031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312013,
+        "name": "第31回レギオンリーグ[Division2] 1位[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 5031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312014,
+        "name": "第31回レギオンリーグ[Division2] 1位[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 5031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312015,
+        "name": "第31回レギオンリーグ[Division2] 1位[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 5031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312021,
+        "name": "第31回レギオンリーグ[Division2] 2位[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 5031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312022,
+        "name": "第31回レギオンリーグ[Division2] 2位[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 5031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312023,
+        "name": "第31回レギオンリーグ[Division2] 2位[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 5031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312024,
+        "name": "第31回レギオンリーグ[Division2] 2位[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 5031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312025,
+        "name": "第31回レギオンリーグ[Division2] 2位[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 5031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312031,
+        "name": "第31回レギオンリーグ[Division2] 3位[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 5031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312032,
+        "name": "第31回レギオンリーグ[Division2] 3位[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 5031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312033,
+        "name": "第31回レギオンリーグ[Division2] 3位[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 5031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312034,
+        "name": "第31回レギオンリーグ[Division2] 3位[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 5031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312035,
+        "name": "第31回レギオンリーグ[Division2] 3位[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 5031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312041,
+        "name": "第31回レギオンリーグ[Division2] TOP10[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312042,
+        "name": "第31回レギオンリーグ[Division2] TOP10[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312043,
+        "name": "第31回レギオンリーグ[Division2] TOP10[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312044,
+        "name": "第31回レギオンリーグ[Division2] TOP10[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312045,
+        "name": "第31回レギオンリーグ[Division2] TOP10[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312051,
+        "name": "第31回レギオンリーグ[Division2] TOP50[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312052,
+        "name": "第31回レギオンリーグ[Division2] TOP50[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312053,
+        "name": "第31回レギオンリーグ[Division2] TOP50[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312054,
+        "name": "第31回レギオンリーグ[Division2] TOP50[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312055,
+        "name": "第31回レギオンリーグ[Division2] TOP50[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312061,
+        "name": "第31回レギオンリーグ[Division2] TOP100[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312062,
+        "name": "第31回レギオンリーグ[Division2] TOP100[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312063,
+        "name": "第31回レギオンリーグ[Division2] TOP100[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312064,
+        "name": "第31回レギオンリーグ[Division2] TOP100[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312065,
+        "name": "第31回レギオンリーグ[Division2] TOP100[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312071,
+        "name": "第31回レギオンリーグ[Division2] TOP300[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312072,
+        "name": "第31回レギオンリーグ[Division2] TOP300[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312073,
+        "name": "第31回レギオンリーグ[Division2] TOP300[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312074,
+        "name": "第31回レギオンリーグ[Division2] TOP300[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312075,
+        "name": "第31回レギオンリーグ[Division2] TOP300[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312081,
+        "name": "第31回レギオンリーグ[Division2] TOP500[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312082,
+        "name": "第31回レギオンリーグ[Division2] TOP500[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312083,
+        "name": "第31回レギオンリーグ[Division2] TOP500[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312084,
+        "name": "第31回レギオンリーグ[Division2] TOP500[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312085,
+        "name": "第31回レギオンリーグ[Division2] TOP500[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312091,
+        "name": "第31回レギオンリーグ[Division2] TOP1000[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312092,
+        "name": "第31回レギオンリーグ[Division2] TOP1000[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312093,
+        "name": "第31回レギオンリーグ[Division2] TOP1000[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312094,
+        "name": "第31回レギオンリーグ[Division2] TOP1000[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312095,
+        "name": "第31回レギオンリーグ[Division2] TOP1000[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312101,
+        "name": "第31回レギオンリーグ[Division2] TOP1500[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312102,
+        "name": "第31回レギオンリーグ[Division2] TOP1500[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312103,
+        "name": "第31回レギオンリーグ[Division2] TOP1500[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312104,
+        "name": "第31回レギオンリーグ[Division2] TOP1500[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312105,
+        "name": "第31回レギオンリーグ[Division2] TOP1500[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312111,
+        "name": "第31回レギオンリーグ[Division2] TOP2000[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312112,
+        "name": "第31回レギオンリーグ[Division2] TOP2000[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312113,
+        "name": "第31回レギオンリーグ[Division2] TOP2000[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312114,
+        "name": "第31回レギオンリーグ[Division2] TOP2000[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312115,
+        "name": "第31回レギオンリーグ[Division2] TOP2000[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312121,
+        "name": "第31回レギオンリーグ[Division2] TOP3000[12:30]",
+        "detail": "第31回レギオンリーグ[Division2][12:30時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312122,
+        "name": "第31回レギオンリーグ[Division2] TOP3000[20:00]",
+        "detail": "第31回レギオンリーグ[Division2][20:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312123,
+        "name": "第31回レギオンリーグ[Division2] TOP3000[21:00]",
+        "detail": "第31回レギオンリーグ[Division2][21:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312124,
+        "name": "第31回レギオンリーグ[Division2] TOP3000[22:00]",
+        "detail": "第31回レギオンリーグ[Division2][22:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20312125,
+        "name": "第31回レギオンリーグ[Division2] TOP3000[23:00]",
+        "detail": "第31回レギオンリーグ[Division2][23:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 5031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313011,
+        "name": "第31回レギオンリーグ[Division3] 1位[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 6031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313012,
+        "name": "第31回レギオンリーグ[Division3] 1位[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 6031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313013,
+        "name": "第31回レギオンリーグ[Division3] 1位[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 6031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313014,
+        "name": "第31回レギオンリーグ[Division3] 1位[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 6031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313015,
+        "name": "第31回レギオンリーグ[Division3] 1位[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 6031001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313021,
+        "name": "第31回レギオンリーグ[Division3] 2位[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 6031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313022,
+        "name": "第31回レギオンリーグ[Division3] 2位[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 6031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313023,
+        "name": "第31回レギオンリーグ[Division3] 2位[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 6031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313024,
+        "name": "第31回レギオンリーグ[Division3] 2位[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 6031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313025,
+        "name": "第31回レギオンリーグ[Division3] 2位[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で2位に輝いたレギオンに与えられる称号",
+        "imageId": 6031002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313031,
+        "name": "第31回レギオンリーグ[Division3] 3位[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 6031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313032,
+        "name": "第31回レギオンリーグ[Division3] 3位[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 6031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313033,
+        "name": "第31回レギオンリーグ[Division3] 3位[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 6031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313034,
+        "name": "第31回レギオンリーグ[Division3] 3位[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 6031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313035,
+        "name": "第31回レギオンリーグ[Division3] 3位[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で3位に輝いたレギオンに与えられる称号",
+        "imageId": 6031003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313041,
+        "name": "第31回レギオンリーグ[Division3] TOP10[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313042,
+        "name": "第31回レギオンリーグ[Division3] TOP10[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313043,
+        "name": "第31回レギオンリーグ[Division3] TOP10[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313044,
+        "name": "第31回レギオンリーグ[Division3] TOP10[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313045,
+        "name": "第31回レギオンリーグ[Division3] TOP10[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031010,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313051,
+        "name": "第31回レギオンリーグ[Division3] TOP50[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313052,
+        "name": "第31回レギオンリーグ[Division3] TOP50[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313053,
+        "name": "第31回レギオンリーグ[Division3] TOP50[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313054,
+        "name": "第31回レギオンリーグ[Division3] TOP50[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313055,
+        "name": "第31回レギオンリーグ[Division3] TOP50[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031050,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313061,
+        "name": "第31回レギオンリーグ[Division3] TOP100[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313062,
+        "name": "第31回レギオンリーグ[Division3] TOP100[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313063,
+        "name": "第31回レギオンリーグ[Division3] TOP100[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313064,
+        "name": "第31回レギオンリーグ[Division3] TOP100[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313065,
+        "name": "第31回レギオンリーグ[Division3] TOP100[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031100,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313071,
+        "name": "第31回レギオンリーグ[Division3] TOP300[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313072,
+        "name": "第31回レギオンリーグ[Division3] TOP300[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313073,
+        "name": "第31回レギオンリーグ[Division3] TOP300[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313074,
+        "name": "第31回レギオンリーグ[Division3] TOP300[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313075,
+        "name": "第31回レギオンリーグ[Division3] TOP300[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031300,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313081,
+        "name": "第31回レギオンリーグ[Division3] TOP500[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313082,
+        "name": "第31回レギオンリーグ[Division3] TOP500[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313083,
+        "name": "第31回レギオンリーグ[Division3] TOP500[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313084,
+        "name": "第31回レギオンリーグ[Division3] TOP500[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313085,
+        "name": "第31回レギオンリーグ[Division3] TOP500[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313091,
+        "name": "第31回レギオンリーグ[Division3] TOP1000[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313092,
+        "name": "第31回レギオンリーグ[Division3] TOP1000[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313093,
+        "name": "第31回レギオンリーグ[Division3] TOP1000[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313094,
+        "name": "第31回レギオンリーグ[Division3] TOP1000[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313095,
+        "name": "第31回レギオンリーグ[Division3] TOP1000[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313101,
+        "name": "第31回レギオンリーグ[Division3] TOP1500[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313102,
+        "name": "第31回レギオンリーグ[Division3] TOP1500[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313103,
+        "name": "第31回レギオンリーグ[Division3] TOP1500[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313104,
+        "name": "第31回レギオンリーグ[Division3] TOP1500[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313105,
+        "name": "第31回レギオンリーグ[Division3] TOP1500[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位1500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313111,
+        "name": "第31回レギオンリーグ[Division3] TOP2000[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313112,
+        "name": "第31回レギオンリーグ[Division3] TOP2000[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313113,
+        "name": "第31回レギオンリーグ[Division3] TOP2000[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313114,
+        "name": "第31回レギオンリーグ[Division3] TOP2000[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313115,
+        "name": "第31回レギオンリーグ[Division3] TOP2000[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313121,
+        "name": "第31回レギオンリーグ[Division3] TOP3000[12:30]",
+        "detail": "第31回レギオンリーグ[Division3][12:30時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313122,
+        "name": "第31回レギオンリーグ[Division3] TOP3000[20:00]",
+        "detail": "第31回レギオンリーグ[Division3][20:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313123,
+        "name": "第31回レギオンリーグ[Division3] TOP3000[21:00]",
+        "detail": "第31回レギオンリーグ[Division3][21:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313124,
+        "name": "第31回レギオンリーグ[Division3] TOP3000[22:00]",
+        "detail": "第31回レギオンリーグ[Division3][22:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 20313125,
+        "name": "第31回レギオンリーグ[Division3] TOP3000[23:00]",
+        "detail": "第31回レギオンリーグ[Division3][23:00時間帯]で上位3000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 6031301,
         "limitTime": -62170017539
       },
       {
