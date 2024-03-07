@@ -2048,6 +2048,20 @@
         "endTime": 1710705599
       },
       {
+        "loginBonusMstId": 10104,
+        "title": "ホワイトデー 2024ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3014401,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1709928000,
+        "endTime": 1711483199
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

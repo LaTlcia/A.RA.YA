@@ -2306,6 +2306,18 @@
         "conditionValue2": 0,
         "startTime": 1709175600,
         "endTime": 1710557999
+      },
+      {
+        "chatStampMstId": 215,
+        "name": "Chu♡",
+        "characterMstId": 16,
+        "type": 3,
+        "howToGetText": "もふもふホワイトデー【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1709953200,
+        "endTime": 1711465199
       }
     ]
   }

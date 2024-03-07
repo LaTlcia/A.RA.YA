@@ -5108,6 +5108,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 741,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "もふもふホワイトデー",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 74110101,
+        "lastQuestStageMstId": 74120115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230158,
+        "eventStoryBannerMstId": 1230158,
+        "stageViewBgm": "bgm_anime_66-001",
+        "bgImageId": 1053201,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1727233200,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

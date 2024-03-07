@@ -3860,6 +3860,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 741101,
+        "questMapMstId": 741,
+        "name": "メダルイベント",
+        "description": "もふもふホワイトデー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 741201,
+        "questMapMstId": 741,
+        "name": "メダルイベント",
+        "description": "もふもふホワイトデー",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

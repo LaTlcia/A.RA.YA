@@ -3945,7 +3945,42 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10571,
+        "title": "もふもふホワイトデー【個人】",
+        "completeMissionMstId": 10571001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10572,
+        "title": "もふもふホワイトデー【レギオン】",
+        "completeMissionMstId": 10572001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10573,
+        "title": "もふもふホワイトデー【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10574,
+        "title": "ホワイトデー 2024",
+        "completeMissionMstId": 10574001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2711
+      },
+      {
         "missionTitleMstId": 10575,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10576,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

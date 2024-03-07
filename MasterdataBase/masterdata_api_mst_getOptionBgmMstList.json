@@ -1250,6 +1250,22 @@
         "forceBgmEndTime": 1709953199,
         "startTime": 1709175600,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 701,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 701,
+        "title": "ハンドメイドギフト",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_66-001",
+        "forceBgmStartTime": 1709953200,
+        "forceBgmEndTime": 1710557999,
+        "startTime": 1709953200,
+        "endTime": -62170017539
       }
     ]
   }
