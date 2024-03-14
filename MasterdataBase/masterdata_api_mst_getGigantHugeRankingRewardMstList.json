@@ -4,6 +4,48 @@
   "payload": {
     "mstList": [
       {
+        "gigantHugeRankingRewardMstId": 1091001,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 3,
+        "rewardGroupId": 1091001
+      },
+      {
+        "gigantHugeRankingRewardMstId": 1091002,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 10,
+        "rewardGroupId": 1091002
+      },
+      {
+        "gigantHugeRankingRewardMstId": 1091003,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 100,
+        "rewardGroupId": 1091003
+      },
+      {
+        "gigantHugeRankingRewardMstId": 1091004,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 1000,
+        "rewardGroupId": 1091004
+      },
+      {
+        "gigantHugeRankingRewardMstId": 1091005,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 3000,
+        "rewardGroupId": 1091005
+      },
+      {
+        "gigantHugeRankingRewardMstId": 1091006,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 5000,
+        "rewardGroupId": 1091006
+      },
+      {
+        "gigantHugeRankingRewardMstId": 1091007,
+        "gigantHugeRankingRewardGroupId": 1091,
+        "rankingNum": 100000,
+        "rewardGroupId": 1091007
+      },
+      {
         "gigantHugeRankingRewardMstId": 2001001,
         "gigantHugeRankingRewardGroupId": 2001,
         "rankingNum": 3,

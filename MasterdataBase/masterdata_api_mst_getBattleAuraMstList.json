@@ -4,6 +4,33 @@
   "payload": {
     "mstList": [
       {
+        "battleAuraMstId": 1090102,
+        "name": "オーラエフェクト赤",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 3,
+        "imageId": 1016400,
+        "startTime": 1711872000,
+        "endTime": 1714464000
+      },
+      {
+        "battleAuraMstId": 1090202,
+        "name": "オーラエフェクト紫",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 2,
+        "imageId": 1016300,
+        "startTime": 1711872000,
+        "endTime": 1714464000
+      },
+      {
+        "battleAuraMstId": 1090302,
+        "name": "オーラエフェクト青",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 1,
+        "imageId": 1016200,
+        "startTime": 1711872000,
+        "endTime": 1714464000
+      },
+      {
         "battleAuraMstId": 2010101,
         "name": "オーラエフェクト赤",
         "description": "リリィに表示される特別なエフェクト",

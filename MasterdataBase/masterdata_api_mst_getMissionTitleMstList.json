@@ -3987,6 +3987,20 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10577,
+        "title": "SpringSplashVacation!!【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10578,
+        "title": "ギガント級高難度【特別】",
+        "completeMissionMstId": 10578001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

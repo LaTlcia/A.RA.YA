@@ -3876,6 +3876,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 742101,
+        "questMapMstId": 742,
+        "name": "メダルイベント",
+        "description": "SpringSplashVacation!!",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 742201,
+        "questMapMstId": 742,
+        "name": "メダルイベント",
+        "description": "SpringSplashVacation!!",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

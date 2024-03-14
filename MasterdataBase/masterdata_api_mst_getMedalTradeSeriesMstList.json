@@ -6584,6 +6584,48 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1468,
+        "rewardGroupId": 0,
+        "name": "Spring Splash Vacation!!前衛ペンダントEX交換券",
+        "description": "Spring Splash Vacation!!前衛ペンダントEX交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 5032,
+        "itemMstId": 1017111,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1469,
+        "rewardGroupId": 0,
+        "name": "Spring Splash Vacation!!後衛ペンダントEX交換券",
+        "description": "Spring Splash Vacation!!後衛ペンダントEX交換券 交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 5032,
+        "itemMstId": 1017211,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1470,
+        "rewardGroupId": 1002,
+        "name": "Spring Splash Vacation!!引換券",
+        "description": "Spring Splash Vacation!!引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 1,
+        "sortOrder": 2038,
+        "itemMstId": 4010102,
+        "viewable": 1,
+        "startTime": 1710558000,
+        "endTime": 1712847599,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -8320,6 +8362,20 @@
         "dailyEndTime": 1710619199
       },
       {
+        "medalTradeSeriesMstId": 5742,
+        "rewardGroupId": 1009,
+        "name": "SpringSplashVacation!!メダル交換所",
+        "description": "SpringSplashVacation!!メダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 2038,
+        "itemMstId": 4000720,
+        "viewable": 1,
+        "startTime": 1710558000,
+        "endTime": 1712501999,
+        "dailyStartTime": 1710558000,
+        "dailyEndTime": 1711915199
+      },
+      {
         "medalTradeSeriesMstId": 6101,
         "rewardGroupId": 0,
         "name": "アビスサーペントCh.1メダル交換所",
@@ -8568,6 +8624,20 @@
         "viewable": 1,
         "startTime": 1708570800,
         "endTime": 1709823599,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 6509,
+        "rewardGroupId": 1006,
+        "name": "ギガント級衣装引換券Ver.3",
+        "description": "ギガント級衣装引換券Ver.3交換所で使用することができる交換用のアイテム",
+        "tabType": 1,
+        "sortOrder": 2038,
+        "itemMstId": 4009208,
+        "viewable": 1,
+        "startTime": 1710558000,
+        "endTime": 1712501999,
         "dailyStartTime": -62170017539,
         "dailyEndTime": -62170017539
       },
