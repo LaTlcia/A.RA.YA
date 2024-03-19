@@ -3140,6 +3140,30 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 309101,
+        "questMapMstId": 309,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 310101,
+        "questMapMstId": 310,
+        "name": "ミニイベント",
+        "description": "プレストーリー毛綱乃彩編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 311101,
+        "questMapMstId": 311,
+        "name": "ミニイベント",
+        "description": "プレストーリー+毛綱乃彩編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",

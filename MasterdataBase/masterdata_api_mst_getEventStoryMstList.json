@@ -14271,6 +14271,39 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 30910101,
+        "questStageMstId": 30910101,
+        "title": "五品目　ルナトラ焼き",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_05",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1711206000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 31010101,
+        "questStageMstId": 31010101,
+        "title": "プレストーリー毛綱乃彩編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_124",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1710835200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 31110101,
+        "questStageMstId": 31110101,
+        "title": "プレストーリー+毛綱乃彩編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_ex124",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1711508400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",

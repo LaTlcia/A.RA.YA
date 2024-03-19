@@ -466,6 +466,20 @@
         "endTime": 1924959599
       },
       {
+        "loginBonusMstId": 4025,
+        "title": "誕生日ログインボーナス：横田悠夏",
+        "cycleType": 3,
+        "isExactDate": true,
+        "sortOrder": 5,
+        "characterJobMstId": 1082,
+        "backGroundId": 0,
+        "isCharacterVisible": true,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1577804400,
+        "endTime": 1924959599
+      },
+      {
         "loginBonusMstId": 5001,
         "title": "アニメ3周年 第１話 スイレン",
         "cycleType": 2,
@@ -2060,6 +2074,34 @@
         "cardMstId": 0,
         "startTime": 1709928000,
         "endTime": 1711483199
+      },
+      {
+        "loginBonusMstId": 10105,
+        "title": "ふじの食堂開店記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3012701,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1711206000,
+        "endTime": 1712156399
+      },
+      {
+        "loginBonusMstId": 10106,
+        "title": "新章 -白百合の十二聖剣-激動カウントダウンログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3014501,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1710878400,
+        "endTime": 1713038399
       },
       {
         "loginBonusMstId": 520201,

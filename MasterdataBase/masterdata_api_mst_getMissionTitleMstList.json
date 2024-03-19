@@ -4001,6 +4001,27 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10579,
+        "title": "悠夏誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10580,
+        "title": "藍誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10586,
+        "title": "新章 -白百合の十二聖剣-激動カウントダウン",
+        "completeMissionMstId": 10586001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2727
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,
