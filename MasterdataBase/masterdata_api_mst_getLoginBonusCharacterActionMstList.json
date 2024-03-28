@@ -1586,6 +1586,39 @@
         "motion": "Anger",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 124001,
+        "type": 0,
+        "characterMstId": 124,
+        "title": "【乃彩】ログインボーナス1",
+        "voiceId": "cv_outgame_001_124-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 124002,
+        "type": 0,
+        "characterMstId": 124,
+        "title": "【乃彩】ログインボーナス2",
+        "voiceId": "cv_outgame_001_124-login_normal_002",
+        "faceType": "Smile",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 124003,
+        "type": 0,
+        "characterMstId": 124,
+        "title": "【乃彩】ログインボーナス3",
+        "voiceId": "cv_outgame_001_124-login_normal_003",
+        "faceType": "Serious",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

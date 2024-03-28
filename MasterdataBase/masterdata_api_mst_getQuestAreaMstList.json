@@ -3164,6 +3164,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 312101,
+        "questMapMstId": 312,
+        "name": "ミニイベント",
+        "description": "某日前夜",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -3912,6 +3920,22 @@
         "questMapMstId": 742,
         "name": "メダルイベント",
         "description": "SpringSplashVacation!!",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 743101,
+        "questMapMstId": 743,
+        "name": "メダルイベント",
+        "description": "溟海のブルーローズ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 743201,
+        "questMapMstId": 743,
+        "name": "メダルイベント",
+        "description": "溟海のブルーローズ",
         "mode": 2,
         "hasNextComingSoon": false
       },

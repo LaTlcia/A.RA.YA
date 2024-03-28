@@ -4015,11 +4015,53 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10581,
+        "title": "溟海のブルーローズ【個人】",
+        "completeMissionMstId": 10581001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10582,
+        "title": "溟海のブルーローズ【レギオン】",
+        "completeMissionMstId": 10582001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10583,
+        "title": "溟海のブルーローズ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10584,
+        "title": "結爾誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10585,
+        "title": "「LCS決勝配信」を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10586,
         "title": "新章 -白百合の十二聖剣-激動カウントダウン",
         "completeMissionMstId": 10586001,
         "specialMissionImageId": 4,
         "completeResourceId": 2727
+      },
+      {
+        "missionTitleMstId": 10590,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
       },
       {
         "missionTitleMstId": 11020,

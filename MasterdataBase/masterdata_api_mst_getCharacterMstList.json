@@ -2978,6 +2978,37 @@
         "startTime": 1702177200,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 124,
+        "name": "毛綱乃彩",
+        "kanaName": "もづなのあ",
+        "firstName": "乃彩",
+        "lilyProfileListName": "",
+        "cv": "田中ちえ美",
+        "legionMstId": 5,
+        "grade": "2年",
+        "birthday": 1711033200,
+        "bloodType": "AB",
+        "favoriteFood": "散歩、日光浴",
+        "hatedFood": "じめじめした場所、ぬるぬるした食べ物",
+        "hobby": "バトントワリング、きのこの栽培",
+        "introduction": "超がつくほどの感覚派で天才肌のリリィ。華麗で優美な戦闘スタイルから「妖精（ピクシー）」という異名を持つ。温和で優しい性格だが、何者にも侵されない独自のペースをたもっており、私生活でも戦闘時でも唯一無二の存在感を放つ。",
+        "defaultCharacterJobMstId": 1124,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_124",
+        "supportWeaponMstId": 201611,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60160901,
+        "gvgRareSkillMstId": 50160901,
+        "victoryMotionId": 63,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1711854000,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }

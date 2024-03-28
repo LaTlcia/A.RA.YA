@@ -1266,6 +1266,22 @@
         "forceBgmEndTime": 1710557999,
         "startTime": 1709953200,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 801,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 801,
+        "title": "退路なき防衛",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_79-001",
+        "forceBgmStartTime": 1711854000,
+        "forceBgmEndTime": 1713063599,
+        "startTime": 1711854000,
+        "endTime": -62170017539
       }
     ]
   }

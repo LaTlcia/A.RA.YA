@@ -2318,6 +2318,18 @@
         "conditionValue2": 0,
         "startTime": 1709953200,
         "endTime": 1711465199
+      },
+      {
+        "chatStampMstId": 216,
+        "name": "ほわわ～",
+        "characterMstId": 124,
+        "type": 3,
+        "howToGetText": "溟海のブルーローズ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1711854000,
+        "endTime": 1713063599
       }
     ]
   }
