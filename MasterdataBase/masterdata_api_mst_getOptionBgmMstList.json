@@ -1282,6 +1282,22 @@
         "forceBgmEndTime": 1713063599,
         "startTime": 1711854000,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 901,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 901,
+        "title": "薫風に光あふれて",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_82-001",
+        "forceBgmStartTime": 1713063600,
+        "forceBgmEndTime": 1713668399,
+        "startTime": 1713063600,
+        "endTime": -62170017539
       }
     ]
   }

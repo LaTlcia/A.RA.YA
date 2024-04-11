@@ -480,6 +480,55 @@
         "imageId": 1016100
       },
       {
+        "nicknameMstId": 10100701,
+        "name": "第7回LCS_G[優勝]",
+        "description": "レギオンチャンピオンシップGoldDiv[優勝]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 10100702,
+        "name": "第7回LCS_G[準優勝]",
+        "description": "レギオンチャンピオンシップGoldDiv[準優勝]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 10100703,
+        "name": "第7回LCS_G[BEST4]",
+        "description": "レギオンチャンピオンシップGoldDiv[BEST4]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 10100704,
+        "name": "第7回LCS_G[BEST8]",
+        "description": "レギオンチャンピオンシップGoldDiv[BEST8]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 10100705,
+        "name": "第7回LCS_G[BEST16]",
+        "description": "レギオンチャンピオンシップGoldDiv[BEST16]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 10100706,
+        "name": "第7回LCS_G[BEST32]",
+        "description": "レギオンチャンピオンシップGoldDiv[BEST32]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 10100707,
+        "name": "第7回LCS_G[BEST64]",
+        "description": "レギオンチャンピオンシップGoldDiv[BEST64]レギオンの証",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
         "nicknameMstId": 10200101,
         "name": "第1回LCS[BEST4]",
         "description": "レギオンチャンピオンシップ[BEST4]レギオンに送られる称号",
@@ -685,6 +734,55 @@
       {
         "nicknameMstId": 10200607,
         "name": "第6回LCS_S[BEST64]",
+        "description": "レギオンチャンピオンシップSilverDiv[BEST64]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200701,
+        "name": "第7回LCS_S[優勝]",
+        "description": "レギオンチャンピオンシップSilverDiv[優勝]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200702,
+        "name": "第7回LCS_S[準優勝]",
+        "description": "レギオンチャンピオンシップSilverDiv[準優勝]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200703,
+        "name": "第7回LCS_S[BEST4]",
+        "description": "レギオンチャンピオンシップSilverDiv[BEST4]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200704,
+        "name": "第7回LCS_S[BEST8]",
+        "description": "レギオンチャンピオンシップSilverDiv[BEST8]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200705,
+        "name": "第7回LCS_S[BEST16]",
+        "description": "レギオンチャンピオンシップSilverDiv[BEST16]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200706,
+        "name": "第7回LCS_S[BEST32]",
+        "description": "レギオンチャンピオンシップSilverDiv[BEST32]レギオンの証",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 10200707,
+        "name": "第7回LCS_S[BEST64]",
         "description": "レギオンチャンピオンシップSilverDiv[BEST64]レギオンの証",
         "resourceId": 2,
         "imageId": 1016000
@@ -951,6 +1049,55 @@
       {
         "nicknameMstId": 10400607,
         "name": "第6回LCS_P[BEST64]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[BEST64]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400701,
+        "name": "第7回LCS_P[優勝]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[優勝]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400702,
+        "name": "第7回LCS_P[準優勝]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[準優勝]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400703,
+        "name": "第7回LCS_P[BEST4]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[BEST4]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400704,
+        "name": "第7回LCS_P[BEST8]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[BEST8]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400705,
+        "name": "第7回LCS_P[BEST16]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[BEST16]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400706,
+        "name": "第7回LCS_P[BEST32]",
+        "description": "レギオンチャンピオンシップPlatinumDiv[BEST32]レギオンの証",
+        "resourceId": 4,
+        "imageId": 1017400
+      },
+      {
+        "nicknameMstId": 10400707,
+        "name": "第7回LCS_P[BEST64]",
         "description": "レギオンチャンピオンシップPlatinumDiv[BEST64]レギオンの証",
         "resourceId": 4,
         "imageId": 1017400

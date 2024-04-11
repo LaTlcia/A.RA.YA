@@ -5262,6 +5262,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 744,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "アトラクト・ラヴァーズ",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 74410101,
+        "lastQuestStageMstId": 74420115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230231,
+        "eventStoryBannerMstId": 1230231,
+        "stageViewBgm": "bgm_anime_83-001",
+        "bgImageId": 1002301,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1730343600,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

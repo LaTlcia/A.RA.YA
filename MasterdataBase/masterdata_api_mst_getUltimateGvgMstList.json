@@ -81,10 +81,24 @@
         "gvgStartTime": 1710828000,
         "gvgEndTime": 1712674799,
         "resultStartTime": 1712736000,
-        "resultEndTime": 1713106799,
+        "resultEndTime": 1713020399,
         "eventName": "レギオンチャンピオンシップ チューリップ杯",
         "eventImageId": 1,
         "announceMstId": 5379,
+        "homeAppealImageId": 1783
+      },
+      {
+        "ultimateGvgMstId": 7,
+        "grandGvgMstId": 10006,
+        "preliminaryStartTime": 1713081600,
+        "preliminaryEndTime": 1718690399,
+        "gvgStartTime": 1718690400,
+        "gvgEndTime": 1720537199,
+        "resultStartTime": 1720598400,
+        "resultEndTime": 1720969199,
+        "eventName": "レギオンチャンピオンシップ バラ杯",
+        "eventImageId": 2,
+        "announceMstId": 5468,
         "homeAppealImageId": 1783
       }
     ]

@@ -7357,6 +7357,510 @@
         "objectNum": 4000000
       },
       {
+        "deckSupportExtensionConditionMstId": 520101,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 2000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520102,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 1400
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520103,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520104,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 690
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520105,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 490
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520106,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 350
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520107,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 840
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520108,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520109,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 1150
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520110,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520201,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 2000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520202,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 1400
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520203,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520204,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 690
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520205,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 490
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520206,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 350
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520207,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 840
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520208,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 1150
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520209,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 2,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520301,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 2500
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520302,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 1750
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520303,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1230
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520304,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 870
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520305,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 610
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520306,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 430
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520307,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 2520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520308,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 3460
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520309,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 3,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520401,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 2500
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520402,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 1750
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520403,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1230
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520404,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 870
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520405,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 610
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520406,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 430
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520407,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 2520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520408,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 3460
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520409,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 4,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520501,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 3000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520502,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2100
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520503,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1470
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520504,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1030
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520505,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 730
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520506,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520507,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 2520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520508,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 3460
+      },
+      {
+        "deckSupportExtensionConditionMstId": 520509,
+        "extensionType": 2,
+        "supportDeckIndex": 5,
+        "extensionSlot": 5,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530101,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 3000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530102,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2100
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530103,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1470
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530104,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1030
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530105,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 730
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530106,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530107,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 4200
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530108,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530109,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 5760
+      },
+      {
+        "deckSupportExtensionConditionMstId": 530110,
+        "extensionType": 3,
+        "supportDeckIndex": 5,
+        "extensionSlot": 0,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3500000
+      },
+      {
         "deckSupportExtensionConditionMstId": 600001,
         "extensionType": 0,
         "supportDeckIndex": 6,
@@ -8786,6 +9290,510 @@
         "objectType": 7,
         "objectId": 0,
         "objectNum": 4500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620101,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 3000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620102,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2100
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620103,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1470
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620104,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1030
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620105,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 730
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620106,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620107,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 4200
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620108,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620109,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 5760
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620110,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620201,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 3300
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620202,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2310
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620203,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1620
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620204,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1140
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620205,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 800
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620206,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 560
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620207,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 4200
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620208,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 5760
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620209,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 2,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 3500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620301,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 3630
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620302,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2550
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620303,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1790
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620304,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1260
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620305,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 890
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620306,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 630
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620307,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 5880
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620308,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 8060
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620309,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 3,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620401,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 4000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620402,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2800
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620403,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1960
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620404,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1380
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620405,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 970
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620406,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 680
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620407,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 5880
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620408,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 8060
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620409,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 4,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620501,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 4000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620502,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2800
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620503,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1960
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620504,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1380
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620505,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 970
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620506,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 680
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620507,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 5880
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620508,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 8060
+      },
+      {
+        "deckSupportExtensionConditionMstId": 620509,
+        "extensionType": 2,
+        "supportDeckIndex": 6,
+        "extensionSlot": 5,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630101,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 4000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630102,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 2800
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630103,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 1960
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630104,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1380
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630105,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 970
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630106,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 680
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630107,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 7560
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630108,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630109,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 10370
+      },
+      {
+        "deckSupportExtensionConditionMstId": 630110,
+        "extensionType": 3,
+        "supportDeckIndex": 6,
+        "extensionSlot": 0,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4000000
       },
       {
         "deckSupportExtensionConditionMstId": 700001,
@@ -10219,6 +11227,510 @@
         "objectNum": 5000000
       },
       {
+        "deckSupportExtensionConditionMstId": 720101,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 4400
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720102,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 3080
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720103,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 2160
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720104,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1520
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720105,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1070
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720106,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 750
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720107,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 7560
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720108,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720109,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 10370
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720110,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720201,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 4840
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720202,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 3390
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720203,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 2380
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720204,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1670
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720205,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1170
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720206,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 820
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720207,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 7560
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720208,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 10370
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720209,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 2,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720301,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 5330
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720302,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 3740
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720303,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 2620
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720304,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1840
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720305,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1290
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720306,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 910
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720307,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 9240
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720308,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 12670
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720309,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 3,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720401,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 5330
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720402,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 3740
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720403,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 2620
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720404,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1840
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720405,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1290
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720406,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 910
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720407,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 9240
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720408,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 12670
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720409,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 4,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720501,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 5330
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720502,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 3740
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720503,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 2620
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720504,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 1840
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720505,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1290
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720506,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 910
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720507,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 9240
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720508,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 12670
+      },
+      {
+        "deckSupportExtensionConditionMstId": 720509,
+        "extensionType": 2,
+        "supportDeckIndex": 7,
+        "extensionSlot": 5,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730101,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 5870
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730102,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 4110
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730103,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 2880
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730104,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2020
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730105,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1420
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730106,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730107,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 10920
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730108,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730109,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 14980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 730110,
+        "extensionType": 3,
+        "supportDeckIndex": 7,
+        "extensionSlot": 0,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 4500000
+      },
+      {
         "deckSupportExtensionConditionMstId": 800001,
         "extensionType": 0,
         "supportDeckIndex": 8,
@@ -11645,6 +13157,510 @@
         "extensionType": 1,
         "supportDeckIndex": 8,
         "extensionSlot": 20,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 5500000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820101,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 6460
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820102,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 4530
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820103,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 3180
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820104,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2230
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820105,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1570
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820106,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1100
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820107,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 10920
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820108,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820109,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 14980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820110,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 5000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820201,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 7110
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820202,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 4980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820203,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 3490
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820204,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2450
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820205,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1720
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820206,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1210
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820207,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 10920
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820208,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 14980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820209,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 2,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 5000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820301,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 7110
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820302,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 4980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820303,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 3490
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820304,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2450
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820305,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1720
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820306,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1210
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820307,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 10920
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820308,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 14980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820309,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 3,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 5000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820401,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 7110
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820402,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 4980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820403,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 3490
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820404,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2450
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820405,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1720
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820406,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1210
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820407,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 10920
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820408,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 14980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820409,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 4,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 5000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820501,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 7830
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820502,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 5490
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820503,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 3850
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820504,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2700
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820505,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 1890
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820506,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1330
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820507,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 10920
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820508,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 14980
+      },
+      {
+        "deckSupportExtensionConditionMstId": 820509,
+        "extensionType": 2,
+        "supportDeckIndex": 8,
+        "extensionSlot": 5,
+        "objectType": 7,
+        "objectId": 0,
+        "objectNum": 5000000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830101,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1009900,
+        "objectNum": 8620
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830102,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010000,
+        "objectNum": 6040
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830103,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010100,
+        "objectNum": 4230
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830104,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010200,
+        "objectNum": 2970
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830105,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010300,
+        "objectNum": 2080
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830106,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010400,
+        "objectNum": 1460
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830107,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010600,
+        "objectNum": 12600
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830108,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010700,
+        "objectNum": 20000
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830109,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
+        "objectType": 5,
+        "objectId": 1010800,
+        "objectNum": 17280
+      },
+      {
+        "deckSupportExtensionConditionMstId": 830110,
+        "extensionType": 3,
+        "supportDeckIndex": 8,
+        "extensionSlot": 0,
         "objectType": 7,
         "objectId": 0,
         "objectNum": 5500000

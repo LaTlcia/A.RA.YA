@@ -6878,6 +6878,20 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1488,
+        "rewardGroupId": 0,
+        "name": "アトラクト・ラヴァーズペンダントEX交換券",
+        "description": "アトラクト・ラヴァーズペンダントEX交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 5028,
+        "itemMstId": 1019908,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -8640,6 +8654,20 @@
         "endTime": 1713711599,
         "dailyStartTime": 1711854000,
         "dailyEndTime": 1713124799
+      },
+      {
+        "medalTradeSeriesMstId": 5744,
+        "rewardGroupId": 1009,
+        "name": "アトラクト・ラヴァーズメダル交換所",
+        "description": "アトラクト・ラヴァーズメダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 2034,
+        "itemMstId": 4000920,
+        "viewable": 1,
+        "startTime": 1713063600,
+        "endTime": 1715093999,
+        "dailyStartTime": 1713063600,
+        "dailyEndTime": 1713729599
       },
       {
         "medalTradeSeriesMstId": 6101,

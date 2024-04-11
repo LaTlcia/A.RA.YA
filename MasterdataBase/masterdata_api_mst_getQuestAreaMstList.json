@@ -3940,6 +3940,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 744101,
+        "questMapMstId": 744,
+        "name": "メダルイベント",
+        "description": "アトラクト・ラヴァーズ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 744201,
+        "questMapMstId": 744,
+        "name": "メダルイベント",
+        "description": "アトラクト・ラヴァーズ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
