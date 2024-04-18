@@ -3956,6 +3956,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 745101,
+        "questMapMstId": 745,
+        "name": "メダルイベント",
+        "description": "激唱のブーステッドデュオ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 745201,
+        "questMapMstId": 745,
+        "name": "メダルイベント",
+        "description": "激唱のブーステッドデュオ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

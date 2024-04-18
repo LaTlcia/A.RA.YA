@@ -496,6 +496,18 @@
         "endTime": 1683471599
       },
       {
+        "chatStampMstId": 42,
+        "name": "おやすみ～",
+        "characterMstId": 11,
+        "type": 1,
+        "howToGetText": "「ラスバれ！GW2024　160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1713427200,
+        "endTime": 1715007599
+      },
+      {
         "chatStampMstId": 43,
         "name": "はっはぁはぁ",
         "characterMstId": 17,
@@ -578,6 +590,18 @@
         "conditionValue2": 0,
         "startTime": 1577804400,
         "endTime": 1924959599
+      },
+      {
+        "chatStampMstId": 52,
+        "name": "おはよー☆",
+        "characterMstId": 99999,
+        "type": 1,
+        "howToGetText": "「ラスバれ！GW2024　160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1713427200,
+        "endTime": 1715007599
       },
       {
         "chatStampMstId": 54,
@@ -2342,6 +2366,18 @@
         "conditionValue2": 0,
         "startTime": 1713063600,
         "endTime": 1714445999
+      },
+      {
+        "chatStampMstId": 219,
+        "name": "アゲてけ！",
+        "characterMstId": 109,
+        "type": 3,
+        "howToGetText": "「ラスバれ！GW2024　160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1713427200,
+        "endTime": 1715007599
       }
     ]
   }

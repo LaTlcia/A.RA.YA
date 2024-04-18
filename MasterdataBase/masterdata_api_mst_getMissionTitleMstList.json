@@ -4092,11 +4092,25 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10594,
+        "title": "激唱のブーステッドデュオ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10595,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10596,
+        "title": "ラスバれ！ゴールデン☆ウィーク2024",
+        "completeMissionMstId": 10596001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2821
       },
       {
         "missionTitleMstId": 11020,

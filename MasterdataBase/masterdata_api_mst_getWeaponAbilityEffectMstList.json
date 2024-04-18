@@ -3964,6 +3964,246 @@
         "type": 0
       },
       {
+        "weaponAbilityMstId": 1073,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、1%の確率で味方前衛1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、2%の確率で味方前衛1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、3%の確率で味方前衛1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、4%の確率で味方前衛1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、5%の確率で味方前衛1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、6%の確率で味方前衛1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、7%の確率で味方前衛1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、8%の確率で味方前衛1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、9%の確率で味方前衛1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1073,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、10%の確率で味方前衛1体のDEF/Sp.DEFが大アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、1%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、2%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、3%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、4%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、5%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、6%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、7%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、8%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、9%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1074,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、10%の確率で敵1体のATK/Sp.ATKが大ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、1%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、2%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、3%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、4%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、5%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、6%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、7%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、8%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、9%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1075,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、10%の確率で敵1体のSp.ATK/Sp.DEFが大ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 1,
+        "description": "メモリアスキル効果UP+1%。メモリア使用時、1%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 2,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、2%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 3,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、3%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 4,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、4%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 5,
+        "description": "メモリアスキル効果UP+5%。メモリア使用時、5%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 6,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、6%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 7,
+        "description": "メモリアスキル効果UP+7%。メモリア使用時、7%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 8,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、8%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 9,
+        "description": "メモリアスキル効果UP+9%。メモリア使用時、9%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 1076,
+        "level": 10,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、10%の確率で敵1体のATK/DEFが大ダウンする。",
+        "type": 4
+      },
+      {
         "weaponAbilityMstId": 2000,
         "level": 1,
         "description": "メモリアスキル効果UP+1%",
@@ -7922,6 +8162,246 @@
         "level": 10,
         "description": "メモリアスキル効果UP+10%。メモリア使用時、それが火/水属性メモリアの場合、さらにメモリアスキル効果UP+8%。",
         "type": 0
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 1,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、6%の確率で味方1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 2,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、8%の確率で味方1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 3,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、10%の確率で味方1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 4,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、12%の確率で味方1体のDEF/Sp.DEFが小アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 5,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、14%の確率で味方1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 6,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、16%の確率で味方1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 7,
+        "description": "メモリアスキル効果UP+13%。メモリア使用時、18%の確率で味方1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 8,
+        "description": "メモリアスキル効果UP+16%。メモリア使用時、20%の確率で味方1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 9,
+        "description": "メモリアスキル効果UP+20%。メモリア使用時、25%の確率で味方1体のDEF/Sp.DEFがアップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2073,
+        "level": 10,
+        "description": "メモリアスキル効果UP+25%。メモリア使用時、30%の確率で味方1体のDEF/Sp.DEFが大アップする。",
+        "type": 3
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 1,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、6%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 2,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、8%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 3,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、10%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 4,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、12%の確率で敵1体のATK/Sp.ATKが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 5,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、14%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 6,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、16%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 7,
+        "description": "メモリアスキル効果UP+13%。メモリア使用時、18%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 8,
+        "description": "メモリアスキル効果UP+16%。メモリア使用時、20%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 9,
+        "description": "メモリアスキル効果UP+20%。メモリア使用時、25%の確率で敵1体のATK/Sp.ATKがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2074,
+        "level": 10,
+        "description": "メモリアスキル効果UP+25%。メモリア使用時、30%の確率で敵1体のATK/Sp.ATKが大ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 1,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、6%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 2,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、8%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 3,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、10%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 4,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、12%の確率で敵1体のSp.ATK/Sp.DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 5,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、14%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 6,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、16%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 7,
+        "description": "メモリアスキル効果UP+13%。メモリア使用時、18%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 8,
+        "description": "メモリアスキル効果UP+16%。メモリア使用時、20%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 9,
+        "description": "メモリアスキル効果UP+20%。メモリア使用時、25%の確率で敵1体のSp.ATK/Sp.DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2075,
+        "level": 10,
+        "description": "メモリアスキル効果UP+25%。メモリア使用時、30%の確率で敵1体のSp.ATK/Sp.DEFが大ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 1,
+        "description": "メモリアスキル効果UP+2%。メモリア使用時、6%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 2,
+        "description": "メモリアスキル効果UP+3%。メモリア使用時、8%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 3,
+        "description": "メモリアスキル効果UP+4%。メモリア使用時、10%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 4,
+        "description": "メモリアスキル効果UP+6%。メモリア使用時、12%の確率で敵1体のATK/DEFが小ダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 5,
+        "description": "メモリアスキル効果UP+8%。メモリア使用時、14%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 6,
+        "description": "メモリアスキル効果UP+10%。メモリア使用時、16%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 7,
+        "description": "メモリアスキル効果UP+13%。メモリア使用時、18%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 8,
+        "description": "メモリアスキル効果UP+16%。メモリア使用時、20%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 9,
+        "description": "メモリアスキル効果UP+20%。メモリア使用時、25%の確率で敵1体のATK/DEFがダウンする。",
+        "type": 4
+      },
+      {
+        "weaponAbilityMstId": 2076,
+        "level": 10,
+        "description": "メモリアスキル効果UP+25%。メモリア使用時、30%の確率で敵1体のATK/DEFが大ダウンする。",
+        "type": 4
       },
       {
         "weaponAbilityMstId": 3000,

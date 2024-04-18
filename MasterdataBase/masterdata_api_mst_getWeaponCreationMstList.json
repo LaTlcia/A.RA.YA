@@ -151,6 +151,20 @@
         "num": 4000
       },
       {
+        "weaponCreationMstId": 2206011,
+        "weaponMstId": 220601,
+        "uniqueId": 2060,
+        "itemMstId": 2008500,
+        "num": 4000
+      },
+      {
+        "weaponCreationMstId": 2206211,
+        "weaponMstId": 220621,
+        "uniqueId": 2062,
+        "itemMstId": 2008500,
+        "num": 4000
+      },
+      {
         "weaponCreationMstId": 2206311,
         "weaponMstId": 220631,
         "uniqueId": 2063,
@@ -161,6 +175,20 @@
         "weaponCreationMstId": 2206411,
         "weaponMstId": 220641,
         "uniqueId": 2064,
+        "itemMstId": 2008500,
+        "num": 4000
+      },
+      {
+        "weaponCreationMstId": 2206511,
+        "weaponMstId": 220651,
+        "uniqueId": 2065,
+        "itemMstId": 2008500,
+        "num": 4000
+      },
+      {
+        "weaponCreationMstId": 2206711,
+        "weaponMstId": 220671,
+        "uniqueId": 2067,
         "itemMstId": 2008500,
         "num": 4000
       }

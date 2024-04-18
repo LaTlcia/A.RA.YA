@@ -280,7 +280,7 @@
         "resourceId": 4,
         "imageId": 1017500,
         "startTime": 1712736000,
-        "endTime": 1720598399
+        "endTime": 1720943999
       },
       {
         "battleAuraMstId": 100060501,
@@ -289,7 +289,7 @@
         "resourceId": 5,
         "imageId": 1017800,
         "startTime": 1712736000,
-        "endTime": 1720598399
+        "endTime": 1720943999
       },
       {
         "battleAuraMstId": 100060601,
@@ -298,7 +298,7 @@
         "resourceId": 6,
         "imageId": 1017900,
         "startTime": 1712736000,
-        "endTime": 1720598399
+        "endTime": 1720943999
       },
       {
         "battleAuraMstId": 100070401,
@@ -306,7 +306,7 @@
         "description": "リリィに表示される特別なエフェクト",
         "resourceId": 4,
         "imageId": 1017500,
-        "startTime": 1720598400,
+        "startTime": 1720944000,
         "endTime": 1728547199
       },
       {
@@ -315,7 +315,7 @@
         "description": "リリィに表示される特別なエフェクト",
         "resourceId": 5,
         "imageId": 1017800,
-        "startTime": 1720598400,
+        "startTime": 1720944000,
         "endTime": 1728547199
       },
       {
@@ -324,7 +324,7 @@
         "description": "リリィに表示される特別なエフェクト",
         "resourceId": 6,
         "imageId": 1017900,
-        "startTime": 1720598400,
+        "startTime": 1720944000,
         "endTime": 1728547199
       }
     ]

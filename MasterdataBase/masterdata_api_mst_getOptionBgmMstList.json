@@ -1298,6 +1298,22 @@
         "forceBgmEndTime": 1713668399,
         "startTime": 1713063600,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 1001,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 1001,
+        "title": "DIVARISE",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_84-001",
+        "forceBgmStartTime": 1713668400,
+        "forceBgmEndTime": 1714445999,
+        "startTime": 1713668400,
+        "endTime": -62170017539
       }
     ]
   }
