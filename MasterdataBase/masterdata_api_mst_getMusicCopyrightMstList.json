@@ -170,6 +170,38 @@
         "storeType": 8,
         "startTime": 1693450800,
         "endTime": 1694703599
+      },
+      {
+        "musicCopyrightMstId": 25,
+        "name": "bgm_outsource_123-001",
+        "licenseNumber": "9018407032Y43073",
+        "storeType": 1,
+        "startTime": 1714446000,
+        "endTime": 1715698799
+      },
+      {
+        "musicCopyrightMstId": 26,
+        "name": "bgm_outsource_123-001",
+        "licenseNumber": "9018407035Y43073",
+        "storeType": 2,
+        "startTime": 1714446000,
+        "endTime": 1715698799
+      },
+      {
+        "musicCopyrightMstId": 27,
+        "name": "bgm_outsource_123-001",
+        "licenseNumber": "9018407034Y43073",
+        "storeType": 7,
+        "startTime": 1714446000,
+        "endTime": 1715698799
+      },
+      {
+        "musicCopyrightMstId": 28,
+        "name": "bgm_outsource_123-001",
+        "licenseNumber": "9018407033Y43073",
+        "storeType": 8,
+        "startTime": 1714446000,
+        "endTime": 1715698799
       }
     ]
   }

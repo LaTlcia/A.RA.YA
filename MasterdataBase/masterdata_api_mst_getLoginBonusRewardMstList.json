@@ -9060,6 +9060,142 @@
         "num": 1
       },
       {
+        "loginBonusRewardMstId": 1010800,
+        "loginBonusMstId": 10108,
+        "dayCount": 1,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 20000000
+      },
+      {
+        "loginBonusRewardMstId": 1010801,
+        "loginBonusMstId": 10108,
+        "dayCount": 2,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 10
+      },
+      {
+        "loginBonusRewardMstId": 1010802,
+        "loginBonusMstId": 10108,
+        "dayCount": 3,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 300
+      },
+      {
+        "loginBonusRewardMstId": 1010803,
+        "loginBonusMstId": 10108,
+        "dayCount": 4,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1010804,
+        "loginBonusMstId": 10108,
+        "dayCount": 5,
+        "objectType": 5,
+        "objectId": 2010700,
+        "num": 50
+      },
+      {
+        "loginBonusRewardMstId": 1010805,
+        "loginBonusMstId": 10108,
+        "dayCount": 6,
+        "objectType": 5,
+        "objectId": 1010600,
+        "num": 1000
+      },
+      {
+        "loginBonusRewardMstId": 1010806,
+        "loginBonusMstId": 10108,
+        "dayCount": 7,
+        "objectType": 5,
+        "objectId": 1000700,
+        "num": 20
+      },
+      {
+        "loginBonusRewardMstId": 1010807,
+        "loginBonusMstId": 10108,
+        "dayCount": 8,
+        "objectType": 5,
+        "objectId": 2002700,
+        "num": 50
+      },
+      {
+        "loginBonusRewardMstId": 1010808,
+        "loginBonusMstId": 10108,
+        "dayCount": 9,
+        "objectType": 5,
+        "objectId": 2001700,
+        "num": 50
+      },
+      {
+        "loginBonusRewardMstId": 1010809,
+        "loginBonusMstId": 10108,
+        "dayCount": 10,
+        "objectType": 5,
+        "objectId": 1021500,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1010900,
+        "loginBonusMstId": 10109,
+        "dayCount": 1,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1010901,
+        "loginBonusMstId": 10109,
+        "dayCount": 2,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 10
+      },
+      {
+        "loginBonusRewardMstId": 1010902,
+        "loginBonusMstId": 10109,
+        "dayCount": 3,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1010903,
+        "loginBonusMstId": 10109,
+        "dayCount": 4,
+        "objectType": 5,
+        "objectId": 1012800,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1010904,
+        "loginBonusMstId": 10109,
+        "dayCount": 5,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1010905,
+        "loginBonusMstId": 10109,
+        "dayCount": 6,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 100
+      },
+      {
+        "loginBonusRewardMstId": 1010906,
+        "loginBonusMstId": 10109,
+        "dayCount": 7,
+        "objectType": 5,
+        "objectId": 1015300,
+        "num": 1
+      },
+      {
         "loginBonusRewardMstId": 10037001,
         "loginBonusMstId": 10037,
         "dayCount": 1,

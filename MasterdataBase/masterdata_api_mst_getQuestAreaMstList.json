@@ -3172,6 +3172,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 313101,
+        "questMapMstId": 313,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -3968,6 +3976,22 @@
         "questMapMstId": 745,
         "name": "メダルイベント",
         "description": "激唱のブーステッドデュオ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 746101,
+        "questMapMstId": 746,
+        "name": "メダルイベント",
+        "description": "勇花が紡ぐ大樹の奇跡",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 746201,
+        "questMapMstId": 746,
+        "name": "メダルイベント",
+        "description": "勇花が紡ぐ大樹の奇跡",
         "mode": 2,
         "hasNextComingSoon": false
       },

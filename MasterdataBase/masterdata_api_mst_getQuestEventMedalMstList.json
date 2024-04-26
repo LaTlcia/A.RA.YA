@@ -850,6 +850,15 @@
         "rewardEndTime": 1688137199
       },
       {
+        "questMapMstId": 290,
+        "reprintNum": 1,
+        "rewardGroupId": 100,
+        "itemMstId": 4000521,
+        "bannerMstId": 1230273,
+        "afterEventBgm": "",
+        "rewardEndTime": 1716303599
+      },
+      {
         "questMapMstId": 291,
         "reprintNum": 0,
         "rewardGroupId": 100,
@@ -857,6 +866,15 @@
         "bannerMstId": 1229395,
         "afterEventBgm": "bgm_anime_12-001",
         "rewardEndTime": 1688137199
+      },
+      {
+        "questMapMstId": 291,
+        "reprintNum": 1,
+        "rewardGroupId": 100,
+        "itemMstId": 4000521,
+        "bannerMstId": 1230275,
+        "afterEventBgm": "bgm_anime_12-001",
+        "rewardEndTime": 1716303599
       },
       {
         "questMapMstId": 292,
@@ -1487,6 +1505,15 @@
         "bannerMstId": 1230251,
         "afterEventBgm": "",
         "rewardEndTime": 1715612399
+      },
+      {
+        "questMapMstId": 746,
+        "reprintNum": 0,
+        "rewardGroupId": 100,
+        "itemMstId": 4000521,
+        "bannerMstId": 1230271,
+        "afterEventBgm": "bgm_anime_38-001",
+        "rewardEndTime": 1716303599
       }
     ]
   }

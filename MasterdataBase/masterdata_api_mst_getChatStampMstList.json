@@ -1928,24 +1928,24 @@
         "name": "なせば大抵なんとかなる",
         "characterMstId": 95,
         "type": 1,
-        "howToGetText": "白百合の章【個人】特別ミッションで入手可能",
+        "howToGetText": "勇花が紡ぐ大樹の奇跡メダル交換所で入手可能",
         "transitionSceneName": "NULL",
         "conditionValue1": 0,
         "conditionValue2": 0,
-        "startTime": 1685502000,
-        "endTime": 1687532399
+        "startTime": 1714446000,
+        "endTime": 1715698799
       },
       {
         "chatStampMstId": 182,
         "name": "許さない",
         "characterMstId": 96,
         "type": 3,
-        "howToGetText": "絆の章【個人】特別ミッションで入手可能",
+        "howToGetText": "勇花が紡ぐ大樹の奇跡メダル交換所で入手可能",
         "transitionSceneName": "NULL",
         "conditionValue1": 0,
         "conditionValue2": 0,
-        "startTime": 1686279600,
-        "endTime": 1687532399
+        "startTime": 1714446000,
+        "endTime": 1715698799
       },
       {
         "chatStampMstId": 183,
@@ -2366,6 +2366,18 @@
         "conditionValue2": 0,
         "startTime": 1713063600,
         "endTime": 1714445999
+      },
+      {
+        "chatStampMstId": 218,
+        "name": "悩んだら相談",
+        "characterMstId": 95,
+        "type": 3,
+        "howToGetText": "勇花が紡ぐ大樹の奇跡【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1714446000,
+        "endTime": 1715698799
       },
       {
         "chatStampMstId": 219,
