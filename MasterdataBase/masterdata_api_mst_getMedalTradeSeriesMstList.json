@@ -7130,6 +7130,34 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1506,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券5月",
+        "description": "BRAND-NEW★5メモリア引換券5月交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 926,
+        "itemMstId": 4006207,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1507,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券5月Ⅱ",
+        "description": "BRAND-NEW★5メモリア引換券5月Ⅱ交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 925,
+        "itemMstId": 4010002,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",

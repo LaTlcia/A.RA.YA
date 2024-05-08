@@ -4148,6 +4148,20 @@
         "completeResourceId": 2812
       },
       {
+        "missionTitleMstId": 10602,
+        "title": "緋紅誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10603,
+        "title": "舞台新章第2弾応援",
+        "completeMissionMstId": 10603001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2833
+      },
+      {
         "missionTitleMstId": 10610,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,

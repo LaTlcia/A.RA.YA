@@ -494,6 +494,20 @@
         "endTime": 1924959599
       },
       {
+        "loginBonusMstId": 4027,
+        "title": "誕生日ログインボーナス：苅谷緋紅",
+        "cycleType": 3,
+        "isExactDate": true,
+        "sortOrder": 5,
+        "characterJobMstId": 1109,
+        "backGroundId": 0,
+        "isCharacterVisible": true,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1577804400,
+        "endTime": 1924959599
+      },
+      {
         "loginBonusMstId": 5001,
         "title": "アニメ3周年 第１話 スイレン",
         "cycleType": 2,
@@ -2156,8 +2170,22 @@
         "isCharacterVisible": false,
         "effectId": 0,
         "cardMstId": 0,
-        "startTime": 1587913200,
-        "endTime": 1589209199
+        "startTime": 1715180400,
+        "endTime": 1716130799
+      },
+      {
+        "loginBonusMstId": 10110,
+        "title": "舞台新章第2弾応援ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3014801,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1715457600,
+        "endTime": 1717185599
       },
       {
         "loginBonusMstId": 520201,
