@@ -2495,8 +2495,8 @@
         "gigantHugeRewardGroupMstId": 20020403,
         "rewardGroupId": 200206,
         "rewardType": 3,
-        "objectType": 1,
-        "objectId": 1210255,
+        "objectType": 5,
+        "objectId": 1015300,
         "num": 1
       },
       {
@@ -2615,8 +2615,8 @@
         "gigantHugeRewardGroupMstId": 30020403,
         "rewardGroupId": 300206,
         "rewardType": 3,
-        "objectType": 1,
-        "objectId": 1210255,
+        "objectType": 5,
+        "objectId": 1018600,
         "num": 1
       },
       {
@@ -2648,7 +2648,7 @@
         "rewardGroupId": 500209,
         "rewardType": 3,
         "objectType": 21,
-        "objectId": 50001,
+        "objectId": 50002,
         "num": 1
       }
     ]

@@ -2188,6 +2188,34 @@
         "endTime": 1717185599
       },
       {
+        "loginBonusMstId": 10111,
+        "title": "白百合の十二聖剣クライマックスログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3014901,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1716408000,
+        "endTime": 1718395199
+      },
+      {
+        "loginBonusMstId": 10112,
+        "title": "ふじの食堂開店記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3012701,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1716390000,
+        "endTime": 1717685999
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

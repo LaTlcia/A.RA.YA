@@ -14326,6 +14326,61 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 31410101,
+        "questStageMstId": 31410101,
+        "title": "プレストーリー山梨日羽梨編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_122",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1715860800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 31510101,
+        "questStageMstId": 31510101,
+        "title": "プレストーリー多田紫恵楽編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_123",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1716372000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 31610101,
+        "questStageMstId": 31610101,
+        "title": "プレストーリー岡田綺更編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_048",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1716606000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 31710101,
+        "questStageMstId": 31710101,
+        "title": "プレストーリー+岡田綺更編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_ex048",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1716865200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 31810101,
+        "questStageMstId": 31810101,
+        "title": "七品目 サークリットチップス＆ブレスナゲット",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_07",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1716390000,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -18316,6 +18371,138 @@
         "fileName2": "",
         "imageId": 760020,
         "startTime": 1714446000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710111,
+        "questStageMstId": 74710111,
+        "title": "1話:あの日の出会い-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_01",
+        "fileName2": "",
+        "imageId": 770001,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710112,
+        "questStageMstId": 74710112,
+        "title": "1話:あの日の出会い-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_02",
+        "fileName2": "",
+        "imageId": 770002,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710113,
+        "questStageMstId": 74710113,
+        "title": "1話:あの日の出会い-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_03",
+        "fileName2": "",
+        "imageId": 770003,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710114,
+        "questStageMstId": 74710114,
+        "title": "1話:あの日の出会い-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_04",
+        "fileName2": "",
+        "imageId": 770004,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710115,
+        "questStageMstId": 74710115,
+        "title": "2話:スヴァンフヴィート事件-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_05",
+        "fileName2": "",
+        "imageId": 770005,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710116,
+        "questStageMstId": 74710116,
+        "title": "2話:スヴァンフヴィート事件-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_06",
+        "fileName2": "",
+        "imageId": 770006,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710117,
+        "questStageMstId": 74710117,
+        "title": "2話:スヴァンフヴィート事件-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_07",
+        "fileName2": "",
+        "imageId": 770007,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710118,
+        "questStageMstId": 74710118,
+        "title": "2話:スヴァンフヴィート事件-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_08",
+        "fileName2": "",
+        "imageId": 770008,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710119,
+        "questStageMstId": 74710119,
+        "title": "2話:スヴァンフヴィート事件-5",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_09",
+        "fileName2": "",
+        "imageId": 770009,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710120,
+        "questStageMstId": 74710120,
+        "title": "3話:雪解けの世界-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_10",
+        "fileName2": "",
+        "imageId": 770010,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710121,
+        "questStageMstId": 74710121,
+        "title": "3話:雪解けの世界-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_11",
+        "fileName2": "",
+        "imageId": 770011,
+        "startTime": 1716001200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 74710122,
+        "questStageMstId": 74710122,
+        "title": "3話:雪解けの世界-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_hibari_12",
+        "fileName2": "",
+        "imageId": 770012,
+        "startTime": 1716001200,
         "endTime": -62170017539
       },
       {

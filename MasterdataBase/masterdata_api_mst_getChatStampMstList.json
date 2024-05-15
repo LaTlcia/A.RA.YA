@@ -1470,7 +1470,7 @@
       {
         "chatStampMstId": 134,
         "name": "（イエーイ）",
-        "characterMstId": 22,
+        "characterMstId": 99999,
         "type": 3,
         "howToGetText": "イベント「罪なき少女達のスティグマ」で入手可能",
         "transitionSceneName": "NULL",
@@ -2390,6 +2390,18 @@
         "conditionValue2": 0,
         "startTime": 1713427200,
         "endTime": 1715007599
+      },
+      {
+        "chatStampMstId": 220,
+        "name": "い、今のナシ！",
+        "characterMstId": 122,
+        "type": 3,
+        "howToGetText": "暴姫のカンパニュラ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1716001200,
+        "endTime": 1717124399
       }
     ]
   }

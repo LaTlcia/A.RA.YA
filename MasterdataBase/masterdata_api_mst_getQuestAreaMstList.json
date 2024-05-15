@@ -3180,6 +3180,46 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 314101,
+        "questMapMstId": 314,
+        "name": "ミニイベント",
+        "description": "プレストーリー山梨日羽梨編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 315101,
+        "questMapMstId": 315,
+        "name": "ミニイベント",
+        "description": "プレストーリー多田紫恵楽編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 316101,
+        "questMapMstId": 316,
+        "name": "ミニイベント",
+        "description": "プレストーリー岡田綺更編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 317101,
+        "questMapMstId": 317,
+        "name": "ミニイベント",
+        "description": "プレストーリー+岡田綺更編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 318101,
+        "questMapMstId": 318,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -3992,6 +4032,22 @@
         "questMapMstId": 746,
         "name": "メダルイベント",
         "description": "勇花が紡ぐ大樹の奇跡",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 747101,
+        "questMapMstId": 747,
+        "name": "メダルイベント",
+        "description": "暴姫のカンパニュラ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 747201,
+        "questMapMstId": 747,
+        "name": "メダルイベント",
+        "description": "暴姫のカンパニュラ",
         "mode": 2,
         "hasNextComingSoon": false
       },

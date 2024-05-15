@@ -345,6 +345,17 @@
         "endTime": 1709218799
       },
       {
+        "gigantHugeScheduleMstId": 200202,
+        "gigantHugeMapMstId": 2002,
+        "reprintNum": 2,
+        "multiScoreEventGroupId": 2,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第4回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50021,
+        "startTime": 1716174000,
+        "endTime": 1716821999
+      },
+      {
         "gigantHugeScheduleMstId": 300100,
         "gigantHugeMapMstId": 3001,
         "reprintNum": 0,
@@ -378,6 +389,17 @@
         "endTime": 1709218799
       },
       {
+        "gigantHugeScheduleMstId": 300202,
+        "gigantHugeMapMstId": 3002,
+        "reprintNum": 2,
+        "multiScoreEventGroupId": 2,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第4回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50021,
+        "startTime": 1716174000,
+        "endTime": 1716821999
+      },
+      {
         "gigantHugeScheduleMstId": 400100,
         "gigantHugeMapMstId": 4001,
         "reprintNum": 0,
@@ -398,6 +420,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50021,
         "startTime": 1708570800,
         "endTime": 1709218799
+      },
+      {
+        "gigantHugeScheduleMstId": 500202,
+        "gigantHugeMapMstId": 5002,
+        "reprintNum": 2,
+        "multiScoreEventGroupId": 2,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第4回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50021,
+        "startTime": 1716174000,
+        "endTime": 1716821999
       }
     ]
   }

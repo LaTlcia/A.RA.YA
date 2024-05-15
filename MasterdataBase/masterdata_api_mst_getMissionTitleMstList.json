@@ -4162,6 +4162,48 @@
         "completeResourceId": 2833
       },
       {
+        "missionTitleMstId": 10604,
+        "title": "高嶺誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10605,
+        "title": "暴姫のカンパニュラ【個人】",
+        "completeMissionMstId": 10605001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10606,
+        "title": "暴姫のカンパニュラ【レギオン】",
+        "completeMissionMstId": 10606001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10607,
+        "title": "暴姫のカンパニュラ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10608,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10608001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10609,
+        "title": "白百合の十二聖剣クライマックス",
+        "completeMissionMstId": 10609001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2845
+      },
+      {
         "missionTitleMstId": 10610,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
@@ -4170,6 +4212,20 @@
       },
       {
         "missionTitleMstId": 10611,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10612,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10613,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

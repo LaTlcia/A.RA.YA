@@ -564,6 +564,14 @@
         "cardType": 0
       },
       {
+        "weaponAbilityMstId": 1077,
+        "uniqueId": 169,
+        "name": "レギオンマッチ",
+        "description": "メモリアスキル効果UP",
+        "contentsType": 1,
+        "cardType": 0
+      },
+      {
         "weaponAbilityMstId": 2000,
         "uniqueId": 0,
         "name": "対ヒュージ",
@@ -1118,6 +1126,14 @@
       {
         "weaponAbilityMstId": 2076,
         "uniqueId": 2060,
+        "name": "対ヒュージ",
+        "description": "メモリアスキル効果UP",
+        "contentsType": 2,
+        "cardType": 0
+      },
+      {
+        "weaponAbilityMstId": 2077,
+        "uniqueId": 169,
         "name": "対ヒュージ",
         "description": "メモリアスキル効果UP",
         "contentsType": 2,
