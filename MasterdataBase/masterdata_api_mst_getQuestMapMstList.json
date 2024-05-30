@@ -5482,6 +5482,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 748,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "追憶のリグレット",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 74810101,
+        "lastQuestStageMstId": 74820115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230351,
+        "eventStoryBannerMstId": 1230351,
+        "stageViewBgm": "bgm_anime_79-001",
+        "bgImageId": 1010903,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1734404400,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

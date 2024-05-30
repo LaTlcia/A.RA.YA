@@ -2402,6 +2402,18 @@
         "conditionValue2": 0,
         "startTime": 1716001200,
         "endTime": 1717124399
+      },
+      {
+        "chatStampMstId": 221,
+        "name": "滅びなさい！",
+        "characterMstId": 48,
+        "type": 2,
+        "howToGetText": "追憶のリグレット【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1717124400,
+        "endTime": 1718377199
       }
     ]
   }

@@ -4052,6 +4052,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 748101,
+        "questMapMstId": 748,
+        "name": "メダルイベント",
+        "description": "追憶のリグレット",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 748201,
+        "questMapMstId": 748,
+        "name": "メダルイベント",
+        "description": "追憶のリグレット",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

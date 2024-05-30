@@ -1027,6 +1027,39 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 48001,
+        "type": 0,
+        "characterMstId": 48,
+        "title": "【綺更】ログインボーナス1",
+        "voiceId": "cv_outgame_001_048-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 48002,
+        "type": 0,
+        "characterMstId": 48,
+        "title": "【綺更】ログインボーナス2",
+        "voiceId": "cv_outgame_001_048-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 48003,
+        "type": 0,
+        "characterMstId": 48,
+        "title": "【綺更】ログインボーナス3",
+        "voiceId": "cv_outgame_001_048-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 49001,
         "type": 0,
         "characterMstId": 49,
@@ -1617,6 +1650,39 @@
         "voiceId": "cv_outgame_001_122-login_normal_003",
         "faceType": "Surprise",
         "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 123001,
+        "type": 0,
+        "characterMstId": 123,
+        "title": "【紫恵楽】ログインボーナス1",
+        "voiceId": "cv_outgame_001_123-login_normal_001",
+        "faceType": "Serious",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 123002,
+        "type": 0,
+        "characterMstId": 123,
+        "title": "【紫恵楽】ログインボーナス2",
+        "voiceId": "cv_outgame_001_123-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 123003,
+        "type": 0,
+        "characterMstId": 123,
+        "title": "【紫恵楽】ログインボーナス3",
+        "voiceId": "cv_outgame_001_123-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Anger",
         "startTime": -62170017539,
         "endTime": -62170017539
       },
