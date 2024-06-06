@@ -1294,8 +1294,8 @@
         "arrangement": "塩澤 彰一",
         "cv": "-",
         "fileName": "bgm_anime_82-001",
-        "forceBgmStartTime": 1713063600,
-        "forceBgmEndTime": 1713668399,
+        "forceBgmStartTime": -62170017539,
+        "forceBgmEndTime": -62170017539,
         "startTime": 1713063600,
         "endTime": -62170017539
       },
@@ -1313,6 +1313,22 @@
         "forceBgmStartTime": 1713668400,
         "forceBgmEndTime": 1714445999,
         "startTime": 1713668400,
+        "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 1101,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 1101,
+        "title": "想いと、誓いと",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_anime_85-001",
+        "forceBgmStartTime": 1717902000,
+        "forceBgmEndTime": 1719068399,
+        "startTime": 1717902000,
         "endTime": -62170017539
       },
       {

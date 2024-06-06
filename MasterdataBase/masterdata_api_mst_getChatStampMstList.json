@@ -2414,6 +2414,18 @@
         "conditionValue2": 0,
         "startTime": 1717124400,
         "endTime": 1718377199
+      },
+      {
+        "chatStampMstId": 222,
+        "name": "幸せ♡",
+        "characterMstId": 8,
+        "type": 3,
+        "howToGetText": "ドレスアップ・ハッピネス【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1717902000,
+        "endTime": 1719068399
       }
     ]
   }
