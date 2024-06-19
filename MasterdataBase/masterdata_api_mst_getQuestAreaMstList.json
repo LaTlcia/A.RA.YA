@@ -3220,6 +3220,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 319101,
+        "questMapMstId": 319,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4080,6 +4088,22 @@
         "questMapMstId": 749,
         "name": "メダルイベント",
         "description": "ドレスアップ・ハッピネス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 750101,
+        "questMapMstId": 750,
+        "name": "メダルイベント",
+        "description": "Cherish Lily’s Wedding",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 750201,
+        "questMapMstId": 750,
+        "name": "メダルイベント",
+        "description": "Cherish Lily’s Wedding",
         "mode": 2,
         "hasNextComingSoon": false
       },

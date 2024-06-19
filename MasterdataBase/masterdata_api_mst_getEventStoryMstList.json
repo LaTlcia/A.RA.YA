@@ -14381,6 +14381,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 31910101,
+        "questStageMstId": 31910101,
+        "title": "八品目 ヘブンリーマカロン",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_08",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1719068400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -18767,6 +18778,50 @@
         "fileName2": "",
         "imageId": 790009,
         "startTime": 1717902000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75010111,
+        "questStageMstId": 75010111,
+        "title": "1話:Cherish Lily’s Wedding-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dress_ex01",
+        "fileName2": "",
+        "imageId": 800001,
+        "startTime": 1718766000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75010112,
+        "questStageMstId": 75010112,
+        "title": "1話:Cherish Lily’s Wedding-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dress_ex02",
+        "fileName2": "",
+        "imageId": 800002,
+        "startTime": 1718766000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75010113,
+        "questStageMstId": 75010113,
+        "title": "1話:Cherish Lily’s Wedding-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dress_ex03",
+        "fileName2": "",
+        "imageId": 800003,
+        "startTime": 1718766000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75010114,
+        "questStageMstId": 75010114,
+        "title": "1話:Cherish Lily’s Wedding-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dress_ex04",
+        "fileName2": "",
+        "imageId": 800004,
+        "startTime": 1718766000,
         "endTime": -62170017539
       },
       {
