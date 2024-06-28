@@ -31639,6 +31639,393 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 67101001,
+        "type": 101,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67101002,
+        "type": 101,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67102001,
+        "type": 102,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_heel_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67102002,
+        "type": 102,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_heel_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67103001,
+        "type": 103,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_buff_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67103002,
+        "type": 103,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_buff_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67104001,
+        "type": 104,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_debuff_give_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67104002,
+        "type": 104,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_debuff_give_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67105001,
+        "type": 105,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_tactics_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67106001,
+        "type": 106,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_rareskill_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67107001,
+        "type": 107,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_attack_normal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67107002,
+        "type": 107,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_attack_normal_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67201001,
+        "type": 201,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67201002,
+        "type": 201,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gve_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67204001,
+        "type": 204,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67204002,
+        "type": 204,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gve_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67205001,
+        "type": 205,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-huge_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67205002,
+        "type": 205,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-huge_loss_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67206001,
+        "type": 206,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_join_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67207001,
+        "type": 207,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_wave_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67207002,
+        "type": 207,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_wave_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67208001,
+        "type": 208,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gve_danger_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67209001,
+        "type": 209,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_continue_check",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67210001,
+        "type": 210,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67211001,
+        "type": 211,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-solo_continue",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67212001,
+        "type": 212,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_breakdown",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67301001,
+        "type": 301,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_start_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67302001,
+        "type": 302,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_win_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67303001,
+        "type": 303,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67303002,
+        "type": 303,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_loss_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67304001,
+        "type": 304,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_loss_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67304002,
+        "type": 304,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_loss_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67305001,
+        "type": 305,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-huge_attack_fatal_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67307001,
+        "type": 307,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_rebirth_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67308001,
+        "type": 308,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_destruction_01",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67309001,
+        "type": 309,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_change_front",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67310001,
+        "type": 310,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_change_back",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 67311001,
+        "type": 311,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-guild_welt_fast",
+        "text": "ノインヴェルト戦術、行きます！"
+      },
+      {
+        "ingameVoiceMstId": 67312001,
+        "type": 312,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-guild_welt_pass_give",
+        "text": "次！"
+      },
+      {
+        "ingameVoiceMstId": 67313001,
+        "type": 313,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-guild_welt_pass_get",
+        "text": "受け取りました"
+      },
+      {
+        "ingameVoiceMstId": 67314001,
+        "type": 314,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-guild_welt_lastpass_get",
+        "text": "最後は私が！"
+      },
+      {
+        "ingameVoiceMstId": 67315001,
+        "type": 315,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gve_welt_lastshot",
+        "text": "皆の想い、無駄にはしない！"
+      },
+      {
+        "ingameVoiceMstId": 67315002,
+        "type": 315,
+        "characterMstId": 67,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-gvg_welt_lastshot",
+        "text": "練度が足りませんよ"
+      },
+      {
         "ingameVoiceMstId": 69101001,
         "type": 101,
         "characterMstId": 69,
@@ -39779,6 +40166,15 @@
         "type": 106,
         "characterMstId": 87,
         "styleType": 76,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_087-all_tactics_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 87106003,
+        "type": 106,
+        "characterMstId": 87,
+        "styleType": 118,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_087-all_tactics_02",
         "text": ""

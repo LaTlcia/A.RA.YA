@@ -3228,6 +3228,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 320101,
+        "questMapMstId": 320,
+        "name": "ミニイベント",
+        "description": "プレストーリー高島八雲編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4104,6 +4112,22 @@
         "questMapMstId": 750,
         "name": "メダルイベント",
         "description": "Cherish Lily’s Wedding",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 751101,
+        "questMapMstId": 751,
+        "name": "メダルイベント",
+        "description": "悠久のレミニセンス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 751201,
+        "questMapMstId": 751,
+        "name": "メダルイベント",
+        "description": "悠久のレミニセンス",
         "mode": 2,
         "hasNextComingSoon": false
       },

@@ -2426,6 +2426,18 @@
         "conditionValue2": 0,
         "startTime": 1717902000,
         "endTime": 1719068399
+      },
+      {
+        "chatStampMstId": 223,
+        "name": "今なんと？",
+        "characterMstId": 67,
+        "type": 3,
+        "howToGetText": "悠久のレミニセンス【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1719716400,
+        "endTime": 1721401199
       }
     ]
   }

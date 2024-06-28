@@ -1159,6 +1159,28 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 67001,
+        "type": 0,
+        "characterMstId": 67,
+        "title": "【八雲】ログインボーナス1",
+        "voiceId": "cv_outgame_001_067-login_normal_001",
+        "faceType": "Serious",
+        "motion": "Shy",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 67002,
+        "type": 0,
+        "characterMstId": 67,
+        "title": "【八雲】ログインボーナス2",
+        "voiceId": "cv_outgame_001_067-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 69001,
         "type": 0,
         "characterMstId": 69,

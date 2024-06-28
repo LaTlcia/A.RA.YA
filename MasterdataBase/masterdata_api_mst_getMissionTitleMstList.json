@@ -4309,6 +4309,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10625,
+        "title": "悠久のレミニセンス【個人】",
+        "completeMissionMstId": 10625001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10626,
+        "title": "悠久のレミニセンス【レギオン】",
+        "completeMissionMstId": 10626001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10627,
+        "title": "悠久のレミニセンス【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10628,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10629,
+        "title": "トウメイダイアリーNPライブ映像特別公開",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

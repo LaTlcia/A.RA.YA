@@ -14392,6 +14392,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 32010101,
+        "questStageMstId": 32010101,
+        "title": "プレストーリー高島八雲編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_067",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1719561600,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -18822,6 +18833,182 @@
         "fileName2": "",
         "imageId": 800004,
         "startTime": 1718766000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110111,
+        "questStageMstId": 75110111,
+        "title": "1話:過去の約束-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_01",
+        "fileName2": "",
+        "imageId": 810001,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110112,
+        "questStageMstId": 75110112,
+        "title": "1話:過去の約束-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_02",
+        "fileName2": "",
+        "imageId": 810002,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110113,
+        "questStageMstId": 75110113,
+        "title": "1話:過去の約束-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_03",
+        "fileName2": "",
+        "imageId": 810003,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110114,
+        "questStageMstId": 75110114,
+        "title": "1話:過去の約束-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_04",
+        "fileName2": "",
+        "imageId": 810004,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110115,
+        "questStageMstId": 75110115,
+        "title": "1話:過去の約束-5",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_05",
+        "fileName2": "",
+        "imageId": 810005,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110116,
+        "questStageMstId": 75110116,
+        "title": "2話:13Sisters Project-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_06",
+        "fileName2": "",
+        "imageId": 810006,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110117,
+        "questStageMstId": 75110117,
+        "title": "2話:13Sisters Project-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_07",
+        "fileName2": "",
+        "imageId": 810007,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110118,
+        "questStageMstId": 75110118,
+        "title": "2話:13Sisters Project-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_08",
+        "fileName2": "",
+        "imageId": 810008,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110119,
+        "questStageMstId": 75110119,
+        "title": "3話:大切な友達と大切な約束-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_09",
+        "fileName2": "",
+        "imageId": 810009,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110120,
+        "questStageMstId": 75110120,
+        "title": "3話:大切な友達と大切な約束-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_10",
+        "fileName2": "",
+        "imageId": 810010,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110121,
+        "questStageMstId": 75110121,
+        "title": "3話:大切な友達と大切な約束-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_11",
+        "fileName2": "",
+        "imageId": 810011,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110122,
+        "questStageMstId": 75110122,
+        "title": "4話:ふたりきりの戦場-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_12",
+        "fileName2": "",
+        "imageId": 810012,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110123,
+        "questStageMstId": 75110123,
+        "title": "4話:ふたりきりの戦場-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_13",
+        "fileName2": "",
+        "imageId": 810013,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110124,
+        "questStageMstId": 75110124,
+        "title": "5話:未来の約束-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_14",
+        "fileName2": "",
+        "imageId": 810014,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110125,
+        "questStageMstId": 75110125,
+        "title": "5話:未来の約束-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_15",
+        "fileName2": "",
+        "imageId": 810015,
+        "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75110126,
+        "questStageMstId": 75110126,
+        "title": "5話:未来の約束-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_yakumo_16",
+        "fileName2": "",
+        "imageId": 810016,
+        "startTime": 1719716400,
         "endTime": -62170017539
       },
       {
