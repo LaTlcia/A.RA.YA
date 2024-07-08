@@ -3236,6 +3236,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 321101,
+        "questMapMstId": 321,
+        "name": "ミニイベント",
+        "description": "ラスバレ3.5周年SPECIAL STORY",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
