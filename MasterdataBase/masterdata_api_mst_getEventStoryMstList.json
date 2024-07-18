@@ -14425,6 +14425,72 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 32210101,
+        "questStageMstId": 32210101,
+        "title": "九品目 フルーツの超越盛り合わせ",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_09",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1721401200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 32310101,
+        "questStageMstId": 32310101,
+        "title": "悩ましの熱視線",
+        "isFullVoice": false,
+        "fileName1": "story_memoria_010081003",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1721703600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 32310102,
+        "questStageMstId": 32310102,
+        "title": "ボートでGO！！",
+        "isFullVoice": false,
+        "fileName1": "story_memoria_010122115",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1721703600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 32410101,
+        "questStageMstId": 32410101,
+        "title": "プレストーリー川添美鈴編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_035",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1721289600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 32510101,
+        "questStageMstId": 32510101,
+        "title": "",
+        "isFullVoice": false,
+        "fileName1": "story_mini_035song_01",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1722254400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 32510102,
+        "questStageMstId": 32510102,
+        "title": "",
+        "isFullVoice": false,
+        "fileName1": "story_mini_035song_02",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1722254400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -19031,6 +19097,105 @@
         "fileName2": "",
         "imageId": 810016,
         "startTime": 1719716400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210111,
+        "questStageMstId": 75210111,
+        "title": "1話:暑い夏の日-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_01",
+        "fileName2": "",
+        "imageId": 820001,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210112,
+        "questStageMstId": 75210112,
+        "title": "1話:暑い夏の日-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_02",
+        "fileName2": "",
+        "imageId": 820002,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210113,
+        "questStageMstId": 75210113,
+        "title": "2話:バカンスタイム-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_03",
+        "fileName2": "",
+        "imageId": 820003,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210114,
+        "questStageMstId": 75210114,
+        "title": "2話:バカンスタイム-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_04",
+        "fileName2": "",
+        "imageId": 820004,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210115,
+        "questStageMstId": 75210115,
+        "title": "2話:バカンスタイム-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_05",
+        "fileName2": "",
+        "imageId": 820005,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210116,
+        "questStageMstId": 75210116,
+        "title": "2話:バカンスタイム-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_06",
+        "fileName2": "",
+        "imageId": 820006,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210117,
+        "questStageMstId": 75210117,
+        "title": "3話:ロマンティックを探して-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_07",
+        "fileName2": "",
+        "imageId": 820007,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210118,
+        "questStageMstId": 75210118,
+        "title": "3話:ロマンティックを探して-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_08",
+        "fileName2": "",
+        "imageId": 820008,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75210119,
+        "questStageMstId": 75210119,
+        "title": "3話:ロマンティックを探して-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_ikoi_09",
+        "fileName2": "",
+        "imageId": 820009,
+        "startTime": 1721444400,
         "endTime": -62170017539
       },
       {

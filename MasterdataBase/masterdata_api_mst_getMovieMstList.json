@@ -1884,6 +1884,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 20154,
+        "movieTitle": "リリリゾ!!〜Peaceful Vacance〜 PV",
+        "fileName": "Movie/Movie000666.usm",
+        "category": 2,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1721444400,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 30001,
         "movieTitle": "梨璃と二水のラスバレ攻略講座①",
         "fileName": "Movie/Movie000064.usm",
@@ -3621,6 +3631,26 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1714878000,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30196,
+        "movieTitle": "3.5周年キャンペーンPV",
+        "fileName": "Movie/Movie000696.usm",
+        "category": 3,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1721401200,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30197,
+        "movieTitle": "PV",
+        "fileName": "Movie/Movie000700.usm",
+        "category": 3,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1722254400,
         "endTime": -62170017539
       }
     ]

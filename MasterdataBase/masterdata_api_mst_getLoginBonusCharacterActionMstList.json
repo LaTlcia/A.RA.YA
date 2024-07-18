@@ -763,6 +763,28 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 35001,
+        "type": 0,
+        "characterMstId": 35,
+        "title": "【美鈴】ログインボーナス1",
+        "voiceId": "cv_outgame_001_035-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 35002,
+        "type": 0,
+        "characterMstId": 35,
+        "title": "【美鈴】ログインボーナス2",
+        "voiceId": "cv_outgame_001_035-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 40001,
         "type": 0,
         "characterMstId": 40,

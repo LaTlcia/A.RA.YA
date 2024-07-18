@@ -100,6 +100,20 @@
         "eventImageId": 2,
         "announceMstId": 5705,
         "homeAppealImageId": 1783
+      },
+      {
+        "ultimateGvgMstId": 8,
+        "grandGvgMstId": 10007,
+        "preliminaryStartTime": 1721462400,
+        "preliminaryEndTime": 1726725599,
+        "gvgStartTime": 1726725600,
+        "gvgEndTime": 1728745199,
+        "resultStartTime": 1728806400,
+        "resultEndTime": 1729090799,
+        "eventName": "レギオンチャンピオンシップ ダリア杯",
+        "eventImageId": 3,
+        "announceMstId": 5809,
+        "homeAppealImageId": 1783
       }
     ]
   }

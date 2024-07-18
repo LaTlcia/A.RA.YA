@@ -1631,7 +1631,7 @@
         "questAreaMstId": 160101,
         "questMapMstId": 160,
         "name": "マルチバトル",
-        "description": "3rd Anniv. DREAM ミスティック共闘バトル",
+        "description": "Peaceful Vacance 共闘バトル",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -1639,7 +1639,7 @@
         "questAreaMstId": 161101,
         "questMapMstId": 161,
         "name": "マルチバトル",
-        "description": "3rd Anniv. DREAM ミスティック共闘バトル",
+        "description": "Peaceful Vacance 共闘バトル",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -3244,6 +3244,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 322101,
+        "questMapMstId": 322,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 323101,
+        "questMapMstId": 323,
+        "name": "ミニイベント",
+        "description": "3.5周年 リリリゾ!!",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 324101,
+        "questMapMstId": 324,
+        "name": "ミニイベント",
+        "description": "プレストーリー川添美鈴編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 325101,
+        "questMapMstId": 325,
+        "name": "ミニイベント",
+        "description": "",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4136,6 +4168,22 @@
         "questMapMstId": 751,
         "name": "メダルイベント",
         "description": "悠久のレミニセンス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 752101,
+        "questMapMstId": 752,
+        "name": "メダルイベント",
+        "description": "Peaceful Vacance",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 752201,
+        "questMapMstId": 752,
+        "name": "メダルイベント",
+        "description": "Peaceful Vacance",
         "mode": 2,
         "hasNextComingSoon": false
       },

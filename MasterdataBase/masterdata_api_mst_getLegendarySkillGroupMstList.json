@@ -39,6 +39,41 @@
         "skillEffectGroup": 60101014
       },
       {
+        "legendarySkillGroupMstId": 6010102,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]火通:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、火属性の通常攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60101020
+      },
+      {
+        "legendarySkillGroupMstId": 6010102,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]火通:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、火属性の通常攻撃時に攻撃ダメージを3.2%アップさせる。",
+        "skillEffectGroup": 60101021
+      },
+      {
+        "legendarySkillGroupMstId": 6010102,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]火通:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、火属性の通常攻撃時に攻撃ダメージを3.5%アップさせる。",
+        "skillEffectGroup": 60101022
+      },
+      {
+        "legendarySkillGroupMstId": 6010102,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]火通:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、火属性の通常攻撃時に攻撃ダメージを3.7%アップさせる。",
+        "skillEffectGroup": 60101023
+      },
+      {
+        "legendarySkillGroupMstId": 6010102,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]火通:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、火属性の通常攻撃時に攻撃ダメージを4%アップさせる。",
+        "skillEffectGroup": 60101024
+      },
+      {
         "legendarySkillGroupMstId": 6010201,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]水通:ダメージUP Ⅰ",
@@ -72,6 +107,41 @@
         "name": "[レギオンマッチ]水通:ダメージUP Ⅴ",
         "description": "レギオンマッチ限定、水属性の通常攻撃時に攻撃ダメージを3%アップさせる。",
         "skillEffectGroup": 60102014
+      },
+      {
+        "legendarySkillGroupMstId": 6010202,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]水通:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、水属性の通常攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60102020
+      },
+      {
+        "legendarySkillGroupMstId": 6010202,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]水通:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、水属性の通常攻撃時に攻撃ダメージを3.2%アップさせる。",
+        "skillEffectGroup": 60102021
+      },
+      {
+        "legendarySkillGroupMstId": 6010202,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]水通:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、水属性の通常攻撃時に攻撃ダメージを3.5%アップさせる。",
+        "skillEffectGroup": 60102022
+      },
+      {
+        "legendarySkillGroupMstId": 6010202,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]水通:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、水属性の通常攻撃時に攻撃ダメージを3.7%アップさせる。",
+        "skillEffectGroup": 60102023
+      },
+      {
+        "legendarySkillGroupMstId": 6010202,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]水通:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、水属性の通常攻撃時に攻撃ダメージを4%アップさせる。",
+        "skillEffectGroup": 60102024
       },
       {
         "legendarySkillGroupMstId": 6010301,
@@ -109,6 +179,41 @@
         "skillEffectGroup": 60103014
       },
       {
+        "legendarySkillGroupMstId": 6010302,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60103020
+      },
+      {
+        "legendarySkillGroupMstId": 6010302,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを3.2%アップさせる。",
+        "skillEffectGroup": 60103021
+      },
+      {
+        "legendarySkillGroupMstId": 6010302,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを3.5%アップさせる。",
+        "skillEffectGroup": 60103022
+      },
+      {
+        "legendarySkillGroupMstId": 6010302,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを3.7%アップさせる。",
+        "skillEffectGroup": 60103023
+      },
+      {
+        "legendarySkillGroupMstId": 6010302,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]風通:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、風属性の通常攻撃時に攻撃ダメージを4%アップさせる。",
+        "skillEffectGroup": 60103024
+      },
+      {
         "legendarySkillGroupMstId": 6020101,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]火特:ダメージUP Ⅰ",
@@ -142,6 +247,41 @@
         "name": "[レギオンマッチ]火特:ダメージUP Ⅴ",
         "description": "レギオンマッチ限定、火属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
         "skillEffectGroup": 60201014
+      },
+      {
+        "legendarySkillGroupMstId": 6020102,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]火特:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、火属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60201020
+      },
+      {
+        "legendarySkillGroupMstId": 6020102,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]火特:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、火属性の特殊攻撃時に攻撃ダメージを3.2%アップさせる。",
+        "skillEffectGroup": 60201021
+      },
+      {
+        "legendarySkillGroupMstId": 6020102,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]火特:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、火属性の特殊攻撃時に攻撃ダメージを3.5%アップさせる。",
+        "skillEffectGroup": 60201022
+      },
+      {
+        "legendarySkillGroupMstId": 6020102,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]火特:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、火属性の特殊攻撃時に攻撃ダメージを3.7%アップさせる。",
+        "skillEffectGroup": 60201023
+      },
+      {
+        "legendarySkillGroupMstId": 6020102,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]火特:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、火属性の特殊攻撃時に攻撃ダメージを4%アップさせる。",
+        "skillEffectGroup": 60201024
       },
       {
         "legendarySkillGroupMstId": 6020201,
@@ -179,6 +319,41 @@
         "skillEffectGroup": 60202014
       },
       {
+        "legendarySkillGroupMstId": 6020202,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]水特:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、水属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60202020
+      },
+      {
+        "legendarySkillGroupMstId": 6020202,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]水特:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、水属性の特殊攻撃時に攻撃ダメージを3.2%アップさせる。",
+        "skillEffectGroup": 60202021
+      },
+      {
+        "legendarySkillGroupMstId": 6020202,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]水特:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、水属性の特殊攻撃時に攻撃ダメージを3.5%アップさせる。",
+        "skillEffectGroup": 60202022
+      },
+      {
+        "legendarySkillGroupMstId": 6020202,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]水特:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、水属性の特殊攻撃時に攻撃ダメージを3.7%アップさせる。",
+        "skillEffectGroup": 60202023
+      },
+      {
+        "legendarySkillGroupMstId": 6020202,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]水特:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、水属性の特殊攻撃時に攻撃ダメージを4%アップさせる。",
+        "skillEffectGroup": 60202024
+      },
+      {
         "legendarySkillGroupMstId": 6020301,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]風特:ダメージUP Ⅰ",
@@ -212,6 +387,41 @@
         "name": "[レギオンマッチ]風特:ダメージUP Ⅴ",
         "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
         "skillEffectGroup": 60203014
+      },
+      {
+        "legendarySkillGroupMstId": 6020302,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅰ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを3%アップさせる。",
+        "skillEffectGroup": 60203020
+      },
+      {
+        "legendarySkillGroupMstId": 6020302,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅱ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを3.2%アップさせる。",
+        "skillEffectGroup": 60203021
+      },
+      {
+        "legendarySkillGroupMstId": 6020302,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅲ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを3.5%アップさせる。",
+        "skillEffectGroup": 60203022
+      },
+      {
+        "legendarySkillGroupMstId": 6020302,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅳ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを3.7%アップさせる。",
+        "skillEffectGroup": 60203023
+      },
+      {
+        "legendarySkillGroupMstId": 6020302,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]風特:ダメージUP Ⅴ",
+        "description": "レギオンマッチ限定、風属性の特殊攻撃時に攻撃ダメージを4%アップさせる。",
+        "skillEffectGroup": 60203024
       },
       {
         "legendarySkillGroupMstId": 6030101,
@@ -249,6 +459,41 @@
         "skillEffectGroup": 60301014
       },
       {
+        "legendarySkillGroupMstId": 6030102,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]火援:支援UP Ⅰ",
+        "description": "レギオンマッチ限定、火属性の支援/妨害メモリア使用時に支援/妨害効果を3%アップさせる。",
+        "skillEffectGroup": 60301020
+      },
+      {
+        "legendarySkillGroupMstId": 6030102,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]火援:支援UP Ⅱ",
+        "description": "レギオンマッチ限定、火属性の支援/妨害メモリア使用時に支援/妨害効果を3.2%アップさせる。",
+        "skillEffectGroup": 60301021
+      },
+      {
+        "legendarySkillGroupMstId": 6030102,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]火援:支援UP Ⅲ",
+        "description": "レギオンマッチ限定、火属性の支援/妨害メモリア使用時に支援/妨害効果を3.5%アップさせる。",
+        "skillEffectGroup": 60301022
+      },
+      {
+        "legendarySkillGroupMstId": 6030102,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]火援:支援UP Ⅳ",
+        "description": "レギオンマッチ限定、火属性の支援/妨害メモリア使用時に支援/妨害効果を3.7%アップさせる。",
+        "skillEffectGroup": 60301023
+      },
+      {
+        "legendarySkillGroupMstId": 6030102,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]火援:支援UP Ⅴ",
+        "description": "レギオンマッチ限定、火属性の支援/妨害メモリア使用時に支援/妨害効果を4%アップさせる。",
+        "skillEffectGroup": 60301024
+      },
+      {
         "legendarySkillGroupMstId": 6030201,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]水援:支援UP Ⅰ",
@@ -282,6 +527,41 @@
         "name": "[レギオンマッチ]水援:支援UP Ⅴ",
         "description": "レギオンマッチ限定、水属性の支援/妨害メモリア使用時に支援/妨害効果を3%アップさせる。",
         "skillEffectGroup": 60302014
+      },
+      {
+        "legendarySkillGroupMstId": 6030202,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]水援:支援UP Ⅰ",
+        "description": "レギオンマッチ限定、水属性の支援/妨害メモリア使用時に支援/妨害効果を3%アップさせる。",
+        "skillEffectGroup": 60302020
+      },
+      {
+        "legendarySkillGroupMstId": 6030202,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]水援:支援UP Ⅱ",
+        "description": "レギオンマッチ限定、水属性の支援/妨害メモリア使用時に支援/妨害効果を3.2%アップさせる。",
+        "skillEffectGroup": 60302021
+      },
+      {
+        "legendarySkillGroupMstId": 6030202,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]水援:支援UP Ⅲ",
+        "description": "レギオンマッチ限定、水属性の支援/妨害メモリア使用時に支援/妨害効果を3.5%アップさせる。",
+        "skillEffectGroup": 60302022
+      },
+      {
+        "legendarySkillGroupMstId": 6030202,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]水援:支援UP Ⅳ",
+        "description": "レギオンマッチ限定、水属性の支援/妨害メモリア使用時に支援/妨害効果を3.7%アップさせる。",
+        "skillEffectGroup": 60302023
+      },
+      {
+        "legendarySkillGroupMstId": 6030202,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]水援:支援UP Ⅴ",
+        "description": "レギオンマッチ限定、水属性の支援/妨害メモリア使用時に支援/妨害効果を4%アップさせる。",
+        "skillEffectGroup": 60302024
       },
       {
         "legendarySkillGroupMstId": 6030301,
@@ -319,6 +599,41 @@
         "skillEffectGroup": 60303014
       },
       {
+        "legendarySkillGroupMstId": 6030302,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]風援:支援UP Ⅰ",
+        "description": "レギオンマッチ限定、風属性の支援/妨害メモリア使用時に支援/妨害効果を3%アップさせる。",
+        "skillEffectGroup": 60303020
+      },
+      {
+        "legendarySkillGroupMstId": 6030302,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]風援:支援UP Ⅱ",
+        "description": "レギオンマッチ限定、風属性の支援/妨害メモリア使用時に支援/妨害効果を3.2%アップさせる。",
+        "skillEffectGroup": 60303021
+      },
+      {
+        "legendarySkillGroupMstId": 6030302,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]風援:支援UP Ⅲ",
+        "description": "レギオンマッチ限定、風属性の支援/妨害メモリア使用時に支援/妨害効果を3.5%アップさせる。",
+        "skillEffectGroup": 60303022
+      },
+      {
+        "legendarySkillGroupMstId": 6030302,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]風援:支援UP Ⅳ",
+        "description": "レギオンマッチ限定、風属性の支援/妨害メモリア使用時に支援/妨害効果を3.7%アップさせる。",
+        "skillEffectGroup": 60303023
+      },
+      {
+        "legendarySkillGroupMstId": 6030302,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]風援:支援UP Ⅴ",
+        "description": "レギオンマッチ限定、風属性の支援/妨害メモリア使用時に支援/妨害効果を4%アップさせる。",
+        "skillEffectGroup": 60303024
+      },
+      {
         "legendarySkillGroupMstId": 6040101,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]火回:回復UP Ⅰ",
@@ -352,6 +667,41 @@
         "name": "[レギオンマッチ]火回:回復UP Ⅴ",
         "description": "レギオンマッチ限定、火属性の回復メモリア使用時にHPの回復量を3%アップさせる。",
         "skillEffectGroup": 60401014
+      },
+      {
+        "legendarySkillGroupMstId": 6040102,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]火回:回復UP Ⅰ",
+        "description": "レギオンマッチ限定、火属性の回復メモリア使用時にHPの回復量を3%アップさせる。",
+        "skillEffectGroup": 60401020
+      },
+      {
+        "legendarySkillGroupMstId": 6040102,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]火回:回復UP Ⅱ",
+        "description": "レギオンマッチ限定、火属性の回復メモリア使用時にHPの回復量を3.2%アップさせる。",
+        "skillEffectGroup": 60401021
+      },
+      {
+        "legendarySkillGroupMstId": 6040102,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]火回:回復UP Ⅲ",
+        "description": "レギオンマッチ限定、火属性の回復メモリア使用時にHPの回復量を3.5%アップさせる。",
+        "skillEffectGroup": 60401022
+      },
+      {
+        "legendarySkillGroupMstId": 6040102,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]火回:回復UP Ⅳ",
+        "description": "レギオンマッチ限定、火属性の回復メモリア使用時にHPの回復量を3.7%アップさせる。",
+        "skillEffectGroup": 60401023
+      },
+      {
+        "legendarySkillGroupMstId": 6040102,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]火回:回復UP Ⅴ",
+        "description": "レギオンマッチ限定、火属性の回復メモリア使用時にHPの回復量を4%アップさせる。",
+        "skillEffectGroup": 60401024
       },
       {
         "legendarySkillGroupMstId": 6040201,
@@ -389,6 +739,41 @@
         "skillEffectGroup": 60402014
       },
       {
+        "legendarySkillGroupMstId": 6040202,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]水回:回復UP Ⅰ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を3%アップさせる。",
+        "skillEffectGroup": 60402020
+      },
+      {
+        "legendarySkillGroupMstId": 6040202,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]水回:回復UP Ⅱ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を3.2%アップさせる。",
+        "skillEffectGroup": 60402021
+      },
+      {
+        "legendarySkillGroupMstId": 6040202,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]水回:回復UP Ⅲ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を3.5%アップさせる。",
+        "skillEffectGroup": 60402022
+      },
+      {
+        "legendarySkillGroupMstId": 6040202,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]水回:回復UP Ⅳ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を3.7%アップさせる。",
+        "skillEffectGroup": 60402023
+      },
+      {
+        "legendarySkillGroupMstId": 6040202,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]水回:回復UP Ⅴ",
+        "description": "レギオンマッチ限定、水属性の回復メモリア使用時にHPの回復量を4%アップさせる。",
+        "skillEffectGroup": 60402024
+      },
+      {
         "legendarySkillGroupMstId": 6040301,
         "limitBreakCount": 0,
         "name": "[レギオンマッチ]風回:回復UP Ⅰ",
@@ -422,6 +807,41 @@
         "name": "[レギオンマッチ]風回:回復UP Ⅴ",
         "description": "レギオンマッチ限定、風属性の回復メモリア使用時にHPの回復量を3%アップさせる。",
         "skillEffectGroup": 60403014
+      },
+      {
+        "legendarySkillGroupMstId": 6040302,
+        "limitBreakCount": 0,
+        "name": "[レギオンマッチ]風回:回復UP Ⅰ",
+        "description": "レギオンマッチ限定、風属性の回復メモリア使用時にHPの回復量を3%アップさせる。",
+        "skillEffectGroup": 60403020
+      },
+      {
+        "legendarySkillGroupMstId": 6040302,
+        "limitBreakCount": 1,
+        "name": "[レギオンマッチ]風回:回復UP Ⅱ",
+        "description": "レギオンマッチ限定、風属性の回復メモリア使用時にHPの回復量を3.2%アップさせる。",
+        "skillEffectGroup": 60403021
+      },
+      {
+        "legendarySkillGroupMstId": 6040302,
+        "limitBreakCount": 2,
+        "name": "[レギオンマッチ]風回:回復UP Ⅲ",
+        "description": "レギオンマッチ限定、風属性の回復メモリア使用時にHPの回復量を3.5%アップさせる。",
+        "skillEffectGroup": 60403022
+      },
+      {
+        "legendarySkillGroupMstId": 6040302,
+        "limitBreakCount": 3,
+        "name": "[レギオンマッチ]風回:回復UP Ⅳ",
+        "description": "レギオンマッチ限定、風属性の回復メモリア使用時にHPの回復量を3.7%アップさせる。",
+        "skillEffectGroup": 60403023
+      },
+      {
+        "legendarySkillGroupMstId": 6040302,
+        "limitBreakCount": 4,
+        "name": "[レギオンマッチ]風回:回復UP Ⅴ",
+        "description": "レギオンマッチ限定、風属性の回復メモリア使用時にHPの回復量を4%アップさせる。",
+        "skillEffectGroup": 60403024
       }
     ]
   }

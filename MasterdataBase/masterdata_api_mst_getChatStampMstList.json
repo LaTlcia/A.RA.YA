@@ -2438,6 +2438,102 @@
         "conditionValue2": 0,
         "startTime": 1719716400,
         "endTime": 1721401199
+      },
+      {
+        "chatStampMstId": 224,
+        "name": "祝3.5周年！",
+        "characterMstId": 35,
+        "type": 1,
+        "howToGetText": "「3.5周年記念160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1721444400,
+        "endTime": 1724907599
+      },
+      {
+        "chatStampMstId": 225,
+        "name": "優勝！",
+        "characterMstId": 49,
+        "type": 9,
+        "howToGetText": "「3.5周年記念160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1721444400,
+        "endTime": 1724907599
+      },
+      {
+        "chatStampMstId": 226,
+        "name": "たずげて……",
+        "characterMstId": 99999,
+        "type": 9,
+        "howToGetText": "「3.5周年記念160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1721444400,
+        "endTime": 1724907599
+      },
+      {
+        "chatStampMstId": 227,
+        "name": "よしよし♡",
+        "characterMstId": 47,
+        "type": 3,
+        "howToGetText": "Peaceful Vacance【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1721444400,
+        "endTime": 1722394799
+      },
+      {
+        "chatStampMstId": 233,
+        "name": "おねえしゃま！",
+        "characterMstId": 1,
+        "type": 9,
+        "howToGetText": "ログインボーナスで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1722265200,
+        "endTime": 1724857199
+      },
+      {
+        "chatStampMstId": 234,
+        "name": "ねんねする？",
+        "characterMstId": 2,
+        "type": 9,
+        "howToGetText": "ログインボーナスで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1722265200,
+        "endTime": 1724857199
+      },
+      {
+        "chatStampMstId": 235,
+        "name": "ちへどでしゅか！？",
+        "characterMstId": 10,
+        "type": 9,
+        "howToGetText": "ログインボーナスで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1722265200,
+        "endTime": 1724857199
+      },
+      {
+        "chatStampMstId": 236,
+        "name": "だっこして・・・？",
+        "characterMstId": 15,
+        "type": 9,
+        "howToGetText": "ログインボーナスで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1722265200,
+        "endTime": 1724857199
       }
     ]
   }
