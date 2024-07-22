@@ -35,8 +35,8 @@
       },
       {
         "method": "getCardMstList",
-        "size": 2903746,
-        "hash": "0ee7341d70c58744561d6a8fe4a201c5"
+        "size": 2907888,
+        "hash": "530d6a180344a209bb87ea0f5cba3844"
       },
       {
         "method": "getCardStoryMstList",
@@ -45,13 +45,13 @@
       },
       {
         "method": "getCardSuperAwakeningCardTypeMstList",
-        "size": 383225,
-        "hash": "f8894b22b803883d17aac4ce52e4f255"
+        "size": 387377,
+        "hash": "5dcb15598802593e3ab3339045fd90f0"
       },
       {
         "method": "getCardSuperAwakeningMstList",
-        "size": 40360,
-        "hash": "47e12ab60af5d745eb0dbb982baedfe2"
+        "size": 40892,
+        "hash": "a713793b9f4321af00b05d7c6f7162e7"
       },
       {
         "method": "getCharacterFrameMstList",
@@ -60,8 +60,8 @@
       },
       {
         "method": "getCharacterJobAwakeningMstList",
-        "size": 85513,
-        "hash": "1dffce970810a1bbdf4d5b8ef3299e39"
+        "size": 87073,
+        "hash": "368b18d6b87f7e5b12137f3e4e34e353"
       },
       {
         "method": "getCharacterJobLevelUpMstList",
@@ -70,8 +70,8 @@
       },
       {
         "method": "getCharacterJobMstList",
-        "size": 602245,
-        "hash": "3251e8f43eb3e904f1cc8a4a62f1506d"
+        "size": 610077,
+        "hash": "90d3dd4428028f67f5bb6b94efcb8aac"
       },
       {
         "method": "getCharacterJobSkillMstList",
@@ -85,8 +85,8 @@
       },
       {
         "method": "getCharacterJobSpecialSkillMstList",
-        "size": 127934,
-        "hash": "7a64e8f83eff73d282a0e130280d1ea8"
+        "size": 131435,
+        "hash": "2c9002b2f252b7fdf01a04569781c066"
       },
       {
         "method": "getCharacterMstList",
@@ -115,8 +115,8 @@
       },
       {
         "method": "getCollectionPublicationRestrictionsMstList",
-        "size": 525611,
-        "hash": "aa93c4875de352289923d3e49c905c0b"
+        "size": 527369,
+        "hash": "73a6e64e9d6ebd0e7ee92282c6b3ea19"
       },
       {
         "method": "getCopyrightMstList",
@@ -375,8 +375,8 @@
       },
       {
         "method": "getItemMstList",
-        "size": 1490848,
-        "hash": "dac66371d2901f556fb4881ea7c742fd"
+        "size": 1506344,
+        "hash": "6eeda89d248913cb56197a805e071509"
       },
       {
         "method": "getLegendarySkillGroupMstList",
@@ -425,13 +425,13 @@
       },
       {
         "method": "getMedalTradeAddMstList",
-        "size": 303722,
-        "hash": "bca1abefaa7ddcde134a4cafb959e049"
+        "size": 304380,
+        "hash": "243506bdce6567a30c1bc562ae242560"
       },
       {
         "method": "getMedalTradeMstList",
-        "size": 10562992,
-        "hash": "dcc20fc928110ac50cea2ac533379206"
+        "size": 10582463,
+        "hash": "321cca711dfe22b51ee6b0b52bc4bdd9"
       },
       {
         "method": "getMedalTradePickupMstList",
@@ -440,8 +440,8 @@
       },
       {
         "method": "getMedalTradeSeriesMstList",
-        "size": 281522,
-        "hash": "0ef14435f8fd1b01a5613501a0ad7325"
+        "size": 281940,
+        "hash": "f06a299598a95d156075701a11df7a9a"
       },
       {
         "method": "getMiniTutorialMaterialMstList",
@@ -460,8 +460,8 @@
       },
       {
         "method": "getMissionMstList",
-        "size": 4538036,
-        "hash": "c8091a41f175ff1aad406e42aaf75372"
+        "size": 4542988,
+        "hash": "3776a826d0818fc6b00cd36809ec7b05"
       },
       {
         "method": "getMissionTitleMstList",
@@ -491,7 +491,7 @@
       {
         "method": "getOptionBgmMstList",
         "size": 28205,
-        "hash": "f75612bda1c8f7b4f7edfe4475d5484b"
+        "hash": "5dd114a9bb7ead1bd42f7f350dd48466"
       },
       {
         "method": "getPveCardBonusRateMstList",
@@ -550,8 +550,8 @@
       },
       {
         "method": "getQuestCardBonusRateMstList",
-        "size": 152186,
-        "hash": "90179862f570d0fc457ad45e3a95617e"
+        "size": 152831,
+        "hash": "e588ae497ef2d0ffc500ce544cb34f1d"
       },
       {
         "method": "getQuestEnemyEnhanceMstList",
