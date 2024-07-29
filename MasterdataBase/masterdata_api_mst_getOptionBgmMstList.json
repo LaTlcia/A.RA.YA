@@ -1378,6 +1378,22 @@
         "forceBgmEndTime": 1721055599,
         "startTime": 1719716400,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 190100,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 190100,
+        "title": "リリィにバブ・ソングを",
+        "lyrics": "安藤紗々",
+        "composition": "俊龍",
+        "arrangement": "松田彬人",
+        "cv": "一柳梨璃(CV:赤尾ひかる), 白井夢結(CV:夏吉ゆうこ), 相澤一葉(CV:藤井彩加), 今叶星(CV:前田佳織里)",
+        "fileName": "bgm_outsource_124-001",
+        "forceBgmStartTime": 1722254400,
+        "forceBgmEndTime": 1722394799,
+        "startTime": 1722254400,
+        "endTime": -62170017539
       }
     ]
   }

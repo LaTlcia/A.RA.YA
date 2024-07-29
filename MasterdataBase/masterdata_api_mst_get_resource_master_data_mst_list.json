@@ -5,8 +5,8 @@
     "mstList": [
       {
         "method": "getBannerMstList",
-        "size": 803202,
-        "hash": "63777db376e1c759a587e44886ff25a8"
+        "size": 803473,
+        "hash": "e6543317ed890ac7932d4c908f8bce48"
       },
       {
         "method": "getBattleAuraMstList",
@@ -35,8 +35,8 @@
       },
       {
         "method": "getCardMstList",
-        "size": 2905932,
-        "hash": "2bd05638f9b0e214f6b11bbacc8a2c42"
+        "size": 2908016,
+        "hash": "3182028b1c9f29cdffe40ee4453774c3"
       },
       {
         "method": "getCardStoryMstList",
@@ -110,13 +110,13 @@
       },
       {
         "method": "getChatStampMstList",
-        "size": 58463,
-        "hash": "2550bd6fcb3ded4cec0bed2a9915de68"
+        "size": 58595,
+        "hash": "134ac2123d86e9cda829c5d1fb320236"
       },
       {
         "method": "getCollectionPublicationRestrictionsMstList",
-        "size": 527369,
-        "hash": "73a6e64e9d6ebd0e7ee92282c6b3ea19"
+        "size": 527639,
+        "hash": "d6147e6a4724d401ab942998e6814981"
       },
       {
         "method": "getCopyrightMstList",
@@ -135,8 +135,8 @@
       },
       {
         "method": "getEventStoryMstList",
-        "size": 375886,
-        "hash": "222225d969b9b3d4d9f7b8b7c66223ab"
+        "size": 375986,
+        "hash": "826444d6e56b7cc515a076512f793c4e"
       },
       {
         "method": "getGardenMstList",
@@ -410,8 +410,8 @@
       },
       {
         "method": "getLoginBonusMstList",
-        "size": 52910,
-        "hash": "b47563652708b7e9b0779a3c38991501"
+        "size": 52944,
+        "hash": "0dc170d30ab7e6e1ae30cca85c8d511c"
       },
       {
         "method": "getLoginBonusRewardMstList",
@@ -475,8 +475,8 @@
       },
       {
         "method": "getMovieMstList",
-        "size": 73625,
-        "hash": "e6413f29b69f70fd6454aa78b958e30e"
+        "size": 73660,
+        "hash": "e125a8ff8080ada4546932c8e0228062"
       },
       {
         "method": "getMusicCopyrightMstList",
@@ -490,8 +490,8 @@
       },
       {
         "method": "getOptionBgmMstList",
-        "size": 28205,
-        "hash": "5dd114a9bb7ead1bd42f7f350dd48466"
+        "size": 28661,
+        "hash": "0c4c36b97671290a6cb8708910a9c233"
       },
       {
         "method": "getPveCardBonusRateMstList",
@@ -540,8 +540,8 @@
       },
       {
         "method": "getQuestAreaMstList",
-        "size": 68727,
-        "hash": "90ab14061cdac791d6ab57029a5f395e"
+        "size": 68761,
+        "hash": "9fc04f0529ad33cefcbe4bb2f73bd871"
       },
       {
         "method": "getQuestCampaignMstList",
@@ -585,8 +585,8 @@
       },
       {
         "method": "getQuestMapMstList",
-        "size": 126665,
-        "hash": "f52bc1cea1b6539ea9fde0cb28466a16"
+        "size": 126704,
+        "hash": "a4dcb5fc70fa9fdc67f1d8848dc5968d"
       },
       {
         "method": "getQuestMissionMstList",
@@ -601,7 +601,7 @@
       {
         "method": "getQuestScheduleMstList",
         "size": 71208,
-        "hash": "6249e2f03128752c831e91cbffb22130"
+        "hash": "01c5256442f53cc2d3a37be0b7a1897f"
       },
       {
         "method": "getQuestStageConditionMstList",
@@ -610,8 +610,8 @@
       },
       {
         "method": "getQuestStageMstList",
-        "size": 4014660,
-        "hash": "e8c51a3eb336f4e173a0e338e2ae35e5"
+        "size": 4014760,
+        "hash": "133d8fd2e1c4ee24322e14b5a5fc8dc3"
       },
       {
         "method": "getQuestStoryMstList",

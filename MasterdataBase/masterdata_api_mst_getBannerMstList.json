@@ -38373,7 +38373,7 @@
         "homeTapActionType": 1,
         "startTime": 1721444400,
         "endTime": 1722394799,
-        "sortOrder": 100,
+        "sortOrder": 30,
         "transitionSceneName": "SceneQuestEvent",
         "transitionSceneParam": "{\"questMapMstId\":752}",
         "announceMstId": 5806,
@@ -38845,6 +38845,19 @@
         "transitionSceneName": "SceneNews",
         "transitionSceneParam": "{\"announceMstId\":5857}",
         "announceMstId": 5857,
+        "storeType": 0
+      },
+      {
+        "bannerMstId": 1230476,
+        "imageId": 50570,
+        "homeViewType": 2,
+        "homeTapActionType": 1,
+        "startTime": 1722254400,
+        "endTime": 1724907599,
+        "sortOrder": 50,
+        "transitionSceneName": "SceneQuestEvent",
+        "transitionSceneParam": "{\"questMapMstId\":325}",
+        "announceMstId": 5833,
         "storeType": 0
       }
     ]
