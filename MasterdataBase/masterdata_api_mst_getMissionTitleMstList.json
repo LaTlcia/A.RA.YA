@@ -4421,11 +4421,46 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10641,
+        "title": "3.5周年記念バトルパーティー【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10643,
         "title": "3.5周年記念レギオンリーグ特別ミッション",
         "completeMissionMstId": 10643001,
         "specialMissionImageId": 4,
         "completeResourceId": 2987
+      },
+      {
+        "missionTitleMstId": 10644,
+        "title": "Twilight Paradise【個人】",
+        "completeMissionMstId": 10644001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10645,
+        "title": "Twilight Paradise【レギオン】",
+        "completeMissionMstId": 10645001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10646,
+        "title": "Twilight Paradise【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10647,
+        "title": "メランコリック・プランセス【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
       },
       {
         "missionTitleMstId": 10648,

@@ -89,6 +89,10 @@
       },
       {
         "weaponUniqueId": 37,
+        "characterJobMstId": 122031
+      },
+      {
+        "weaponUniqueId": 37,
         "characterJobMstId": 124031
       },
       {
@@ -906,6 +910,14 @@
       {
         "weaponUniqueId": 219,
         "characterJobMstId": 122049
+      },
+      {
+        "weaponUniqueId": 221,
+        "characterJobMstId": 122087
+      },
+      {
+        "weaponUniqueId": 222,
+        "characterJobMstId": 155027
       }
     ]
   }

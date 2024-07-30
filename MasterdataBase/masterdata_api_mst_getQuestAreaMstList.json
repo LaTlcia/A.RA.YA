@@ -4188,6 +4188,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 753101,
+        "questMapMstId": 753,
+        "name": "メダルイベント",
+        "description": "Twilight Paradise",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 753201,
+        "questMapMstId": 753,
+        "name": "メダルイベント",
+        "description": "Twilight Paradise",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 754101,
+        "questMapMstId": 754,
+        "name": "メダルイベント",
+        "description": "メランコリック・プランセス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 754201,
+        "questMapMstId": 754,
+        "name": "メダルイベント",
+        "description": "メランコリック・プランセス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
