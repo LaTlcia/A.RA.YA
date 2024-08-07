@@ -4118,6 +4118,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 326,
+        "mapType": 2,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 32610101,
+        "lastQuestStageMstId": 32610101,
+        "partySequenceFrontNum": 0,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230504,
+        "eventStoryBannerMstId": 1230504,
+        "stageViewBgm": "bgm_anime_75-001",
+        "bgImageId": 1008003,
+        "isBookmarkRelease": false,
+        "bookmarkReleaseStartTime": -62170017539,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 401,
         "mapType": 2,
         "name": "討伐イベント",

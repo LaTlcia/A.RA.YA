@@ -9184,6 +9184,26 @@
         "endTime": -62170017539
       },
       {
+        "itemMstId": 1025400,
+        "name": "レジェンダリームーン",
+        "description": "レジェンダリーメモリアの限界突破素材として使用することができるアイテム（一部除く）",
+        "category": 2,
+        "type": 28,
+        "effectValue": 0,
+        "sortOrder": 53,
+        "rarity": 6,
+        "price": 0,
+        "canSell": false,
+        "canUse": true,
+        "isSeparateEndTime": true,
+        "limitDay": 0,
+        "limitEndOfMonth": 2,
+        "transitionSceneName": "SceneLimitBreak",
+        "transitionSceneParam": 0,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "itemMstId": 2000100,
         "name": "ファイアピースⅠ",
         "description": "火属性のメモリアを進化させるためのアイテム",
@@ -24482,6 +24502,26 @@
         "transitionSceneParam": 0,
         "startTime": 1718161200,
         "endTime": 1720969199
+      },
+      {
+        "itemMstId": 4010203,
+        "name": "3.5周年★5メモリア引換券",
+        "description": "3.5周年★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "category": 5,
+        "type": 51,
+        "effectValue": 0,
+        "sortOrder": 43,
+        "rarity": 1,
+        "price": 0,
+        "canSell": false,
+        "canUse": true,
+        "isSeparateEndTime": false,
+        "limitDay": 0,
+        "limitEndOfMonth": 0,
+        "transitionSceneName": "SceneMedalExchange",
+        "transitionSceneParam": 0,
+        "startTime": 1723172400,
+        "endTime": 1726325999
       },
       {
         "itemMstId": 4010300,

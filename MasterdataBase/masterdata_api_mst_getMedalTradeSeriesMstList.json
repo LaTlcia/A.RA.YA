@@ -8152,6 +8152,20 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1579,
+        "rewardGroupId": 2040,
+        "name": "3.5周年★5メモリア引換券",
+        "description": "3.5周年★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 869,
+        "itemMstId": 4010203,
+        "viewable": 1,
+        "startTime": 1723172400,
+        "endTime": 1726325999,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
