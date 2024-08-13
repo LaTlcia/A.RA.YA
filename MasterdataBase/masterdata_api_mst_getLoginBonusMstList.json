@@ -2314,6 +2314,34 @@
         "endTime": 1724597999
       },
       {
+        "loginBonusMstId": 10120,
+        "title": "ラスバレこれからもよろしくねログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015501,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1724270400,
+        "endTime": 1725566399
+      },
+      {
+        "loginBonusMstId": 10121,
+        "title": "新章 -宿星の花束- 開幕ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015401,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1724875200,
+        "endTime": 1726603199
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

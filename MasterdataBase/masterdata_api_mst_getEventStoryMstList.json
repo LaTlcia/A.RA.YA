@@ -14502,6 +14502,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 32710101,
+        "questStageMstId": 32710101,
+        "title": "プレストーリー菱田治編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_126",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1724641200,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -19350,6 +19361,94 @@
         "fileName2": "",
         "imageId": 840004,
         "startTime": 1722913200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510111,
+        "questStageMstId": 75510111,
+        "title": "1話:浜の休息-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_01",
+        "fileName2": "",
+        "imageId": 850001,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510112,
+        "questStageMstId": 75510112,
+        "title": "1話:浜の休息-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_02",
+        "fileName2": "",
+        "imageId": 850002,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510113,
+        "questStageMstId": 75510113,
+        "title": "1話:浜の休息-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_03",
+        "fileName2": "",
+        "imageId": 850003,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510114,
+        "questStageMstId": 75510114,
+        "title": "2話:ビーチバトル-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_04",
+        "fileName2": "",
+        "imageId": 850004,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510115,
+        "questStageMstId": 75510115,
+        "title": "2話:ビーチバトル-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_05",
+        "fileName2": "",
+        "imageId": 850005,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510116,
+        "questStageMstId": 75510116,
+        "title": "2話:ビーチバトル-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_06",
+        "fileName2": "",
+        "imageId": 850006,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510117,
+        "questStageMstId": 75510117,
+        "title": "3話:終わりよければ全てよし-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_07",
+        "fileName2": "",
+        "imageId": 850007,
+        "startTime": 1723604400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75510118,
+        "questStageMstId": 75510118,
+        "title": "3話:終わりよければ全てよし-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_beach_08",
+        "fileName2": "",
+        "imageId": 850008,
+        "startTime": 1723604400,
         "endTime": -62170017539
       },
       {

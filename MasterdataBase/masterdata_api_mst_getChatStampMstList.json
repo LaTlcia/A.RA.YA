@@ -2324,7 +2324,7 @@
         "name": "あらあら♡",
         "characterMstId": 47,
         "type": 3,
-        "howToGetText": "絶海のワールプール【個人】特別ミッションで入手可能",
+        "howToGetText": "絶海のワールプールで入手可能",
         "transitionSceneName": "NULL",
         "conditionValue1": 0,
         "conditionValue2": 0,
@@ -2498,6 +2498,18 @@
         "conditionValue2": 0,
         "startTime": 1722394800,
         "endTime": 1723604399
+      },
+      {
+        "chatStampMstId": 229,
+        "name": "遊びましょう♡",
+        "characterMstId": 123,
+        "type": 3,
+        "howToGetText": "Exciting Utopia【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1723604400,
+        "endTime": 1725073199
       },
       {
         "chatStampMstId": 233,

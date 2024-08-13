@@ -2,6 +2,16 @@
   "url": "/api/mst/getQuestReprintMainStoryNameMst",
   "status": 200,
   "payload": {
-    "mstList": []
+    "mstList": [
+      {
+        "questReprintMainStoryNameMstId": 5,
+        "description": "白百合の十二聖剣",
+        "conditionQuestStageMstId1": 413608,
+        "conditionReprintNum1": 0,
+        "conditionQuestStageMstId2": 0,
+        "conditionReprintNum2": 0,
+        "hasNextComingSoon": 0
+      }
+    ]
   }
 }

@@ -3284,6 +3284,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 327101,
+        "questMapMstId": 327,
+        "name": "ミニイベント",
+        "description": "プレストーリー菱田治編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4224,6 +4232,22 @@
         "questMapMstId": 754,
         "name": "メダルイベント",
         "description": "メランコリック・プランセス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 755101,
+        "questMapMstId": 755,
+        "name": "メダルイベント",
+        "description": "Exciting Utopia",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 755201,
+        "questMapMstId": 755,
+        "name": "メダルイベント",
+        "description": "Exciting Utopia",
         "mode": 2,
         "hasNextComingSoon": false
       },

@@ -4164,6 +4164,26 @@
         "conditionQuestStageMstId3": 0
       },
       {
+        "questStageConditionMstId": 75510114,
+        "questStageMstId": 75510114,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 75510105,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
+        "questStageConditionMstId": 75510117,
+        "questStageMstId": 75510117,
+        "conditionType": 2,
+        "conditionValue": 0,
+        "conditionTime": -62170017539,
+        "conditionQuestStageMstId1": 75510110,
+        "conditionQuestStageMstId2": 0,
+        "conditionQuestStageMstId3": 0
+      },
+      {
         "questStageConditionMstId": 90110102,
         "questStageMstId": 90110102,
         "conditionType": 6,

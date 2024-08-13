@@ -9154,6 +9154,71 @@
         "limitBreakBonusValue3": 130,
         "limitBreakBonusValue4": 140,
         "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 755001,
+        "cardUniqueId": 10122121,
+        "itemMstId": 4000722,
+        "questMapMstId": 755,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 755002,
+        "cardUniqueId": 10122123,
+        "itemMstId": 4000722,
+        "questMapMstId": 755,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 755003,
+        "cardUniqueId": 10122109,
+        "itemMstId": 4000722,
+        "questMapMstId": 755,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 755004,
+        "cardUniqueId": 50000031,
+        "itemMstId": 4000722,
+        "questMapMstId": 755,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 755005,
+        "cardUniqueId": 70000311,
+        "itemMstId": 4000722,
+        "questMapMstId": 755,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140,
+        "isDeleted": 0
       }
     ]
   }

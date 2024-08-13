@@ -4477,7 +4477,63 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10650,
+        "title": "3.5周年記念レギオンリーグ特別ミッション",
+        "completeMissionMstId": 10650001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 2987
+      },
+      {
+        "missionTitleMstId": 10651,
+        "title": "リリリゾ!!Exciting Utopia",
+        "completeMissionMstId": 10651001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3050
+      },
+      {
+        "missionTitleMstId": 10652,
+        "title": "新章 -宿星の花束- 開幕",
+        "completeMissionMstId": 10652001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3051
+      },
+      {
+        "missionTitleMstId": 10653,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10653001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10654,
+        "title": "Exciting Utopia【個人】",
+        "completeMissionMstId": 10654001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10655,
+        "title": "Exciting Utopia【レギオン】",
+        "completeMissionMstId": 10655001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10656,
+        "title": "Exciting Utopia【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10657,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10661,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
@@ -5445,6 +5501,13 @@
       {
         "missionTitleMstId": 40002,
         "title": "運命のトリニティ",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40005,
+        "title": "白百合の十二聖剣：絶海のワールプール",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

@@ -2,6 +2,17 @@
   "url": "/api/mst/getQuestReprintMainStoryMapGroupMst",
   "status": 200,
   "payload": {
-    "mstList": []
+    "mstList": [
+      {
+        "questReprintMainStoryMapGroupMstId": 51,
+        "questReprintMainStoryNameMstId": 5,
+        "questMapMstId": 740,
+        "nextQuestMapMstId": 0,
+        "conditionQuestStageMstId1": 0,
+        "conditionReprintNum1": 0,
+        "conditionQuestStageMstId2": 0,
+        "conditionReprintNum2": 0
+      }
+    ]
   }
 }

@@ -5247,6 +5247,90 @@
         "contentsType": 6
       },
       {
+        "characterJobSpecialSkillMstId": 12206700,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206701,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 23100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206702,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 14100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206703,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206704,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 23101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206705,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 14101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206706,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206707,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 23102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206708,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 14102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206709,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206710,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 23103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12206711,
+        "characterJobMstId": 122067,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 14103,
+        "contentsType": 6
+      },
+      {
         "characterJobSpecialSkillMstId": 12208700,
         "characterJobMstId": 122087,
         "limitBreakCount": 0,
@@ -5429,6 +5513,13 @@
         "contentsType": 6
       },
       {
+        "characterJobSpecialSkillMstId": 12210900,
+        "characterJobMstId": 122109,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 30102,
+        "contentsType": 6
+      },
+      {
         "characterJobSpecialSkillMstId": 12211400,
         "characterJobMstId": 122114,
         "limitBreakCount": 0,
@@ -5454,6 +5545,174 @@
         "characterJobMstId": 122115,
         "limitBreakCount": 0,
         "characterJobSpecialSkillEffectMstId": 31100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212100,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212101,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 13100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212102,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 14100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212103,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212104,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 13101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212105,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 14101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212106,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212107,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 13102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212108,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 14102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212109,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212110,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 13103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212111,
+        "characterJobMstId": 122121,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 14103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212300,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212301,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 13100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212302,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 34100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212303,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212304,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 13101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212305,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 34101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212306,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212307,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 13102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212308,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 34102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212309,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212310,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 13103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 12212311,
+        "characterJobMstId": 122123,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 34103,
         "contentsType": 6
       },
       {
@@ -6665,6 +6924,90 @@
         "characterJobMstId": 155041,
         "limitBreakCount": 3,
         "characterJobSpecialSkillEffectMstId": 14103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504300,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504301,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 33100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504302,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 0,
+        "characterJobSpecialSkillEffectMstId": 34100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504303,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504304,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 33101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504305,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 1,
+        "characterJobSpecialSkillEffectMstId": 34101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504306,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504307,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 33102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504308,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 2,
+        "characterJobSpecialSkillEffectMstId": 34102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504309,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 32100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504310,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 33103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 15504311,
+        "characterJobMstId": 155043,
+        "limitBreakCount": 3,
+        "characterJobSpecialSkillEffectMstId": 34103,
         "contentsType": 6
       },
       {
