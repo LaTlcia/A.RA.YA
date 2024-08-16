@@ -20,8 +20,8 @@
       },
       {
         "method": "getCardAwakeningMstList",
-        "size": 100644,
-        "hash": "daa6097f96129b952bd2f414cbf21cf5"
+        "size": 101709,
+        "hash": "d0cd1263dff1c6b937f0b38ff02adfc7"
       },
       {
         "method": "getCardEvolveEventMstList",
@@ -35,8 +35,8 @@
       },
       {
         "method": "getCardMstList",
-        "size": 2959734,
-        "hash": "65892d3a270c91e6819f62066adc7fb4"
+        "size": 2971070,
+        "hash": "bf9dd5a4f7c0e97832ad3cd4016797d8"
       },
       {
         "method": "getCardStoryMstList",
@@ -115,8 +115,8 @@
       },
       {
         "method": "getCollectionPublicationRestrictionsMstList",
-        "size": 536580,
-        "hash": "76ac00ef3abfb2a5df82634ed8596d23"
+        "size": 537940,
+        "hash": "b8ff1bfb02465053015b1caefe75899c"
       },
       {
         "method": "getCopyrightMstList",
@@ -375,8 +375,8 @@
       },
       {
         "method": "getItemMstList",
-        "size": 1534452,
-        "hash": "a4ca1fb88c96eae0ea41bb6e8621a4be"
+        "size": 1535398,
+        "hash": "d0df238198ac1e1398dce68d67b2d99b"
       },
       {
         "method": "getLegendarySkillGroupMstList",
@@ -395,8 +395,8 @@
       },
       {
         "method": "getLimitBreakBonusMstList",
-        "size": 140240,
-        "hash": "8cbf31ea5cfdc6ebffc6c7fbe0a72605"
+        "size": 143048,
+        "hash": "fc9b6914f6557bb57668adc7e2458242"
       },
       {
         "method": "getLiveMstList",
@@ -430,8 +430,8 @@
       },
       {
         "method": "getMedalTradeMstList",
-        "size": 10754058,
-        "hash": "f01e60f05437dc519c3117b0c0e8bbb1"
+        "size": 10755393,
+        "hash": "f34944a669cc49220d1073cc05526242"
       },
       {
         "method": "getMedalTradePickupMstList",
@@ -440,8 +440,8 @@
       },
       {
         "method": "getMedalTradeSeriesMstList",
-        "size": 294541,
-        "hash": "58b39dfa674ae2ecc0c0f2ddec3ecc57"
+        "size": 295395,
+        "hash": "8e1b3e9987e9313289b0e199cb6345f4"
       },
       {
         "method": "getMiniTutorialMaterialMstList",
@@ -710,8 +710,8 @@
       },
       {
         "method": "getUltimateCardMstList",
-        "size": 13623,
-        "hash": "fbaa1e551c1ae949799524a908cf8912"
+        "size": 18163,
+        "hash": "53b434e98cc1a413bb9c18f38a08cb0a"
       },
       {
         "method": "getUltimateGvgFinalRoundMstList",
