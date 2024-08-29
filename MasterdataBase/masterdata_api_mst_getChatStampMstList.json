@@ -2512,6 +2512,18 @@
         "endTime": 1725073199
       },
       {
+        "chatStampMstId": 230,
+        "name": "絶対に倒す！",
+        "characterMstId": 126,
+        "type": 3,
+        "howToGetText": "邂逅のヴァルキュリア【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1725073200,
+        "endTime": 1726585199
+      },
+      {
         "chatStampMstId": 233,
         "name": "おねえしゃま！",
         "characterMstId": 1,

@@ -4533,7 +4533,42 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10658,
+        "title": "邂逅のヴァルキュリア【個人】",
+        "completeMissionMstId": 10658001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10659,
+        "title": "邂逅のヴァルキュリア【レギオン】",
+        "completeMissionMstId": 10659001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10660,
+        "title": "邂逅のヴァルキュリア【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10661,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10662,
+        "title": "最強リリィ結集キャンペーン投稿ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10669,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

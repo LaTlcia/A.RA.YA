@@ -3164,6 +3164,37 @@
         "startTime": 1711854000,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 126,
+        "name": "菱田治",
+        "kanaName": "ひしだはる",
+        "firstName": "治",
+        "lilyProfileListName": "",
+        "cv": "林田真尋",
+        "legionMstId": 18,
+        "grade": "2年",
+        "birthday": 1725548400,
+        "bloodType": "A",
+        "favoriteFood": "フクロウ",
+        "hatedFood": "寒さ",
+        "hobby": "鉱石集め・スチームパンク",
+        "introduction": "御台場女学校で屈指の実力を誇り、ヘオロットセインツの影の主将とも評されるリリィ。数多くの特型ヒュージを倒した実績から「怪異斬り」の異名を持つ。御台場を守る一番のリリィになることを、早くに亡くした幼馴染の今村咲魅に誓い、日々戦い続けている。",
+        "defaultCharacterJobMstId": 1126,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_126",
+        "supportWeaponMstId": 201951,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60120902,
+        "gvgRareSkillMstId": 50120902,
+        "victoryMotionId": 39,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1725073200,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }

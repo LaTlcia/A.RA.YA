@@ -1762,6 +1762,39 @@
         "motion": "PoseChange03",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 126001,
+        "type": 0,
+        "characterMstId": 126,
+        "title": "【治】ログインボーナス1",
+        "voiceId": "cv_outgame_001_126-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 126002,
+        "type": 0,
+        "characterMstId": 126,
+        "title": "【治】ログインボーナス2",
+        "voiceId": "cv_outgame_001_126-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Positive",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 126003,
+        "type": 0,
+        "characterMstId": 126,
+        "title": "【治】ログインボーナス3",
+        "voiceId": "cv_outgame_001_126-login_normal_003",
+        "faceType": "Strong",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }
