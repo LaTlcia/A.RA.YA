@@ -5878,6 +5878,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 757,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "Lovely Anger Festival",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 75710101,
+        "lastQuestStageMstId": 75720115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230568,
+        "eventStoryBannerMstId": 1230568,
+        "stageViewBgm": "bgm_anime_58-001",
+        "bgImageId": 1037703,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1743217200,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

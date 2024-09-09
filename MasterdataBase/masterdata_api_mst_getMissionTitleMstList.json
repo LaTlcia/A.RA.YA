@@ -4568,6 +4568,27 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10663,
+        "title": "Lovely Anger Festival【個人】",
+        "completeMissionMstId": 10663001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10664,
+        "title": "Lovely Anger Festival【レギオン】",
+        "completeMissionMstId": 10664001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10665,
+        "title": "Lovely Anger Festival【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10669,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
