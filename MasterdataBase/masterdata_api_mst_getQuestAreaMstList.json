@@ -3292,6 +3292,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 329101,
+        "questMapMstId": 329,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 330101,
+        "questMapMstId": 330,
+        "name": "ミニイベント",
+        "description": "プレストーリー坪井七保編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4280,6 +4296,22 @@
         "questMapMstId": 757,
         "name": "メダルイベント",
         "description": "Lovely Anger Festival",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 758101,
+        "questMapMstId": 758,
+        "name": "メダルイベント",
+        "description": "二人眺める秋花火",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 758201,
+        "questMapMstId": 758,
+        "name": "メダルイベント",
+        "description": "二人眺める秋花火",
         "mode": 2,
         "hasNextComingSoon": false
       },

@@ -14513,6 +14513,28 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 32910101,
+        "questStageMstId": 32910101,
+        "title": "十一品目 ベイクドシュクチーズケーキ",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_11",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1726930800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 33010101,
+        "questStageMstId": 33010101,
+        "title": "プレストーリー坪井七保編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_128",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1727233200,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -19735,6 +19757,50 @@
         "fileName2": "",
         "imageId": 870010,
         "startTime": 1725937200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75810111,
+        "questStageMstId": 75810111,
+        "title": "1話:二人眺める秋花火-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_tazumai_ex01",
+        "fileName2": "",
+        "imageId": 880001,
+        "startTime": 1726801200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75810112,
+        "questStageMstId": 75810112,
+        "title": "1話:二人眺める秋花火-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_tazumai_ex02",
+        "fileName2": "",
+        "imageId": 880002,
+        "startTime": 1726801200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75810113,
+        "questStageMstId": 75810113,
+        "title": "1話:二人眺める秋花火-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_tazumai_ex03",
+        "fileName2": "",
+        "imageId": 880003,
+        "startTime": 1726801200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75810114,
+        "questStageMstId": 75810114,
+        "title": "1話:二人眺める秋花火-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_tazumai_ex04",
+        "fileName2": "",
+        "imageId": 880004,
+        "startTime": 1726801200,
         "endTime": -62170017539
       },
       {

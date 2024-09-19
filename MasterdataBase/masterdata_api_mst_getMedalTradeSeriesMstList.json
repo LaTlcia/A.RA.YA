@@ -8600,6 +8600,48 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1611,
+        "rewardGroupId": 0,
+        "name": "二人眺める秋花火AD衣装引換券",
+        "description": "二人眺める秋花火AD衣装引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 840,
+        "itemMstId": 4014902,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1612,
+        "rewardGroupId": 0,
+        "name": "二人眺める秋花火ADペンダント交換券",
+        "description": "二人眺める秋花火ADペンダント交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 840,
+        "itemMstId": 4015402,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1613,
+        "rewardGroupId": 0,
+        "name": "二人眺める秋花火★5メモリア引換券",
+        "description": "二人眺める秋花火★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 840,
+        "itemMstId": 4006011,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -10558,6 +10600,20 @@
         "endTime": 1727794799,
         "dailyStartTime": 1725937200,
         "dailyEndTime": 1726862399
+      },
+      {
+        "medalTradeSeriesMstId": 5758,
+        "rewardGroupId": 1009,
+        "name": "二人眺める秋花火メダル交換所",
+        "description": "二人眺める秋花火メダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 2016,
+        "itemMstId": 4000523,
+        "viewable": 1,
+        "startTime": 1726801200,
+        "endTime": 1728313199,
+        "dailyStartTime": 1726801200,
+        "dailyEndTime": 1727726399
       },
       {
         "medalTradeSeriesMstId": 6101,
