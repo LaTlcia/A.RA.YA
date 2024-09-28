@@ -3195,6 +3195,37 @@
         "startTime": 1725073200,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 128,
+        "name": "坪井七保",
+        "kanaName": "つぼいななほ",
+        "firstName": "七保",
+        "lilyProfileListName": "",
+        "cv": "和泉風花",
+        "legionMstId": 55,
+        "grade": "2年",
+        "birthday": 1710774000,
+        "bloodType": "AB",
+        "favoriteFood": "ハムスター",
+        "hatedFood": "高い所",
+        "hobby": "読書",
+        "introduction": "バシャンドレの隊長であり、エレンスゲ女学園の現風紀委員長。エレンスゲ女学園きっての常識人として知られており、ガーデン内外問わず慕われている。子供扱いされることを嫌い、背丈の話になると力強く否定する一面もある。序列3位。",
+        "defaultCharacterJobMstId": 1128,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_128",
+        "supportWeaponMstId": 202151,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60050901,
+        "gvgRareSkillMstId": 50050901,
+        "victoryMotionId": 2,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1727665200,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }

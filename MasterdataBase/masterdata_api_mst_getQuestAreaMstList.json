@@ -3308,6 +3308,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 331101,
+        "questMapMstId": 331,
+        "name": "ミニイベント",
+        "description": "プレストーリー+坪井七保編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4312,6 +4320,22 @@
         "questMapMstId": 758,
         "name": "メダルイベント",
         "description": "二人眺める秋花火",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 759101,
+        "questMapMstId": 759,
+        "name": "メダルイベント",
+        "description": "竜楯のエスペランサ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 759201,
+        "questMapMstId": 759,
+        "name": "メダルイベント",
+        "description": "竜楯のエスペランサ",
         "mode": 2,
         "hasNextComingSoon": false
       },

@@ -2536,6 +2536,18 @@
         "endTime": 1727189999
       },
       {
+        "chatStampMstId": 232,
+        "name": "まかせなさい！",
+        "characterMstId": 128,
+        "type": 2,
+        "howToGetText": "竜楯のエスペランサ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1727665200,
+        "endTime": 1728917999
+      },
+      {
         "chatStampMstId": 233,
         "name": "おねえしゃま！",
         "characterMstId": 1,

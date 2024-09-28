@@ -1795,6 +1795,39 @@
         "motion": "PoseChange04",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 128001,
+        "type": 0,
+        "characterMstId": 128,
+        "title": "【七保】ログインボーナス1",
+        "voiceId": "cv_outgame_001_128-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 128002,
+        "type": 0,
+        "characterMstId": 128,
+        "title": "【七保】ログインボーナス2",
+        "voiceId": "cv_outgame_001_128-login_normal_002",
+        "faceType": "Normal",
+        "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 128003,
+        "type": 0,
+        "characterMstId": 128,
+        "title": "【七保】ログインボーナス3",
+        "voiceId": "cv_outgame_001_128-login_normal_003",
+        "faceType": "Strong",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

@@ -14535,6 +14535,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 33110101,
+        "questStageMstId": 33110101,
+        "title": "プレストーリー+坪井七保編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_ex128",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1727492400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -19801,6 +19812,182 @@
         "fileName2": "",
         "imageId": 880004,
         "startTime": 1726801200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910111,
+        "questStageMstId": 75910111,
+        "title": "1話:ラルン外征隊-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_050201",
+        "fileName2": "",
+        "imageId": 890001,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910112,
+        "questStageMstId": 75910112,
+        "title": "1話:ラルン外征隊-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_050202",
+        "fileName2": "",
+        "imageId": 890002,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910113,
+        "questStageMstId": 75910113,
+        "title": "1話:ラルン外征隊-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_050203",
+        "fileName2": "",
+        "imageId": 890003,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910114,
+        "questStageMstId": 75910114,
+        "title": "2話:マーナガルム-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_050204",
+        "fileName2": "",
+        "imageId": 890004,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910115,
+        "questStageMstId": 75910115,
+        "title": "2話:マーナガルム-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_050205",
+        "fileName2": "",
+        "imageId": 890005,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910116,
+        "questStageMstId": 75910116,
+        "title": "2話:マーナガルム-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_050206",
+        "fileName2": "",
+        "imageId": 890006,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910117,
+        "questStageMstId": 75910117,
+        "title": "3話:小さき盾-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_050207",
+        "fileName2": "",
+        "imageId": 890007,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910118,
+        "questStageMstId": 75910118,
+        "title": "3話:小さき盾-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_050208",
+        "fileName2": "",
+        "imageId": 890008,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910119,
+        "questStageMstId": 75910119,
+        "title": "3話:小さき盾-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_050209",
+        "fileName2": "",
+        "imageId": 890009,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910120,
+        "questStageMstId": 75910120,
+        "title": "3話:小さき盾-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_050210",
+        "fileName2": "",
+        "imageId": 890010,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910121,
+        "questStageMstId": 75910121,
+        "title": "4話:屠る惨劇-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_050211",
+        "fileName2": "",
+        "imageId": 890011,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910122,
+        "questStageMstId": 75910122,
+        "title": "4話:屠る惨劇-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_050212",
+        "fileName2": "",
+        "imageId": 890012,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910123,
+        "questStageMstId": 75910123,
+        "title": "4話:屠る惨劇-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_050213",
+        "fileName2": "",
+        "imageId": 890013,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910124,
+        "questStageMstId": 75910124,
+        "title": "5話:成し遂げたその先に-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_050214",
+        "fileName2": "",
+        "imageId": 890014,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910125,
+        "questStageMstId": 75910125,
+        "title": "5話:成し遂げたその先に-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_050215",
+        "fileName2": "",
+        "imageId": 890015,
+        "startTime": 1727665200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 75910126,
+        "questStageMstId": 75910126,
+        "title": "5話:成し遂げたその先に-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_050216",
+        "fileName2": "",
+        "imageId": 890016,
+        "startTime": 1727665200,
         "endTime": -62170017539
       },
       {
