@@ -6010,6 +6010,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 760,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "鎌倉ハロウィンパーティー",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 76010101,
+        "lastQuestStageMstId": 76020115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230623,
+        "eventStoryBannerMstId": 1230623,
+        "stageViewBgm": "bgm_anime_59-001",
+        "bgImageId": 1056001,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1745809200,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

@@ -4340,6 +4340,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 760101,
+        "questMapMstId": 760,
+        "name": "メダルイベント",
+        "description": "鎌倉ハロウィンパーティー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 760201,
+        "questMapMstId": 760,
+        "name": "メダルイベント",
+        "description": "鎌倉ハロウィンパーティー",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

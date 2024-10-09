@@ -2594,6 +2594,18 @@
         "conditionValue2": 0,
         "startTime": 1722265200,
         "endTime": 1724857199
+      },
+      {
+        "chatStampMstId": 237,
+        "name": "イタズラしちゃうよ♡",
+        "characterMstId": 114,
+        "type": 3,
+        "howToGetText": "鎌倉ハロウィンパーティー【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1728529200,
+        "endTime": 1730343599
       }
     ]
   }
