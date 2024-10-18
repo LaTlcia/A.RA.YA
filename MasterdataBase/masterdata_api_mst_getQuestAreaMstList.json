@@ -3316,6 +3316,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 332101,
+        "questMapMstId": 332,
+        "name": "ミニイベント",
+        "description": "プレストーリー日比野羽来編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 333101,
+        "questMapMstId": 333,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4352,6 +4368,22 @@
         "questMapMstId": 760,
         "name": "メダルイベント",
         "description": "鎌倉ハロウィンパーティー",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 761101,
+        "questMapMstId": 761,
+        "name": "メダルイベント",
+        "description": "特別をあなたに",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 761201,
+        "questMapMstId": 761,
+        "name": "メダルイベント",
+        "description": "特別をあなたに",
         "mode": 2,
         "hasNextComingSoon": false
       },

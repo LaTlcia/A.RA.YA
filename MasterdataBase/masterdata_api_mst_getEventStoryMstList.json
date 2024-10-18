@@ -14546,6 +14546,28 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 33210101,
+        "questStageMstId": 33210101,
+        "title": "プレストーリー日比野羽来編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_129",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1729911600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 33310101,
+        "questStageMstId": 33310101,
+        "title": "十二品目 たっぷりキノコのラプラスピッツア",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_12",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1730127600,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -20087,6 +20109,50 @@
         "fileName2": "",
         "imageId": 900009,
         "startTime": 1728529200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76110111,
+        "questStageMstId": 76110111,
+        "title": "1話:特別をあなたに-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo_ex01",
+        "fileName2": "",
+        "imageId": 910001,
+        "startTime": 1729306800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76110112,
+        "questStageMstId": 76110112,
+        "title": "1話:特別をあなたに-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo_ex02",
+        "fileName2": "",
+        "imageId": 910002,
+        "startTime": 1729306800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76110113,
+        "questStageMstId": 76110113,
+        "title": "1話:特別をあなたに-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo_ex03",
+        "fileName2": "",
+        "imageId": 910003,
+        "startTime": 1729306800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76110114,
+        "questStageMstId": 76110114,
+        "title": "1話:特別をあなたに-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo_ex04",
+        "fileName2": "",
+        "imageId": 910004,
+        "startTime": 1729306800,
         "endTime": -62170017539
       },
       {
