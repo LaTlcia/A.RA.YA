@@ -6,7 +6,7 @@
       {
         "method": "getBannerMstList",
         "size": 846754,
-        "hash": "fe6d7e82d581df1e01ed2a4c120723cf"
+        "hash": "42a290834f06bc48e267daaf8f82abf2"
       },
       {
         "method": "getBattleAuraMstList",
@@ -35,8 +35,8 @@
       },
       {
         "method": "getCardMstList",
-        "size": 3058333,
-        "hash": "93ee6cd2f719fb314a21c9569313776b"
+        "size": 3058341,
+        "hash": "5d9e8f448df5288ae76e66eea9cbf8a3"
       },
       {
         "method": "getCardStoryMstList",
@@ -680,8 +680,8 @@
       },
       {
         "method": "getSkillMstList",
-        "size": 3190702,
-        "hash": "e7e4c2483c543afc0899e3cdd01d4288"
+        "size": 3196183,
+        "hash": "fba851b4986f2ba65cfbedd3a66bfa2a"
       },
       {
         "method": "getSnsPostsMstList",
@@ -711,7 +711,7 @@
       {
         "method": "getUltimateCardMstList",
         "size": 18163,
-        "hash": "53b434e98cc1a413bb9c18f38a08cb0a"
+        "hash": "29ffd836cb4bf97fe399d61197bb708b"
       },
       {
         "method": "getUltimateGvgFinalRoundMstList",
@@ -731,7 +731,7 @@
       {
         "method": "getUserLevelUpMstList",
         "size": 25785,
-        "hash": "f14b66d0eea7495ff049e70bc99bb5f5"
+        "hash": "aedeaa1df4b6e71c01c2a1186babfa9a"
       },
       {
         "method": "getWeaponAbilityEffectMstList",
