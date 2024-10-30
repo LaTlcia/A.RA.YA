@@ -1828,6 +1828,39 @@
         "motion": "Anger",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 129001,
+        "type": 0,
+        "characterMstId": 129,
+        "title": "【羽来】ログインボーナス1",
+        "voiceId": "cv_outgame_001_129-login_normal_001",
+        "faceType": "Smile",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 129002,
+        "type": 0,
+        "characterMstId": 129,
+        "title": "【羽来】ログインボーナス2",
+        "voiceId": "cv_outgame_001_129-login_normal_002",
+        "faceType": "Smile",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 129003,
+        "type": 0,
+        "characterMstId": 129,
+        "title": "【羽来】ログインボーナス3",
+        "voiceId": "cv_outgame_001_129-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

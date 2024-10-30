@@ -4388,6 +4388,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 762101,
+        "questMapMstId": 762,
+        "name": "メダルイベント",
+        "description": "凶星のホライズン",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 762201,
+        "questMapMstId": 762,
+        "name": "メダルイベント",
+        "description": "凶星のホライズン",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

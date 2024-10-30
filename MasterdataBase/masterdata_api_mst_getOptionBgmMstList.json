@@ -1380,6 +1380,22 @@
         "endTime": -62170017539
       },
       {
+        "optionBgmMstId": 1501,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 1501,
+        "title": "渾身の一撃",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_gigant-battle_boss_006",
+        "forceBgmStartTime": 1730343600,
+        "forceBgmEndTime": 1731380399,
+        "startTime": 1730343600,
+        "endTime": -62170017539
+      },
+      {
         "optionBgmMstId": 160001,
         "type": 0,
         "mstId": 0,

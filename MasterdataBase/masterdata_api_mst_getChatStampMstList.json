@@ -2606,6 +2606,18 @@
         "conditionValue2": 0,
         "startTime": 1728529200,
         "endTime": 1730343599
+      },
+      {
+        "chatStampMstId": 238,
+        "name": "おまたせー！",
+        "characterMstId": 129,
+        "type": 4,
+        "howToGetText": "凶星のホライズン【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1730343600,
+        "endTime": 1731596399
       }
     ]
   }

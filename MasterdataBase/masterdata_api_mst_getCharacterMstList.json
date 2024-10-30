@@ -3226,6 +3226,37 @@
         "startTime": 1727665200,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 129,
+        "name": "日比野羽来",
+        "kanaName": "ひびのわく",
+        "firstName": "羽来",
+        "lilyProfileListName": "",
+        "cv": "髙橋彩音",
+        "legionMstId": 56,
+        "grade": "2年",
+        "birthday": 1726930800,
+        "bloodType": "O",
+        "favoriteFood": "リス",
+        "hatedFood": "お掃除",
+        "hobby": "楽しいこと",
+        "introduction": "イルミンシャイネスのムードメーカー的存在のリリィ。楽しいことが大好きで少々子供っぽい側面もあるが、仲間を想う気持ちは人一倍強い。幼馴染の手島恋町とは冠輝の誓いを交わした仲。",
+        "defaultCharacterJobMstId": 1129,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_129",
+        "supportWeaponMstId": 201971,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60180902,
+        "gvgRareSkillMstId": 50180902,
+        "victoryMotionId": 18,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1730343600,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }
