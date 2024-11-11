@@ -4750,6 +4750,34 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10689,
+        "title": "ラビット☆プリンセス！【個人】",
+        "completeMissionMstId": 10689001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10690,
+        "title": "ラビット☆プリンセス！【レギオン】",
+        "completeMissionMstId": 10690001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10691,
+        "title": "ラビット☆プリンセス！【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10694,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

@@ -2618,6 +2618,18 @@
         "conditionValue2": 0,
         "startTime": 1730343600,
         "endTime": 1731596399
+      },
+      {
+        "chatStampMstId": 239,
+        "name": "どうしましょう？",
+        "characterMstId": 7,
+        "type": 3,
+        "howToGetText": "ラビット☆プリンセス！【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1731380400,
+        "endTime": 1732633199
       }
     ]
   }
