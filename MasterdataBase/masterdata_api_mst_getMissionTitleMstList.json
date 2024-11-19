@@ -4771,10 +4771,45 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10692,
+        "title": "藤乃誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10693,
+        "title": "ミリアム誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10694,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10695,
+        "title": "今日も明日も明後日も【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10700,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10705,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10705001,
+        "specialMissionImageId": 4,
         "completeResourceId": 0
       },
       {

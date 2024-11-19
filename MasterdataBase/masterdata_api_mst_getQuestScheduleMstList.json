@@ -2916,6 +2916,20 @@
         "everydayEndTime": 1732028399
       },
       {
+        "questScheduleMstId": 33400,
+        "questMapMstId": 334,
+        "reprintNum": 0,
+        "sortOrder": 2760390,
+        "eventType": 0,
+        "scheduleType": 2,
+        "dayOfWeek": 0,
+        "isHomeIcon": true,
+        "startTime": 1732287600,
+        "endTime": 1733756399,
+        "everydayStartTime": 1731942000,
+        "everydayEndTime": 1732028399
+      },
+      {
         "questScheduleMstId": 40100,
         "questMapMstId": 401,
         "reprintNum": 0,
@@ -4480,6 +4494,20 @@
         "isHomeIcon": true,
         "startTime": 1731380400,
         "endTime": 1732633199,
+        "everydayStartTime": 1731942000,
+        "everydayEndTime": 1732028399
+      },
+      {
+        "questScheduleMstId": 76400,
+        "questMapMstId": 764,
+        "reprintNum": 0,
+        "sortOrder": 1760410,
+        "eventType": 1,
+        "scheduleType": 2,
+        "dayOfWeek": 0,
+        "isHomeIcon": true,
+        "startTime": 1732071600,
+        "endTime": 1732935599,
         "everydayStartTime": 1731942000,
         "everydayEndTime": 1732028399
       },

@@ -3332,6 +3332,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 334101,
+        "questMapMstId": 334,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4416,6 +4424,22 @@
         "questMapMstId": 763,
         "name": "メダルイベント",
         "description": "ラビット☆プリンセス！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 764101,
+        "questMapMstId": 764,
+        "name": "メダルイベント",
+        "description": "今日も明日も明後日も",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 764201,
+        "questMapMstId": 764,
+        "name": "メダルイベント",
+        "description": "今日も明日も明後日も",
         "mode": 2,
         "hasNextComingSoon": false
       },

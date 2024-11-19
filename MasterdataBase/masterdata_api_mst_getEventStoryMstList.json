@@ -14568,6 +14568,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 33410101,
+        "questStageMstId": 33410101,
+        "title": "十三品目 激辛狂乱麺",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_13",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1732287600,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -20428,6 +20439,50 @@
         "fileName2": "",
         "imageId": 930010,
         "startTime": 1731380400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76410111,
+        "questStageMstId": 76410111,
+        "title": "1話:今日も明日も明後日も-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_makiyuni_ex01",
+        "fileName2": "",
+        "imageId": 940001,
+        "startTime": 1732071600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76410112,
+        "questStageMstId": 76410112,
+        "title": "1話:今日も明日も明後日も-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_makiyuni_ex02",
+        "fileName2": "",
+        "imageId": 940002,
+        "startTime": 1732071600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76410113,
+        "questStageMstId": 76410113,
+        "title": "1話:今日も明日も明後日も-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_makiyuni_ex03",
+        "fileName2": "",
+        "imageId": 940003,
+        "startTime": 1732071600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76410114,
+        "questStageMstId": 76410114,
+        "title": "1話:今日も明日も明後日も-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_makiyuni_ex04",
+        "fileName2": "",
+        "imageId": 940004,
+        "startTime": 1732071600,
         "endTime": -62170017539
       },
       {
