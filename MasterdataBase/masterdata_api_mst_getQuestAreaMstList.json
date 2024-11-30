@@ -3340,6 +3340,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 335101,
+        "questMapMstId": 335,
+        "name": "ミニイベント",
+        "description": "プレストーリー西郷紅編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4440,6 +4448,22 @@
         "questMapMstId": 764,
         "name": "メダルイベント",
         "description": "今日も明日も明後日も",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 765101,
+        "questMapMstId": 765,
+        "name": "メダルイベント",
+        "description": "激紅のクリスマスギフト",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 765201,
+        "questMapMstId": 765,
+        "name": "メダルイベント",
+        "description": "激紅のクリスマスギフト",
         "mode": 2,
         "hasNextComingSoon": false
       },

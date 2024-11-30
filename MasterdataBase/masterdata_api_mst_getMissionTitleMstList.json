@@ -4799,6 +4799,34 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10696,
+        "title": "激紅のクリスマスギフト【個人】",
+        "completeMissionMstId": 10696001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10697,
+        "title": "激紅のクリスマスギフト【レギオン】",
+        "completeMissionMstId": 10697001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10698,
+        "title": "激紅のクリスマスギフト【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10699,
+        "title": "舞台「イルマ女子美術高校」2024応援",
+        "completeMissionMstId": 10699001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3297
+      },
+      {
         "missionTitleMstId": 10700,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
@@ -4810,6 +4838,13 @@
         "title": "ギガント級共闘戦【特別】",
         "completeMissionMstId": 10705001,
         "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10706,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
         "completeResourceId": 0
       },
       {

@@ -14579,6 +14579,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 33510101,
+        "questStageMstId": 33510101,
+        "title": "プレストーリー西郷紅編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_127",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1732780800,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -20483,6 +20494,105 @@
         "fileName2": "",
         "imageId": 940004,
         "startTime": 1732071600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510111,
+        "questStageMstId": 76510111,
+        "title": "1話:紅い衝撃-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_01",
+        "fileName2": "",
+        "imageId": 950001,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510112,
+        "questStageMstId": 76510112,
+        "title": "1話:紅い衝撃-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_02",
+        "fileName2": "",
+        "imageId": 950002,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510113,
+        "questStageMstId": 76510113,
+        "title": "1話:紅い衝撃-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_03",
+        "fileName2": "",
+        "imageId": 950003,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510114,
+        "questStageMstId": 76510114,
+        "title": "2話:ドタバタプレパレーション-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_04",
+        "fileName2": "",
+        "imageId": 950004,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510115,
+        "questStageMstId": 76510115,
+        "title": "2話:ドタバタプレパレーション-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_05",
+        "fileName2": "",
+        "imageId": 950005,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510116,
+        "questStageMstId": 76510116,
+        "title": "3話:熱くて辛いクリスマス-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_06",
+        "fileName2": "",
+        "imageId": 950006,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510117,
+        "questStageMstId": 76510117,
+        "title": "3話:熱くて辛いクリスマス-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_07",
+        "fileName2": "",
+        "imageId": 950007,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510118,
+        "questStageMstId": 76510118,
+        "title": "3話:熱くて辛いクリスマス-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_08",
+        "fileName2": "",
+        "imageId": 950008,
+        "startTime": 1732935600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76510119,
+        "questStageMstId": 76510119,
+        "title": "3話:熱くて辛いクリスマス-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_hotxmas_09",
+        "fileName2": "",
+        "imageId": 950009,
+        "startTime": 1732935600,
         "endTime": -62170017539
       },
       {

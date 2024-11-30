@@ -1797,6 +1797,39 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 127001,
+        "type": 0,
+        "characterMstId": 127,
+        "title": "【紅】ログインボーナス1",
+        "voiceId": "cv_outgame_001_127-login_normal_001",
+        "faceType": "Surprise",
+        "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 127002,
+        "type": 0,
+        "characterMstId": 127,
+        "title": "【紅】ログインボーナス2",
+        "voiceId": "cv_outgame_001_127-login_normal_002",
+        "faceType": "Strong",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 127003,
+        "type": 0,
+        "characterMstId": 127,
+        "title": "【紅】ログインボーナス3",
+        "voiceId": "cv_outgame_001_127-login_normal_003",
+        "faceType": "Smile",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 128001,
         "type": 0,
         "characterMstId": 128,

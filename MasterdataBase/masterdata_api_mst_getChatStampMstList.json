@@ -2630,6 +2630,18 @@
         "conditionValue2": 0,
         "startTime": 1731380400,
         "endTime": 1732633199
+      },
+      {
+        "chatStampMstId": 240,
+        "name": "遠慮は不要ですわ",
+        "characterMstId": 127,
+        "type": 3,
+        "howToGetText": "激紅のクリスマスギフト【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1732935600,
+        "endTime": 1734188399
       }
     ]
   }

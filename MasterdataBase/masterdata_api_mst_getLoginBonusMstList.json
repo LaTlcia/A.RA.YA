@@ -2426,6 +2426,20 @@
         "endTime": 1733756399
       },
       {
+        "loginBonusMstId": 10128,
+        "title": "舞台「イルマ女子美術高校」2024応援ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015605,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1733428800,
+        "endTime": 1734292799
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,
