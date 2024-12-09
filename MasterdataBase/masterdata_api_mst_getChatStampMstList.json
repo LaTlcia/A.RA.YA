@@ -2641,7 +2641,19 @@
         "conditionValue1": 0,
         "conditionValue2": 0,
         "startTime": 1732935600,
-        "endTime": 1734188399
+        "endTime": 1734274799
+      },
+      {
+        "chatStampMstId": 241,
+        "name": "楽しみましょう！",
+        "characterMstId": 8,
+        "type": 3,
+        "howToGetText": "聖夜のスイートクリスマス【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1733799600,
+        "endTime": 1735138799
       }
     ]
   }

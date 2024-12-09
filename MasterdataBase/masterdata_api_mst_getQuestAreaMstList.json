@@ -3348,6 +3348,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 336101,
+        "questMapMstId": 336,
+        "name": "ミニイベント",
+        "description": "コラボ記念復刻 ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4464,6 +4472,22 @@
         "questMapMstId": 765,
         "name": "メダルイベント",
         "description": "激紅のクリスマスギフト",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 766101,
+        "questMapMstId": 766,
+        "name": "メダルイベント",
+        "description": "聖夜のスイートクリスマス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 766201,
+        "questMapMstId": 766,
+        "name": "メダルイベント",
+        "description": "聖夜のスイートクリスマス",
         "mode": 2,
         "hasNextComingSoon": false
       },

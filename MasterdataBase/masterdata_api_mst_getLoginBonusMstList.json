@@ -2440,6 +2440,20 @@
         "endTime": 1734292799
       },
       {
+        "loginBonusMstId": 10129,
+        "title": "聖夜のスイートクリスマスログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015604,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1733860800,
+        "endTime": 1735156799
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

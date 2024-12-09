@@ -4834,6 +4834,34 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10701,
+        "title": "聖夜のスイートクリスマス【個人】",
+        "completeMissionMstId": 10701001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10702,
+        "title": "聖夜のスイートクリスマス【レギオン】",
+        "completeMissionMstId": 10702001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 1106
+      },
+      {
+        "missionTitleMstId": 10703,
+        "title": "聖夜のスイートクリスマス【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10704,
+        "title": "聖夜のスイートクリスマス",
+        "completeMissionMstId": 10704001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3269
+      },
+      {
         "missionTitleMstId": 10705,
         "title": "ギガント級共闘戦【特別】",
         "completeMissionMstId": 10705001,
