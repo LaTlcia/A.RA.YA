@@ -4492,6 +4492,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 767101,
+        "questMapMstId": 767,
+        "name": "メダルイベント",
+        "description": "クリスマスは片付けまで！",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 767201,
+        "questMapMstId": 767,
+        "name": "メダルイベント",
+        "description": "クリスマスは片付けまで！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

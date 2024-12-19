@@ -6274,6 +6274,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 767,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "クリスマスは片付けまで！",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 76710101,
+        "lastQuestStageMstId": 76720115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230768,
+        "eventStoryBannerMstId": 1230768,
+        "stageViewBgm": "bgm_anime_62-001",
+        "bgImageId": 1002403,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1752030000,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",
