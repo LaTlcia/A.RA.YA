@@ -3356,6 +3356,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 338101,
+        "questMapMstId": 338,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4504,6 +4512,38 @@
         "questMapMstId": 767,
         "name": "メダルイベント",
         "description": "クリスマスは片付けまで！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 768101,
+        "questMapMstId": 768,
+        "name": "メダルイベント",
+        "description": "新春ハッピー☆サンライズ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 768201,
+        "questMapMstId": 768,
+        "name": "メダルイベント",
+        "description": "新春ハッピー☆サンライズ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 769101,
+        "questMapMstId": 769,
+        "name": "メダルイベント",
+        "description": "開催！よふかし会",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 769201,
+        "questMapMstId": 769,
+        "name": "メダルイベント",
+        "description": "開催！よふかし会",
         "mode": 2,
         "hasNextComingSoon": false
       },

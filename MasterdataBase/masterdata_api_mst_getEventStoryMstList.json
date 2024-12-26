@@ -14733,6 +14733,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 33810101,
+        "questStageMstId": 33810101,
+        "title": "十四品目 イーグル・アイ（注：お酒）",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_14",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1735225200,
+        "endTime": 1736693999
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -20879,6 +20890,149 @@
         "fileName2": "",
         "imageId": 970004,
         "startTime": 1734750000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810111,
+        "questStageMstId": 76810111,
+        "title": "1話:迎春は微睡みの中で-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_01",
+        "fileName2": "",
+        "imageId": 980001,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810112,
+        "questStageMstId": 76810112,
+        "title": "1話:迎春は微睡みの中で-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_02",
+        "fileName2": "",
+        "imageId": 980002,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810113,
+        "questStageMstId": 76810113,
+        "title": "1話:迎春は微睡みの中で-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_03",
+        "fileName2": "",
+        "imageId": 980003,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810114,
+        "questStageMstId": 76810114,
+        "title": "2話:夢みるユニコーン大作戦-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_04",
+        "fileName2": "",
+        "imageId": 980004,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810115,
+        "questStageMstId": 76810115,
+        "title": "2話:夢みるユニコーン大作戦-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_05",
+        "fileName2": "",
+        "imageId": 980005,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810116,
+        "questStageMstId": 76810116,
+        "title": "2話:夢みるユニコーン大作戦-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_06",
+        "fileName2": "",
+        "imageId": 980006,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810117,
+        "questStageMstId": 76810117,
+        "title": "3話:ハッピーラッキー☆ニューイヤー-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_07",
+        "fileName2": "",
+        "imageId": 980007,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810118,
+        "questStageMstId": 76810118,
+        "title": "3話:ハッピーラッキー☆ニューイヤー-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_08",
+        "fileName2": "",
+        "imageId": 980008,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76810119,
+        "questStageMstId": 76810119,
+        "title": "3話:ハッピーラッキー☆ニューイヤー-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_sunrise_09",
+        "fileName2": "",
+        "imageId": 980009,
+        "startTime": 1735614000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76910111,
+        "questStageMstId": 76910111,
+        "title": "1話:開催！よふかし会-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_pajama_ex01",
+        "fileName2": "",
+        "imageId": 990001,
+        "startTime": 1736132400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76910112,
+        "questStageMstId": 76910112,
+        "title": "1話:開催！よふかし会-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_pajama_ex02",
+        "fileName2": "",
+        "imageId": 990002,
+        "startTime": 1736132400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76910113,
+        "questStageMstId": 76910113,
+        "title": "1話:開催！よふかし会-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_pajama_ex03",
+        "fileName2": "",
+        "imageId": 990003,
+        "startTime": 1736132400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 76910114,
+        "questStageMstId": 76910114,
+        "title": "1話:開催！よふかし会-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_pajama_ex04",
+        "fileName2": "",
+        "imageId": 990004,
+        "startTime": 1736132400,
         "endTime": -62170017539
       },
       {

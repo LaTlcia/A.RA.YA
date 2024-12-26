@@ -2654,6 +2654,18 @@
         "conditionValue2": 0,
         "startTime": 1733799600,
         "endTime": 1735138799
+      },
+      {
+        "chatStampMstId": 242,
+        "name": "あけましておめでとうございます",
+        "characterMstId": 106,
+        "type": 1,
+        "howToGetText": "新春ハッピー☆サンライズ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1735614000,
+        "endTime": 1736866799
       }
     ]
   }
