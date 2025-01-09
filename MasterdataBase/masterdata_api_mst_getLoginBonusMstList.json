@@ -2482,6 +2482,20 @@
         "endTime": 1736693999
       },
       {
+        "loginBonusMstId": 10132,
+        "title": "4th Anniversary カウントダウンログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015609,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1736625600,
+        "endTime": 1737662399
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

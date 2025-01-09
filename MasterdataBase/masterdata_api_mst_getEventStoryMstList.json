@@ -10792,7 +10792,7 @@
         "fileName2": "",
         "imageId": 150001,
         "startTime": 1672110000,
-        "endTime": 1675997999
+        "endTime": -62170017539
       },
       {
         "eventStoryMstId": 26410111,
@@ -10913,7 +10913,7 @@
         "fileName2": "",
         "imageId": 170001,
         "startTime": 1672714800,
-        "endTime": 1675997999
+        "endTime": -62170017539
       },
       {
         "eventStoryMstId": 26610111,
@@ -14733,6 +14733,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 33710101,
+        "questStageMstId": 33710101,
+        "title": "プレストーリー谷口聖編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_130",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1737205200,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 33810101,
         "questStageMstId": 33810101,
         "title": "十四品目 イーグル・アイ（注：お酒）",
@@ -14741,7 +14752,7 @@
         "fileName2": "",
         "imageId": 0,
         "startTime": 1735225200,
-        "endTime": 1736693999
+        "endTime": -62170017539
       },
       {
         "eventStoryMstId": 70110111,
@@ -21033,6 +21044,28 @@
         "fileName2": "",
         "imageId": 990004,
         "startTime": 1736132400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 77010111,
+        "questStageMstId": 77010111,
+        "title": "1話:片付け戦争！-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_4theve_ex01",
+        "fileName2": "",
+        "imageId": 100101,
+        "startTime": 1736650800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 77010112,
+        "questStageMstId": 77010112,
+        "title": "1話:片付け戦争！-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_4theve_ex02",
+        "fileName2": "",
+        "imageId": 100102,
+        "startTime": 1736650800,
         "endTime": -62170017539
       },
       {

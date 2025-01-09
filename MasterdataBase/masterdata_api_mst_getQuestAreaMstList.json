@@ -3356,6 +3356,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 337101,
+        "questMapMstId": 337,
+        "name": "ミニイベント",
+        "description": "プレストーリー谷口聖編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 338101,
         "questMapMstId": 338,
         "name": "ミニイベント",
@@ -4544,6 +4552,22 @@
         "questMapMstId": 769,
         "name": "メダルイベント",
         "description": "開催！よふかし会",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 770101,
+        "questMapMstId": 770,
+        "name": "メダルイベント",
+        "description": "片付け戦争！",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 770201,
+        "questMapMstId": 770,
+        "name": "メダルイベント",
+        "description": "片付け戦争！",
         "mode": 2,
         "hasNextComingSoon": false
       },
