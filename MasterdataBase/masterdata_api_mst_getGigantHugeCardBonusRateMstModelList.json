@@ -881,7 +881,7 @@
       },
       {
         "gigantHugeCardBonusRateMstId": 4001001,
-        "cardUniqueId": 10155027,
+        "cardUniqueId": 10172001,
         "itemMstId": 0,
         "gigantHugeMapMstId": 4001,
         "bonusType": 2,
@@ -893,7 +893,7 @@
       },
       {
         "gigantHugeCardBonusRateMstId": 4001002,
-        "cardUniqueId": 10155040,
+        "cardUniqueId": 10172010,
         "itemMstId": 0,
         "gigantHugeMapMstId": 4001,
         "bonusType": 2,
@@ -905,7 +905,7 @@
       },
       {
         "gigantHugeCardBonusRateMstId": 4001003,
-        "cardUniqueId": 10155026,
+        "cardUniqueId": 10172016,
         "itemMstId": 0,
         "gigantHugeMapMstId": 4001,
         "bonusType": 2,
@@ -917,7 +917,19 @@
       },
       {
         "gigantHugeCardBonusRateMstId": 4001004,
-        "cardUniqueId": 50000031,
+        "cardUniqueId": 10172130,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4001,
+        "bonusType": 2,
+        "bonusValue": 105,
+        "limitBreakBonusValue1": 110,
+        "limitBreakBonusValue2": 115,
+        "limitBreakBonusValue3": 120,
+        "limitBreakBonusValue4": 130
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4001005,
+        "cardUniqueId": 50000032,
         "itemMstId": 0,
         "gigantHugeMapMstId": 4001,
         "bonusType": 2,
@@ -928,8 +940,8 @@
         "limitBreakBonusValue4": 120
       },
       {
-        "gigantHugeCardBonusRateMstId": 4001005,
-        "cardUniqueId": 70000310,
+        "gigantHugeCardBonusRateMstId": 4001006,
+        "cardUniqueId": 70000349,
         "itemMstId": 0,
         "gigantHugeMapMstId": 4001,
         "bonusType": 2,

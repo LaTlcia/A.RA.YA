@@ -2496,6 +2496,48 @@
         "endTime": 1737662399
       },
       {
+        "loginBonusMstId": 10133,
+        "title": "4th Anniv. リリィズファン!!カムバックログインボーナス",
+        "cycleType": 5,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015606,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1737273600,
+        "endTime": 1743364799
+      },
+      {
+        "loginBonusMstId": 10134,
+        "title": "4th Anniv. リリィズファン!! スペシャルログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015610,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1737316800,
+        "endTime": 1743364799
+      },
+      {
+        "loginBonusMstId": 10135,
+        "title": "ふじの食堂開店記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3012701,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1737730800,
+        "endTime": 1739199599
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

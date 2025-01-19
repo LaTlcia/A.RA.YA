@@ -9999,6 +9999,84 @@
         "limitBreakBonusValue3": 130,
         "limitBreakBonusValue4": 140,
         "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 771001,
+        "cardUniqueId": 10172001,
+        "itemMstId": 4000625,
+        "questMapMstId": 771,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 771002,
+        "cardUniqueId": 10172010,
+        "itemMstId": 4000625,
+        "questMapMstId": 771,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 771003,
+        "cardUniqueId": 10172016,
+        "itemMstId": 4000625,
+        "questMapMstId": 771,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 771004,
+        "cardUniqueId": 10172130,
+        "itemMstId": 4000625,
+        "questMapMstId": 771,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 300,
+        "limitBreakBonusValue2": 400,
+        "limitBreakBonusValue3": 500,
+        "limitBreakBonusValue4": 600,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 771005,
+        "cardUniqueId": 50000032,
+        "itemMstId": 4000625,
+        "questMapMstId": 771,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140,
+        "isDeleted": 0
+      },
+      {
+        "questCardBonusRateMstId": 771006,
+        "cardUniqueId": 70000349,
+        "itemMstId": 4000625,
+        "questMapMstId": 771,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140,
+        "isDeleted": 0
       }
     ]
   }

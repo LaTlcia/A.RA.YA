@@ -2666,6 +2666,54 @@
         "conditionValue2": 0,
         "startTime": 1735614000,
         "endTime": 1736866799
+      },
+      {
+        "chatStampMstId": 243,
+        "name": "祝4周年！",
+        "characterMstId": 1,
+        "type": 1,
+        "howToGetText": "「4thAnniv.160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1737342000,
+        "endTime": 1740711599
+      },
+      {
+        "chatStampMstId": 244,
+        "name": "出撃よ！",
+        "characterMstId": 69,
+        "type": 2,
+        "howToGetText": "「4thAnniv.160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1737342000,
+        "endTime": 1740711599
+      },
+      {
+        "chatStampMstId": 245,
+        "name": "助けに行くわ！",
+        "characterMstId": 16,
+        "type": 4,
+        "howToGetText": "「4thAnniv.160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1737342000,
+        "endTime": 1740711599
+      },
+      {
+        "chatStampMstId": 246,
+        "name": "嬉しいわ",
+        "characterMstId": 130,
+        "type": 3,
+        "howToGetText": "姫と騎士と4つの誓い【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1737342000,
+        "endTime": 1738292399
       }
     ]
   }

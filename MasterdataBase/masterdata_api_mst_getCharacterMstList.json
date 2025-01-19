@@ -3288,6 +3288,37 @@
         "startTime": 1730343600,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 130,
+        "name": "谷口聖",
+        "kanaName": "たにぐちひじり",
+        "firstName": "聖",
+        "lilyProfileListName": "",
+        "cv": "小松未可子",
+        "legionMstId": 19,
+        "grade": "2年",
+        "birthday": 1742482800,
+        "bloodType": "O",
+        "favoriteFood": "麺類、棒付き飴、グミ",
+        "hatedFood": "歯医者",
+        "hobby": "裁縫",
+        "introduction": "その類稀なる才能と人懐っこい性格で周囲から愛されていることから「百合ヶ丘の恋人」という異名を持つリリィ。トレードマークの髪飾りは気分によって替えており、気合いを入れる時はシルトである六角汐里のお手製のものを着けている。",
+        "defaultCharacterJobMstId": 1130,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_130",
+        "supportWeaponMstId": 202201,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60180902,
+        "gvgRareSkillMstId": 50180902,
+        "victoryMotionId": 10,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1737342000,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }

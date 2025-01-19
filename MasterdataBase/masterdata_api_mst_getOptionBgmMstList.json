@@ -1490,6 +1490,22 @@
         "forceBgmEndTime": 1722394799,
         "startTime": 1722254400,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 200100,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 200100,
+        "title": "raison d’être",
+        "lyrics": "安藤紗々",
+        "composition": "俊龍",
+        "arrangement": "side",
+        "cv": "一柳梨璃(CV:赤尾ひかる)＆白井夢結(CV:夏吉ゆうこ)＆相澤一葉(CV:藤井彩加)＆松村優珂(CV:集貝はな)＆今叶星(CV:前田佳織里)＆宮川高嶺(CV:礒部花凜)",
+        "fileName": "bgm_outsource_126-001",
+        "forceBgmStartTime": 1737342000,
+        "forceBgmEndTime": 1740711599,
+        "startTime": 1737342000,
+        "endTime": -62170017539
       }
     ]
   }

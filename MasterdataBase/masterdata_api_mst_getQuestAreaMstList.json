@@ -3372,6 +3372,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 339101,
+        "questMapMstId": 339,
+        "name": "ミニイベント",
+        "description": "プレストーリー+谷口聖編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 340101,
+        "questMapMstId": 340,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4568,6 +4584,22 @@
         "questMapMstId": 770,
         "name": "メダルイベント",
         "description": "片付け戦争！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 771101,
+        "questMapMstId": 771,
+        "name": "メダルイベント",
+        "description": "姫と騎士と4つの誓い",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 771201,
+        "questMapMstId": 771,
+        "name": "メダルイベント",
+        "description": "姫と騎士と4つの誓い",
         "mode": 2,
         "hasNextComingSoon": false
       },

@@ -4967,8 +4967,64 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10720,
+        "title": "招待キャンペーン対象ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10721,
+        "title": "ともだち招待キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10722,
+        "title": "リリィズファン!! 姫と騎士と4つの誓い",
+        "completeMissionMstId": 10722001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3382
+      },
+      {
+        "missionTitleMstId": 10723,
+        "title": "4周年記念レギオンリーグ 特別ミッション",
+        "completeMissionMstId": 10723001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3386
+      },
+      {
+        "missionTitleMstId": 10724,
+        "title": "姫と騎士と4つの誓い【個人】",
+        "completeMissionMstId": 10724001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10725,
+        "title": "姫と騎士と4つの誓い【レギオン】",
+        "completeMissionMstId": 10725001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10726,
+        "title": "姫と騎士と4つの誓い【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10727,
         "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10728,
+        "title": "4th Anniv.バトルパーティー【デイリー】",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0
