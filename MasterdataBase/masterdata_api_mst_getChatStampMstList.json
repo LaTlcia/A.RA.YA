@@ -2714,6 +2714,18 @@
         "conditionValue2": 0,
         "startTime": 1737342000,
         "endTime": 1738292399
+      },
+      {
+        "chatStampMstId": 248,
+        "name": "待ちなさいよ！",
+        "characterMstId": 122,
+        "type": 3,
+        "howToGetText": "真実の守護者たち【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1738292400,
+        "endTime": 1739501999
       }
     ]
   }

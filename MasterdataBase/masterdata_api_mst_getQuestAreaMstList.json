@@ -4604,6 +4604,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 772101,
+        "questMapMstId": 772,
+        "name": "メダルイベント",
+        "description": "真実の守護者たち",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 772201,
+        "questMapMstId": 772,
+        "name": "メダルイベント",
+        "description": "真実の守護者たち",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
