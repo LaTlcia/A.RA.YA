@@ -1644,6 +1644,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 162101,
+        "questMapMstId": 162,
+        "name": "マルチバトル",
+        "description": "真実の守護者たち共闘バトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -4616,6 +4624,22 @@
         "questMapMstId": 772,
         "name": "メダルイベント",
         "description": "真実の守護者たち",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 773101,
+        "questMapMstId": 773,
+        "name": "メダルイベント",
+        "description": "明日もきっと楽しい日",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 773201,
+        "questMapMstId": 773,
+        "name": "メダルイベント",
+        "description": "明日もきっと楽しい日",
         "mode": 2,
         "hasNextComingSoon": false
       },

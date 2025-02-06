@@ -10168,6 +10168,62 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1725,
+        "rewardGroupId": 0,
+        "name": "4周年アルティメット★5メモリア引換券",
+        "description": "4周年アルティメット★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 742,
+        "itemMstId": 4012602,
+        "viewable": 1,
+        "startTime": 1739156400,
+        "endTime": 1741964399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1726,
+        "rewardGroupId": 0,
+        "name": "4周年プレミア★5メモリア引換券",
+        "description": "4周年プレミア★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 742,
+        "itemMstId": 4002714,
+        "viewable": 1,
+        "startTime": 1739156400,
+        "endTime": 1741964399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1732,
+        "rewardGroupId": 0,
+        "name": "明日もきっと楽しい日ペンダントEX交換券",
+        "description": "明日もきっと楽しい日ペンダントEX交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 5009,
+        "itemMstId": 1019709,
+        "viewable": 1,
+        "startTime": 1738897200,
+        "endTime": 1741964399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1733,
+        "rewardGroupId": 0,
+        "name": "明日もきっと楽しい日★5メモリア引換券",
+        "description": "明日もきっと楽しい日★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 743,
+        "itemMstId": 4006815,
+        "viewable": 1,
+        "startTime": 1738897200,
+        "endTime": 1741964399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -12336,6 +12392,20 @@
         "endTime": 1740063599,
         "dailyStartTime": 1738292400,
         "dailyEndTime": 1738958399
+      },
+      {
+        "medalTradeSeriesMstId": 5773,
+        "rewardGroupId": 1009,
+        "name": "明日もきっと楽しい日メダル交換所",
+        "description": "明日もきっと楽しい日メダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 1999,
+        "itemMstId": 4000825,
+        "viewable": 1,
+        "startTime": 1738897200,
+        "endTime": 1740495599,
+        "dailyStartTime": 1738897200,
+        "dailyEndTime": 1739563199
       },
       {
         "medalTradeSeriesMstId": 6101,
