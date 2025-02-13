@@ -2538,6 +2538,48 @@
         "endTime": 1739199599
       },
       {
+        "loginBonusMstId": 10136,
+        "title": "新章 -竜哭の哀歌- 開幕直前ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015612,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1740254400,
+        "endTime": 1742068799
+      },
+      {
+        "loginBonusMstId": 10137,
+        "title": "ラスバレこれからもよろしくねログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015611,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1739908800,
+        "endTime": 1741204799
+      },
+      {
+        "loginBonusMstId": 10138,
+        "title": "ふじの食堂開店記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3012701,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1740495600,
+        "endTime": 1741964399
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

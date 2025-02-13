@@ -3396,6 +3396,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 341101,
+        "questMapMstId": 341,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4640,6 +4648,22 @@
         "questMapMstId": 773,
         "name": "メダルイベント",
         "description": "明日もきっと楽しい日",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 774101,
+        "questMapMstId": 774,
+        "name": "メダルイベント",
+        "description": "秘されし魔法のショコラ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 774201,
+        "questMapMstId": 774,
+        "name": "メダルイベント",
+        "description": "秘されし魔法のショコラ",
         "mode": 2,
         "hasNextComingSoon": false
       },

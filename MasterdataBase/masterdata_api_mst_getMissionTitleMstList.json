@@ -5086,8 +5086,29 @@
         "completeResourceId": 3386
       },
       {
+        "missionTitleMstId": 10737,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10737001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10738,
         "title": "明日もきっと楽しい日【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10739,
+        "title": "リリィズファン!! 秘されし魔法のショコラ",
+        "completeMissionMstId": 10739001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3493
+      },
+      {
+        "missionTitleMstId": 10740,
+        "title": "秋日誕生日キャンペーン",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0
@@ -5100,8 +5121,36 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10742,
+        "title": "新章 -竜哭の哀歌- 開幕直前",
+        "completeMissionMstId": 10742001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3494
+      },
+      {
         "missionTitleMstId": 10743,
         "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10744,
+        "title": "秘されし魔法のショコラ【個人】",
+        "completeMissionMstId": 10744001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10745,
+        "title": "秘されし魔法のショコラ【レギオン】",
+        "completeMissionMstId": 10745001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10746,
+        "title": "秘されし魔法のショコラ【デイリー】",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

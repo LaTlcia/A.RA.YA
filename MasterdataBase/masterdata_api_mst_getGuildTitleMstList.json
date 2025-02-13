@@ -256,6 +256,69 @@
         "limitTime": -62170017539
       },
       {
+        "guildTitleMstId": 10005001,
+        "name": "APOCALYPSE Feb2025 1位",
+        "detail": "APOCALYPSE[Feb2025]で1位に輝いたレギオンに与えられる称号",
+        "imageId": 10005001,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005002,
+        "name": "APOCALYPSE Feb2025 TOP10位",
+        "detail": "APOCALYPSE[Feb2025]で10位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005002,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005003,
+        "name": "APOCALYPSE Feb2025 TOP50位",
+        "detail": "APOCALYPSE[Feb2025]で50位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005003,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005004,
+        "name": "APOCALYPSE Feb2025 TOP100位",
+        "detail": "APOCALYPSE[Feb2025]で100位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005004,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005005,
+        "name": "APOCALYPSE Feb2025 TOP300位",
+        "detail": "APOCALYPSE[Feb2025]で300位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005005,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005006,
+        "name": "APOCALYPSE Feb2025 TOP500位",
+        "detail": "APOCALYPSE[Feb2025]で500位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005006,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005007,
+        "name": "APOCALYPSE Feb2025 TOP1000位",
+        "detail": "APOCALYPSE[Feb2025]で1000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005007,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005008,
+        "name": "APOCALYPSE Feb2025 TOP2000位",
+        "detail": "APOCALYPSE[Feb2025]で2000位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005008,
+        "limitTime": -62170017539
+      },
+      {
+        "guildTitleMstId": 10005009,
+        "name": "APOCALYPSE Feb2025 TOP9999位",
+        "detail": "APOCALYPSE[Feb2025]で9999位以内に輝いたレギオンに与えられる称号",
+        "imageId": 10005009,
+        "limitTime": -62170017539
+      },
+      {
         "guildTitleMstId": 20010011,
         "name": "第1回レギオンリーグ1位[12:30]",
         "detail": "第1回レギオンリーグ[12:30時間帯]で1位に輝いたレギオンに与えられる称号",

@@ -2726,6 +2726,18 @@
         "conditionValue2": 0,
         "startTime": 1738292400,
         "endTime": 1739501999
+      },
+      {
+        "chatStampMstId": 249,
+        "name": "きのこ～？",
+        "characterMstId": 124,
+        "type": 9,
+        "howToGetText": "秘されし魔法のショコラ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1739502000,
+        "endTime": 1740711599
       }
     ]
   }
