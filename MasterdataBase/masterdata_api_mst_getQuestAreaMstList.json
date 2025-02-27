@@ -4668,6 +4668,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 775101,
+        "questMapMstId": 775,
+        "name": "メダルイベント",
+        "description": "暁のラルン外征隊",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 775201,
+        "questMapMstId": 775,
+        "name": "メダルイベント",
+        "description": "暁のラルン外征隊",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

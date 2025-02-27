@@ -7483,6 +7483,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 13106002,
+        "type": 106,
+        "characterMstId": 13,
+        "styleType": 177,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_013-all_tactics_01",
+        "text": ""
+      },
+      {
         "ingameVoiceMstId": 13107001,
         "type": 107,
         "characterMstId": 13,
@@ -8020,6 +8029,15 @@
         "styleType": 0,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_014-all_rareskill_02",
+        "text": ""
+      },
+      {
+        "ingameVoiceMstId": 14106002,
+        "type": 106,
+        "characterMstId": 14,
+        "styleType": 177,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_014-all_tactics_01",
         "text": ""
       },
       {

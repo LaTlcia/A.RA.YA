@@ -6582,6 +6582,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 775,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "暁のラルン外征隊",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 77510101,
+        "lastQuestStageMstId": 77520115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1230942,
+        "eventStoryBannerMstId": 1230942,
+        "stageViewBgm": "bgm_anime_30-001",
+        "bgImageId": 1058701,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1757991600,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

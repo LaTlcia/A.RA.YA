@@ -10364,6 +10364,62 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1743,
+        "rewardGroupId": 0,
+        "name": "ボーナスメダルⅢ",
+        "description": "ボーナスメダルⅢ交換所で使用することができる交換用のメダル",
+        "tabType": 2,
+        "sortOrder": 6050,
+        "itemMstId": 3000328,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1744,
+        "rewardGroupId": 0,
+        "name": "暁のラルン外征隊AD衣装引換券",
+        "description": "暁のラルン外征隊AD衣装引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 727,
+        "itemMstId": 4014806,
+        "viewable": 1,
+        "startTime": 1740711600,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1745,
+        "rewardGroupId": 0,
+        "name": "暁のラルン外征隊ADペンダント交換券",
+        "description": "暁のラルン外征隊ADペンダント交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 727,
+        "itemMstId": 4015306,
+        "viewable": 1,
+        "startTime": 1740711600,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1746,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券3月",
+        "description": "BRAND-NEW★5メモリア引換券3月交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 725,
+        "itemMstId": 4008011,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 1747,
         "rewardGroupId": 0,
         "name": "依奈/シャイニーパレード衣装引換券",
@@ -12574,6 +12630,20 @@
         "endTime": 1741359599,
         "dailyStartTime": 1739502000,
         "dailyEndTime": 1740772799
+      },
+      {
+        "medalTradeSeriesMstId": 5775,
+        "rewardGroupId": 1009,
+        "name": "暁のラルン外征隊メダル交換所",
+        "description": "暁のラルン外征隊メダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 1995,
+        "itemMstId": 4000426,
+        "viewable": 1,
+        "startTime": 1740711600,
+        "endTime": 1742655599,
+        "dailyStartTime": 1740711600,
+        "dailyEndTime": 1741809599
       },
       {
         "medalTradeSeriesMstId": 6101,
