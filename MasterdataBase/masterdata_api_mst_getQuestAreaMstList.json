@@ -4684,6 +4684,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 776101,
+        "questMapMstId": 776,
+        "name": "メダルイベント",
+        "description": "シルトの100億倍返し",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 776201,
+        "questMapMstId": 776,
+        "name": "メダルイベント",
+        "description": "シルトの100億倍返し",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

@@ -5191,7 +5191,35 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10752,
+        "title": "シルトの100億倍返し【個人】",
+        "completeMissionMstId": 10752001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10753,
+        "title": "シルトの100億倍返し【レギオン】",
+        "completeMissionMstId": 10753001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10754,
+        "title": "シルトの100億倍返し【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10755,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10759,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

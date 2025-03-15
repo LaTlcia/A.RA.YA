@@ -2750,6 +2750,18 @@
         "conditionValue2": 0,
         "startTime": 1740711600,
         "endTime": 1742050799
+      },
+      {
+        "chatStampMstId": 251,
+        "name": "・・・にゃん",
+        "characterMstId": 41,
+        "type": 9,
+        "howToGetText": "シルトの100億倍返し【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1741748400,
+        "endTime": 1743001199
       }
     ]
   }

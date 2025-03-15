@@ -10434,6 +10434,62 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1748,
+        "rewardGroupId": 0,
+        "name": "シルトの100億倍返しAD衣装引換券",
+        "description": "シルトの100億倍返しAD衣装引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 725,
+        "itemMstId": 4014905,
+        "viewable": 1,
+        "startTime": 1741748400,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1749,
+        "rewardGroupId": 0,
+        "name": "シルトの100億倍返しADペンダント交換券",
+        "description": "シルトの100億倍返しADペンダント交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 725,
+        "itemMstId": 4015405,
+        "viewable": 1,
+        "startTime": 1741748400,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1750,
+        "rewardGroupId": 2023,
+        "name": "シルトの100億倍返しイベント開催記念衣装引換券",
+        "description": "シルトの100億倍返しイベント開催記念衣装引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 725,
+        "itemMstId": 4008411,
+        "viewable": 1,
+        "startTime": 1741748400,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1751,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券3月Ⅱ",
+        "description": "BRAND-NEW★5メモリア引換券3月Ⅱ交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 722,
+        "itemMstId": 4008111,
+        "viewable": 1,
+        "startTime": 1742007600,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -12644,6 +12700,20 @@
         "endTime": 1742655599,
         "dailyStartTime": 1740711600,
         "dailyEndTime": 1741809599
+      },
+      {
+        "medalTradeSeriesMstId": 5776,
+        "rewardGroupId": 1009,
+        "name": "シルトの100億倍返しメダル交換所",
+        "description": "シルトの100億倍返しメダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 1994,
+        "itemMstId": 4000526,
+        "viewable": 1,
+        "startTime": 1741748400,
+        "endTime": 1743605999,
+        "dailyStartTime": 1741748400,
+        "dailyEndTime": 1742673599
       },
       {
         "medalTradeSeriesMstId": 6101,
