@@ -4700,6 +4700,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 777101,
+        "questMapMstId": 777,
+        "name": "メダルイベント",
+        "description": "リリィ・イン・ザ・スパ！",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 777201,
+        "questMapMstId": 777,
+        "name": "メダルイベント",
+        "description": "リリィ・イン・ザ・スパ！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
