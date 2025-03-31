@@ -2762,6 +2762,18 @@
         "conditionValue2": 0,
         "startTime": 1741748400,
         "endTime": 1743001199
+      },
+      {
+        "chatStampMstId": 252,
+        "name": "へ～んしん！",
+        "characterMstId": 21,
+        "type": 9,
+        "howToGetText": "魔法少女♡ミラクルリリィ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1743390000,
+        "endTime": 1744469999
       }
     ]
   }

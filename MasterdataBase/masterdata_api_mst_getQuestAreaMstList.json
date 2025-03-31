@@ -3404,6 +3404,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 342101,
+        "questMapMstId": 342,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4712,6 +4720,22 @@
         "questMapMstId": 777,
         "name": "メダルイベント",
         "description": "リリィ・イン・ザ・スパ！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 778101,
+        "questMapMstId": 778,
+        "name": "メダルイベント",
+        "description": "魔法少女♡ミラクルリリィ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 778201,
+        "questMapMstId": 778,
+        "name": "メダルイベント",
+        "description": "魔法少女♡ミラクルリリィ",
         "mode": 2,
         "hasNextComingSoon": false
       },

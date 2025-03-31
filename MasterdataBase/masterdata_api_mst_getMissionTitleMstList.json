@@ -5247,6 +5247,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10760,
+        "title": "魔法少女♡ミラクルリリィ【個人】",
+        "completeMissionMstId": 10760001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10761,
+        "title": "魔法少女♡ミラクルリリィ【レギオン】",
+        "completeMissionMstId": 10761001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10762,
+        "title": "魔法少女♡ミラクルリリィ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10763,
+        "title": "魔法少女♡ミラクルリリィ応援",
+        "completeMissionMstId": 10763001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3578
+      },
+      {
+        "missionTitleMstId": 10764,
+        "title": "結爾誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

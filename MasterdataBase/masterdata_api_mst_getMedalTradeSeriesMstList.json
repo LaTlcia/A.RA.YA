@@ -10546,6 +10546,62 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1756,
+        "rewardGroupId": 0,
+        "name": "魔法少女♡ミラクルリリィAD衣装引換券",
+        "description": "魔法少女♡ミラクルリリィAD衣装引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 717,
+        "itemMstId": 4014807,
+        "viewable": 1,
+        "startTime": 1743390000,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1757,
+        "rewardGroupId": 0,
+        "name": "魔法少女♡ミラクルリリィADペンダント交換券",
+        "description": "魔法少女♡ミラクルリリィADペンダント交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 717,
+        "itemMstId": 4015307,
+        "viewable": 1,
+        "startTime": 1743390000,
+        "endTime": 1744642799,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1758,
+        "rewardGroupId": 0,
+        "name": "ボーナスメダルⅣ",
+        "description": "ボーナスメダルⅣ交換所で使用することができる交換用のメダル",
+        "tabType": 2,
+        "sortOrder": 6049,
+        "itemMstId": 3000425,
+        "viewable": 1,
+        "startTime": -62170017539,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1759,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券4月",
+        "description": "BRAND-NEW★5メモリア引換券4月交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 715,
+        "itemMstId": 4010109,
+        "viewable": 1,
+        "startTime": 1743908400,
+        "endTime": -62170017539,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 1760,
         "rewardGroupId": 0,
         "name": "スペシャルプライス衣装ペンダントEX交換券",
@@ -12798,6 +12854,20 @@
         "endTime": 1744037999,
         "dailyStartTime": 1742612400,
         "dailyEndTime": 1743451199
+      },
+      {
+        "medalTradeSeriesMstId": 5778,
+        "rewardGroupId": 1009,
+        "name": "魔法少女♡ミラクルリリィメダル交換所",
+        "description": "魔法少女♡ミラクルリリィメダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 1992,
+        "itemMstId": 4000726,
+        "viewable": 1,
+        "startTime": 1743390000,
+        "endTime": 1745074799,
+        "dailyStartTime": 1743390000,
+        "dailyEndTime": 1744315199
       },
       {
         "medalTradeSeriesMstId": 6101,

@@ -1,0 +1,7 @@
+{
+  "url": "/api/mst/getScoreAttackStageMstList",
+  "status": 200,
+  "payload": {
+    "mstList": []
+  }
+}
