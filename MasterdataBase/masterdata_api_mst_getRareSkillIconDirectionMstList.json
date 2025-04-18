@@ -1,0 +1,452 @@
+{
+  "url": "/api/mst/getRareSkillIconDirectionMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "rareSkillIconDirectionMstId": 1,
+        "iconName": "Phantasm",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 2,
+        "iconName": "HawkEye",
+        "duplicationCategory": 4,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 3,
+        "iconName": "Register",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 4,
+        "iconName": "HeavensScales",
+        "duplicationCategory": 2,
+        "loopPattern": 2
+      },
+      {
+        "rareSkillIconDirectionMstId": 5,
+        "iconName": "ShrunkenLand",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 6,
+        "iconName": "Testament",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 7,
+        "iconName": "LunaticTranser",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 8,
+        "iconName": "Charisma",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 9,
+        "iconName": "PhaseTranscendence",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 10,
+        "iconName": "TruthOfTheWorld",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 11,
+        "iconName": "Brave",
+        "duplicationCategory": 3,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 12,
+        "iconName": "ZenoneParadoxa",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 13,
+        "iconName": "Heliosphere",
+        "duplicationCategory": 1,
+        "loopPattern": 2
+      },
+      {
+        "rareSkillIconDirectionMstId": 14,
+        "iconName": "HeliosphereS",
+        "duplicationCategory": 1,
+        "loopPattern": 3
+      },
+      {
+        "rareSkillIconDirectionMstId": 15,
+        "iconName": "CirclitBreath",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 16,
+        "iconName": "Laplace",
+        "duplicationCategory": 1,
+        "loopPattern": 3
+      },
+      {
+        "rareSkillIconDirectionMstId": 17,
+        "iconName": "PhaseTranscendenceS",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 18,
+        "iconName": "RaisingHeart",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 19,
+        "iconName": "Bardiche",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 20,
+        "iconName": "Reinforce",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 21,
+        "iconName": "TruthOfTheWorldS",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 22,
+        "iconName": "PhantasmS",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 23,
+        "iconName": "Gungnir_Hibiki",
+        "duplicationCategory": 5,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 24,
+        "iconName": "Shenshoujing",
+        "duplicationCategory": 3,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 25,
+        "iconName": "Ichaival",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 26,
+        "iconName": "Alchemy",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 27,
+        "iconName": "RegisterS",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 28,
+        "iconName": "TestamentS",
+        "duplicationCategory": 1,
+        "loopPattern": 5
+      },
+      {
+        "rareSkillIconDirectionMstId": 29,
+        "iconName": "Yuri",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 30,
+        "iconName": "LunaticTranserS",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 31,
+        "iconName": "Toka",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 32,
+        "iconName": "Kotori",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 33,
+        "iconName": "Kurumi",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 34,
+        "iconName": "Miho",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 35,
+        "iconName": "Maho",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 36,
+        "iconName": "Darjeeling",
+        "duplicationCategory": 4,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 37,
+        "iconName": "Anchovy",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 38,
+        "iconName": "ZenoneParadoxaS",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 39,
+        "iconName": "AlchemyTrace",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 40,
+        "iconName": "Iliya",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 41,
+        "iconName": "Miyu",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 42,
+        "iconName": "Chloe",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 43,
+        "iconName": "Madoka",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 44,
+        "iconName": "Mami",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 45,
+        "iconName": "Homura",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 46,
+        "iconName": "Sayaka",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 47,
+        "iconName": "Kyoko",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 48,
+        "iconName": "Yuna",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 49,
+        "iconName": "Mimori",
+        "duplicationCategory": 4,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 50,
+        "iconName": "Karin",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 51,
+        "iconName": "Sonoko",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 52,
+        "iconName": "Hu",
+        "duplicationCategory": 3,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 53,
+        "iconName": "Itsuki",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 54,
+        "iconName": "BoostedInsanity",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 55,
+        "iconName": "DrainTouch",
+        "duplicationCategory": 0,
+        "loopPattern": 3
+      },
+      {
+        "rareSkillIconDirectionMstId": 56,
+        "iconName": "Misaka",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 57,
+        "iconName": "Shirai",
+        "duplicationCategory": 5,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 58,
+        "iconName": "Syokuhou",
+        "duplicationCategory": 1,
+        "loopPattern": 2
+      },
+      {
+        "rareSkillIconDirectionMstId": 59,
+        "iconName": "Overclock",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 60,
+        "iconName": "Emilia",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 61,
+        "iconName": "Rem",
+        "duplicationCategory": 0,
+        "loopPattern": 0
+      },
+      {
+        "rareSkillIconDirectionMstId": 62,
+        "iconName": "Ram",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 63,
+        "iconName": "Evileye",
+        "duplicationCategory": 0,
+        "loopPattern": 4
+      },
+      {
+        "rareSkillIconDirectionMstId": 64,
+        "iconName": "Holyeye",
+        "duplicationCategory": 0,
+        "loopPattern": 4
+      },
+      {
+        "rareSkillIconDirectionMstId": 65,
+        "iconName": "Amatsukami",
+        "duplicationCategory": 3,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 66,
+        "iconName": "YunaDaimankai",
+        "duplicationCategory": 1,
+        "loopPattern": 3
+      },
+      {
+        "rareSkillIconDirectionMstId": 68,
+        "iconName": "Restarigi",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 69,
+        "iconName": "Shouai",
+        "duplicationCategory": 1,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 70,
+        "iconName": "BloodyResurrection",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 71,
+        "iconName": "Gravitino",
+        "duplicationCategory": 1,
+        "loopPattern": 2
+      },
+      {
+        "rareSkillIconDirectionMstId": 72,
+        "iconName": "Oracle",
+        "duplicationCategory": 1,
+        "loopPattern": 3
+      },
+      {
+        "rareSkillIconDirectionMstId": 73,
+        "iconName": "Kamiyadori",
+        "duplicationCategory": 5,
+        "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 74,
+        "iconName": "MagiReflector",
+        "duplicationCategory": 1,
+        "loopPattern": 3
+      },
+      {
+        "rareSkillIconDirectionMstId": 75,
+        "iconName": "AstralGuarder",
+        "duplicationCategory": 0,
+        "loopPattern": 1
+      }
+    ]
+  }
+}

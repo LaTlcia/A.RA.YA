@@ -142,6 +142,20 @@
         "eventImageId": 1,
         "announceMstId": 6630,
         "homeAppealImageId": 1783
+      },
+      {
+        "ultimateGvgMstId": 11,
+        "grandGvgMstId": 10010,
+        "preliminaryStartTime": 1745654400,
+        "preliminaryEndTime": 1750399199,
+        "gvgStartTime": 1750399200,
+        "gvgEndTime": 1752332399,
+        "resultStartTime": 1752393600,
+        "resultEndTime": 1752677999,
+        "eventName": "レギオンチャンピオンシップ バラ杯",
+        "eventImageId": 2,
+        "announceMstId": 6728,
+        "homeAppealImageId": 1783
       }
     ]
   }

@@ -2608,6 +2608,34 @@
         "endTime": 1744642799
       },
       {
+        "loginBonusMstId": 10141,
+        "title": "サングリーズル編舞台応援ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015615,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1745611200,
+        "endTime": 1746734399
+      },
+      {
+        "loginBonusMstId": 10142,
+        "title": "ラスバれ！ゴールデン☆ウィーク2025ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015614,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1745265600,
+        "endTime": 1746475199
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

@@ -563,6 +563,19 @@
         "isUltimateGvg": false
       },
       {
+        "grandGvgMstId": 44,
+        "entryStartTime": 1745654400,
+        "entryEndTime": 1746025199,
+        "gvgStartTime": 1746025200,
+        "gvgEndTime": 1746543599,
+        "resultStartTime": 1746604800,
+        "resultEndTime": 1746975599,
+        "featuredCardMstId": 204089,
+        "eventName": "",
+        "eventImageId": 0,
+        "isUltimateGvg": false
+      },
+      {
         "grandGvgMstId": 10000,
         "entryStartTime": 1671091199,
         "entryEndTime": 1671091199,
@@ -687,6 +700,19 @@
         "gvgEndTime": 1744469999,
         "resultStartTime": 1744531200,
         "resultEndTime": 1744815599,
+        "featuredCardMstId": 0,
+        "eventName": "",
+        "eventImageId": 0,
+        "isUltimateGvg": true
+      },
+      {
+        "grandGvgMstId": 10010,
+        "entryStartTime": 1750399199,
+        "entryEndTime": 1750399199,
+        "gvgStartTime": 1750399200,
+        "gvgEndTime": 1752332399,
+        "resultStartTime": 1752393600,
+        "resultEndTime": 1752677999,
         "featuredCardMstId": 0,
         "eventName": "",
         "eventImageId": 0,

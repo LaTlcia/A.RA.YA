@@ -407,6 +407,33 @@
         "imageId": 1017900,
         "startTime": 1744531200,
         "endTime": 1752393599
+      },
+      {
+        "battleAuraMstId": 100110401,
+        "name": "オーラエフェクト金",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 4,
+        "imageId": 1017500,
+        "startTime": 1752393600,
+        "endTime": 1760342399
+      },
+      {
+        "battleAuraMstId": 100110501,
+        "name": "オーラエフェクト銀",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 5,
+        "imageId": 1017800,
+        "startTime": 1752393600,
+        "endTime": 1760342399
+      },
+      {
+        "battleAuraMstId": 100110601,
+        "name": "オーラエフェクト銅",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 6,
+        "imageId": 1017900,
+        "startTime": 1752393600,
+        "endTime": 1760342399
       }
     ]
   }

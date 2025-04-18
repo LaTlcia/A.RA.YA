@@ -5282,6 +5282,69 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10765,
+        "title": "乙女とお茶とユニコーン☆【個人】",
+        "completeMissionMstId": 10765001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10766,
+        "title": "乙女とお茶とユニコーン☆【レギオン】",
+        "completeMissionMstId": 10766001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10767,
+        "title": "乙女とお茶とユニコーン☆【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10768,
+        "title": "夢結誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10769,
+        "title": "「LCS決勝配信」を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10770,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10771,
+        "title": "ラスバれ！ゴールデン☆ウィーク2025",
+        "completeMissionMstId": 10771001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3610
+      },
+      {
+        "missionTitleMstId": 10772,
+        "title": "サングリーズル編舞台応援",
+        "completeMissionMstId": 10772001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3611
+      },
+      {
+        "missionTitleMstId": 10773,
+        "title": "ハッピーポップイースター【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

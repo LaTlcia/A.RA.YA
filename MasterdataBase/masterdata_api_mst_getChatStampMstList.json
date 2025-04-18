@@ -2774,6 +2774,18 @@
         "conditionValue2": 0,
         "startTime": 1743390000,
         "endTime": 1744469999
+      },
+      {
+        "chatStampMstId": 254,
+        "name": "楽しみです！",
+        "characterMstId": 17,
+        "type": 3,
+        "howToGetText": "乙女とお茶とユニコーン☆【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1744254000,
+        "endTime": 1745420399
       }
     ]
   }

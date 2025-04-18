@@ -4740,6 +4740,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 779101,
+        "questMapMstId": 779,
+        "name": "メダルイベント",
+        "description": "乙女とお茶とユニコーン☆",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 779201,
+        "questMapMstId": 779,
+        "name": "メダルイベント",
+        "description": "乙女とお茶とユニコーン☆",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 780101,
+        "questMapMstId": 780,
+        "name": "メダルイベント",
+        "description": "ハッピーポップイースター",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 780201,
+        "questMapMstId": 780,
+        "name": "メダルイベント",
+        "description": "ハッピーポップイースター",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
