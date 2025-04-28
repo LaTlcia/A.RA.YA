@@ -14799,6 +14799,28 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 34310101,
+        "questStageMstId": 34310101,
+        "title": "十八品目 プロヴィデンス・ステーキ",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_18",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1745852400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 34410101,
+        "questStageMstId": 34410101,
+        "title": "プレストーリー江坂雫月編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_131",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1745845200,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -22155,6 +22177,193 @@
         "fileName2": "",
         "imageId": 110104,
         "startTime": 1745204400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110111,
+        "questStageMstId": 78110111,
+        "title": "1話:悪夢の始まり-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_060201",
+        "fileName2": "",
+        "imageId": 111101,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110112,
+        "questStageMstId": 78110112,
+        "title": "1話:悪夢の始まり-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_060202",
+        "fileName2": "",
+        "imageId": 111102,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110113,
+        "questStageMstId": 78110113,
+        "title": "2話:わたしの知らない世界-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_060203",
+        "fileName2": "",
+        "imageId": 111103,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110114,
+        "questStageMstId": 78110114,
+        "title": "2話:わたしの知らない世界-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_060204",
+        "fileName2": "",
+        "imageId": 111104,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110115,
+        "questStageMstId": 78110115,
+        "title": "2話:わたしの知らない世界-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_060205",
+        "fileName2": "",
+        "imageId": 111105,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110116,
+        "questStageMstId": 78110116,
+        "title": "2話:わたしの知らない世界-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_060206",
+        "fileName2": "",
+        "imageId": 111106,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110117,
+        "questStageMstId": 78110117,
+        "title": "3話:うたかたの刻-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_060207",
+        "fileName2": "",
+        "imageId": 111107,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110118,
+        "questStageMstId": 78110118,
+        "title": "3話:うたかたの刻-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_060208",
+        "fileName2": "",
+        "imageId": 111108,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110119,
+        "questStageMstId": 78110119,
+        "title": "3話:うたかたの刻-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_060209",
+        "fileName2": "",
+        "imageId": 111109,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110120,
+        "questStageMstId": 78110120,
+        "title": "3話:うたかたの刻-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_060210",
+        "fileName2": "",
+        "imageId": 111110,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110121,
+        "questStageMstId": 78110121,
+        "title": "4話:籠の中の人形-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_060211",
+        "fileName2": "",
+        "imageId": 111111,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110122,
+        "questStageMstId": 78110122,
+        "title": "4話:籠の中の人形-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_060212",
+        "fileName2": "",
+        "imageId": 111112,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110123,
+        "questStageMstId": 78110123,
+        "title": "4話:籠の中の人形-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_060213",
+        "fileName2": "",
+        "imageId": 111113,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110124,
+        "questStageMstId": 78110124,
+        "title": "4話:籠の中の人形-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_060214",
+        "fileName2": "",
+        "imageId": 111114,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110125,
+        "questStageMstId": 78110125,
+        "title": "5話:約束-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_060215",
+        "fileName2": "",
+        "imageId": 111115,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110126,
+        "questStageMstId": 78110126,
+        "title": "5話:約束-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_060216",
+        "fileName2": "",
+        "imageId": 111116,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78110127,
+        "questStageMstId": 78110127,
+        "title": "5話:約束-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_060217",
+        "fileName2": "",
+        "imageId": 111117,
+        "startTime": 1745982000,
         "endTime": -62170017539
       },
       {

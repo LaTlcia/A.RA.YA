@@ -5345,6 +5345,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10774,
+        "title": "恋花誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10775,
+        "title": "深淵のG.E.H.E.N.A.編 開幕直前",
+        "completeMissionMstId": 10775001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3635
+      },
+      {
+        "missionTitleMstId": 10776,
+        "title": "マリオネット・プリンセス【個人】",
+        "completeMissionMstId": 10776001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10777,
+        "title": "マリオネット・プリンセス【レギオン】",
+        "completeMissionMstId": 10777001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10778,
+        "title": "マリオネット・プリンセス【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10779,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

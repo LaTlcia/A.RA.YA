@@ -2776,6 +2776,18 @@
         "endTime": 1744469999
       },
       {
+        "chatStampMstId": 253,
+        "name": "許しはしない…",
+        "characterMstId": 5,
+        "type": 3,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1745982000,
+        "endTime": 1748660399
+      },
+      {
         "chatStampMstId": 254,
         "name": "楽しみです！",
         "characterMstId": 17,
@@ -2786,6 +2798,30 @@
         "conditionValue2": 0,
         "startTime": 1744254000,
         "endTime": 1745420399
+      },
+      {
+        "chatStampMstId": 255,
+        "name": "定盛～★",
+        "characterMstId": 19,
+        "type": 9,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1745982000,
+        "endTime": 1748660399
+      },
+      {
+        "chatStampMstId": 258,
+        "name": "こんばんは",
+        "characterMstId": 131,
+        "type": 1,
+        "howToGetText": "マリオネット・プリンセス【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1745982000,
+        "endTime": 1747234799
       }
     ]
   }

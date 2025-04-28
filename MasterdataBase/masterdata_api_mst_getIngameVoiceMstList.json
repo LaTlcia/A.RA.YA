@@ -40603,6 +40603,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 87105003,
+        "type": 106,
+        "characterMstId": 87,
+        "styleType": 177,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_087-all_tactics_02",
+        "text": "ねぇ、いまどんな気持ち！？"
+      },
+      {
         "ingameVoiceMstId": 87106001,
         "type": 106,
         "characterMstId": 87,
@@ -48865,6 +48874,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 109105003,
+        "type": 106,
+        "characterMstId": 109,
+        "styleType": 177,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_109-all_tactics_02",
+        "text": "全員でぶっつぶす！"
+      },
+      {
         "ingameVoiceMstId": 109106001,
         "type": 106,
         "characterMstId": 109,
@@ -57010,6 +57028,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 128106007,
+        "type": 106,
+        "characterMstId": 128,
+        "styleType": 177,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_128-all_tactics_02",
+        "text": ""
+      },
+      {
         "ingameVoiceMstId": 128107001,
         "type": 107,
         "characterMstId": 128,
@@ -58619,6 +58646,528 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_130-gvg_welt_lastshot",
         "text": "これでラストっ！"
+      },
+      {
+        "ingameVoiceMstId": 131101001,
+        "type": 101,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_attack_normal_01",
+        "text": "やあっ！"
+      },
+      {
+        "ingameVoiceMstId": 131101002,
+        "type": 101,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_attack_normal_02",
+        "text": "たぁーっ！"
+      },
+      {
+        "ingameVoiceMstId": 131102001,
+        "type": 102,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_heel_01",
+        "text": "いたいのとんでけ～！"
+      },
+      {
+        "ingameVoiceMstId": 131102002,
+        "type": 102,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_heel_02",
+        "text": "お手当するね"
+      },
+      {
+        "ingameVoiceMstId": 131103001,
+        "type": 103,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_buff_01",
+        "text": "がんばって！"
+      },
+      {
+        "ingameVoiceMstId": 131103002,
+        "type": 103,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_buff_02",
+        "text": "応援するね！"
+      },
+      {
+        "ingameVoiceMstId": 131104001,
+        "type": 104,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_debuff_give_01",
+        "text": "いじわるしちゃいます！"
+      },
+      {
+        "ingameVoiceMstId": 131104002,
+        "type": 104,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_debuff_give_02",
+        "text": "やっちゃえ～！"
+      },
+      {
+        "ingameVoiceMstId": 131105001,
+        "type": 105,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_tactics_01",
+        "text": "これでお願いしますっ！"
+      },
+      {
+        "ingameVoiceMstId": 131105002,
+        "type": 105,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_tactics_02",
+        "text": "作戦開始ーっ！"
+      },
+      {
+        "ingameVoiceMstId": 131106001,
+        "type": 106,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_rareskill_01",
+        "text": "ブレイブ！"
+      },
+      {
+        "ingameVoiceMstId": 131106002,
+        "type": 106,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_rareskill_02",
+        "text": "みんなをいじめないでっ！"
+      },
+      {
+        "ingameVoiceMstId": 131107001,
+        "type": 107,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_attack_normal_01",
+        "text": "やあっ！"
+      },
+      {
+        "ingameVoiceMstId": 131107002,
+        "type": 107,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_attack_normal_02",
+        "text": "たぁーっ！"
+      },
+      {
+        "ingameVoiceMstId": 131201001,
+        "type": 201,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_start_01",
+        "text": "ヒュージ……！"
+      },
+      {
+        "ingameVoiceMstId": 131201002,
+        "type": 201,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_start_02",
+        "text": "やらなきゃ、だよね……"
+      },
+      {
+        "ingameVoiceMstId": 131201003,
+        "type": 201,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_start_01",
+        "text": "こわい……こわい、けど……！"
+      },
+      {
+        "ingameVoiceMstId": 131201004,
+        "type": 201,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_start_02",
+        "text": "みんなと、一緒なら……！"
+      },
+      {
+        "ingameVoiceMstId": 131202001,
+        "type": 202,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 11,
+        "cueName": "cv_battle_001_131-pair_start2_011",
+        "text": "一緒に戦おう、藍ちゃん！"
+      },
+      {
+        "ingameVoiceMstId": 131204001,
+        "type": 204,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_win_01",
+        "text": "なんとかなったぁ……"
+      },
+      {
+        "ingameVoiceMstId": 131204002,
+        "type": 204,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_win_02",
+        "text": "お、終わったの……？"
+      },
+      {
+        "ingameVoiceMstId": 131204003,
+        "type": 204,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_win_01",
+        "text": "良かった……みんな、無事で……"
+      },
+      {
+        "ingameVoiceMstId": 131204004,
+        "type": 204,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_win_02",
+        "text": "独りじゃないって、心強いね……"
+      },
+      {
+        "ingameVoiceMstId": 131205001,
+        "type": 205,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-huge_loss_01",
+        "text": "わたしのせいで……"
+      },
+      {
+        "ingameVoiceMstId": 131205002,
+        "type": 205,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-huge_loss_02",
+        "text": "逃げ、なきゃ……"
+      },
+      {
+        "ingameVoiceMstId": 131206001,
+        "type": 206,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_join_01",
+        "text": "わ、わたしもっ……！"
+      },
+      {
+        "ingameVoiceMstId": 131206002,
+        "type": 206,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_join_02",
+        "text": "お手伝いしますっ！"
+      },
+      {
+        "ingameVoiceMstId": 131207001,
+        "type": 207,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_wave_01",
+        "text": "まだ、いるのかな……"
+      },
+      {
+        "ingameVoiceMstId": 131207002,
+        "type": 207,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_wave_02",
+        "text": "早く終わらせなきゃ……"
+      },
+      {
+        "ingameVoiceMstId": 131208001,
+        "type": 208,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_danger_01",
+        "text": "あれ、なんだろう……？"
+      },
+      {
+        "ingameVoiceMstId": 131208002,
+        "type": 208,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_danger_02",
+        "text": "危ない気がする……！"
+      },
+      {
+        "ingameVoiceMstId": 131209001,
+        "type": 209,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_continue_check",
+        "text": "わたし……まだ……"
+      },
+      {
+        "ingameVoiceMstId": 131210001,
+        "type": 210,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-huge_attack_fatal_01",
+        "text": "これでっ！"
+      },
+      {
+        "ingameVoiceMstId": 131210002,
+        "type": 210,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-huge_attack_fatal_02",
+        "text": "終わりです！"
+      },
+      {
+        "ingameVoiceMstId": 131211001,
+        "type": 211,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-solo_continue",
+        "text": "まだ、立てるよ……！"
+      },
+      {
+        "ingameVoiceMstId": 131212001,
+        "type": 212,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_breakdown",
+        "text": "やだよぉ……"
+      },
+      {
+        "ingameVoiceMstId": 131301001,
+        "type": 301,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_start_01",
+        "text": "よ、よろしくお願い、します……！"
+      },
+      {
+        "ingameVoiceMstId": 131301002,
+        "type": 301,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_start_02",
+        "text": "が、がんばります……！"
+      },
+      {
+        "ingameVoiceMstId": 131302001,
+        "type": 302,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_win_01",
+        "text": "やった……勝てた……！"
+      },
+      {
+        "ingameVoiceMstId": 131302002,
+        "type": 302,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_win_02",
+        "text": "あの、ありがとうございました……！"
+      },
+      {
+        "ingameVoiceMstId": 131303001,
+        "type": 303,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_loss_01",
+        "text": "負けちゃったぁ……"
+      },
+      {
+        "ingameVoiceMstId": 131303002,
+        "type": 303,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_loss_02",
+        "text": "次はもっとがんばらないと……"
+      },
+      {
+        "ingameVoiceMstId": 131304001,
+        "type": 304,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_loss_01",
+        "text": "負けちゃったぁ……"
+      },
+      {
+        "ingameVoiceMstId": 131304002,
+        "type": 304,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_loss_02",
+        "text": "次はもっとがんばらないと……"
+      },
+      {
+        "ingameVoiceMstId": 131305001,
+        "type": 305,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-huge_attack_fatal_01",
+        "text": "これでっ！"
+      },
+      {
+        "ingameVoiceMstId": 131305002,
+        "type": 305,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-huge_attack_fatal_02",
+        "text": "終わりです！"
+      },
+      {
+        "ingameVoiceMstId": 131307001,
+        "type": 307,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_rebirth_01",
+        "text": "ダメダメだぁ……"
+      },
+      {
+        "ingameVoiceMstId": 131307002,
+        "type": 307,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_rebirth_02",
+        "text": "まだチャンスは……"
+      },
+      {
+        "ingameVoiceMstId": 131308001,
+        "type": 308,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_destruction_01",
+        "text": "やっちゃえ！"
+      },
+      {
+        "ingameVoiceMstId": 131308002,
+        "type": 308,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_destruction_02",
+        "text": "いくよ～っ！"
+      },
+      {
+        "ingameVoiceMstId": 131309001,
+        "type": 309,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_change_front",
+        "text": "わたしが前！？"
+      },
+      {
+        "ingameVoiceMstId": 131310001,
+        "type": 310,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_change_back",
+        "text": "後ろにいきます！"
+      },
+      {
+        "ingameVoiceMstId": 131311001,
+        "type": 311,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-guild_welt_fast",
+        "text": "は、はじめるよぉ！"
+      },
+      {
+        "ingameVoiceMstId": 131312001,
+        "type": 312,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-guild_welt_pass_give",
+        "text": "えーいっ！"
+      },
+      {
+        "ingameVoiceMstId": 131313001,
+        "type": 313,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-guild_welt_pass_get",
+        "text": "わわっ！？"
+      },
+      {
+        "ingameVoiceMstId": 131314001,
+        "type": 314,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-guild_welt_lastpass_get",
+        "text": "わっ、わたしが……！"
+      },
+      {
+        "ingameVoiceMstId": 131315001,
+        "type": 315,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gve_welt_lastshot",
+        "text": "当たってぇぇぇっ！"
+      },
+      {
+        "ingameVoiceMstId": 131315002,
+        "type": 315,
+        "characterMstId": 131,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-gvg_welt_lastshot",
+        "text": "よ、よけないでください……！"
       }
     ]
   }

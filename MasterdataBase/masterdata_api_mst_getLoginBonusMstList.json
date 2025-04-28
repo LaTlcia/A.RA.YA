@@ -2636,6 +2636,34 @@
         "endTime": 1746475199
       },
       {
+        "loginBonusMstId": 10143,
+        "title": "ふじの食堂開店記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3012701,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1745852400,
+        "endTime": 1747321199
+      },
+      {
+        "loginBonusMstId": 10144,
+        "title": "深淵のG.E.H.E.N.A.編 開幕直前ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015616,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1745956800,
+        "endTime": 1747166399
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

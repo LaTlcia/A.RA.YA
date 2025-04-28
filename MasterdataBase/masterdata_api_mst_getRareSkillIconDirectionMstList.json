@@ -446,6 +446,12 @@
         "iconName": "AstralGuarder",
         "duplicationCategory": 0,
         "loopPattern": 1
+      },
+      {
+        "rareSkillIconDirectionMstId": 77,
+        "iconName": "TestamentS",
+        "duplicationCategory": 1,
+        "loopPattern": 5
       }
     ]
   }

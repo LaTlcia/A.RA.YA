@@ -3319,6 +3319,37 @@
         "startTime": 1737342000,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 131,
+        "name": "江坂雫月",
+        "kanaName": "えさかしずく",
+        "firstName": "雫月",
+        "lilyProfileListName": "",
+        "cv": "高尾奏音",
+        "legionMstId": 54,
+        "grade": "1年",
+        "birthday": 1754751600,
+        "bloodType": "A",
+        "favoriteFood": "インコ",
+        "hatedFood": "ネコ",
+        "hobby": "ぬいぐるみ作り",
+        "introduction": "G.E.H.E.N.A.により研究施設に閉じ込められていたリリィ。長い時間を研究施設で過ごしていたため、世間知らずで外の世界に憧れを抱いている。藍とは施設で出会い遊んだ仲。",
+        "defaultCharacterJobMstId": 1131,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_131",
+        "supportWeaponMstId": 202281,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60110901,
+        "gvgRareSkillMstId": 50110901,
+        "victoryMotionId": 8,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1745982000,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }

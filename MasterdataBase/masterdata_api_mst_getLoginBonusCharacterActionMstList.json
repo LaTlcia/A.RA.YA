@@ -1927,6 +1927,39 @@
         "motion": "Fun",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 131001,
+        "type": 0,
+        "characterMstId": 131,
+        "title": "【雫月】ログインボーナス1",
+        "voiceId": "cv_outgame_001_131-login_normal_001",
+        "faceType": "Normal",
+        "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 131002,
+        "type": 0,
+        "characterMstId": 131,
+        "title": "【雫月】ログインボーナス2",
+        "voiceId": "cv_outgame_001_131-login_normal_002",
+        "faceType": "Smile",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 131003,
+        "type": 0,
+        "characterMstId": 131,
+        "title": "【雫月】ログインボーナス3",
+        "voiceId": "cv_outgame_001_131-login_normal_003",
+        "faceType": "Close",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

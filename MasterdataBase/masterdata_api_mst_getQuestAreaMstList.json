@@ -3412,6 +3412,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 343101,
+        "questMapMstId": 343,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 344101,
+        "questMapMstId": 344,
+        "name": "ミニイベント",
+        "description": "プレストーリー江坂雫月編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4768,6 +4784,22 @@
         "questMapMstId": 780,
         "name": "メダルイベント",
         "description": "ハッピーポップイースター",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 781101,
+        "questMapMstId": 781,
+        "name": "メダルイベント",
+        "description": "マリオネット・プリンセス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 781201,
+        "questMapMstId": 781,
+        "name": "メダルイベント",
+        "description": "マリオネット・プリンセス",
         "mode": 2,
         "hasNextComingSoon": false
       },

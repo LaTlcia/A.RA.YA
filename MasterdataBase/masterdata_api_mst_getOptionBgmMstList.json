@@ -1460,6 +1460,22 @@
         "endTime": -62170017539
       },
       {
+        "optionBgmMstId": 2001,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 2001,
+        "title": "終焉の戦火",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_gigant-battle_boss_004",
+        "forceBgmStartTime": 1745982000,
+        "forceBgmEndTime": 1746932399,
+        "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
         "optionBgmMstId": 160001,
         "type": 0,
         "mstId": 0,
