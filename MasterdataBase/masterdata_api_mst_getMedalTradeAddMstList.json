@@ -4,6 +4,13 @@
   "payload": {
     "mstList": [
       {
+        "medalTradeAddMstId": 100507,
+        "medalTradeMstId": 0,
+        "objectType": 0,
+        "objectId": 5,
+        "objectNum": 5476800
+      },
+      {
         "medalTradeAddMstId": 1004001,
         "medalTradeMstId": 1004001,
         "objectType": 4,
@@ -22878,6 +22885,20 @@
         "objectType": 5,
         "objectId": 7059106,
         "objectNum": 1
+      },
+      {
+        "medalTradeAddMstId": 2701060,
+        "medalTradeMstId": 0,
+        "objectType": 0,
+        "objectId": 5,
+        "objectNum": 5476700
+      },
+      {
+        "medalTradeAddMstId": 2701061,
+        "medalTradeMstId": 0,
+        "objectType": 0,
+        "objectId": 5,
+        "objectNum": 5476800
       },
       {
         "medalTradeAddMstId": 5009001,

@@ -3428,6 +3428,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 345101,
+        "questMapMstId": 345,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 346101,
+        "questMapMstId": 346,
+        "name": "ミニイベント",
+        "description": "プレストーリー鳥居美歩編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4800,6 +4816,54 @@
         "questMapMstId": 781,
         "name": "メダルイベント",
         "description": "マリオネット・プリンセス",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 782101,
+        "questMapMstId": 782,
+        "name": "メダルイベント",
+        "description": "デイドリーム・エンパシー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 782201,
+        "questMapMstId": 782,
+        "name": "メダルイベント",
+        "description": "デイドリーム・エンパシー",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 783101,
+        "questMapMstId": 783,
+        "name": "メダルイベント",
+        "description": "美味しい時間",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 783201,
+        "questMapMstId": 783,
+        "name": "メダルイベント",
+        "description": "美味しい時間",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 784101,
+        "questMapMstId": 784,
+        "name": "メダルイベント",
+        "description": "Tragedy of Fate",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 784201,
+        "questMapMstId": 784,
+        "name": "メダルイベント",
+        "description": "Tragedy of Fate",
         "mode": 2,
         "hasNextComingSoon": false
       },

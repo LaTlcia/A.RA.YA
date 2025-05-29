@@ -1960,6 +1960,39 @@
         "motion": "Fun",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 133001,
+        "type": 0,
+        "characterMstId": 133,
+        "title": "【美歩】ログインボーナス1",
+        "voiceId": "cv_outgame_001_133-login_normal_001",
+        "faceType": "Serious",
+        "motion": "Shy",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 133002,
+        "type": 0,
+        "characterMstId": 133,
+        "title": "【美歩】ログインボーナス2",
+        "voiceId": "cv_outgame_001_133-login_normal_002",
+        "faceType": "Surprise",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 133003,
+        "type": 0,
+        "characterMstId": 133,
+        "title": "【美歩】ログインボーナス3",
+        "voiceId": "cv_outgame_001_133-login_normal_003",
+        "faceType": "Serious",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

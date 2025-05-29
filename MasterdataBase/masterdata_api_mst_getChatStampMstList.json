@@ -2812,6 +2812,30 @@
         "endTime": 1748660399
       },
       {
+        "chatStampMstId": 256,
+        "name": "ナイス！",
+        "characterMstId": 130,
+        "type": 3,
+        "howToGetText": "デイドリーム・エンパシー【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1746932400,
+        "endTime": 1748012399
+      },
+      {
+        "chatStampMstId": 257,
+        "name": "ひと休みしましょ",
+        "characterMstId": 27,
+        "type": 9,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1748660400,
+        "endTime": 1751252399
+      },
+      {
         "chatStampMstId": 258,
         "name": "こんばんは",
         "characterMstId": 131,
@@ -2822,6 +2846,30 @@
         "conditionValue2": 0,
         "startTime": 1745982000,
         "endTime": 1747234799
+      },
+      {
+        "chatStampMstId": 259,
+        "name": "やりますね",
+        "characterMstId": 89,
+        "type": 3,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1748660400,
+        "endTime": 1751252399
+      },
+      {
+        "chatStampMstId": 261,
+        "name": "邪魔よ",
+        "characterMstId": 133,
+        "type": 3,
+        "howToGetText": "Tragedy of Fate【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1748660400,
+        "endTime": 1750085999
       }
     ]
   }

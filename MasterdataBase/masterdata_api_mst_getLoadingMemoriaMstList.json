@@ -1109,6 +1109,24 @@
         "characterId": 131,
         "startTime": 1745982000,
         "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 389,
+        "sceneId": 1,
+        "imageId": 10001133,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1748660400,
+        "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 390,
+        "sceneId": 4,
+        "imageId": 10001133,
+        "sortOrder": 0,
+        "characterId": 133,
+        "startTime": 1748660400,
+        "endTime": 2145884399
       }
     ]
   }

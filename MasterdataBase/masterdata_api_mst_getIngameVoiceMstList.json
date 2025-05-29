@@ -32170,6 +32170,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 67106002,
+        "type": 106,
+        "characterMstId": 67,
+        "styleType": 206,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_067-all_tactics_01",
+        "text": "私が指揮を執ります！"
+      },
+      {
         "ingameVoiceMstId": 67107001,
         "type": 107,
         "characterMstId": 67,
@@ -58756,6 +58765,15 @@
         "text": "みんなをいじめないでっ！"
       },
       {
+        "ingameVoiceMstId": 131106004,
+        "type": 106,
+        "characterMstId": 131,
+        "styleType": 206,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_rareskill_02",
+        "text": "みんなをいじめないでっ！"
+      },
+      {
         "ingameVoiceMstId": 131107001,
         "type": 107,
         "characterMstId": 131,
@@ -59168,6 +59186,528 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_131-gvg_welt_lastshot",
         "text": "よ、よけないでください……！"
+      },
+      {
+        "ingameVoiceMstId": 133101001,
+        "type": 101,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_attack_normal_01",
+        "text": "はッ！！"
+      },
+      {
+        "ingameVoiceMstId": 133101002,
+        "type": 101,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_attack_normal_02",
+        "text": "やあっ！"
+      },
+      {
+        "ingameVoiceMstId": 133102001,
+        "type": 102,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_heel_01",
+        "text": "回復するわ"
+      },
+      {
+        "ingameVoiceMstId": 133102002,
+        "type": 102,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_heel_02",
+        "text": "無理はしないで"
+      },
+      {
+        "ingameVoiceMstId": 133103001,
+        "type": 103,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_buff_01",
+        "text": "援護するわ"
+      },
+      {
+        "ingameVoiceMstId": 133103002,
+        "type": 103,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_buff_02",
+        "text": "背中は任せて"
+      },
+      {
+        "ingameVoiceMstId": 133104001,
+        "type": 104,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_debuff_give_01",
+        "text": "妨害だって立派な戦法よね"
+      },
+      {
+        "ingameVoiceMstId": 133104002,
+        "type": 104,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_debuff_give_02",
+        "text": "なんだって使ってやるわよ"
+      },
+      {
+        "ingameVoiceMstId": 133105001,
+        "type": 105,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_tactics_01",
+        "text": "受け切れるかしら？"
+      },
+      {
+        "ingameVoiceMstId": 133105002,
+        "type": 105,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_tactics_02",
+        "text": "これで決めるッ！"
+      },
+      {
+        "ingameVoiceMstId": 133106001,
+        "type": 106,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_rareskill_01",
+        "text": "逃さない……絶対に！"
+      },
+      {
+        "ingameVoiceMstId": 133107001,
+        "type": 107,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_attack_normal_01",
+        "text": "はッ！！"
+      },
+      {
+        "ingameVoiceMstId": 133107002,
+        "type": 107,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_attack_normal_02",
+        "text": "やあっ！"
+      },
+      {
+        "ingameVoiceMstId": 133201001,
+        "type": 201,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_start_01",
+        "text": "この烏合どもは、あたしが蹴散らす……ッ！"
+      },
+      {
+        "ingameVoiceMstId": 133201002,
+        "type": 201,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_start_02",
+        "text": "これくらいで止まってられない"
+      },
+      {
+        "ingameVoiceMstId": 133201003,
+        "type": 201,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_start_01",
+        "text": "誰も欠けさせずに、押し通る……ッ！"
+      },
+      {
+        "ingameVoiceMstId": 133201004,
+        "type": 201,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_start_02",
+        "text": "大丈夫。みんなとなら、絶対に！"
+      },
+      {
+        "ingameVoiceMstId": 133202001,
+        "type": 202,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 69,
+        "cueName": "cv_battle_001_133-pair_start2_069",
+        "text": "優珂。あなたの背中は、あたしが護るわ"
+      },
+      {
+        "ingameVoiceMstId": 133202002,
+        "type": 202,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 86,
+        "cueName": "cv_battle_001_133-pair_start2_086",
+        "text": "美岳様、支えてみせます。恩返しには足りないかもだけど！"
+      },
+      {
+        "ingameVoiceMstId": 133204001,
+        "type": 204,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_win_01",
+        "text": "お疲れさま。怪我人はいないわね？"
+      },
+      {
+        "ingameVoiceMstId": 133204002,
+        "type": 204,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_win_02",
+        "text": "よし、任務完了ね"
+      },
+      {
+        "ingameVoiceMstId": 133204003,
+        "type": 204,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_win_01",
+        "text": "誰も欠けないで本当に良かった……！"
+      },
+      {
+        "ingameVoiceMstId": 133204004,
+        "type": 204,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_win_02",
+        "text": "少しくらい、この勝利を喜んでもいいわよね"
+      },
+      {
+        "ingameVoiceMstId": 133205001,
+        "type": 205,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-huge_loss_01",
+        "text": "退くわよ！こんなところで死ねない！"
+      },
+      {
+        "ingameVoiceMstId": 133205002,
+        "type": 205,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-huge_loss_02",
+        "text": "戦術的撤退と、言いたいところだけど……"
+      },
+      {
+        "ingameVoiceMstId": 133206001,
+        "type": 206,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_join_01",
+        "text": "助太刀するわ"
+      },
+      {
+        "ingameVoiceMstId": 133206002,
+        "type": 206,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_join_02",
+        "text": "共に行きましょう"
+      },
+      {
+        "ingameVoiceMstId": 133207001,
+        "type": 207,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_wave_01",
+        "text": "進もう"
+      },
+      {
+        "ingameVoiceMstId": 133207002,
+        "type": 207,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_wave_02",
+        "text": "まだ行けるわね？"
+      },
+      {
+        "ingameVoiceMstId": 133208001,
+        "type": 208,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_danger_01",
+        "text": "構えて！何かくる！"
+      },
+      {
+        "ingameVoiceMstId": 133208002,
+        "type": 208,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_danger_02",
+        "text": "何が来ても守ってみせる……！"
+      },
+      {
+        "ingameVoiceMstId": 133209001,
+        "type": 209,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_continue_check",
+        "text": "この判断は、あたしにとって……"
+      },
+      {
+        "ingameVoiceMstId": 133210001,
+        "type": 210,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-huge_attack_fatal_01",
+        "text": "これで終わり！"
+      },
+      {
+        "ingameVoiceMstId": 133210002,
+        "type": 210,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-huge_attack_fatal_02",
+        "text": "生き残れると思わないで！"
+      },
+      {
+        "ingameVoiceMstId": 133211001,
+        "type": 211,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-solo_continue",
+        "text": "負けられないのよ、あたし自身のために！"
+      },
+      {
+        "ingameVoiceMstId": 133212001,
+        "type": 212,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-all_breakdown",
+        "text": "あたしは、倒れちゃいけないのに……"
+      },
+      {
+        "ingameVoiceMstId": 133301001,
+        "type": 301,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_start_01",
+        "text": "負けないわよ"
+      },
+      {
+        "ingameVoiceMstId": 133301002,
+        "type": 301,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_start_02",
+        "text": "全力でやらないと、逆に失礼よね"
+      },
+      {
+        "ingameVoiceMstId": 133302001,
+        "type": 302,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_win_01",
+        "text": "良い試合だったわ。……ありがとう"
+      },
+      {
+        "ingameVoiceMstId": 133302002,
+        "type": 302,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_win_02",
+        "text": "お疲れさま。次も負けないわよ"
+      },
+      {
+        "ingameVoiceMstId": 133303001,
+        "type": 303,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_loss_01",
+        "text": "……やるわね。次はそうはいかないけど"
+      },
+      {
+        "ingameVoiceMstId": 133303002,
+        "type": 303,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_loss_02",
+        "text": "次は勝つ、見てなさいよ"
+      },
+      {
+        "ingameVoiceMstId": 133304001,
+        "type": 304,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_loss_01",
+        "text": "……やるわね。次はそうはいかないけど"
+      },
+      {
+        "ingameVoiceMstId": 133304002,
+        "type": 304,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_loss_02",
+        "text": "次は勝つ、見てなさいよ"
+      },
+      {
+        "ingameVoiceMstId": 133305001,
+        "type": 305,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-huge_attack_fatal_01",
+        "text": "これで終わり！"
+      },
+      {
+        "ingameVoiceMstId": 133305002,
+        "type": 305,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-huge_attack_fatal_02",
+        "text": "生き残れると思わないで！"
+      },
+      {
+        "ingameVoiceMstId": 133307001,
+        "type": 307,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_rebirth_01",
+        "text": "すぐ戻ってくるわ"
+      },
+      {
+        "ingameVoiceMstId": 133307002,
+        "type": 307,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_rebirth_02",
+        "text": "このくらいで終わらせない！"
+      },
+      {
+        "ingameVoiceMstId": 133308001,
+        "type": 308,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_destruction_01",
+        "text": "ここで決めるわ！"
+      },
+      {
+        "ingameVoiceMstId": 133308002,
+        "type": 308,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_destruction_02",
+        "text": "邪魔は全て排除する……！"
+      },
+      {
+        "ingameVoiceMstId": 133309001,
+        "type": 309,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_change_front",
+        "text": "あなたは下がって。あたしが行く！"
+      },
+      {
+        "ingameVoiceMstId": 133310001,
+        "type": 310,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_change_back",
+        "text": "前は任せたわよ"
+      },
+      {
+        "ingameVoiceMstId": 133311001,
+        "type": 311,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-guild_welt_fast",
+        "text": "ノインヴェルト戦術、開始！"
+      },
+      {
+        "ingameVoiceMstId": 133312001,
+        "type": 312,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-guild_welt_pass_give",
+        "text": "お願い！"
+      },
+      {
+        "ingameVoiceMstId": 133313001,
+        "type": 313,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-guild_welt_pass_get",
+        "text": "受け取ったわ"
+      },
+      {
+        "ingameVoiceMstId": 133314001,
+        "type": 314,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-guild_welt_lastpass_get",
+        "text": "これで……最後っ！"
+      },
+      {
+        "ingameVoiceMstId": 133315001,
+        "type": 315,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gve_welt_lastshot",
+        "text": "みんなの繋いだ一撃、受けてみろッ！"
+      },
+      {
+        "ingameVoiceMstId": 133315002,
+        "type": 315,
+        "characterMstId": 133,
+        "styleType": 0,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_133-gvg_welt_lastshot",
+        "text": "この連携、止められると思わないで！"
       }
     ]
   }

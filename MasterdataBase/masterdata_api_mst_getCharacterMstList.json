@@ -3350,6 +3350,37 @@
         "startTime": 1745982000,
         "prStartTime": -62170017539,
         "prEndTime": -62170017539
+      },
+      {
+        "characterMstId": 133,
+        "name": "鳥居美歩",
+        "kanaName": "とりいみほ",
+        "firstName": "美歩",
+        "lilyProfileListName": "",
+        "cv": "小山百代",
+        "legionMstId": 54,
+        "grade": "1年",
+        "birthday": 1742310000,
+        "bloodType": "O",
+        "favoriteFood": "フェレット",
+        "hatedFood": "狭い所、高い所",
+        "hobby": "少女趣味なもの全般、絵本あつめ",
+        "introduction": "かつて松村優珂と同じマディック隊に所属しており、その隊長を務めていた。リリィとして高い素質を持っていたが、G.E.H.E.N.A.により実験の被験者とされてしまう。",
+        "defaultCharacterJobMstId": 1133,
+        "gigantHugeSupportCharacterJobMstId1": 0,
+        "gigantHugeSupportCharacterJobMstId2": 0,
+        "selfIntroductionStoryFileName": "story_selfintroduction_133",
+        "supportWeaponMstId": 202291,
+        "supportSubWeaponMstId": 0,
+        "questRareSkillMstId": 60160901,
+        "gvgRareSkillMstId": 50160901,
+        "victoryMotionId": 31,
+        "isPlayable": true,
+        "isLoginBonusLotChara": true,
+        "invalidInTutorial": true,
+        "startTime": 1748660400,
+        "prStartTime": -62170017539,
+        "prEndTime": -62170017539
       }
     ]
   }

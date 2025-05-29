@@ -389,6 +389,17 @@
         "endTime": 1741100399
       },
       {
+        "gigantHugeScheduleMstId": 200801,
+        "gigantHugeMapMstId": 2008,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 8,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第8回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50081,
+        "startTime": 1748574000,
+        "endTime": 1749135599
+      },
+      {
         "gigantHugeScheduleMstId": 300100,
         "gigantHugeMapMstId": 3001,
         "reprintNum": 0,
@@ -464,6 +475,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50071,
         "startTime": 1740538800,
         "endTime": 1741100399
+      },
+      {
+        "gigantHugeScheduleMstId": 300801,
+        "gigantHugeMapMstId": 3008,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 8,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第8回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50081,
+        "startTime": 1748574000,
+        "endTime": 1749135599
       },
       {
         "gigantHugeScheduleMstId": 400100,
@@ -552,6 +574,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50071,
         "startTime": 1740538800,
         "endTime": 1741100399
+      },
+      {
+        "gigantHugeScheduleMstId": 500801,
+        "gigantHugeMapMstId": 5008,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 8,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第8回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50081,
+        "startTime": 1748574000,
+        "endTime": 1749135599
       }
     ]
   }

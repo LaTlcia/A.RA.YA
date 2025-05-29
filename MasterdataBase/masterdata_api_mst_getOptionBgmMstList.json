@@ -1246,8 +1246,8 @@
         "arrangement": "塩澤 彰一",
         "cv": "-",
         "fileName": "bgm_anime_81-001",
-        "forceBgmStartTime": 1709175600,
-        "forceBgmEndTime": 1709953199,
+        "forceBgmStartTime": 1746932400,
+        "forceBgmEndTime": 1748012399,
         "startTime": 1709175600,
         "endTime": -62170017539
       },
@@ -1473,6 +1473,22 @@
         "forceBgmStartTime": 1745982000,
         "forceBgmEndTime": 1746932399,
         "startTime": 1745982000,
+        "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 2101,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 2101,
+        "title": "最後の闘志",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_gigant-battle_boss_005",
+        "forceBgmStartTime": 1748660400,
+        "forceBgmEndTime": 1749610799,
+        "startTime": 1748660400,
         "endTime": -62170017539
       },
       {
