@@ -4868,6 +4868,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 785101,
+        "questMapMstId": 785,
+        "name": "メダルイベント",
+        "description": "ブライダル・サバイバル！",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 785201,
+        "questMapMstId": 785,
+        "name": "メダルイベント",
+        "description": "ブライダル・サバイバル！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

@@ -2870,6 +2870,18 @@
         "conditionValue2": 0,
         "startTime": 1748660400,
         "endTime": 1750085999
+      },
+      {
+        "chatStampMstId": 263,
+        "name": "…照れるな",
+        "characterMstId": 86,
+        "type": 3,
+        "howToGetText": "ブライダル・サバイバル！【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1749610800,
+        "endTime": 1750690799
       }
     ]
   }
