@@ -14843,6 +14843,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 34710101,
+        "questStageMstId": 34710101,
+        "title": "二十品目 テスタメントバーガー丼",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_20",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1750863600,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -22771,6 +22782,50 @@
         "fileName2": "",
         "imageId": 115107,
         "startTime": 1749610800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78610111,
+        "questStageMstId": 78610111,
+        "title": "1話:雨の合間に-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_alfwedding_ex01",
+        "fileName2": "",
+        "imageId": 116101,
+        "startTime": 1750474800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78610112,
+        "questStageMstId": 78610112,
+        "title": "1話:雨の合間に-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_alfwedding_ex02",
+        "fileName2": "",
+        "imageId": 116102,
+        "startTime": 1750474800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78610113,
+        "questStageMstId": 78610113,
+        "title": "1話:雨の合間に-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_alfwedding_ex03",
+        "fileName2": "",
+        "imageId": 116103,
+        "startTime": 1750474800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 78610114,
+        "questStageMstId": 78610114,
+        "title": "1話:雨の合間に-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_alfwedding_ex04",
+        "fileName2": "",
+        "imageId": 116104,
+        "startTime": 1750474800,
         "endTime": -62170017539
       },
       {

@@ -3444,6 +3444,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 347101,
+        "questMapMstId": 347,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4880,6 +4888,22 @@
         "questMapMstId": 785,
         "name": "メダルイベント",
         "description": "ブライダル・サバイバル！",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 786101,
+        "questMapMstId": 786,
+        "name": "メダルイベント",
+        "description": "雨の合間に",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 786201,
+        "questMapMstId": 786,
+        "name": "メダルイベント",
+        "description": "雨の合間に",
         "mode": 2,
         "hasNextComingSoon": false
       },
