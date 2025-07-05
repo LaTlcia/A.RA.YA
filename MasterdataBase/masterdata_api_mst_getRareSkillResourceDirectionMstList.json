@@ -541,6 +541,13 @@
         "duplicationCategory": 3,
         "loopPattern": 1,
         "effectId": 11
+      },
+      {
+        "rareSkillResourceDirectionMstId": 79,
+        "iconName": "LunaticTranser",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 7
       }
     ]
   }

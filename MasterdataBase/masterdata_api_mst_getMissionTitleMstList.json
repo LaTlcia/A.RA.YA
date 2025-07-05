@@ -5534,6 +5534,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10801,
+        "title": "夢幻のパラドクス編 開幕",
+        "completeMissionMstId": 10801001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3738
+      },
+      {
+        "missionTitleMstId": 10802,
+        "title": "夢幻のパラドクス【個人】",
+        "completeMissionMstId": 10802001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10803,
+        "title": "夢幻のパラドクス【レギオン】",
+        "completeMissionMstId": 10803001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10804,
+        "title": "夢幻のパラドクス【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10806,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

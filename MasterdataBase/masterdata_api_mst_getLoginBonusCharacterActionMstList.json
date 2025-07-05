@@ -1962,6 +1962,28 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 132001,
+        "type": 0,
+        "characterMstId": 132,
+        "title": "【桜花】ログインボーナス1",
+        "voiceId": "cv_outgame_001_132-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 132002,
+        "type": 0,
+        "characterMstId": 132,
+        "title": "【桜花】ログインボーナス2",
+        "voiceId": "cv_outgame_001_132-login_normal_002",
+        "faceType": "Serious",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 133001,
         "type": 0,
         "characterMstId": 133,

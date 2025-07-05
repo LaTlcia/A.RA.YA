@@ -3452,6 +3452,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 348101,
+        "questMapMstId": 348,
+        "name": "ミニイベント",
+        "description": "プレストーリー佐野桜花編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4904,6 +4912,22 @@
         "questMapMstId": 786,
         "name": "メダルイベント",
         "description": "雨の合間に",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 787101,
+        "questMapMstId": 787,
+        "name": "メダルイベント",
+        "description": "夢幻のパラドクス",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 787201,
+        "questMapMstId": 787,
+        "name": "メダルイベント",
+        "description": "夢幻のパラドクス",
         "mode": 2,
         "hasNextComingSoon": false
       },

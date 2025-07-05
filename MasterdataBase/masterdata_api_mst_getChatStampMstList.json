@@ -2860,6 +2860,18 @@
         "endTime": 1751252399
       },
       {
+        "chatStampMstId": 260,
+        "name": "面白いですね",
+        "characterMstId": 67,
+        "type": 3,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1751252400,
+        "endTime": 1753930799
+      },
+      {
         "chatStampMstId": 261,
         "name": "邪魔よ",
         "characterMstId": 133,
@@ -2872,6 +2884,18 @@
         "endTime": 1750085999
       },
       {
+        "chatStampMstId": 262,
+        "name": "こっちこっち！",
+        "characterMstId": 87,
+        "type": 9,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1751252400,
+        "endTime": 1753930799
+      },
+      {
         "chatStampMstId": 263,
         "name": "…照れるな",
         "characterMstId": 86,
@@ -2882,6 +2906,18 @@
         "conditionValue2": 0,
         "startTime": 1749610800,
         "endTime": 1750690799
+      },
+      {
+        "chatStampMstId": 264,
+        "name": "忘れないわ",
+        "characterMstId": 132,
+        "type": 3,
+        "howToGetText": "夢幻のパラドクス【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1751252400,
+        "endTime": 1752505199
       }
     ]
   }
