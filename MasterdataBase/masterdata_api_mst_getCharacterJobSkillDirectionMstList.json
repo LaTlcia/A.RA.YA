@@ -6610,6 +6610,34 @@
         "styleId": 347,
         "rareSkillId": 17,
         "neunWeltIcon": 347042
+      },
+      {
+        "characterJobSkillDirectionMstId": 945,
+        "characterMstId": 12,
+        "styleId": 347,
+        "rareSkillId": 9,
+        "neunWeltIcon": 347012
+      },
+      {
+        "characterJobSkillDirectionMstId": 946,
+        "characterMstId": 13,
+        "styleId": 347,
+        "rareSkillId": 11,
+        "neunWeltIcon": 347013
+      },
+      {
+        "characterJobSkillDirectionMstId": 947,
+        "characterMstId": 86,
+        "styleId": 347,
+        "rareSkillId": 3,
+        "neunWeltIcon": 347086
+      },
+      {
+        "characterJobSkillDirectionMstId": 948,
+        "characterMstId": 82,
+        "styleId": 347,
+        "rareSkillId": 9,
+        "neunWeltIcon": 347082
       }
     ]
   }
