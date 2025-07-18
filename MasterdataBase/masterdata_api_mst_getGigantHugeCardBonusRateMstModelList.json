@@ -950,6 +950,78 @@
         "limitBreakBonusValue2": 103,
         "limitBreakBonusValue3": 104,
         "limitBreakBonusValue4": 105
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4002001,
+        "cardUniqueId": 10300007,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4002,
+        "bonusType": 2,
+        "bonusValue": 105,
+        "limitBreakBonusValue1": 110,
+        "limitBreakBonusValue2": 115,
+        "limitBreakBonusValue3": 120,
+        "limitBreakBonusValue4": 130
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4002002,
+        "cardUniqueId": 10300130,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4002,
+        "bonusType": 2,
+        "bonusValue": 105,
+        "limitBreakBonusValue1": 110,
+        "limitBreakBonusValue2": 115,
+        "limitBreakBonusValue3": 120,
+        "limitBreakBonusValue4": 130
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4002003,
+        "cardUniqueId": 10300126,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4002,
+        "bonusType": 2,
+        "bonusValue": 105,
+        "limitBreakBonusValue1": 110,
+        "limitBreakBonusValue2": 115,
+        "limitBreakBonusValue3": 120,
+        "limitBreakBonusValue4": 130
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4002004,
+        "cardUniqueId": 10300017,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4002,
+        "bonusType": 2,
+        "bonusValue": 105,
+        "limitBreakBonusValue1": 110,
+        "limitBreakBonusValue2": 115,
+        "limitBreakBonusValue3": 120,
+        "limitBreakBonusValue4": 130
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4002005,
+        "cardUniqueId": 50000033,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4002,
+        "bonusType": 2,
+        "bonusValue": 103,
+        "limitBreakBonusValue1": 105,
+        "limitBreakBonusValue2": 110,
+        "limitBreakBonusValue3": 115,
+        "limitBreakBonusValue4": 120
+      },
+      {
+        "gigantHugeCardBonusRateMstId": 4002006,
+        "cardUniqueId": 70000374,
+        "itemMstId": 0,
+        "gigantHugeMapMstId": 4002,
+        "bonusType": 2,
+        "bonusValue": 101,
+        "limitBreakBonusValue1": 102,
+        "limitBreakBonusValue2": 103,
+        "limitBreakBonusValue3": 104,
+        "limitBreakBonusValue4": 105
       }
     ]
   }

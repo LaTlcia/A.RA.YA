@@ -4948,6 +4948,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 789101,
+        "questMapMstId": 789,
+        "name": "メダルイベント",
+        "description": "朝陽のサマースクール",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 789201,
+        "questMapMstId": 789,
+        "name": "メダルイベント",
+        "description": "朝陽のサマースクール",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

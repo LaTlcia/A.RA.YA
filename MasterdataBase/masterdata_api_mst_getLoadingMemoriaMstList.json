@@ -1145,6 +1145,96 @@
         "characterId": 132,
         "startTime": 1751252400,
         "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 393,
+        "sceneId": 3,
+        "imageId": 50000033,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1752980400,
+        "endTime": 1756609199
+      },
+      {
+        "loadingMemoriaMstId": 394,
+        "sceneId": 5,
+        "imageId": 50000033,
+        "sortOrder": 0,
+        "characterId": 1,
+        "startTime": 1752980400,
+        "endTime": 1756609199
+      },
+      {
+        "loadingMemoriaMstId": 395,
+        "sceneId": 3,
+        "imageId": 10300007,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 396,
+        "sceneId": 5,
+        "imageId": 10300007,
+        "sortOrder": 0,
+        "characterId": 7,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 397,
+        "sceneId": 3,
+        "imageId": 10300130,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 398,
+        "sceneId": 5,
+        "imageId": 10300130,
+        "sortOrder": 0,
+        "characterId": 130,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 399,
+        "sceneId": 3,
+        "imageId": 10300126,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 400,
+        "sceneId": 5,
+        "imageId": 10300126,
+        "sortOrder": 0,
+        "characterId": 126,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 401,
+        "sceneId": 3,
+        "imageId": 10300017,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "loadingMemoriaMstId": 402,
+        "sceneId": 5,
+        "imageId": 10300017,
+        "sortOrder": 0,
+        "characterId": 17,
+        "startTime": 1752980400,
+        "endTime": 1753930799
       }
     ]
   }

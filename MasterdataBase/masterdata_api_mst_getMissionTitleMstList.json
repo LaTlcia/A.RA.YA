@@ -5576,6 +5576,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10807,
+        "title": "招待キャンペーン対象ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10808,
+        "title": "ともだち招待キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10809,
+        "title": "リリホリ!! 朝陽のサマースクール",
+        "completeMissionMstId": 10809001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3774
+      },
+      {
+        "missionTitleMstId": 10810,
+        "title": "4.5周年記念レギオンリーグ 特別ミッション",
+        "completeMissionMstId": 10810001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3778
+      },
+      {
+        "missionTitleMstId": 10811,
+        "title": "梅誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10812,
         "title": "ビフォア・サマー【デイリー】",
         "completeMissionMstId": 0,
@@ -5584,6 +5619,41 @@
       },
       {
         "missionTitleMstId": 10813,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10814,
+        "title": "朝陽のサマースクール【個人】",
+        "completeMissionMstId": 10814001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10815,
+        "title": "朝陽のサマースクール【レギオン】",
+        "completeMissionMstId": 10815001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10816,
+        "title": "朝陽のサマースクール【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10817,
+        "title": "4.5周年記念バトルパーティー【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10824,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,

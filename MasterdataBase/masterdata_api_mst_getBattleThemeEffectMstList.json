@@ -106,6 +106,18 @@
         "parameterText": "{\"TARGET_ATTRIBUTE\":  3, \"APPLY_TACTICES_EFFECT_ATTRIBUTE\": [1]}"
       },
       {
+        "battleThemeEffectMstId": 24,
+        "name": "火属性効果増加オーダー効果UP",
+        "description": "",
+        "parameterText": "{\"TACTICS_EFFECT_ATTRIBUTE\": [1] , \"TACTICS_EFFECT_VALUE\": 0.1}"
+      },
+      {
+        "battleThemeEffectMstId": 25,
+        "name": "Exリリィスキル、ADXリリィスキルの火属性効果増加UP",
+        "description": "",
+        "parameterText": "{\"JOB_SKILL_EFFECT_ATTRIBUTE\": [1] , \"JOB_SKILL_EFFECT_VALUE\": 0.1}"
+      },
+      {
         "battleThemeEffectMstId": 100001,
         "name": "闇メモリアスキル効果UP",
         "description": "",

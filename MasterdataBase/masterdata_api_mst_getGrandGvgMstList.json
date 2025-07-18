@@ -602,6 +602,19 @@
         "isUltimateGvg": false
       },
       {
+        "grandGvgMstId": 47,
+        "entryStartTime": 1753430400,
+        "entryEndTime": 1753801199,
+        "gvgStartTime": 1753801200,
+        "gvgEndTime": 1754319599,
+        "resultStartTime": 1754380800,
+        "resultEndTime": 1754751599,
+        "featuredCardMstId": 204169,
+        "eventName": "4.5周年記念レギオンリーグ",
+        "eventImageId": 9,
+        "isUltimateGvg": false
+      },
+      {
         "grandGvgMstId": 10000,
         "entryStartTime": 1671091199,
         "entryEndTime": 1671091199,
@@ -739,6 +752,19 @@
         "gvgEndTime": 1752332399,
         "resultStartTime": 1752393600,
         "resultEndTime": 1752677999,
+        "featuredCardMstId": 0,
+        "eventName": "",
+        "eventImageId": 0,
+        "isUltimateGvg": true
+      },
+      {
+        "grandGvgMstId": 10011,
+        "entryStartTime": 1758261599,
+        "entryEndTime": 1758261599,
+        "gvgStartTime": 1758261600,
+        "gvgEndTime": 1760194799,
+        "resultStartTime": 1760256000,
+        "resultEndTime": 1760540399,
         "featuredCardMstId": 0,
         "eventName": "",
         "eventImageId": 0,

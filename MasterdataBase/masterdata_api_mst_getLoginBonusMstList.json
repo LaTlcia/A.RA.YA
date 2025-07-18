@@ -2734,6 +2734,34 @@
         "endTime": 1753214399
       },
       {
+        "loginBonusMstId": 10150,
+        "title": "4.5周年 リリホリ!! スペシャルログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015621,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1752955200,
+        "endTime": 1759175999
+      },
+      {
+        "loginBonusMstId": 10151,
+        "title": "4.5周年リリホリ!!カムバックログインボーナス",
+        "cycleType": 5,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015618,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1752825600,
+        "endTime": 1759175999
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

@@ -4994,6 +4994,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 1031151,
+        "characterJobMstId": 1031,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1031152,
+        "characterJobMstId": 1031,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1031153,
+        "characterJobMstId": 1031,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1031161,
+        "characterJobMstId": 1031,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1031162,
+        "characterJobMstId": 1031,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 1032011,
         "characterJobMstId": 1032,
         "characterJobSkillGroupId": 0,
@@ -5158,6 +5208,56 @@
         "characterJobMstId": 1032,
         "characterJobSkillGroupId": 0,
         "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1032151,
+        "characterJobMstId": 1032,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1032152,
+        "characterJobMstId": 1032,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1032153,
+        "characterJobMstId": 1032,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1032161,
+        "characterJobMstId": 1032,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1032162,
+        "characterJobMstId": 1032,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
         "name": "DEF+1500",
         "jobSkillType": 10,
         "jobSkillValue": 1500,
@@ -5334,6 +5434,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 1033151,
+        "characterJobMstId": 1033,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1033152,
+        "characterJobMstId": 1033,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1033153,
+        "characterJobMstId": 1033,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1033161,
+        "characterJobMstId": 1033,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1033162,
+        "characterJobMstId": 1033,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 1037011,
         "characterJobMstId": 1037,
         "characterJobSkillGroupId": 0,
@@ -5500,6 +5650,56 @@
         "level": 14,
         "name": "DEF+1500",
         "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1037151,
+        "characterJobMstId": 1037,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1037152,
+        "characterJobMstId": 1037,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1037153,
+        "characterJobMstId": 1037,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1037161,
+        "characterJobMstId": 1037,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1037162,
+        "characterJobMstId": 1037,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
         "jobSkillValue": 1500,
         "cardType": 0
       },
@@ -5674,6 +5874,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 1038151,
+        "characterJobMstId": 1038,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1038152,
+        "characterJobMstId": 1038,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1038153,
+        "characterJobMstId": 1038,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1038161,
+        "characterJobMstId": 1038,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1038162,
+        "characterJobMstId": 1038,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 1039011,
         "characterJobMstId": 1039,
         "characterJobSkillGroupId": 0,
@@ -5838,6 +6088,56 @@
         "characterJobMstId": 1039,
         "characterJobSkillGroupId": 0,
         "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1039151,
+        "characterJobMstId": 1039,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1039152,
+        "characterJobMstId": 1039,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1039153,
+        "characterJobMstId": 1039,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1039161,
+        "characterJobMstId": 1039,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1039162,
+        "characterJobMstId": 1039,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
         "name": "Sp.DEF+1500",
         "jobSkillType": 11,
         "jobSkillValue": 1500,
@@ -7814,6 +8114,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 1058151,
+        "characterJobMstId": 1058,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1058152,
+        "characterJobMstId": 1058,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1058153,
+        "characterJobMstId": 1058,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1058161,
+        "characterJobMstId": 1058,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1058162,
+        "characterJobMstId": 1058,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 1063011,
         "characterJobMstId": 1063,
         "characterJobSkillGroupId": 0,
@@ -7978,6 +8328,56 @@
         "characterJobMstId": 1063,
         "characterJobSkillGroupId": 0,
         "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1063151,
+        "characterJobMstId": 1063,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1063152,
+        "characterJobMstId": 1063,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1063153,
+        "characterJobMstId": 1063,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1063161,
+        "characterJobMstId": 1063,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1063162,
+        "characterJobMstId": 1063,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
         "name": "Sp.DEF+1500",
         "jobSkillType": 11,
         "jobSkillValue": 1500,
@@ -8154,6 +8554,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 1064151,
+        "characterJobMstId": 1064,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1064152,
+        "characterJobMstId": 1064,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1064153,
+        "characterJobMstId": 1064,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1064161,
+        "characterJobMstId": 1064,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1064162,
+        "characterJobMstId": 1064,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 1065011,
         "characterJobMstId": 1065,
         "characterJobSkillGroupId": 0,
@@ -8318,6 +8768,56 @@
         "characterJobMstId": 1065,
         "characterJobSkillGroupId": 0,
         "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1065151,
+        "characterJobMstId": 1065,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1065152,
+        "characterJobMstId": 1065,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1065153,
+        "characterJobMstId": 1065,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1065161,
+        "characterJobMstId": 1065,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1065162,
+        "characterJobMstId": 1065,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
         "name": "Sp.DEF+1500",
         "jobSkillType": 11,
         "jobSkillValue": 1500,
@@ -9338,6 +9838,56 @@
         "characterJobMstId": 1088,
         "characterJobSkillGroupId": 0,
         "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1088151,
+        "characterJobMstId": 1088,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1088152,
+        "characterJobMstId": 1088,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1088153,
+        "characterJobMstId": 1088,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1088161,
+        "characterJobMstId": 1088,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 1088162,
+        "characterJobMstId": 1088,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
         "name": "Sp.DEF+1500",
         "jobSkillType": 11,
         "jobSkillValue": 1500,
@@ -15354,6 +15904,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 5001151,
+        "characterJobMstId": 5001,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5001152,
+        "characterJobMstId": 5001,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5001153,
+        "characterJobMstId": 5001,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5001161,
+        "characterJobMstId": 5001,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5001162,
+        "characterJobMstId": 5001,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 5002011,
         "characterJobMstId": 5002,
         "characterJobSkillGroupId": 0,
@@ -15521,6 +16121,56 @@
         "name": "Sp.DEF+500",
         "jobSkillType": 11,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5002151,
+        "characterJobMstId": 5002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5002152,
+        "characterJobMstId": 5002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5002153,
+        "characterJobMstId": 5002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5002161,
+        "characterJobMstId": 5002,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5002162,
+        "characterJobMstId": 5002,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -16304,6 +16954,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 5007151,
+        "characterJobMstId": 5007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5007152,
+        "characterJobMstId": 5007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5007153,
+        "characterJobMstId": 5007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5007161,
+        "characterJobMstId": 5007,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5007162,
+        "characterJobMstId": 5007,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 5008011,
         "characterJobMstId": 5008,
         "characterJobSkillGroupId": 0,
@@ -16471,6 +17171,56 @@
         "name": "ATK+500",
         "jobSkillType": 8,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5008151,
+        "characterJobMstId": 5008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5008152,
+        "characterJobMstId": 5008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5008153,
+        "characterJobMstId": 5008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5008161,
+        "characterJobMstId": 5008,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 5008162,
+        "characterJobMstId": 5008,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -17521,6 +18271,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 6011151,
+        "characterJobMstId": 6011,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 6011152,
+        "characterJobMstId": 6011,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 6011153,
+        "characterJobMstId": 6011,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 6011161,
+        "characterJobMstId": 6011,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 6011162,
+        "characterJobMstId": 6011,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -19254,6 +20054,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 9002151,
+        "characterJobMstId": 9002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9002152,
+        "characterJobMstId": 9002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9002153,
+        "characterJobMstId": 9002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9002161,
+        "characterJobMstId": 9002,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9002162,
+        "characterJobMstId": 9002,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 9007011,
         "characterJobMstId": 9007,
         "characterJobSkillGroupId": 0,
@@ -19421,6 +20271,56 @@
         "name": "Sp.DEF+500",
         "jobSkillType": 11,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9007151,
+        "characterJobMstId": 9007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9007152,
+        "characterJobMstId": 9007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9007153,
+        "characterJobMstId": 9007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9007161,
+        "characterJobMstId": 9007,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9007162,
+        "characterJobMstId": 9007,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -19594,6 +20494,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 9008151,
+        "characterJobMstId": 9008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9008152,
+        "characterJobMstId": 9008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9008153,
+        "characterJobMstId": 9008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9008161,
+        "characterJobMstId": 9008,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 9008162,
+        "characterJobMstId": 9008,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 10015011,
         "characterJobMstId": 10015,
         "characterJobSkillGroupId": 0,
@@ -19761,6 +20711,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10015151,
+        "characterJobMstId": 10015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10015152,
+        "characterJobMstId": 10015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10015153,
+        "characterJobMstId": 10015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10015161,
+        "characterJobMstId": 10015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10015162,
+        "characterJobMstId": 10015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -19934,6 +20934,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 10016151,
+        "characterJobMstId": 10016,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10016152,
+        "characterJobMstId": 10016,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10016153,
+        "characterJobMstId": 10016,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10016161,
+        "characterJobMstId": 10016,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10016162,
+        "characterJobMstId": 10016,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 10019011,
         "characterJobMstId": 10019,
         "characterJobSkillGroupId": 0,
@@ -20101,6 +21151,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10019151,
+        "characterJobMstId": 10019,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10019152,
+        "characterJobMstId": 10019,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10019153,
+        "characterJobMstId": 10019,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10019161,
+        "characterJobMstId": 10019,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 10019162,
+        "characterJobMstId": 10019,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -20274,6 +21374,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 11010151,
+        "characterJobMstId": 11010,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11010152,
+        "characterJobMstId": 11010,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11010153,
+        "characterJobMstId": 11010,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11010161,
+        "characterJobMstId": 11010,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11010162,
+        "characterJobMstId": 11010,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 11011011,
         "characterJobMstId": 11011,
         "characterJobSkillGroupId": 0,
@@ -20444,6 +21594,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 11011151,
+        "characterJobMstId": 11011,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11011152,
+        "characterJobMstId": 11011,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11011153,
+        "characterJobMstId": 11011,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11011161,
+        "characterJobMstId": 11011,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11011162,
+        "characterJobMstId": 11011,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 11014011,
         "characterJobMstId": 11014,
         "characterJobSkillGroupId": 0,
@@ -20611,6 +21811,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11014151,
+        "characterJobMstId": 11014,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11014152,
+        "characterJobMstId": 11014,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11014153,
+        "characterJobMstId": 11014,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11014161,
+        "characterJobMstId": 11014,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 11014162,
+        "characterJobMstId": 11014,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -25624,6 +26874,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 17009151,
+        "characterJobMstId": 17009,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17009152,
+        "characterJobMstId": 17009,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17009153,
+        "characterJobMstId": 17009,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17009161,
+        "characterJobMstId": 17009,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17009162,
+        "characterJobMstId": 17009,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 17020011,
         "characterJobMstId": 17020,
         "characterJobSkillGroupId": 0,
@@ -25791,6 +27091,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17020151,
+        "characterJobMstId": 17020,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17020152,
+        "characterJobMstId": 17020,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17020153,
+        "characterJobMstId": 17020,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17020161,
+        "characterJobMstId": 17020,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 17020162,
+        "characterJobMstId": 17020,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -29654,6 +31004,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 19006151,
+        "characterJobMstId": 19006,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19006152,
+        "characterJobMstId": 19006,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19006153,
+        "characterJobMstId": 19006,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19006161,
+        "characterJobMstId": 19006,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19006162,
+        "characterJobMstId": 19006,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 19014011,
         "characterJobMstId": 19014,
         "characterJobSkillGroupId": 0,
@@ -29821,6 +31221,56 @@
         "name": "ATK+500",
         "jobSkillType": 8,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19014151,
+        "characterJobMstId": 19014,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19014152,
+        "characterJobMstId": 19014,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19014153,
+        "characterJobMstId": 19014,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19014161,
+        "characterJobMstId": 19014,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19014162,
+        "characterJobMstId": 19014,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -29994,6 +31444,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 19015151,
+        "characterJobMstId": 19015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19015152,
+        "characterJobMstId": 19015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19015153,
+        "characterJobMstId": 19015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19015161,
+        "characterJobMstId": 19015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 19015162,
+        "characterJobMstId": 19015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 20002011,
         "characterJobMstId": 20002,
         "characterJobSkillGroupId": 0,
@@ -30161,6 +31661,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 20002151,
+        "characterJobMstId": 20002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 20002152,
+        "characterJobMstId": 20002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 20002153,
+        "characterJobMstId": 20002,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 20002161,
+        "characterJobMstId": 20002,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 20002162,
+        "characterJobMstId": 20002,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -32914,6 +34464,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 24001151,
+        "characterJobMstId": 24001,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24001152,
+        "characterJobMstId": 24001,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24001153,
+        "characterJobMstId": 24001,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24001161,
+        "characterJobMstId": 24001,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24001162,
+        "characterJobMstId": 24001,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 24010011,
         "characterJobMstId": 24010,
         "characterJobSkillGroupId": 0,
@@ -33084,6 +34684,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 24010151,
+        "characterJobMstId": 24010,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24010152,
+        "characterJobMstId": 24010,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24010153,
+        "characterJobMstId": 24010,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24010161,
+        "characterJobMstId": 24010,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24010162,
+        "characterJobMstId": 24010,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 24015011,
         "characterJobMstId": 24015,
         "characterJobSkillGroupId": 0,
@@ -33251,6 +34901,56 @@
         "name": "Sp.ATK+500",
         "jobSkillType": 9,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24015151,
+        "characterJobMstId": 24015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24015152,
+        "characterJobMstId": 24015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24015153,
+        "characterJobMstId": 24015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24015161,
+        "characterJobMstId": 24015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 24015162,
+        "characterJobMstId": 24015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -33934,6 +35634,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 25015151,
+        "characterJobMstId": 25015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25015152,
+        "characterJobMstId": 25015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25015153,
+        "characterJobMstId": 25015,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25015161,
+        "characterJobMstId": 25015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25015162,
+        "characterJobMstId": 25015,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 25016011,
         "characterJobMstId": 25016,
         "characterJobSkillGroupId": 0,
@@ -34101,6 +35851,56 @@
         "name": "Sp.ATK+500",
         "jobSkillType": 9,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25016151,
+        "characterJobMstId": 25016,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25016152,
+        "characterJobMstId": 25016,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25016153,
+        "characterJobMstId": 25016,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25016161,
+        "characterJobMstId": 25016,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25016162,
+        "characterJobMstId": 25016,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -34274,6 +36074,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 25018151,
+        "characterJobMstId": 25018,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25018152,
+        "characterJobMstId": 25018,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25018153,
+        "characterJobMstId": 25018,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25018161,
+        "characterJobMstId": 25018,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 25018162,
+        "characterJobMstId": 25018,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 26005011,
         "characterJobMstId": 26005,
         "characterJobSkillGroupId": 0,
@@ -34441,6 +36291,56 @@
         "name": "Sp.DEF+500",
         "jobSkillType": 11,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26005151,
+        "characterJobMstId": 26005,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26005152,
+        "characterJobMstId": 26005,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26005153,
+        "characterJobMstId": 26005,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26005161,
+        "characterJobMstId": 26005,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26005162,
+        "characterJobMstId": 26005,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -34614,6 +36514,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 26006151,
+        "characterJobMstId": 26006,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26006152,
+        "characterJobMstId": 26006,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26006153,
+        "characterJobMstId": 26006,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26006161,
+        "characterJobMstId": 26006,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26006162,
+        "characterJobMstId": 26006,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 26009011,
         "characterJobMstId": 26009,
         "characterJobSkillGroupId": 0,
@@ -34781,6 +36731,56 @@
         "name": "Sp.DEF+500",
         "jobSkillType": 11,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26009151,
+        "characterJobMstId": 26009,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26009152,
+        "characterJobMstId": 26009,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26009153,
+        "characterJobMstId": 26009,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26009161,
+        "characterJobMstId": 26009,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 26009162,
+        "characterJobMstId": 26009,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -34954,6 +36954,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 27013151,
+        "characterJobMstId": 27013,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27013152,
+        "characterJobMstId": 27013,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27013153,
+        "characterJobMstId": 27013,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27013161,
+        "characterJobMstId": 27013,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27013162,
+        "characterJobMstId": 27013,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 27019011,
         "characterJobMstId": 27019,
         "characterJobSkillGroupId": 0,
@@ -35121,6 +37171,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27019151,
+        "characterJobMstId": 27019,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27019152,
+        "characterJobMstId": 27019,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27019153,
+        "characterJobMstId": 27019,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27019161,
+        "characterJobMstId": 27019,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 27019162,
+        "characterJobMstId": 27019,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -35634,6 +37734,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 30004151,
+        "characterJobMstId": 30004,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.ATK+500",
+        "jobSkillType": 3,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30004152,
+        "characterJobMstId": 30004,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30004153,
+        "characterJobMstId": 30004,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30004161,
+        "characterJobMstId": 30004,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30004162,
+        "characterJobMstId": 30004,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 30007011,
         "characterJobMstId": 30007,
         "characterJobSkillGroupId": 0,
@@ -35804,6 +37954,56 @@
         "cardType": 0
       },
       {
+        "characterJobSkillMstId": 30007151,
+        "characterJobMstId": 30007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30007152,
+        "characterJobMstId": 30007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "Sp.DEF+500",
+        "jobSkillType": 5,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30007153,
+        "characterJobMstId": 30007,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30007161,
+        "characterJobMstId": 30007,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30007162,
+        "characterJobMstId": 30007,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
         "characterJobSkillMstId": 30008011,
         "characterJobMstId": 30008,
         "characterJobSkillGroupId": 0,
@@ -35971,6 +38171,56 @@
         "name": "DEF+500",
         "jobSkillType": 10,
         "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30008151,
+        "characterJobMstId": 30008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "ATK+500",
+        "jobSkillType": 2,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30008152,
+        "characterJobMstId": 30008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "DEF+500",
+        "jobSkillType": 4,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30008153,
+        "characterJobMstId": 30008,
+        "characterJobSkillGroupId": 0,
+        "level": 15,
+        "name": "HP+500",
+        "jobSkillType": 1,
+        "jobSkillValue": 500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30008161,
+        "characterJobMstId": 30008,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 30008162,
+        "characterJobMstId": 30008,
+        "characterJobSkillGroupId": 0,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
         "cardType": 0
       },
       {
@@ -92297,6 +94547,3086 @@
         "characterJobSkillMstId": 210702162,
         "characterJobMstId": 0,
         "characterJobSkillGroupId": 210702,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 1,
+        "name": "DEF+150",
+        "jobSkillType": 4,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 2,
+        "name": "通常単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 1
+      },
+      {
+        "characterJobSkillMstId": 220101031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 4,
+        "name": "通常単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 1
+      },
+      {
+        "characterJobSkillMstId": 220101051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 5,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 7,
+        "name": "通常単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 1
+      },
+      {
+        "characterJobSkillMstId": 220101081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 8,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 9,
+        "name": "通常単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 1
+      },
+      {
+        "characterJobSkillMstId": 220101101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 11,
+        "name": "ATK+350",
+        "jobSkillType": 2,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 12,
+        "name": "通常単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 1
+      },
+      {
+        "characterJobSkillMstId": 220101131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 13,
+        "name": "ATK+850",
+        "jobSkillType": 2,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 14,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 15,
+        "name": "ATK+600",
+        "jobSkillType": 2,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220101162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220101,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 1,
+        "name": "DEF+150",
+        "jobSkillType": 4,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 2,
+        "name": "通常範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 2
+      },
+      {
+        "characterJobSkillMstId": 220201031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 4,
+        "name": "通常範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 2
+      },
+      {
+        "characterJobSkillMstId": 220201051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 5,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 7,
+        "name": "通常範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 2
+      },
+      {
+        "characterJobSkillMstId": 220201081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 8,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 9,
+        "name": "通常範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 2
+      },
+      {
+        "characterJobSkillMstId": 220201101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 11,
+        "name": "ATK+350",
+        "jobSkillType": 2,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 12,
+        "name": "通常範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 2
+      },
+      {
+        "characterJobSkillMstId": 220201131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 13,
+        "name": "ATK+850",
+        "jobSkillType": 2,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 14,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 15,
+        "name": "ATK+600",
+        "jobSkillType": 2,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220201162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220201,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 2,
+        "name": "特殊単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 3
+      },
+      {
+        "characterJobSkillMstId": 220301031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 4,
+        "name": "特殊単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 3
+      },
+      {
+        "characterJobSkillMstId": 220301051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 5,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 7,
+        "name": "特殊単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 3
+      },
+      {
+        "characterJobSkillMstId": 220301081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 8,
+        "name": "Sp.DEF+200",
+        "jobSkillType": 5,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 9,
+        "name": "特殊単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 3
+      },
+      {
+        "characterJobSkillMstId": 220301101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 10,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 11,
+        "name": "Sp.ATK+350",
+        "jobSkillType": 3,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 12,
+        "name": "特殊単体+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 3
+      },
+      {
+        "characterJobSkillMstId": 220301131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 13,
+        "name": "Sp.ATK+850",
+        "jobSkillType": 3,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 14,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 15,
+        "name": "Sp.ATK+600",
+        "jobSkillType": 3,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220301162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220301,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 2,
+        "name": "特殊範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 4
+      },
+      {
+        "characterJobSkillMstId": 220401031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 4,
+        "name": "特殊範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 4
+      },
+      {
+        "characterJobSkillMstId": 220401051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 5,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 7,
+        "name": "特殊範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 4
+      },
+      {
+        "characterJobSkillMstId": 220401081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 8,
+        "name": "Sp.DEF+200",
+        "jobSkillType": 5,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 9,
+        "name": "特殊範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 4
+      },
+      {
+        "characterJobSkillMstId": 220401101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 10,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 11,
+        "name": "Sp.ATK+350",
+        "jobSkillType": 3,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 12,
+        "name": "特殊範囲+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 4
+      },
+      {
+        "characterJobSkillMstId": 220401131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 13,
+        "name": "Sp.ATK+850",
+        "jobSkillType": 3,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 14,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 15,
+        "name": "Sp.ATK+600",
+        "jobSkillType": 3,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220401162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220401,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 2,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220501031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 4,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220501051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 7,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220501081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 9,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220501101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 11,
+        "name": "ATK+350",
+        "jobSkillType": 2,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 12,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220501131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 13,
+        "name": "ATK+850",
+        "jobSkillType": 2,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 14,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 15,
+        "name": "ATK+600",
+        "jobSkillType": 2,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220501162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220501,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 2,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220502031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 4,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220502051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 7,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220502081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 9,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220502101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 11,
+        "name": "ATK+350",
+        "jobSkillType": 2,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 12,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220502131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 13,
+        "name": "DEF+850",
+        "jobSkillType": 4,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 14,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 15,
+        "name": "ATK+600",
+        "jobSkillType": 2,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220502162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220502,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 2,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220503031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 4,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220503051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 7,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220503081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 9,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220503101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 11,
+        "name": "Sp.ATK+350",
+        "jobSkillType": 3,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 12,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220503131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 13,
+        "name": "Sp.ATK+850",
+        "jobSkillType": 3,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 14,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 15,
+        "name": "Sp.ATK+600",
+        "jobSkillType": 3,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220503162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220503,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 2,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220504031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 4,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220504051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 7,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220504081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 9,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220504101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 11,
+        "name": "Sp.ATK+350",
+        "jobSkillType": 3,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 12,
+        "name": "支援+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 5
+      },
+      {
+        "characterJobSkillMstId": 220504131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 13,
+        "name": "Sp.DEF+850",
+        "jobSkillType": 5,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 14,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 15,
+        "name": "Sp.ATK+600",
+        "jobSkillType": 3,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220504162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220504,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 2,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220601031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 4,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220601051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 7,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220601081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 9,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220601101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 11,
+        "name": "ATK+350",
+        "jobSkillType": 2,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 12,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220601131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 13,
+        "name": "ATK+850",
+        "jobSkillType": 2,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 14,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 15,
+        "name": "ATK+600",
+        "jobSkillType": 2,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220601162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220601,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 2,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220602031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 4,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220602051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 7,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220602081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 9,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220602101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 11,
+        "name": "ATK+350",
+        "jobSkillType": 2,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 12,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220602131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 13,
+        "name": "DEF+850",
+        "jobSkillType": 4,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 14,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 15,
+        "name": "ATK+600",
+        "jobSkillType": 2,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 16,
+        "name": "ATK+1500",
+        "jobSkillType": 8,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220602162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220602,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 2,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220603031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 4,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220603051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 7,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220603081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 9,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220603101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 11,
+        "name": "Sp.ATK+350",
+        "jobSkillType": 3,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 12,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220603131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 13,
+        "name": "Sp.ATK+850",
+        "jobSkillType": 3,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 14,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 15,
+        "name": "Sp.ATK+600",
+        "jobSkillType": 3,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220603162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220603,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 2,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220604031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 4,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220604051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 7,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220604081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 9,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220604101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 11,
+        "name": "Sp.ATK+350",
+        "jobSkillType": 3,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 12,
+        "name": "妨害+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 6
+      },
+      {
+        "characterJobSkillMstId": 220604131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 13,
+        "name": "Sp.DEF+850",
+        "jobSkillType": 5,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 14,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 15,
+        "name": "Sp.ATK+600",
+        "jobSkillType": 3,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 16,
+        "name": "Sp.ATK+1500",
+        "jobSkillType": 9,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220604162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220604,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 2,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220701031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 4,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220701051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 7,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220701081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 9,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220701101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 12,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220701131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 13,
+        "name": "DEF+850",
+        "jobSkillType": 4,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220701162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220701,
+        "level": 16,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702011,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 1,
+        "name": "Sp.DEF+150",
+        "jobSkillType": 5,
+        "jobSkillValue": 150,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702021,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 2,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220702031,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 3,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702041,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 4,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220702051,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 5,
+        "name": "DEF+200",
+        "jobSkillType": 4,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702061,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 6,
+        "name": "HP+400",
+        "jobSkillType": 1,
+        "jobSkillValue": 400,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702071,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 7,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220702081,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 8,
+        "name": "Sp.ATK+200",
+        "jobSkillType": 3,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702091,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 9,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220702101,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 10,
+        "name": "ATK+200",
+        "jobSkillType": 2,
+        "jobSkillValue": 200,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702111,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 11,
+        "name": "DEF+350",
+        "jobSkillType": 4,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702112,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 11,
+        "name": "Sp.DEF+350",
+        "jobSkillType": 5,
+        "jobSkillValue": 350,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702121,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 12,
+        "name": "回復+3%",
+        "jobSkillType": 6,
+        "jobSkillValue": 30,
+        "cardType": 7
+      },
+      {
+        "characterJobSkillMstId": 220702131,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 13,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702132,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 13,
+        "name": "Sp.DEF+850",
+        "jobSkillType": 5,
+        "jobSkillValue": 850,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702141,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 14,
+        "name": "Sp.DEF+1500",
+        "jobSkillType": 11,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702142,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 14,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702151,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 15,
+        "name": "DEF+600",
+        "jobSkillType": 4,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702152,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 15,
+        "name": "Sp.DEF+600",
+        "jobSkillType": 5,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702153,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 15,
+        "name": "HP+600",
+        "jobSkillType": 1,
+        "jobSkillValue": 600,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702161,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
+        "level": 16,
+        "name": "DEF+1500",
+        "jobSkillType": 10,
+        "jobSkillValue": 1500,
+        "cardType": 0
+      },
+      {
+        "characterJobSkillMstId": 220702162,
+        "characterJobMstId": 0,
+        "characterJobSkillGroupId": 220702,
         "level": 16,
         "name": "Sp.DEF+1500",
         "jobSkillType": 11,

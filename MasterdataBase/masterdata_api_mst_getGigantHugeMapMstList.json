@@ -704,6 +704,26 @@
         "boxGachaSeriesMstId": 10032
       },
       {
+        "gigantHugeMapMstId": 4002,
+        "name": "4.5周年記念バトルパーティー",
+        "description": "4.5周年記念バトルパーティー",
+        "mapType": 6,
+        "multiScoreRankingId": 0,
+        "bannerId": 1231203,
+        "sortOrder": 100,
+        "backgroundImage": 4000501,
+        "appearType": 0,
+        "defaultMapBgm": "bgm_outsource_120-001",
+        "appearanceGigantHugeBgm": "bgm_outsource_120-001",
+        "mapLoginBonusItemMstId": 0,
+        "mapLoginBonusItemNum": 0,
+        "gigantHugeRankingRewardGroupId": 0,
+        "dailyPlayCount": 0,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": -62170017539,
+        "boxGachaSeriesMstId": 10034
+      },
+      {
         "gigantHugeMapMstId": 5002,
         "name": "ギガント級共闘戦 - APOCALYPSE -",
         "description": "ギガント級共闘戦 - APOCALYPSE -",

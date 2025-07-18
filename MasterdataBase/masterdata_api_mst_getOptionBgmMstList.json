@@ -1586,6 +1586,22 @@
         "forceBgmEndTime": 1740711599,
         "startTime": 1737342000,
         "endTime": -62170017539
+      },
+      {
+        "optionBgmMstId": 210100,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 210100,
+        "title": "ユリーカ！（梨璃＆夢結ver.）",
+        "lyrics": "安藤紗々",
+        "composition": "鈴谷皆人",
+        "arrangement": "鈴谷皆人",
+        "cv": "一柳梨璃(CV:赤尾ひかる)＆白井夢結(CV:夏吉ゆうこ)",
+        "fileName": "bgm_outsource_127-001",
+        "forceBgmStartTime": 1752980400,
+        "forceBgmEndTime": 1756609199,
+        "startTime": 1752980400,
+        "endTime": -62170017539
       }
     ]
   }

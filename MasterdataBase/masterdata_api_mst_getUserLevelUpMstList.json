@@ -1995,13 +1995,113 @@
       },
       {
         "level": 200,
-        "levelUpExp": 0,
+        "levelUpExp": 2510000,
         "maxDeckCost": 565,
         "mainDeckCardSetNum": 20,
         "subDeckCardSetNum": 22,
         "subDeckTacticsSetNum": 18,
         "maxStamina": 160,
         "maxHp": 125400
+      },
+      {
+        "level": 201,
+        "levelUpExp": 2520000,
+        "maxDeckCost": 567,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 22,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 127400
+      },
+      {
+        "level": 202,
+        "levelUpExp": 2530000,
+        "maxDeckCost": 569,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 22,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 129400
+      },
+      {
+        "level": 203,
+        "levelUpExp": 2540000,
+        "maxDeckCost": 571,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 22,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 131400
+      },
+      {
+        "level": 204,
+        "levelUpExp": 2550000,
+        "maxDeckCost": 573,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 22,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 133400
+      },
+      {
+        "level": 205,
+        "levelUpExp": 2560000,
+        "maxDeckCost": 575,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 23,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 135400
+      },
+      {
+        "level": 206,
+        "levelUpExp": 2570000,
+        "maxDeckCost": 577,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 23,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 137400
+      },
+      {
+        "level": 207,
+        "levelUpExp": 2580000,
+        "maxDeckCost": 579,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 23,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 139400
+      },
+      {
+        "level": 208,
+        "levelUpExp": 2590000,
+        "maxDeckCost": 581,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 23,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 141400
+      },
+      {
+        "level": 209,
+        "levelUpExp": 2600000,
+        "maxDeckCost": 583,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 23,
+        "subDeckTacticsSetNum": 18,
+        "maxStamina": 160,
+        "maxHp": 143400
+      },
+      {
+        "level": 210,
+        "levelUpExp": 0,
+        "maxDeckCost": 585,
+        "mainDeckCardSetNum": 20,
+        "subDeckCardSetNum": 24,
+        "subDeckTacticsSetNum": 19,
+        "maxStamina": 160,
+        "maxHp": 145400
       }
     ]
   }

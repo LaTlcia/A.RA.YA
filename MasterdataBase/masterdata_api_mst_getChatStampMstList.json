@@ -2918,6 +2918,54 @@
         "conditionValue2": 0,
         "startTime": 1751252400,
         "endTime": 1752505199
+      },
+      {
+        "chatStampMstId": 265,
+        "name": "祝4.5周年！",
+        "characterMstId": 130,
+        "type": 9,
+        "howToGetText": "「160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1752980400,
+        "endTime": 1756609199
+      },
+      {
+        "chatStampMstId": 266,
+        "name": "夏だー！",
+        "characterMstId": 126,
+        "type": 9,
+        "howToGetText": "「160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1752980400,
+        "endTime": 1756609199
+      },
+      {
+        "chatStampMstId": 267,
+        "name": "飲みますか？",
+        "characterMstId": 7,
+        "type": 9,
+        "howToGetText": "朝陽のサマースクール【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1752980400,
+        "endTime": 1753930799
+      },
+      {
+        "chatStampMstId": 268,
+        "name": "あついです～",
+        "characterMstId": 17,
+        "type": 9,
+        "howToGetText": "「160円deざくざくパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1752980400,
+        "endTime": 1756609199
       }
     ]
   }
