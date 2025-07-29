@@ -1592,6 +1592,26 @@
         "objectType": 6,
         "objectId": 1,
         "num": 30
+      },
+      {
+        "cardStoryMstId": 169,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010300004",
+        "uniqueId": 10300004,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 170,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010300005",
+        "uniqueId": 10300005,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
       }
     ]
   }

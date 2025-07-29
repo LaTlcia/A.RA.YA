@@ -6701,6 +6701,83 @@
         "styleId": 360,
         "rareSkillId": 13,
         "neunWeltIcon": 1088
+      },
+      {
+        "characterJobSkillDirectionMstId": 958,
+        "characterMstId": 51,
+        "styleId": 300,
+        "rareSkillId": 3,
+        "neunWeltIcon": 300051
+      },
+      {
+        "characterJobSkillDirectionMstId": 959,
+        "characterMstId": 81,
+        "styleId": 300,
+        "rareSkillId": 3,
+        "neunWeltIcon": 300081
+      },
+      {
+        "characterJobSkillDirectionMstId": 960,
+        "characterMstId": 122,
+        "styleId": 300,
+        "rareSkillId": 27,
+        "neunWeltIcon": 300122
+      },
+      {
+        "characterJobSkillDirectionMstId": 961,
+        "characterMstId": 4,
+        "styleId": 300,
+        "rareSkillId": 2,
+        "neunWeltIcon": 300004
+      },
+      {
+        "characterJobSkillDirectionMstId": 962,
+        "characterMstId": 5,
+        "styleId": 300,
+        "rareSkillId": 1,
+        "neunWeltIcon": 300005
+      },
+      {
+        "characterJobSkillDirectionMstId": 963,
+        "characterMstId": 69,
+        "styleId": 348,
+        "rareSkillId": 13,
+        "neunWeltIcon": 348069
+      },
+      {
+        "characterJobSkillDirectionMstId": 964,
+        "characterMstId": 44,
+        "styleId": 348,
+        "rareSkillId": 28,
+        "neunWeltIcon": 348044
+      },
+      {
+        "characterJobSkillDirectionMstId": 965,
+        "characterMstId": 41,
+        "styleId": 348,
+        "rareSkillId": 22,
+        "neunWeltIcon": 348041
+      },
+      {
+        "characterJobSkillDirectionMstId": 966,
+        "characterMstId": 124,
+        "styleId": 348,
+        "rareSkillId": 16,
+        "neunWeltIcon": 348124
+      },
+      {
+        "characterJobSkillDirectionMstId": 967,
+        "characterMstId": 109,
+        "styleId": 348,
+        "rareSkillId": 6,
+        "neunWeltIcon": 348109
+      },
+      {
+        "characterJobSkillDirectionMstId": 968,
+        "characterMstId": 69,
+        "styleId": 361,
+        "rareSkillId": 13,
+        "neunWeltIcon": 361069
       }
     ]
   }

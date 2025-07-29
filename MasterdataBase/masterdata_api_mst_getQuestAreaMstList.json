@@ -1652,6 +1652,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 163101,
+        "questMapMstId": 163,
+        "name": "マルチバトル",
+        "description": "みんなで！共闘バトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -3460,6 +3468,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 349101,
+        "questMapMstId": 349,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -4964,6 +4980,38 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 790101,
+        "questMapMstId": 790,
+        "name": "メダルイベント",
+        "description": "真昼のエクササイズバトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 790201,
+        "questMapMstId": 790,
+        "name": "メダルイベント",
+        "description": "真昼のエクササイズバトル",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 791101,
+        "questMapMstId": 791,
+        "name": "メダルイベント",
+        "description": "夏のノルニル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 791201,
+        "questMapMstId": 791,
+        "name": "メダルイベント",
+        "description": "夏のノルニル",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5008,6 +5056,14 @@
         "questMapMstId": 907,
         "name": "",
         "description": "リリィサバイバル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1001101,
+        "questMapMstId": 1001,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
         "mode": 1,
         "hasNextComingSoon": false
       }
