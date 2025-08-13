@@ -7154,6 +7154,28 @@
         "dailyJoinRewardCount": 0
       },
       {
+        "questMapMstId": 792,
+        "mapType": 6,
+        "name": "メダルイベント",
+        "description": "夏夜のアングレカム",
+        "isMultiBattle": false,
+        "firstQuestStageMstId": 79210101,
+        "lastQuestStageMstId": 79220115,
+        "partySequenceFrontNum": 2,
+        "dailyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 1231271,
+        "eventStoryBannerMstId": 1231271,
+        "stageViewBgm": "bgm_anime_09-001",
+        "bgImageId": 1037402,
+        "isBookmarkRelease": true,
+        "bookmarkReleaseStartTime": 1772420400,
+        "boxGachaSeriesMstId": 0,
+        "dailyJoinRewardCount": 0
+      },
+      {
         "questMapMstId": 901,
         "mapType": 2,
         "name": "ライブ連動シナリオ",

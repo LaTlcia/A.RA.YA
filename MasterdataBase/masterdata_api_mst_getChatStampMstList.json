@@ -2978,6 +2978,18 @@
         "conditionValue2": 0,
         "startTime": 1753930800,
         "endTime": 1755183599
+      },
+      {
+        "chatStampMstId": 271,
+        "name": "よろしくね",
+        "characterMstId": 128,
+        "type": 1,
+        "howToGetText": "夏夜のアングレカム【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1755140400,
+        "endTime": 1756609199
       }
     ]
   }

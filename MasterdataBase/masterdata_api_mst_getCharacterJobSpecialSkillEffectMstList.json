@@ -52,6 +52,12 @@
         "type": 0
       },
       {
+        "characterJobSpecialSkillEffectMstId": 12101,
+        "name": "AD火属性効果増加Ⅰ",
+        "description": "[レギオンマッチ]自身が使用する火属性メモリアのスキル効果4％UP",
+        "type": 0
+      },
+      {
         "characterJobSpecialSkillEffectMstId": 13100,
         "name": "AD火属性効果耐性Ⅰ",
         "description": "[レギオンマッチ]自身に対する火属性メモリアのダメージ/妨害スキル効果4%DOWN",
@@ -76,6 +82,30 @@
         "type": 0
       },
       {
+        "characterJobSpecialSkillEffectMstId": 13104,
+        "name": "AD火属性効果耐性Ⅰ",
+        "description": "[レギオンマッチ]自身に対する火属性メモリアのダメージ/妨害スキル効果3%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 13105,
+        "name": "AD火属性効果耐性Ⅱ",
+        "description": "[レギオンマッチ]自身に対する火属性メモリアのダメージ/妨害スキル効果3.5%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 13106,
+        "name": "AD火属性効果耐性Ⅲ",
+        "description": "[レギオンマッチ]自身に対する火属性メモリアのダメージ/妨害スキル効果3.8%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 13107,
+        "name": "AD火属性効果耐性Ⅳ",
+        "description": "[レギオンマッチ]自身に対する火属性メモリアのダメージ/妨害スキル効果4%DOWN",
+        "type": 0
+      },
+      {
         "characterJobSpecialSkillEffectMstId": 14100,
         "name": "AD火属性補助発動率増加Ⅰ",
         "description": "[レギオンマッチ]自身が使用する火属性メモリアの補助スキル発動確率が1％UP",
@@ -97,6 +127,30 @@
         "characterJobSpecialSkillEffectMstId": 14103,
         "name": "AD火属性補助発動率増加Ⅳ",
         "description": "[レギオンマッチ]自身が使用する火属性メモリアの補助スキル発動確率が2％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 14104,
+        "name": "AD火属性補助発動率増加Ⅰ",
+        "description": "[レギオンマッチ]自身が使用する火属性メモリアの補助スキル発動確率が0.6％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 14105,
+        "name": "AD火属性補助発動率増加Ⅱ",
+        "description": "[レギオンマッチ]自身が使用する火属性メモリアの補助スキル発動確率が0.9％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 14106,
+        "name": "AD火属性補助発動率増加Ⅲ",
+        "description": "[レギオンマッチ]自身が使用する火属性メモリアの補助スキル発動確率が1.2％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 14107,
+        "name": "AD火属性補助発動率増加Ⅳ",
+        "description": "[レギオンマッチ]自身が使用する火属性メモリアの補助スキル発動確率が1.5％UP",
         "type": 0
       },
       {
@@ -142,6 +196,12 @@
         "type": 0
       },
       {
+        "characterJobSpecialSkillEffectMstId": 22101,
+        "name": "AD水属性効果増加Ⅰ",
+        "description": "[レギオンマッチ]自身が使用する水属性メモリアのスキル効果4％UP",
+        "type": 0
+      },
+      {
         "characterJobSpecialSkillEffectMstId": 23100,
         "name": "AD水属性効果耐性Ⅰ",
         "description": "[レギオンマッチ]自身に対する水属性メモリアのダメージ/妨害スキル効果4%DOWN",
@@ -163,6 +223,30 @@
         "characterJobSpecialSkillEffectMstId": 23103,
         "name": "AD水属性効果耐性Ⅳ",
         "description": "[レギオンマッチ]自身に対する水属性メモリアのダメージ/妨害スキル効果5%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 23104,
+        "name": "AD水属性効果耐性Ⅰ",
+        "description": "[レギオンマッチ]自身に対する水属性メモリアのダメージ/妨害スキル効果3%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 23105,
+        "name": "AD水属性効果耐性Ⅱ",
+        "description": "[レギオンマッチ]自身に対する水属性メモリアのダメージ/妨害スキル効果3.5%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 23106,
+        "name": "AD水属性効果耐性Ⅲ",
+        "description": "[レギオンマッチ]自身に対する水属性メモリアのダメージ/妨害スキル効果3.8%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 23107,
+        "name": "AD水属性効果耐性Ⅳ",
+        "description": "[レギオンマッチ]自身に対する水属性メモリアのダメージ/妨害スキル効果4%DOWN",
         "type": 0
       },
       {
@@ -190,6 +274,30 @@
         "type": 0
       },
       {
+        "characterJobSpecialSkillEffectMstId": 24104,
+        "name": "AD水属性補助発動率増加Ⅰ",
+        "description": "[レギオンマッチ]自身が使用する水属性メモリアの補助スキル発動確率が0.6％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 24105,
+        "name": "AD水属性補助発動率増加Ⅱ",
+        "description": "[レギオンマッチ]自身が使用する水属性メモリアの補助スキル発動確率が0.9％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 24106,
+        "name": "AD水属性補助発動率増加Ⅲ",
+        "description": "[レギオンマッチ]自身が使用する水属性メモリアの補助スキル発動確率が1.2％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 24107,
+        "name": "AD水属性補助発動率増加Ⅳ",
+        "description": "[レギオンマッチ]自身が使用する水属性メモリアの補助スキル発動確率が1.5％UP",
+        "type": 0
+      },
+      {
         "characterJobSpecialSkillEffectMstId": 30101,
         "name": "風属性メモリア効果増加AⅡ",
         "description": "自身が使用する風属性メモリアのスキル効果3％UP",
@@ -211,6 +319,12 @@
         "characterJobSpecialSkillEffectMstId": 32100,
         "name": "AD風属性効果増加Ⅰ",
         "description": "[レギオンマッチ]自身が使用する風属性メモリアのスキル効果5％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 32101,
+        "name": "AD風属性効果増加Ⅰ",
+        "description": "[レギオンマッチ]自身が使用する風属性メモリアのスキル効果4％UP",
         "type": 0
       },
       {
@@ -238,6 +352,30 @@
         "type": 0
       },
       {
+        "characterJobSpecialSkillEffectMstId": 33104,
+        "name": "AD風属性効果耐性Ⅰ",
+        "description": "[レギオンマッチ]自身に対する風属性メモリアのダメージ/妨害スキル効果3%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 33105,
+        "name": "AD風属性効果耐性Ⅱ",
+        "description": "[レギオンマッチ]自身に対する風属性メモリアのダメージ/妨害スキル効果3.5%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 33106,
+        "name": "AD風属性効果耐性Ⅲ",
+        "description": "[レギオンマッチ]自身に対する風属性メモリアのダメージ/妨害スキル効果3.8%DOWN",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 33107,
+        "name": "AD風属性効果耐性Ⅳ",
+        "description": "[レギオンマッチ]自身に対する風属性メモリアのダメージ/妨害スキル効果4%DOWN",
+        "type": 0
+      },
+      {
         "characterJobSpecialSkillEffectMstId": 34100,
         "name": "AD風属性補助発動率増加Ⅰ",
         "description": "[レギオンマッチ]自身が使用する風属性メモリアの補助スキル発動確率が1％UP",
@@ -259,6 +397,30 @@
         "characterJobSpecialSkillEffectMstId": 34103,
         "name": "AD風属性補助発動率増加Ⅳ",
         "description": "[レギオンマッチ]自身が使用する風属性メモリアの補助スキル発動確率が2％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 34104,
+        "name": "AD風属性補助発動率増加Ⅰ",
+        "description": "[レギオンマッチ]自身が使用する風属性メモリアの補助スキル発動確率が0.6％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 34105,
+        "name": "AD風属性補助発動率増加Ⅱ",
+        "description": "[レギオンマッチ]自身が使用する風属性メモリアの補助スキル発動確率が0.9％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 34106,
+        "name": "AD風属性補助発動率増加Ⅲ",
+        "description": "[レギオンマッチ]自身が使用する風属性メモリアの補助スキル発動確率が1.2％UP",
+        "type": 0
+      },
+      {
+        "characterJobSpecialSkillEffectMstId": 34107,
+        "name": "AD風属性補助発動率増加Ⅳ",
+        "description": "[レギオンマッチ]自身が使用する風属性メモリアの補助スキル発動確率が1.5％UP",
         "type": 0
       },
       {

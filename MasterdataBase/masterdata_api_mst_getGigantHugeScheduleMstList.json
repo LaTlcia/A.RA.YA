@@ -400,6 +400,17 @@
         "endTime": 1749135599
       },
       {
+        "gigantHugeScheduleMstId": 200901,
+        "gigantHugeMapMstId": 2009,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 9,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第9回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50091,
+        "startTime": 1756350000,
+        "endTime": 1756911599
+      },
+      {
         "gigantHugeScheduleMstId": 300100,
         "gigantHugeMapMstId": 3001,
         "reprintNum": 0,
@@ -486,6 +497,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50081,
         "startTime": 1748574000,
         "endTime": 1749135599
+      },
+      {
+        "gigantHugeScheduleMstId": 300901,
+        "gigantHugeMapMstId": 3009,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 9,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第9回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50091,
+        "startTime": 1756350000,
+        "endTime": 1756911599
       },
       {
         "gigantHugeScheduleMstId": 400100,
@@ -596,6 +618,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50081,
         "startTime": 1748574000,
         "endTime": 1749135599
+      },
+      {
+        "gigantHugeScheduleMstId": 500901,
+        "gigantHugeMapMstId": 5009,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 9,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第9回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50091,
+        "startTime": 1756350000,
+        "endTime": 1756911599
       }
     ]
   }

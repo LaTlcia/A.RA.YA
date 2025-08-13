@@ -5702,6 +5702,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10825,
+        "title": "4.5周年記念レギオンリーグ2nd 特別ミッション",
+        "completeMissionMstId": 10825001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3778
+      },
+      {
+        "missionTitleMstId": 10826,
+        "title": "リリホリ!! 夏夜のアングレカム",
+        "completeMissionMstId": 10826001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3873
+      },
+      {
+        "missionTitleMstId": 10827,
+        "title": "夏夜のアングレカム【個人】",
+        "completeMissionMstId": 10827001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10828,
+        "title": "夏夜のアングレカム【レギオン】",
+        "completeMissionMstId": 10828001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10829,
+        "title": "夏夜のアングレカム【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10830,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10830001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10831,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,

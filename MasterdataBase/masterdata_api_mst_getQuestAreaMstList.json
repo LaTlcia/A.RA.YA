@@ -5012,6 +5012,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 792101,
+        "questMapMstId": 792,
+        "name": "メダルイベント",
+        "description": "夏夜のアングレカム",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 792201,
+        "questMapMstId": 792,
+        "name": "メダルイベント",
+        "description": "夏夜のアングレカム",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

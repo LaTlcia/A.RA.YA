@@ -12756,6 +12756,30 @@
         "num": 1
       },
       {
+        "loginBonusRewardMstId": 1015300,
+        "loginBonusMstId": 10153,
+        "dayCount": 1,
+        "objectType": 1,
+        "objectId": 1215225,
+        "num": 5
+      },
+      {
+        "loginBonusRewardMstId": 1015301,
+        "loginBonusMstId": 10153,
+        "dayCount": 2,
+        "objectType": 1,
+        "objectId": 1215235,
+        "num": 5
+      },
+      {
+        "loginBonusRewardMstId": 1015302,
+        "loginBonusMstId": 10153,
+        "dayCount": 3,
+        "objectType": 1,
+        "objectId": 1215245,
+        "num": 5
+      },
+      {
         "loginBonusRewardMstId": 10037001,
         "loginBonusMstId": 10037,
         "dayCount": 1,
