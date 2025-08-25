@@ -3476,6 +3476,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 350101,
+        "questMapMstId": 350,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 351101,
+        "questMapMstId": 351,
+        "name": "ミニイベント",
+        "description": "プレストーリー外崎杏花編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",

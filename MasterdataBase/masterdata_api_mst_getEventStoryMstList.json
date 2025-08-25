@@ -14876,6 +14876,28 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 35010101,
+        "questStageMstId": 35010101,
+        "title": "二十二品目 海鮮ノインヴェルト丼",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_22",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1756306800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 35110101,
+        "questStageMstId": 35110101,
+        "title": "プレストーリー外崎杏花編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_134",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1756386000,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
