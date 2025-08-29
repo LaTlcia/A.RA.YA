@@ -5751,6 +5751,34 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10832,
+        "title": "再会と追想のグリモワール【個人】",
+        "completeMissionMstId": 10832001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10833,
+        "title": "再会と追想のグリモワール【レギオン】",
+        "completeMissionMstId": 10833001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10834,
+        "title": "再会と追想のグリモワール【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10835,
+        "title": "新章 -New Color Days- 開幕直前",
+        "completeMissionMstId": 10835001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3891
+      },
+      {
         "missionTitleMstId": 10837,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,

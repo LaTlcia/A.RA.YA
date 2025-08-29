@@ -6848,6 +6848,55 @@
         "styleId": 360,
         "rareSkillId": 3,
         "neunWeltIcon": 1010
+      },
+      {
+        "characterJobSkillDirectionMstId": 979,
+        "characterMstId": 15,
+        "styleId": 342,
+        "rareSkillId": 27,
+        "neunWeltIcon": 342015
+      },
+      {
+        "characterJobSkillDirectionMstId": 980,
+        "characterMstId": 16,
+        "styleId": 342,
+        "rareSkillId": 38,
+        "neunWeltIcon": 342016
+      },
+      {
+        "characterJobSkillDirectionMstId": 981,
+        "characterMstId": 134,
+        "styleId": 1,
+        "rareSkillId": 30,
+        "neunWeltIcon": 1134
+      },
+      {
+        "characterJobSkillDirectionMstId": 982,
+        "characterMstId": 82,
+        "styleId": 342,
+        "rareSkillId": 17,
+        "neunWeltIcon": 342082
+      },
+      {
+        "characterJobSkillDirectionMstId": 983,
+        "characterMstId": 105,
+        "styleId": 342,
+        "rareSkillId": 15,
+        "neunWeltIcon": 342105
+      },
+      {
+        "characterJobSkillDirectionMstId": 984,
+        "characterMstId": 87,
+        "styleId": 349,
+        "rareSkillId": 15,
+        "neunWeltIcon": 349087
+      },
+      {
+        "characterJobSkillDirectionMstId": 985,
+        "characterMstId": 47,
+        "styleId": 349,
+        "rareSkillId": 27,
+        "neunWeltIcon": 349047
       }
     ]
   }

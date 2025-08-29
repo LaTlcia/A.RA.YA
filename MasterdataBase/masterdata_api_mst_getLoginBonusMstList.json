@@ -2804,6 +2804,20 @@
         "endTime": 1757775599
       },
       {
+        "loginBonusMstId": 10155,
+        "title": "新章 -New Color Days- 開幕直前ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015623,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1756584000,
+        "endTime": 1757966399
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

@@ -2980,6 +2980,18 @@
         "endTime": 1755183599
       },
       {
+        "chatStampMstId": 270,
+        "name": "まぶしいですわね",
+        "characterMstId": 130,
+        "type": 9,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1756609200,
+        "endTime": 1759201199
+      },
+      {
         "chatStampMstId": 271,
         "name": "よろしくね",
         "characterMstId": 128,
@@ -2990,6 +3002,30 @@
         "conditionValue2": 0,
         "startTime": 1755140400,
         "endTime": 1756609199
+      },
+      {
+        "chatStampMstId": 272,
+        "name": "がんばって！",
+        "characterMstId": 131,
+        "type": 9,
+        "howToGetText": "「追加スタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1756609200,
+        "endTime": 1759201199
+      },
+      {
+        "chatStampMstId": 273,
+        "name": "なんとかなるよ！",
+        "characterMstId": 134,
+        "type": 3,
+        "howToGetText": "再会と追想のグリモワール【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1756609200,
+        "endTime": 1757948399
       }
     ]
   }

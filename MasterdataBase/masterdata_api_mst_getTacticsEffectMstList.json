@@ -5818,6 +5818,23 @@
         "executeEffectVariable": 2
       },
       {
+        "tacticsEffectMstId": 56015,
+        "name": "[火風]属性効果増加Lv.5",
+        "description": "火属性と風属性のメモリアスキル効果が極大増加する。※既に他の火属性効果、風属性効果が増加するオーダーが使用されている場合でも使用可能。",
+        "sp": 200,
+        "type": 56,
+        "group": 0,
+        "parameterText": "{\"skillEffectUpAttackRate\":\"70\",\"skillEffectUpRecoveryRate\":\"70\",\"skillEffectUpBufferMaxHpRate\":\"70\",\"skillEffectUpBufferPhysicalAttackRate\":\"70\",\"skillEffectUpBufferMagicalAttackRate\":\"70\",\"skillEffectUpBufferPhysicalDefenseRate\":\"70\",\"skillEffectUpBufferMagicalDefenseRate\":\"70\",\"skillEffectUpDebufferMaxHpRate\":\"70\",\"skillEffectUpDebufferPhysicalAttackRate\":\"70\",\"skillEffectUpDebufferMagicalAttackRate\":\"70\",\"skillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"skillEffectUpDebufferMagicalDefenseRate\":\"70\",\"skillEffectUpBufferAttributeAttackRate\":\"70\",\"skillEffectUpBufferAttributeDefenseRate\":\"70\",\"skillEffectUpDebufferAttributeAttackRate\":\"70\",\"skillEffectUpDebufferAttributeDefenseRate\":\"70\",\"targetAttribute\":\"1\",\"secondSkillEffectUpAttackRate\":\"70\",\"secondSkillEffectUpRecoveryRate\":\"70\",\"secondSkillEffectUpBufferMaxHpRate\":\"70\",\"secondSkillEffectUpBufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpBufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpBufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpBufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpDebufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMaxHpRate\":\"70\",\"secondTargetAttribute\":\"3\"}",
+        "preparationTime": 10,
+        "effectTime": 65,
+        "durationEffectType": 1,
+        "executeEffectType1": 7,
+        "executeEffectType2": 9,
+        "executeEffectType3": 0,
+        "executeEffectTarget": 3,
+        "executeEffectVariable": 1
+      },
+      {
         "tacticsEffectMstId": 56021,
         "name": "闇属性防御力減少Lv.1",
         "description": "敵前衛の闇属性防御力を減少させる。",
@@ -5867,6 +5884,23 @@
         "executeEffectType3": 0,
         "executeEffectTarget": 4,
         "executeEffectVariable": 2
+      },
+      {
+        "tacticsEffectMstId": 56025,
+        "name": "[火風]属性効果増加Lv.5",
+        "description": "火属性と風属性のメモリアスキル効果が極大増加する。※既に他の火属性効果、風属性効果が増加するオーダーが使用されている場合でも使用可能。",
+        "sp": 0,
+        "type": 56,
+        "group": 0,
+        "parameterText": "{\"skillEffectUpAttackRate\":\"70\",\"skillEffectUpRecoveryRate\":\"70\",\"skillEffectUpBufferMaxHpRate\":\"70\",\"skillEffectUpBufferPhysicalAttackRate\":\"70\",\"skillEffectUpBufferMagicalAttackRate\":\"70\",\"skillEffectUpBufferPhysicalDefenseRate\":\"70\",\"skillEffectUpBufferMagicalDefenseRate\":\"70\",\"skillEffectUpDebufferMaxHpRate\":\"70\",\"skillEffectUpDebufferPhysicalAttackRate\":\"70\",\"skillEffectUpDebufferMagicalAttackRate\":\"70\",\"skillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"skillEffectUpDebufferMagicalDefenseRate\":\"70\",\"skillEffectUpBufferAttributeAttackRate\":\"70\",\"skillEffectUpBufferAttributeDefenseRate\":\"70\",\"skillEffectUpDebufferAttributeAttackRate\":\"70\",\"skillEffectUpDebufferAttributeDefenseRate\":\"70\",\"targetAttribute\":\"1\",\"secondSkillEffectUpAttackRate\":\"70\",\"secondSkillEffectUpRecoveryRate\":\"70\",\"secondSkillEffectUpBufferMaxHpRate\":\"70\",\"secondSkillEffectUpBufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpBufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpBufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpBufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpDebufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMaxHpRate\":\"70\",\"secondTargetAttribute\":\"3\"}",
+        "preparationTime": 10,
+        "effectTime": 65,
+        "durationEffectType": 1,
+        "executeEffectType1": 7,
+        "executeEffectType2": 9,
+        "executeEffectType3": 0,
+        "executeEffectTarget": 3,
+        "executeEffectVariable": 1
       },
       {
         "tacticsEffectMstId": 57013,
@@ -10221,6 +10255,23 @@
         "executeEffectVariable": 2
       },
       {
+        "tacticsEffectMstId": 1056015,
+        "name": "[火風]属性効果増加Lv.5",
+        "description": "火属性と風属性のメモリアスキル効果が極大増加する。※既に他の火属性効果、風属性効果が増加するオーダーが使用されている場合でも使用可能。",
+        "sp": 50,
+        "type": 1056,
+        "group": 0,
+        "parameterText": "{\"skillEffectUpAttackRate\":\"70\",\"skillEffectUpRecoveryRate\":\"70\",\"skillEffectUpBufferMaxHpRate\":\"70\",\"skillEffectUpBufferPhysicalAttackRate\":\"70\",\"skillEffectUpBufferMagicalAttackRate\":\"70\",\"skillEffectUpBufferPhysicalDefenseRate\":\"70\",\"skillEffectUpBufferMagicalDefenseRate\":\"70\",\"skillEffectUpDebufferMaxHpRate\":\"70\",\"skillEffectUpDebufferPhysicalAttackRate\":\"70\",\"skillEffectUpDebufferMagicalAttackRate\":\"70\",\"skillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"skillEffectUpDebufferMagicalDefenseRate\":\"70\",\"skillEffectUpBufferAttributeAttackRate\":\"70\",\"skillEffectUpBufferAttributeDefenseRate\":\"70\",\"skillEffectUpDebufferAttributeAttackRate\":\"70\",\"skillEffectUpDebufferAttributeDefenseRate\":\"70\",\"targetAttribute\":\"1\",\"secondSkillEffectUpAttackRate\":\"70\",\"secondSkillEffectUpRecoveryRate\":\"70\",\"secondSkillEffectUpBufferMaxHpRate\":\"70\",\"secondSkillEffectUpBufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpBufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpBufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpBufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpDebufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMaxHpRate\":\"70\",\"secondTargetAttribute\":\"3\"}",
+        "preparationTime": 10,
+        "effectTime": 20,
+        "durationEffectType": 1,
+        "executeEffectType1": 7,
+        "executeEffectType2": 9,
+        "executeEffectType3": 0,
+        "executeEffectTarget": 3,
+        "executeEffectVariable": 1
+      },
+      {
         "tacticsEffectMstId": 1056021,
         "name": "闇属性防御力減少Lv.1",
         "description": "敵の闇属性防御力を減少させる。",
@@ -10270,6 +10321,23 @@
         "executeEffectType3": 0,
         "executeEffectTarget": 6,
         "executeEffectVariable": 2
+      },
+      {
+        "tacticsEffectMstId": 1056025,
+        "name": "[火風]属性効果増加Lv.5",
+        "description": "火属性と風属性のメモリアスキル効果が極大増加する。※既に他の火属性効果、風属性効果が増加するオーダーが使用されている場合でも使用可能。",
+        "sp": 0,
+        "type": 1056,
+        "group": 0,
+        "parameterText": "{\"skillEffectUpAttackRate\":\"70\",\"skillEffectUpRecoveryRate\":\"70\",\"skillEffectUpBufferMaxHpRate\":\"70\",\"skillEffectUpBufferPhysicalAttackRate\":\"70\",\"skillEffectUpBufferMagicalAttackRate\":\"70\",\"skillEffectUpBufferPhysicalDefenseRate\":\"70\",\"skillEffectUpBufferMagicalDefenseRate\":\"70\",\"skillEffectUpDebufferMaxHpRate\":\"70\",\"skillEffectUpDebufferPhysicalAttackRate\":\"70\",\"skillEffectUpDebufferMagicalAttackRate\":\"70\",\"skillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"skillEffectUpDebufferMagicalDefenseRate\":\"70\",\"skillEffectUpBufferAttributeAttackRate\":\"70\",\"skillEffectUpBufferAttributeDefenseRate\":\"70\",\"skillEffectUpDebufferAttributeAttackRate\":\"70\",\"skillEffectUpDebufferAttributeDefenseRate\":\"70\",\"targetAttribute\":\"1\",\"secondSkillEffectUpAttackRate\":\"70\",\"secondSkillEffectUpRecoveryRate\":\"70\",\"secondSkillEffectUpBufferMaxHpRate\":\"70\",\"secondSkillEffectUpBufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpBufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpBufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferMagicalAttackRate\":\"70\",\"secondSkillEffectUpDebufferPhysicalDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMagicalDefenseRate\":\"70\",\"secondSkillEffectUpBufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpBufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferAttributeAttackRate\":\"70\",\"secondSkillEffectUpDebufferAttributeDefenseRate\":\"70\",\"secondSkillEffectUpDebufferMaxHpRate\":\"70\",\"secondTargetAttribute\":\"3\"}",
+        "preparationTime": 10,
+        "effectTime": 20,
+        "durationEffectType": 1,
+        "executeEffectType1": 7,
+        "executeEffectType2": 9,
+        "executeEffectType3": 0,
+        "executeEffectTarget": 3,
+        "executeEffectVariable": 1
       },
       {
         "tacticsEffectMstId": 1057013,

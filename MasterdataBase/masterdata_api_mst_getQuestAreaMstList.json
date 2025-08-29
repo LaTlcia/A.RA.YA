@@ -5044,6 +5044,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 793101,
+        "questMapMstId": 793,
+        "name": "メダルイベント",
+        "description": "再会と追想のグリモワール",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 793201,
+        "questMapMstId": 793,
+        "name": "メダルイベント",
+        "description": "再会と追想のグリモワール",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5094,6 +5110,14 @@
       {
         "questAreaMstId": 1001101,
         "questMapMstId": 1001,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1002101,
+        "questMapMstId": 1002,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,

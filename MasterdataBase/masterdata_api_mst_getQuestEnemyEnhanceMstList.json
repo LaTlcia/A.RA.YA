@@ -214,6 +214,20 @@
         "enhancedQuestEnemyMstId": 14312
       },
       {
+        "questEnemyEnhanceMstId": 14321,
+        "questEnemyMstId": 14321,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 14322
+      },
+      {
+        "questEnemyEnhanceMstId": 14331,
+        "questEnemyMstId": 14331,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 14332
+      },
+      {
         "questEnemyEnhanceMstId": 15111,
         "questEnemyMstId": 15111,
         "type": 2,
@@ -564,6 +578,20 @@
         "enhancedQuestEnemyMstId": 22232
       },
       {
+        "questEnemyEnhanceMstId": 23311,
+        "questEnemyMstId": 23311,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 23312
+      },
+      {
+        "questEnemyEnhanceMstId": 23321,
+        "questEnemyMstId": 23321,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 23322
+      },
+      {
         "questEnemyEnhanceMstId": 23331,
         "questEnemyMstId": 23331,
         "type": 2,
@@ -772,6 +800,27 @@
         "type": 2,
         "value": 50,
         "enhancedQuestEnemyMstId": 33212
+      },
+      {
+        "questEnemyEnhanceMstId": 33221,
+        "questEnemyMstId": 33221,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 33222
+      },
+      {
+        "questEnemyEnhanceMstId": 33231,
+        "questEnemyMstId": 33231,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 33232
+      },
+      {
+        "questEnemyEnhanceMstId": 33311,
+        "questEnemyMstId": 33311,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 33312
       },
       {
         "questEnemyEnhanceMstId": 33321,
@@ -5476,6 +5525,69 @@
         "type": 2,
         "value": 50,
         "enhancedQuestEnemyMstId": 10511332
+      },
+      {
+        "questEnemyEnhanceMstId": 12801111,
+        "questEnemyMstId": 12801111,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801112
+      },
+      {
+        "questEnemyEnhanceMstId": 12801121,
+        "questEnemyMstId": 12801121,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801122
+      },
+      {
+        "questEnemyEnhanceMstId": 12801131,
+        "questEnemyMstId": 12801131,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801132
+      },
+      {
+        "questEnemyEnhanceMstId": 12801211,
+        "questEnemyMstId": 12801211,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801212
+      },
+      {
+        "questEnemyEnhanceMstId": 12801221,
+        "questEnemyMstId": 12801221,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801222
+      },
+      {
+        "questEnemyEnhanceMstId": 12801231,
+        "questEnemyMstId": 12801231,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801232
+      },
+      {
+        "questEnemyEnhanceMstId": 12801311,
+        "questEnemyMstId": 12801311,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801312
+      },
+      {
+        "questEnemyEnhanceMstId": 12801321,
+        "questEnemyMstId": 12801321,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801322
+      },
+      {
+        "questEnemyEnhanceMstId": 12801331,
+        "questEnemyMstId": 12801331,
+        "type": 2,
+        "value": 50,
+        "enhancedQuestEnemyMstId": 12801332
       }
     ]
   }

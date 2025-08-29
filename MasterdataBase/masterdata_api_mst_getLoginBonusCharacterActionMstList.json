@@ -2015,6 +2015,39 @@
         "motion": "Fun",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 134001,
+        "type": 0,
+        "characterMstId": 134,
+        "title": "【杏花】ログインボーナス①",
+        "voiceId": "cv_outgame_001_134-login_normal_001",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 134002,
+        "type": 0,
+        "characterMstId": 134,
+        "title": "【杏花】ログインボーナス②",
+        "voiceId": "cv_outgame_001_134-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 134003,
+        "type": 0,
+        "characterMstId": 134,
+        "title": "【杏花】ログインボーナス③",
+        "voiceId": "cv_outgame_001_134-login_normal_003",
+        "faceType": "Normal",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

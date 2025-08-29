@@ -118,6 +118,18 @@
         "parameterText": "{\"JOB_SKILL_EFFECT_ATTRIBUTE\": [1] , \"JOB_SKILL_EFFECT_VALUE\": 0.1}"
       },
       {
+        "battleThemeEffectMstId": 26,
+        "name": "風属性効果増加オーダー効果UP",
+        "description": "",
+        "parameterText": "{\"TACTICS_EFFECT_ATTRIBUTE\": [3] , \"TACTICS_EFFECT_VALUE\": 0.1}"
+      },
+      {
+        "battleThemeEffectMstId": 27,
+        "name": "Exリリィスキル、ADXリリィスキルの風属性効果増加UP",
+        "description": "",
+        "parameterText": "{\"JOB_SKILL_EFFECT_ATTRIBUTE\": [3] , \"JOB_SKILL_EFFECT_VALUE\": 0.1}"
+      },
+      {
         "battleThemeEffectMstId": 100001,
         "name": "闇メモリアスキル効果UP",
         "description": "",
