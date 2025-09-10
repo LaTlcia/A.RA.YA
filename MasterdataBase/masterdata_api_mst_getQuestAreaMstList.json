@@ -3492,6 +3492,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 352101,
+        "questMapMstId": 352,
+        "name": "ミニイベント",
+        "description": "プレストーリー一之宮・ミカエラ・日葵編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5056,6 +5064,22 @@
         "questMapMstId": 793,
         "name": "メダルイベント",
         "description": "再会と追想のグリモワール",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 794101,
+        "questMapMstId": 794,
+        "name": "メダルイベント",
+        "description": "おひとりさまと夏祭り",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 794201,
+        "questMapMstId": 794,
+        "name": "メダルイベント",
+        "description": "おひとりさまと夏祭り",
         "mode": 2,
         "hasNextComingSoon": false
       },
