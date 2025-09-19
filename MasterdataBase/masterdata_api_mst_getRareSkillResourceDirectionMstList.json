@@ -548,6 +548,13 @@
         "duplicationCategory": 0,
         "loopPattern": 0,
         "effectId": 7
+      },
+      {
+        "rareSkillResourceDirectionMstId": 80,
+        "iconName": "CrescentBreath",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 80
       }
     ]
   }

@@ -3500,6 +3500,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 353101,
+        "questMapMstId": 353,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5080,6 +5088,22 @@
         "questMapMstId": 794,
         "name": "メダルイベント",
         "description": "おひとりさまと夏祭り",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 795101,
+        "questMapMstId": 795,
+        "name": "メダルイベント",
+        "description": "ASSAULT LILY ERWACHEN",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 795201,
+        "questMapMstId": 795,
+        "name": "メダルイベント",
+        "description": "ASSAULT LILY ERWACHEN",
         "mode": 2,
         "hasNextComingSoon": false
       },

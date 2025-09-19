@@ -5793,6 +5793,13 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10838,
+        "title": "眞說・御台場迎撃戦編舞台応援",
+        "completeMissionMstId": 10838001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3942
+      },
+      {
         "missionTitleMstId": 10839,
         "title": "ギガント級ヒュージ討伐特別ミッション",
         "completeMissionMstId": 10839001,
@@ -5800,8 +5807,43 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10840,
+        "title": "決意のカレイドフラワーズ編 開幕直前",
+        "completeMissionMstId": 10840001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3943
+      },
+      {
+        "missionTitleMstId": 10841,
+        "title": "灯莉誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 10842,
         "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10843,
+        "title": "ASSAULT LILY ERWACHEN【個人】",
+        "completeMissionMstId": 10843001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10844,
+        "title": "ASSAULT LILY ERWACHEN【レギオン】",
+        "completeMissionMstId": 10844001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10845,
+        "title": "ASSAULT LILY ERWACHEN【デイリー】",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

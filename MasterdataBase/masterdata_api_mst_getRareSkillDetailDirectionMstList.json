@@ -896,6 +896,18 @@
         "rareSkillId": 79,
         "target": 5,
         "directionType": 7
+      },
+      {
+        "rareSkillDetailDirectionMstId": 150,
+        "rareSkillId": 80,
+        "target": 1,
+        "directionType": 1
+      },
+      {
+        "rareSkillDetailDirectionMstId": 151,
+        "rareSkillId": 80,
+        "target": 6,
+        "directionType": 11
       }
     ]
   }

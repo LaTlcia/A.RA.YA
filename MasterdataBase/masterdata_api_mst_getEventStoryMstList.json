@@ -14909,6 +14909,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 35310101,
+        "questStageMstId": 35310101,
+        "title": "二十三品目 ルナトラトマトハンバーグ",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_23",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1758985200,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -23585,6 +23596,116 @@
         "fileName2": "",
         "imageId": 124104,
         "startTime": 1757559600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510111,
+        "questStageMstId": 79510111,
+        "title": "1話:第一部隊の戦い-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_01",
+        "fileName2": "",
+        "imageId": 125101,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510112,
+        "questStageMstId": 79510112,
+        "title": "1話:第一部隊の戦い-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_02",
+        "fileName2": "",
+        "imageId": 125102,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510113,
+        "questStageMstId": 79510113,
+        "title": "1話:第一部隊の戦い-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_03",
+        "fileName2": "",
+        "imageId": 125103,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510114,
+        "questStageMstId": 79510114,
+        "title": "2話:彼女たちの覚醒-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_04",
+        "fileName2": "",
+        "imageId": 125104,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510115,
+        "questStageMstId": 79510115,
+        "title": "2話:彼女たちの覚醒-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_05",
+        "fileName2": "",
+        "imageId": 125105,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510116,
+        "questStageMstId": 79510116,
+        "title": "2話:彼女たちの覚醒-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_06",
+        "fileName2": "",
+        "imageId": 125106,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510117,
+        "questStageMstId": 79510117,
+        "title": "2話:彼女たちの覚醒-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_07",
+        "fileName2": "",
+        "imageId": 125107,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510118,
+        "questStageMstId": 79510118,
+        "title": "3話:死闘の果て-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_08",
+        "fileName2": "",
+        "imageId": 125108,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510119,
+        "questStageMstId": 79510119,
+        "title": "3話:死闘の果て-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_09",
+        "fileName2": "",
+        "imageId": 125109,
+        "startTime": 1758351600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79510120,
+        "questStageMstId": 79510120,
+        "title": "3話:死闘の果て-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_erwachen_10",
+        "fileName2": "",
+        "imageId": 125110,
+        "startTime": 1758351600,
         "endTime": -62170017539
       },
       {

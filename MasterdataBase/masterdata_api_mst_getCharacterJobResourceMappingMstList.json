@@ -1574,6 +1574,26 @@
         "imageCharacterJobIconS": "CharacterJobIconS0172006"
       },
       {
+        "characterJobMstId": 343039,
+        "characterMstId": 39,
+        "styleType": 343,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
+      },
+      {
+        "characterJobMstId": 900039,
+        "characterMstId": 39,
+        "styleType": 900,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
+      },
+      {
         "characterJobMstId": 900047,
         "characterMstId": 47,
         "styleType": 900,
@@ -1602,6 +1622,16 @@
         "imageStanding": "CharacterJob0001124",
         "imageCharacterJobIconM": "CharacterJobIconM0001124",
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
+      },
+      {
+        "characterJobMstId": 901039,
+        "characterMstId": 39,
+        "styleType": 901,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
       },
       {
         "characterJobMstId": 901047,
@@ -1634,6 +1664,16 @@
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
       },
       {
+        "characterJobMstId": 902039,
+        "characterMstId": 39,
+        "styleType": 902,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
+      },
+      {
         "characterJobMstId": 902047,
         "characterMstId": 47,
         "styleType": 902,
@@ -1662,6 +1702,16 @@
         "imageStanding": "CharacterJob0001124",
         "imageCharacterJobIconM": "CharacterJobIconM0001124",
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
+      },
+      {
+        "characterJobMstId": 903039,
+        "characterMstId": 39,
+        "styleType": 903,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
       },
       {
         "characterJobMstId": 903047,
@@ -1694,6 +1744,16 @@
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
       },
       {
+        "characterJobMstId": 904039,
+        "characterMstId": 39,
+        "styleType": 904,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
+      },
+      {
         "characterJobMstId": 904047,
         "characterMstId": 47,
         "styleType": 904,
@@ -1722,6 +1782,16 @@
         "imageStanding": "CharacterJob0001124",
         "imageCharacterJobIconM": "CharacterJobIconM0001124",
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
+      },
+      {
+        "characterJobMstId": 905039,
+        "characterMstId": 39,
+        "styleType": 905,
+        "spinePrefab": "CharacterJobSpine010343039",
+        "spineAsset": "CharacterJobSpine_01_0343_039",
+        "imageStanding": "CharacterJob0343039",
+        "imageCharacterJobIconM": "CharacterJobIconM0343039",
+        "imageCharacterJobIconS": "CharacterJobIconS0343039"
       },
       {
         "characterJobMstId": 905047,

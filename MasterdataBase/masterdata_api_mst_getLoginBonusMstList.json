@@ -2818,6 +2818,48 @@
         "endTime": 1757966399
       },
       {
+        "loginBonusMstId": 10156,
+        "title": "眞說・御台場迎撃戦編舞台応援ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015624,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1758398400,
+        "endTime": 1759262399
+      },
+      {
+        "loginBonusMstId": 10157,
+        "title": "決意のカレイドフラワーズ編 開幕直前ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015625,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1759089600,
+        "endTime": 1760558399
+      },
+      {
+        "loginBonusMstId": 10158,
+        "title": "ふじの食堂開店記念ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": true,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3012701,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1758985200,
+        "endTime": 1760453999
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,
