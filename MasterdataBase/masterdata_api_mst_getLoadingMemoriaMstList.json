@@ -1181,6 +1181,42 @@
         "characterId": 141,
         "startTime": 1758351600,
         "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 419,
+        "sceneId": 1,
+        "imageId": 10001135,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1759201200,
+        "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 420,
+        "sceneId": 4,
+        "imageId": 10001135,
+        "sortOrder": 0,
+        "characterId": 135,
+        "startTime": 1759201200,
+        "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 421,
+        "sceneId": 1,
+        "imageId": 10001136,
+        "sortOrder": 50,
+        "characterId": 0,
+        "startTime": 1759460400,
+        "endTime": 2145884399
+      },
+      {
+        "loadingMemoriaMstId": 422,
+        "sceneId": 4,
+        "imageId": 10001136,
+        "sortOrder": 0,
+        "characterId": 136,
+        "startTime": 1759460400,
+        "endTime": 2145884399
       }
     ]
   }

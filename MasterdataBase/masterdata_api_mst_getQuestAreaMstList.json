@@ -3508,6 +3508,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 354101,
+        "questMapMstId": 354,
+        "name": "ミニイベント",
+        "description": "プレストーリー安孫子比呂美編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 355101,
+        "questMapMstId": 355,
+        "name": "ミニイベント",
+        "description": "プレストーリー澁川智英編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5108,6 +5124,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 796101,
+        "questMapMstId": 796,
+        "name": "メダルイベント",
+        "description": "決意のカレイドフラワーズ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 796201,
+        "questMapMstId": 796,
+        "name": "メダルイベント",
+        "description": "決意のカレイドフラワーズ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5166,6 +5198,14 @@
       {
         "questAreaMstId": 1002101,
         "questMapMstId": 1002,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1003101,
+        "questMapMstId": 1003,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,

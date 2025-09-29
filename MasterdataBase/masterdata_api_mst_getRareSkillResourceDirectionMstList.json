@@ -555,6 +555,13 @@
         "duplicationCategory": 5,
         "loopPattern": 1,
         "effectId": 80
+      },
+      {
+        "rareSkillResourceDirectionMstId": 81,
+        "iconName": "HeavensScales",
+        "duplicationCategory": 2,
+        "loopPattern": 2,
+        "effectId": 4
       }
     ]
   }

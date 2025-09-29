@@ -908,6 +908,24 @@
         "rareSkillId": 80,
         "target": 6,
         "directionType": 11
+      },
+      {
+        "rareSkillDetailDirectionMstId": 152,
+        "rareSkillId": 80,
+        "target": 6,
+        "directionType": 11
+      },
+      {
+        "rareSkillDetailDirectionMstId": 153,
+        "rareSkillId": 81,
+        "target": 2,
+        "directionType": 4
+      },
+      {
+        "rareSkillDetailDirectionMstId": 154,
+        "rareSkillId": 81,
+        "target": 2,
+        "directionType": 3
       }
     ]
   }

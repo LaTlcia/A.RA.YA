@@ -3028,6 +3028,18 @@
         "endTime": 1757948399
       },
       {
+        "chatStampMstId": 274,
+        "name": "大丈夫？",
+        "characterMstId": 15,
+        "type": 3,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1759201200,
+        "endTime": 1761879599
+      },
+      {
         "chatStampMstId": 275,
         "name": "こんにちは",
         "characterMstId": 141,
@@ -3038,6 +3050,30 @@
         "conditionValue2": 0,
         "startTime": 1758351600,
         "endTime": 1759201199
+      },
+      {
+        "chatStampMstId": 276,
+        "name": "了解っ！",
+        "characterMstId": 129,
+        "type": 4,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1759201200,
+        "endTime": 1761879599
+      },
+      {
+        "chatStampMstId": 277,
+        "name": "期待しているわ",
+        "characterMstId": 135,
+        "type": 3,
+        "howToGetText": "決意のカレイドフラワーズ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1759201200,
+        "endTime": 1760540399
       }
     ]
   }

@@ -2050,6 +2050,72 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 135001,
+        "type": 0,
+        "characterMstId": 135,
+        "title": "【比呂美】ログインボーナス①",
+        "voiceId": "cv_outgame_001_135-login_normal_001",
+        "faceType": "Serious",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 135002,
+        "type": 0,
+        "characterMstId": 135,
+        "title": "【比呂美】ログインボーナス②",
+        "voiceId": "cv_outgame_001_135-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 135003,
+        "type": 0,
+        "characterMstId": 135,
+        "title": "【比呂美】ログインボーナス②",
+        "voiceId": "cv_outgame_001_135-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 136001,
+        "type": 0,
+        "characterMstId": 136,
+        "title": "【智英】ログインボーナス①",
+        "voiceId": "cv_outgame_001_136-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 136002,
+        "type": 0,
+        "characterMstId": 136,
+        "title": "【智英】ログインボーナス②",
+        "voiceId": "cv_outgame_001_136-login_normal_002",
+        "faceType": "Strong",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 136003,
+        "type": 0,
+        "characterMstId": 136,
+        "title": "【智英】ログインボーナス②",
+        "voiceId": "cv_outgame_001_136-login_normal_003",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 141001,
         "type": 0,
         "characterMstId": 141,
