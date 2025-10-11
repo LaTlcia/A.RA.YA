@@ -5891,6 +5891,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10852,
+        "title": "優珂誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10853,
+        "title": "ギガント級ヒュージ討伐特別ミッション",
+        "completeMissionMstId": 10853001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10854,
+        "title": "Spooky Night Charms【個人】",
+        "completeMissionMstId": 10854001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10855,
+        "title": "Spooky Night Charms【レギオン】",
+        "completeMissionMstId": 10855001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10856,
+        "title": "Spooky Night Charms【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,
