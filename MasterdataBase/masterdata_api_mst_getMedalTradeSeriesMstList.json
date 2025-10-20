@@ -12408,6 +12408,62 @@
         "dailyEndTime": -62170017539
       },
       {
+        "medalTradeSeriesMstId": 1890,
+        "rewardGroupId": 0,
+        "name": "Trick & Tail AD衣装引換券",
+        "description": "Trick&TailAD衣装引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 596,
+        "itemMstId": 4015111,
+        "viewable": 1,
+        "startTime": 1761015600,
+        "endTime": 1763132399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1891,
+        "rewardGroupId": 0,
+        "name": "Trick & Tail ADペンダント交換券",
+        "description": "Trick&TailADペンダント交換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 596,
+        "itemMstId": 4015611,
+        "viewable": 1,
+        "startTime": 1761015600,
+        "endTime": 1763132399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1892,
+        "rewardGroupId": 0,
+        "name": "Trick & Tail★5メモリア引換券",
+        "description": "Trick&Tail★5メモリア引換券交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 596,
+        "itemMstId": 4010010,
+        "viewable": 1,
+        "startTime": 1761015600,
+        "endTime": 1763132399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
+        "medalTradeSeriesMstId": 1893,
+        "rewardGroupId": 0,
+        "name": "BRAND-NEW★5メモリア引換券10月Ⅲ",
+        "description": "BRAND-NEW★5メモリア引換券10月Ⅲ交換所で使用することができる交換用のアイテム",
+        "tabType": 2,
+        "sortOrder": 593,
+        "itemMstId": 4007915,
+        "viewable": 1,
+        "startTime": 1761274800,
+        "endTime": 1763132399,
+        "dailyStartTime": -62170017539,
+        "dailyEndTime": -62170017539
+      },
+      {
         "medalTradeSeriesMstId": 2001,
         "rewardGroupId": 0,
         "name": "メモリアメダル交換所",
@@ -14968,6 +15024,20 @@
         "endTime": 1761922799,
         "dailyStartTime": 1760151600,
         "dailyEndTime": 1761076799
+      },
+      {
+        "medalTradeSeriesMstId": 5801,
+        "rewardGroupId": 1009,
+        "name": "Trick & Tailメダル交換所",
+        "description": "Trick & Tailメダル交換所で使用することができる交換用のメダル",
+        "tabType": 1,
+        "sortOrder": 1965,
+        "itemMstId": 4000630,
+        "viewable": 1,
+        "startTime": 1761015600,
+        "endTime": 1762613999,
+        "dailyStartTime": 1761015600,
+        "dailyEndTime": 1761940799
       },
       {
         "medalTradeSeriesMstId": 6101,

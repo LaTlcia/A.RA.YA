@@ -14942,6 +14942,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 35710101,
+        "questStageMstId": 35710101,
+        "title": "プレストーリー桑田一乙編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_140",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1761570000,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -23992,6 +24003,50 @@
         "fileName2": "",
         "imageId": 127108,
         "startTime": 1760151600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79810111,
+        "questStageMstId": 79810111,
+        "title": "1話:Trick & Tail-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo2025_ex01",
+        "fileName2": "",
+        "imageId": 128101,
+        "startTime": 1761015600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79810112,
+        "questStageMstId": 79810112,
+        "title": "1話:Trick & Tail-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo2025_ex02",
+        "fileName2": "",
+        "imageId": 128102,
+        "startTime": 1761015600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79810113,
+        "questStageMstId": 79810113,
+        "title": "1話:Trick & Tail-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo2025_ex03",
+        "fileName2": "",
+        "imageId": 128103,
+        "startTime": 1761015600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79810114,
+        "questStageMstId": 79810114,
+        "title": "1話:Trick & Tail-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_hallo2025_ex04",
+        "fileName2": "",
+        "imageId": 128104,
+        "startTime": 1761015600,
         "endTime": -62170017539
       },
       {

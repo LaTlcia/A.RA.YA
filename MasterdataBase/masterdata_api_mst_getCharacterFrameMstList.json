@@ -338,6 +338,30 @@
         "resourceId": 1021400,
         "startTime": 1760256000,
         "endTime": 1768723199
+      },
+      {
+        "characterFrameMstId": 101310182,
+        "name": "キャラクターフレーム金",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018200,
+        "startTime": 1768723200,
+        "endTime": 1775894399
+      },
+      {
+        "characterFrameMstId": 101310183,
+        "name": "キャラクターフレーム銀",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018300,
+        "startTime": 1768723200,
+        "endTime": 1775894399
+      },
+      {
+        "characterFrameMstId": 101310184,
+        "name": "キャラクターフレーム銅",
+        "description": "キャラクターのアイコンに表示される特別なフレーム",
+        "resourceId": 1018400,
+        "startTime": 1768723200,
+        "endTime": 1775894399
       }
     ]
   }
