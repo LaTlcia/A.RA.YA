@@ -14942,6 +14942,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 35610101,
+        "questStageMstId": 35610101,
+        "title": "二十四品目 オムソバリンカーメシ",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_24",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1761663600,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 35710101,
         "questStageMstId": 35710101,
         "title": "プレストーリー桑田一乙編",
@@ -14950,6 +14961,17 @@
         "fileName2": "",
         "imageId": 0,
         "startTime": 1761570000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 35810101,
+        "questStageMstId": 35810101,
+        "title": "プレストーリー竹腰千華編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_142",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1762657200,
         "endTime": -62170017539
       },
       {
@@ -24047,6 +24069,193 @@
         "fileName2": "",
         "imageId": 128104,
         "startTime": 1761015600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910111,
+        "questStageMstId": 79910111,
+        "title": "1話:眠れる少女-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_070301",
+        "fileName2": "",
+        "imageId": 129101,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910112,
+        "questStageMstId": 79910112,
+        "title": "1話:眠れる少女-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_070302",
+        "fileName2": "",
+        "imageId": 129102,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910113,
+        "questStageMstId": 79910113,
+        "title": "2話:潜入ミッション-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_070303",
+        "fileName2": "",
+        "imageId": 129103,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910114,
+        "questStageMstId": 79910114,
+        "title": "2話:潜入ミッション-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_070304",
+        "fileName2": "",
+        "imageId": 129104,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910115,
+        "questStageMstId": 79910115,
+        "title": "2話:潜入ミッション-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_070305",
+        "fileName2": "",
+        "imageId": 129105,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910116,
+        "questStageMstId": 79910116,
+        "title": "2話:潜入ミッション-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_070306",
+        "fileName2": "",
+        "imageId": 129106,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910117,
+        "questStageMstId": 79910117,
+        "title": "3話:蝕む毒-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_070307",
+        "fileName2": "",
+        "imageId": 129107,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910118,
+        "questStageMstId": 79910118,
+        "title": "3話:蝕む毒-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_070308",
+        "fileName2": "",
+        "imageId": 129108,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910119,
+        "questStageMstId": 79910119,
+        "title": "3話:蝕む毒-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_070309",
+        "fileName2": "",
+        "imageId": 129109,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910120,
+        "questStageMstId": 79910120,
+        "title": "4話:約束-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_070310",
+        "fileName2": "",
+        "imageId": 129110,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910121,
+        "questStageMstId": 79910121,
+        "title": "4話:約束-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_070311",
+        "fileName2": "",
+        "imageId": 129111,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910122,
+        "questStageMstId": 79910122,
+        "title": "4話:約束-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_070312",
+        "fileName2": "",
+        "imageId": 129112,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910123,
+        "questStageMstId": 79910123,
+        "title": "4話:約束-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_070313",
+        "fileName2": "",
+        "imageId": 129113,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910124,
+        "questStageMstId": 79910124,
+        "title": "4話:約束-5",
+        "isFullVoice": false,
+        "fileName1": "story_main_070314",
+        "fileName2": "",
+        "imageId": 129114,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910125,
+        "questStageMstId": 79910125,
+        "title": "4話:約束-6",
+        "isFullVoice": false,
+        "fileName1": "story_main_070315",
+        "fileName2": "",
+        "imageId": 129115,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910126,
+        "questStageMstId": 79910126,
+        "title": "5話:あの日のふたりと-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_070316",
+        "fileName2": "",
+        "imageId": 129116,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 79910127,
+        "questStageMstId": 79910127,
+        "title": "5話:あの日のふたりと-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_070317",
+        "fileName2": "",
+        "imageId": 129117,
+        "startTime": 1761879600,
         "endTime": -62170017539
       },
       {

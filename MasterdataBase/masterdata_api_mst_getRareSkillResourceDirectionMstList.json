@@ -562,6 +562,34 @@
         "duplicationCategory": 2,
         "loopPattern": 2,
         "effectId": 4
+      },
+      {
+        "rareSkillResourceDirectionMstId": 82,
+        "iconName": "Extend",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 82
+      },
+      {
+        "rareSkillResourceDirectionMstId": 83,
+        "iconName": "Mikyounosikiiki",
+        "duplicationCategory": 1,
+        "loopPattern": 1,
+        "effectId": 83
+      },
+      {
+        "rareSkillResourceDirectionMstId": 85,
+        "iconName": "ShrunkenLand",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 5
+      },
+      {
+        "rareSkillResourceDirectionMstId": 86,
+        "iconName": "Heliosphere",
+        "duplicationCategory": 1,
+        "loopPattern": 3,
+        "effectId": 14
       }
     ]
   }

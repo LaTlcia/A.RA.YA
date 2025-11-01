@@ -2116,6 +2116,39 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 140001,
+        "type": 0,
+        "characterMstId": 140,
+        "title": "【一乙】ログインボーナス①",
+        "voiceId": "cv_outgame_001_140-login_normal_001",
+        "faceType": "Normal",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 140002,
+        "type": 0,
+        "characterMstId": 140,
+        "title": "【一乙】ログインボーナス②",
+        "voiceId": "cv_outgame_001_140-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 140003,
+        "type": 0,
+        "characterMstId": 140,
+        "title": "【一乙】ログインボーナス③",
+        "voiceId": "cv_outgame_001_140-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 141001,
         "type": 0,
         "characterMstId": 141,

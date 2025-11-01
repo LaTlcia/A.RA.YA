@@ -1984,6 +1984,15 @@
         "rewardEndTime": 1762613999
       },
       {
+        "questMapMstId": 799,
+        "reprintNum": 0,
+        "rewardGroupId": 100,
+        "itemMstId": 4000730,
+        "bannerMstId": 1231443,
+        "afterEventBgm": "",
+        "rewardEndTime": 1763737199
+      },
+      {
         "questMapMstId": 1001,
         "reprintNum": 0,
         "rewardGroupId": 0,
@@ -2009,6 +2018,15 @@
         "bannerMstId": 1231385,
         "afterEventBgm": "",
         "rewardEndTime": 1761490799
+      },
+      {
+        "questMapMstId": 1004,
+        "reprintNum": 0,
+        "rewardGroupId": 0,
+        "itemMstId": 4000830,
+        "bannerMstId": 1231444,
+        "afterEventBgm": "",
+        "rewardEndTime": 1764169199
       }
     ]
   }

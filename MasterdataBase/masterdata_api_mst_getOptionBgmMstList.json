@@ -1540,6 +1540,22 @@
         "endTime": -62170017539
       },
       {
+        "optionBgmMstId": 2501,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 2501,
+        "title": "絶望の顕現",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_gigant-map_event_002",
+        "forceBgmStartTime": 1761879600,
+        "forceBgmEndTime": 1762829999,
+        "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
         "optionBgmMstId": 160001,
         "type": 0,
         "mstId": 0,

@@ -364,6 +364,126 @@
         "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
       },
       {
+        "skillEffectMstId": 601060400,
+        "group": 60106040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 601060401,
+        "group": 60106041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 601060402,
+        "group": 60106042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 601060403,
+        "group": 60106043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 601060404,
+        "group": 60106044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 601070400,
+        "group": 60107040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 601070401,
+        "group": 60107041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 601070402,
+        "group": 60107042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 601070403,
+        "group": 60107043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 601070404,
+        "group": 60107044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 601080400,
+        "group": 60108040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 601080401,
+        "group": 60108041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 601080402,
+        "group": 60108042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 601080403,
+        "group": 60108043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 601080404,
+        "group": 60108044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [1,2]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
         "skillEffectMstId": 602010100,
         "group": 60201010,
         "skillType": 2100,
@@ -722,6 +842,126 @@
         "contentsType": 6,
         "probability": 100,
         "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 602060400,
+        "group": 60206040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 602060401,
+        "group": 60206041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 602060402,
+        "group": 60206042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 602060403,
+        "group": 60206043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 602060404,
+        "group": 60206044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 602070400,
+        "group": 60207040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 602070401,
+        "group": 60207041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 602070402,
+        "group": 60207042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 602070403,
+        "group": 60207043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 602070404,
+        "group": 60207044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 602080400,
+        "group": 60208040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 602080401,
+        "group": 60208041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 602080402,
+        "group": 60208042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 602080403,
+        "group": 60208043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 602080404,
+        "group": 60208044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [3,4]}, \"EFFECT\": {\"ATTACK_UP_MAGNIFICATION\": 0.05}}"
       },
       {
         "skillEffectMstId": 603010100,
@@ -1084,6 +1324,126 @@
         "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.05}}"
       },
       {
+        "skillEffectMstId": 603060400,
+        "group": 60306040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [5,6]}, \"EFFECT\": {\"BUFFER_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 603060401,
+        "group": 60306041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 603060402,
+        "group": 60306042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 603060403,
+        "group": 60306043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 603060404,
+        "group": 60306044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 603070400,
+        "group": 60307040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\": {\"BUFFER_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 603070401,
+        "group": 60307041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 603070402,
+        "group": 60307042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 603070403,
+        "group": 60307043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 603070404,
+        "group": 60307044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 603080400,
+        "group": 60308040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\": {\"BUFFER_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 603080401,
+        "group": 60308041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 603080402,
+        "group": 60308042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 603080403,
+        "group": 60308043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 603080404,
+        "group": 60308044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [5,6]}, \"EFFECT\":  {\"BUFFER_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
         "skillEffectMstId": 604010100,
         "group": 60401010,
         "skillType": 2100,
@@ -1442,6 +1802,126 @@
         "contentsType": 6,
         "probability": 100,
         "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 604060400,
+        "group": 60406040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 604060401,
+        "group": 60406041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 604060402,
+        "group": 60406042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 604060403,
+        "group": 60406043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 604060404,
+        "group": 60406044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,2], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 604070400,
+        "group": 60407040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 604070401,
+        "group": 60407041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 604070402,
+        "group": 60407042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 604070403,
+        "group": 60407043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 604070404,
+        "group": 60407044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [2,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.05}}"
+      },
+      {
+        "skillEffectMstId": 604080400,
+        "group": 60408040,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.04}}"
+      },
+      {
+        "skillEffectMstId": 604080401,
+        "group": 60408041,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.042}}"
+      },
+      {
+        "skillEffectMstId": 604080402,
+        "group": 60408042,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.045}}"
+      },
+      {
+        "skillEffectMstId": 604080403,
+        "group": 60408043,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.047}}"
+      },
+      {
+        "skillEffectMstId": 604080404,
+        "group": 60408044,
+        "skillType": 2100,
+        "contentsType": 6,
+        "probability": 100,
+        "parameterText": "{\"TRIGGER\": {\"ATTRIBUTES\": [1,3], \"CARD_TYPES\": [7]}, \"EFFECT\": {\"RECOVERY_UP_MAGNIFICATION\": 0.05}}"
       }
     ]
   }

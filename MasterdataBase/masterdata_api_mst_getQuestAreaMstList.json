@@ -3524,10 +3524,26 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 356101,
+        "questMapMstId": 356,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 357101,
         "questMapMstId": 357,
         "name": "ミニイベント",
         "description": "プレストーリー桑田一乙編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 358101,
+        "questMapMstId": 358,
+        "name": "ミニイベント",
+        "description": "プレストーリー竹腰千華編",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -5180,6 +5196,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 799101,
+        "questMapMstId": 799,
+        "name": "メダルイベント",
+        "description": "近くて遠いふたりへ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 799201,
+        "questMapMstId": 799,
+        "name": "メダルイベント",
+        "description": "近くて遠いふたりへ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5246,6 +5278,14 @@
       {
         "questAreaMstId": 1003101,
         "questMapMstId": 1003,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1004101,
+        "questMapMstId": 1004,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,
