@@ -3548,6 +3548,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 359101,
+        "questMapMstId": 359,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5208,6 +5216,38 @@
         "questMapMstId": 799,
         "name": "メダルイベント",
         "description": "近くて遠いふたりへ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 800101,
+        "questMapMstId": 800,
+        "name": "メダルイベント",
+        "description": "星々が詠うエヴァンジェル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 800201,
+        "questMapMstId": 800,
+        "name": "メダルイベント",
+        "description": "星々が詠うエヴァンジェル",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 801101,
+        "questMapMstId": 801,
+        "name": "メダルイベント",
+        "description": "秋のアフタヌーンティー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 801201,
+        "questMapMstId": 801,
+        "name": "メダルイベント",
+        "description": "秋のアフタヌーンティー",
         "mode": 2,
         "hasNextComingSoon": false
       },

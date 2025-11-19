@@ -2180,6 +2180,39 @@
         "motion": "Fun",
         "startTime": -62170017539,
         "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 142001,
+        "type": 0,
+        "characterMstId": 142,
+        "title": "【千華】ログインボーナス①",
+        "voiceId": "cv_outgame_001_142-login_normal_001",
+        "faceType": "Normal",
+        "motion": "Fun",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 142002,
+        "type": 0,
+        "characterMstId": 142,
+        "title": "【千華】ログインボーナス②",
+        "voiceId": "cv_outgame_001_142-login_normal_002",
+        "faceType": "Normal",
+        "motion": "PoseChange05",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 142003,
+        "type": 0,
+        "characterMstId": 142,
+        "title": "【千華】ログインボーナス③",
+        "voiceId": "cv_outgame_001_142-login_normal_003",
+        "faceType": "Normal",
+        "motion": "Think",
+        "startTime": -62170017539,
+        "endTime": -62170017539
       }
     ]
   }

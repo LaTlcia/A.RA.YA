@@ -58,6 +58,33 @@
         "endTime": 1763884800
       },
       {
+        "battleAuraMstId": 70302,
+        "name": "オーラエフェクト緑",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 10,
+        "imageId": 1025800,
+        "startTime": 1763002800,
+        "endTime": 1766131200
+      },
+      {
+        "battleAuraMstId": 70303,
+        "name": "オーラエフェクト水色",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 11,
+        "imageId": 1025900,
+        "startTime": 1763002800,
+        "endTime": 1766131200
+      },
+      {
+        "battleAuraMstId": 70304,
+        "name": "オーラエフェクト桃",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 12,
+        "imageId": 1026000,
+        "startTime": 1763002800,
+        "endTime": 1766131200
+      },
+      {
         "battleAuraMstId": 1090102,
         "name": "オーラエフェクト赤",
         "description": "リリィに表示される特別なエフェクト",

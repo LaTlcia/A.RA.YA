@@ -1556,6 +1556,22 @@
         "endTime": -62170017539
       },
       {
+        "optionBgmMstId": 2601,
+        "type": 0,
+        "mstId": 0,
+        "sortOrder": 2601,
+        "title": "激闘の予兆",
+        "lyrics": "-",
+        "composition": "塩澤 彰一",
+        "arrangement": "塩澤 彰一",
+        "cv": "-",
+        "fileName": "bgm_gigant-battle_common_001",
+        "forceBgmStartTime": 1762830000,
+        "forceBgmEndTime": 1763909999,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
         "optionBgmMstId": 160001,
         "type": 0,
         "mstId": 0,

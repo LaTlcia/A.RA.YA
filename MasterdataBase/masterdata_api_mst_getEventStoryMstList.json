@@ -14975,6 +14975,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 35910101,
+        "questStageMstId": 35910101,
+        "title": "二十五品目 海鮮ノインヴェルト天丼",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_25",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1764082800,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -24256,6 +24267,160 @@
         "fileName2": "",
         "imageId": 129117,
         "startTime": 1761879600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010111,
+        "questStageMstId": 80010111,
+        "title": "1話:戦士たちの出立-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_01",
+        "fileName2": "",
+        "imageId": 130101,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010112,
+        "questStageMstId": 80010112,
+        "title": "1話:戦士たちの出立-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_02",
+        "fileName2": "",
+        "imageId": 130102,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010113,
+        "questStageMstId": 80010113,
+        "title": "2話:先達として-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_03",
+        "fileName2": "",
+        "imageId": 130103,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010114,
+        "questStageMstId": 80010114,
+        "title": "2話:先達として-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_04",
+        "fileName2": "",
+        "imageId": 130104,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010115,
+        "questStageMstId": 80010115,
+        "title": "2話:先達として-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_05",
+        "fileName2": "",
+        "imageId": 130105,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010116,
+        "questStageMstId": 80010116,
+        "title": "3話:ふたりを結ぶもの-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_06",
+        "fileName2": "",
+        "imageId": 130106,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010117,
+        "questStageMstId": 80010117,
+        "title": "3話:ふたりを結ぶもの-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_07",
+        "fileName2": "",
+        "imageId": 130107,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010118,
+        "questStageMstId": 80010118,
+        "title": "3話:ふたりを結ぶもの-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_08",
+        "fileName2": "",
+        "imageId": 130108,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010119,
+        "questStageMstId": 80010119,
+        "title": "3話:ふたりを結ぶもの-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_09",
+        "fileName2": "",
+        "imageId": 130109,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80010120,
+        "questStageMstId": 80010120,
+        "title": "3話:ふたりを結ぶもの-5",
+        "isFullVoice": false,
+        "fileName1": "story_event_chihana_10",
+        "fileName2": "",
+        "imageId": 130110,
+        "startTime": 1762830000,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80110111,
+        "questStageMstId": 80110111,
+        "title": "1話:秋のアフタヌーンティー-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_afternoon2025_ex01",
+        "fileName2": "",
+        "imageId": 131101,
+        "startTime": 1763607600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80110112,
+        "questStageMstId": 80110112,
+        "title": "1話:秋のアフタヌーンティー-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_afternoon2025_ex02",
+        "fileName2": "",
+        "imageId": 131102,
+        "startTime": 1763607600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80110113,
+        "questStageMstId": 80110113,
+        "title": "1話:秋のアフタヌーンティー-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_afternoon2025_ex03",
+        "fileName2": "",
+        "imageId": 131103,
+        "startTime": 1763607600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 80110114,
+        "questStageMstId": 80110114,
+        "title": "1話:秋のアフタヌーンティー-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_afternoon2025_ex04",
+        "fileName2": "",
+        "imageId": 131104,
+        "startTime": 1763607600,
         "endTime": -62170017539
       },
       {

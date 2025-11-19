@@ -5982,6 +5982,55 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10865,
+        "title": "星々が詠うエヴァンジェル【個人】",
+        "completeMissionMstId": 10865001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10866,
+        "title": "星々が詠うエヴァンジェル【レギオン】",
+        "completeMissionMstId": 10866001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10867,
+        "title": "星々が詠うエヴァンジェル【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10868,
+        "title": "ギガント級ヒュージ討伐特別ミッション",
+        "completeMissionMstId": 10868001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10869,
+        "title": "藤乃誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10870,
+        "title": "ミリアム誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10871,
+        "title": "秋のアフタヌーンティー【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

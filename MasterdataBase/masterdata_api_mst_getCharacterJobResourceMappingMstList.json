@@ -1584,6 +1584,16 @@
         "imageCharacterJobIconS": "CharacterJobIconS0343039"
       },
       {
+        "characterJobMstId": 363142,
+        "characterMstId": 142,
+        "styleType": 363,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
+      },
+      {
         "characterJobMstId": 900039,
         "characterMstId": 39,
         "styleType": 900,
@@ -1622,6 +1632,16 @@
         "imageStanding": "CharacterJob0001124",
         "imageCharacterJobIconM": "CharacterJobIconM0001124",
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
+      },
+      {
+        "characterJobMstId": 900142,
+        "characterMstId": 142,
+        "styleType": 900,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
       },
       {
         "characterJobMstId": 901039,
@@ -1664,6 +1684,16 @@
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
       },
       {
+        "characterJobMstId": 901142,
+        "characterMstId": 142,
+        "styleType": 901,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
+      },
+      {
         "characterJobMstId": 902039,
         "characterMstId": 39,
         "styleType": 902,
@@ -1702,6 +1732,16 @@
         "imageStanding": "CharacterJob0001124",
         "imageCharacterJobIconM": "CharacterJobIconM0001124",
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
+      },
+      {
+        "characterJobMstId": 902142,
+        "characterMstId": 142,
+        "styleType": 902,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
       },
       {
         "characterJobMstId": 903039,
@@ -1744,6 +1784,16 @@
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
       },
       {
+        "characterJobMstId": 903142,
+        "characterMstId": 142,
+        "styleType": 903,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
+      },
+      {
         "characterJobMstId": 904039,
         "characterMstId": 39,
         "styleType": 904,
@@ -1784,6 +1834,16 @@
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
       },
       {
+        "characterJobMstId": 904142,
+        "characterMstId": 142,
+        "styleType": 904,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
+      },
+      {
         "characterJobMstId": 905039,
         "characterMstId": 39,
         "styleType": 905,
@@ -1822,6 +1882,16 @@
         "imageStanding": "CharacterJob0001124",
         "imageCharacterJobIconM": "CharacterJobIconM0001124",
         "imageCharacterJobIconS": "CharacterJobIconS0001124"
+      },
+      {
+        "characterJobMstId": 905142,
+        "characterMstId": 142,
+        "styleType": 905,
+        "spinePrefab": "CharacterJobSpine010363142",
+        "spineAsset": "CharacterJobSpine_01_0363_142",
+        "imageStanding": "CharacterJob0363142",
+        "imageCharacterJobIconM": "CharacterJobIconM0363142",
+        "imageCharacterJobIconS": "CharacterJobIconS0363142"
       }
     ]
   }

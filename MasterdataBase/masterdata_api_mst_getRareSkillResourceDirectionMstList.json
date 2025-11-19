@@ -578,6 +578,13 @@
         "effectId": 83
       },
       {
+        "rareSkillResourceDirectionMstId": 84,
+        "iconName": "MarsRegister",
+        "duplicationCategory": 1,
+        "loopPattern": 1,
+        "effectId": 84
+      },
+      {
         "rareSkillResourceDirectionMstId": 85,
         "iconName": "ShrunkenLand",
         "duplicationCategory": 0,
@@ -590,6 +597,13 @@
         "duplicationCategory": 1,
         "loopPattern": 3,
         "effectId": 14
+      },
+      {
+        "rareSkillResourceDirectionMstId": 87,
+        "iconName": "Extend",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 82
       }
     ]
   }
