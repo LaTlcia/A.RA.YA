@@ -5252,6 +5252,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 802101,
+        "questMapMstId": 802,
+        "name": "メダルイベント",
+        "description": "いただきますをみんなで",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 802201,
+        "questMapMstId": 802,
+        "name": "メダルイベント",
+        "description": "いただきますをみんなで",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5326,6 +5342,14 @@
       {
         "questAreaMstId": 1004101,
         "questMapMstId": 1004,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1005101,
+        "questMapMstId": 1005,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,

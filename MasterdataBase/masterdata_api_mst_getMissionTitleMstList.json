@@ -6031,6 +6031,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 10872,
+        "title": "異空間リーディングステージ応援",
+        "completeMissionMstId": 10872001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4113
+      },
+      {
+        "missionTitleMstId": 10873,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 10873001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 10874,
+        "title": "いただきますをみんなで【個人】",
+        "completeMissionMstId": 10874001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10875,
+        "title": "いただきますをみんなで【レギオン】",
+        "completeMissionMstId": 10875001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 10876,
+        "title": "いただきますをみんなで【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,

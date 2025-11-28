@@ -3124,6 +3124,18 @@
         "endTime": 1763132399
       },
       {
+        "chatStampMstId": 282,
+        "name": "お手伝いしますね",
+        "characterMstId": 106,
+        "type": 1,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1764601200,
+        "endTime": 1767149999
+      },
+      {
         "chatStampMstId": 283,
         "name": "頼んだわよ",
         "characterMstId": 142,
@@ -3134,6 +3146,30 @@
         "conditionValue2": 0,
         "startTime": 1762830000,
         "endTime": 1763909999
+      },
+      {
+        "chatStampMstId": 284,
+        "name": "チャンスよ",
+        "characterMstId": 27,
+        "type": 4,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1764601200,
+        "endTime": 1767149999
+      },
+      {
+        "chatStampMstId": 285,
+        "name": "おはようございます",
+        "characterMstId": 32,
+        "type": 1,
+        "howToGetText": "いただきますをみんなで【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1764385200,
+        "endTime": 1765637999
       }
     ]
   }
