@@ -1,0 +1,44 @@
+{
+  "url": "/api/mst/getTeamFestTeamMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "teamFestTeamMstId": 20011,
+        "teamFestEventMstId": 2001,
+        "teamNumber": 20011,
+        "teamName": "魏",
+        "teamIcon": 20011,
+        "teamBG": 3015635,
+        "stageViewBgm": "",
+        "bgImageId": 3015635,
+        "joinRewardNicknameMstId": 2001001,
+        "questAreaMstId": 0
+      },
+      {
+        "teamFestTeamMstId": 20012,
+        "teamFestEventMstId": 2001,
+        "teamNumber": 20012,
+        "teamName": "呉",
+        "teamIcon": 20012,
+        "teamBG": 3015636,
+        "stageViewBgm": "",
+        "bgImageId": 3015636,
+        "joinRewardNicknameMstId": 2001002,
+        "questAreaMstId": 0
+      },
+      {
+        "teamFestTeamMstId": 20013,
+        "teamFestEventMstId": 2001,
+        "teamNumber": 20013,
+        "teamName": "蜀",
+        "teamIcon": 20013,
+        "teamBG": 3015637,
+        "stageViewBgm": "",
+        "bgImageId": 3015637,
+        "joinRewardNicknameMstId": 2001003,
+        "questAreaMstId": 0
+      }
+    ]
+  }
+}

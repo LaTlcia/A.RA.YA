@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "skillId": 1,
+    "lv": 1,
+    "name": "速射のオーブ",
+    "description": "全てのスキルの攻撃間隔を8%短縮する",
+    "rate": 8
+  },
+  {
+    "id": 2,
+    "skillId": 1,
+    "lv": 2,
+    "name": "速射のオーブ",
+    "description": "全てのスキルの攻撃間隔を16%短縮する",
+    "rate": 16
+  },
+  {
+    "id": 3,
+    "skillId": 1,
+    "lv": 3,
+    "name": "速射のオーブ",
+    "description": "全てのスキルの攻撃間隔を24%短縮する",
+    "rate": 24
+  },
+  {
+    "id": 4,
+    "skillId": 1,
+    "lv": 4,
+    "name": "速射のオーブ",
+    "description": "全てのスキルの攻撃間隔を32%短縮する",
+    "rate": 32
+  },
+  {
+    "id": 5,
+    "skillId": 1,
+    "lv": 5,
+    "name": "速射のオーブ",
+    "description": "全てのスキルの攻撃間隔を40%短縮する",
+    "rate": 40
+  },
+  {
+    "id": 6,
+    "skillId": 2,
+    "lv": 1,
+    "name": "魔法のラムネ",
+    "description": "5秒おきに自動的にHPの1％を回復する",
+    "rate": 1
+  },
+  {
+    "id": 7,
+    "skillId": 2,
+    "lv": 2,
+    "name": "魔法のラムネ",
+    "description": "5秒おきに自動的にHPの2％を回復する",
+    "rate": 2
+  },
+  {
+    "id": 8,
+    "skillId": 2,
+    "lv": 3,
+    "name": "魔法のラムネ",
+    "description": "5秒おきに自動的にHPの3％を回復する",
+    "rate": 3
+  },
+  {
+    "id": 9,
+    "skillId": 2,
+    "lv": 4,
+    "name": "魔法のラムネ",
+    "description": "5秒おきに自動的にHPの4％を回復する",
+    "rate": 4
+  },
+  {
+    "id": 10,
+    "skillId": 2,
+    "lv": 5,
+    "name": "魔法のラムネ",
+    "description": "5秒おきに自動的にHPの5％を回復する",
+    "rate": 5
+  },
+  {
+    "id": 11,
+    "skillId": 3,
+    "lv": 1,
+    "name": "少女の日記",
+    "description": "経験値獲得を8％増加する",
+    "rate": 8
+  },
+  {
+    "id": 12,
+    "skillId": 3,
+    "lv": 2,
+    "name": "少女の日記",
+    "description": "経験値獲得を16％増加する",
+    "rate": 16
+  },
+  {
+    "id": 13,
+    "skillId": 3,
+    "lv": 3,
+    "name": "少女の日記",
+    "description": "経験値獲得を24％増加する",
+    "rate": 24
+  },
+  {
+    "id": 14,
+    "skillId": 3,
+    "lv": 4,
+    "name": "少女の日記",
+    "description": "経験値獲得を32％増加する",
+    "rate": 32
+  },
+  {
+    "id": 15,
+    "skillId": 3,
+    "lv": 5,
+    "name": "少女の日記",
+    "description": "経験値獲得を40％増加する",
+    "rate": 40
+  },
+  {
+    "id": 16,
+    "skillId": 4,
+    "lv": 1,
+    "name": "力の指輪",
+    "description": "攻撃力を10%増加する",
+    "rate": 10
+  },
+  {
+    "id": 17,
+    "skillId": 4,
+    "lv": 2,
+    "name": "力の指輪",
+    "description": "攻撃力を20%増加する",
+    "rate": 20
+  },
+  {
+    "id": 18,
+    "skillId": 4,
+    "lv": 3,
+    "name": "力の指輪",
+    "description": "攻撃力を30%増加する",
+    "rate": 30
+  },
+  {
+    "id": 19,
+    "skillId": 4,
+    "lv": 4,
+    "name": "力の指輪",
+    "description": "攻撃力を40%増加する",
+    "rate": 40
+  },
+  {
+    "id": 20,
+    "skillId": 4,
+    "lv": 5,
+    "name": "力の指輪",
+    "description": "攻撃力を50%増加する",
+    "rate": 50
+  },
+  {
+    "id": 21,
+    "skillId": 5,
+    "lv": 1,
+    "name": "アイテム吸収器",
+    "description": "アイテム吸収範囲を100%拡大する",
+    "rate": 100
+  },
+  {
+    "id": 22,
+    "skillId": 5,
+    "lv": 2,
+    "name": "アイテム吸収器",
+    "description": "アイテム吸収範囲を200%拡大する",
+    "rate": 200
+  },
+  {
+    "id": 23,
+    "skillId": 5,
+    "lv": 3,
+    "name": "アイテム吸収器",
+    "description": "アイテム吸収範囲を300%拡大する",
+    "rate": 300
+  },
+  {
+    "id": 24,
+    "skillId": 5,
+    "lv": 4,
+    "name": "アイテム吸収器",
+    "description": "アイテム吸収範囲を400%拡大する",
+    "rate": 400
+  },
+  {
+    "id": 25,
+    "skillId": 5,
+    "lv": 5,
+    "name": "アイテム吸収器",
+    "description": "アイテム吸収範囲を500%拡大する",
+    "rate": 500
+  },
+  {
+    "id": 26,
+    "skillId": 6,
+    "lv": 1,
+    "name": "炸裂魔法石",
+    "description": "全てのスキルの効果範囲を10%拡大する",
+    "rate": 10
+  },
+  {
+    "id": 27,
+    "skillId": 6,
+    "lv": 2,
+    "name": "炸裂魔法石",
+    "description": "全てのスキルの効果範囲を20%拡大する",
+    "rate": 20
+  },
+  {
+    "id": 28,
+    "skillId": 6,
+    "lv": 3,
+    "name": "炸裂魔法石",
+    "description": "全てのスキルの効果範囲を30%拡大する",
+    "rate": 30
+  },
+  {
+    "id": 29,
+    "skillId": 6,
+    "lv": 4,
+    "name": "炸裂魔法石",
+    "description": "全てのスキルの効果範囲を40%拡大する",
+    "rate": 40
+  },
+  {
+    "id": 30,
+    "skillId": 6,
+    "lv": 5,
+    "name": "炸裂魔法石",
+    "description": "全てのスキルの効果範囲を50%拡大する",
+    "rate": 50
+  },
+  {
+    "id": 31,
+    "skillId": 7,
+    "lv": 1,
+    "name": "俊足の魔法石",
+    "description": "移動速度を10%上昇する",
+    "rate": 10
+  },
+  {
+    "id": 32,
+    "skillId": 7,
+    "lv": 2,
+    "name": "俊足の魔法石",
+    "description": "移動速度を20%上昇する",
+    "rate": 20
+  },
+  {
+    "id": 33,
+    "skillId": 7,
+    "lv": 3,
+    "name": "俊足の魔法石",
+    "description": "移動速度を30%上昇する",
+    "rate": 30
+  },
+  {
+    "id": 34,
+    "skillId": 7,
+    "lv": 4,
+    "name": "俊足の魔法石",
+    "description": "移動速度を40%上昇する",
+    "rate": 40
+  },
+  {
+    "id": 35,
+    "skillId": 7,
+    "lv": 5,
+    "name": "俊足の魔法石",
+    "description": "移動速度を50%上昇する",
+    "rate": 50
+  },
+  {
+    "id": 36,
+    "skillId": 8,
+    "lv": 1,
+    "name": "魔法の砂時計",
+    "description": "スキルの効果時間を10%長くする",
+    "rate": 10
+  },
+  {
+    "id": 37,
+    "skillId": 8,
+    "lv": 2,
+    "name": "魔法の砂時計",
+    "description": "スキルの効果時間を20%長くする",
+    "rate": 20
+  },
+  {
+    "id": 38,
+    "skillId": 8,
+    "lv": 3,
+    "name": "魔法の砂時計",
+    "description": "スキルの効果時間を30%長くする",
+    "rate": 30
+  },
+  {
+    "id": 39,
+    "skillId": 8,
+    "lv": 4,
+    "name": "魔法の砂時計",
+    "description": "スキルの効果時間を40%長くする",
+    "rate": 40
+  },
+  {
+    "id": 40,
+    "skillId": 8,
+    "lv": 5,
+    "name": "魔法の砂時計",
+    "description": "スキルの効果時間を50%長くする",
+    "rate": 50
+  },
+  {
+    "id": 41,
+    "skillId": 9,
+    "lv": 1,
+    "name": "弾速のお守り",
+    "description": "銃弾系スキルの速度を10%上昇する",
+    "rate": 10
+  },
+  {
+    "id": 42,
+    "skillId": 9,
+    "lv": 2,
+    "name": "弾速のお守り",
+    "description": "銃弾系スキルの速度を20%上昇する",
+    "rate": 20
+  },
+  {
+    "id": 43,
+    "skillId": 9,
+    "lv": 3,
+    "name": "弾速のお守り",
+    "description": "銃弾系スキルの速度を30%上昇する",
+    "rate": 30
+  },
+  {
+    "id": 44,
+    "skillId": 9,
+    "lv": 4,
+    "name": "弾速のお守り",
+    "description": "銃弾系スキルの速度を40%上昇する",
+    "rate": 40
+  },
+  {
+    "id": 45,
+    "skillId": 9,
+    "lv": 5,
+    "name": "弾速のお守り",
+    "description": "銃弾系スキルの速度を50%上昇する",
+    "rate": 50
+  },
+  {
+    "id": 46,
+    "skillId": 10,
+    "lv": 1,
+    "name": "HPの魔導書",
+    "description": "最大HPを20%上昇する",
+    "rate": 20
+  },
+  {
+    "id": 47,
+    "skillId": 10,
+    "lv": 2,
+    "name": "HPの魔導書",
+    "description": "最大HPを40%上昇する",
+    "rate": 40
+  },
+  {
+    "id": 48,
+    "skillId": 10,
+    "lv": 3,
+    "name": "HPの魔導書",
+    "description": "最大HPを60%上昇する",
+    "rate": 60
+  },
+  {
+    "id": 49,
+    "skillId": 10,
+    "lv": 4,
+    "name": "HPの魔導書",
+    "description": "最大HPを80%上昇する",
+    "rate": 80
+  },
+  {
+    "id": 50,
+    "skillId": 10,
+    "lv": 5,
+    "name": "HPの魔導書",
+    "description": "最大HPを100%上昇する",
+    "rate": 100
+  },
+  {
+    "id": 51,
+    "skillId": 11,
+    "lv": 1,
+    "name": "硬化の鎧",
+    "description": "受けるダメージを10%減少する",
+    "rate": 10
+  },
+  {
+    "id": 52,
+    "skillId": 11,
+    "lv": 2,
+    "name": "硬化の鎧",
+    "description": "受けるダメージを20%減少する",
+    "rate": 20
+  },
+  {
+    "id": 53,
+    "skillId": 11,
+    "lv": 3,
+    "name": "硬化の鎧",
+    "description": "受けるダメージを30%減少する",
+    "rate": 30
+  },
+  {
+    "id": 54,
+    "skillId": 11,
+    "lv": 4,
+    "name": "硬化の鎧",
+    "description": "受けるダメージを40%減少する",
+    "rate": 40
+  },
+  {
+    "id": 55,
+    "skillId": 11,
+    "lv": 5,
+    "name": "硬化の鎧",
+    "description": "受けるダメージを50%減少する",
+    "rate": 50
+  }
+]

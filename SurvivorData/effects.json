@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "description": "煙",
+    "lifeTime": 0.7,
+    "FadeOut": 0,
+    "resourceId": 1
+  },
+  {
+    "id": 2,
+    "description": "爆発",
+    "lifeTime": 0.5,
+    "FadeOut": 0,
+    "resourceId": 2
+  },
+  {
+    "id": 3,
+    "description": "青の精霊/青火球のレティクル",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 3
+  },
+  {
+    "id": 4,
+    "description": "赤の精霊/赤火球のレティクル",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 4
+  },
+  {
+    "id": 5,
+    "description": "土の魔法/岩の破片1",
+    "lifeTime": 0.8,
+    "FadeOut": 0.2,
+    "resourceId": 5
+  },
+  {
+    "id": 6,
+    "description": "土の魔法/岩の破片1",
+    "lifeTime": 0.8,
+    "FadeOut": 0.2,
+    "resourceId": 6
+  },
+  {
+    "id": 7,
+    "description": "疾風のゴーレムがまとう風",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 7
+  },
+  {
+    "id": 8,
+    "description": "氷雷の地雷魔法陣の雷が当たったときの爆発",
+    "lifeTime": 0.5,
+    "FadeOut": 0,
+    "resourceId": 8
+  },
+  {
+    "id": 9,
+    "description": "雷の魔法の稲妻",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 9
+  },
+  {
+    "id": 10,
+    "description": "大地の魔法/破片1",
+    "lifeTime": 0.8,
+    "FadeOut": 0.2,
+    "resourceId": 10
+  },
+  {
+    "id": 11,
+    "description": "大地の魔法/破片2",
+    "lifeTime": 0.8,
+    "FadeOut": 0.2,
+    "resourceId": 11
+  },
+  {
+    "id": 12,
+    "description": "土の魔法のターゲット",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 12
+  },
+  {
+    "id": 13,
+    "description": "突進予測線",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 13
+  },
+  {
+    "id": 14,
+    "description": "グングニル発射時のエフェクト",
+    "lifeTime": 0.1,
+    "FadeOut": 0,
+    "resourceId": 14
+  },
+  {
+    "id": 15,
+    "description": "雷光の魔法の雷",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 15
+  },
+  {
+    "id": 16,
+    "description": "妖精の女王/火球のレティクル",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 16
+  },
+  {
+    "id": 17,
+    "description": "敵が召喚されたときのエフェクト",
+    "lifeTime": 0.9,
+    "FadeOut": 0,
+    "resourceId": 17
+  },
+  {
+    "id": 18,
+    "description": "敵死亡時のエフェクト",
+    "lifeTime": 0.4,
+    "FadeOut": 0,
+    "resourceId": 18
+  },
+  {
+    "id": 19,
+    "description": "土の魔法/落下時のエフェクト",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 19
+  },
+  {
+    "id": 20,
+    "description": "大地の魔法のターゲット",
+    "lifeTime": 10,
+    "FadeOut": 0,
+    "resourceId": 20
+  },
+  {
+    "id": 21,
+    "description": "宝箱の後光1",
+    "lifeTime": 0,
+    "FadeOut": 0,
+    "resourceId": 21
+  },
+  {
+    "id": 22,
+    "description": "宝箱の後光2",
+    "lifeTime": 0,
+    "FadeOut": 0,
+    "resourceId": 22
+  },
+  {
+    "id": 23,
+    "description": "宝箱の虹",
+    "lifeTime": 0,
+    "FadeOut": 0,
+    "resourceId": 23
+  },
+  {
+    "id": 24,
+    "description": "ブリューナクの残像",
+    "lifeTime": 0.4,
+    "FadeOut": 0,
+    "resourceId": 24
+  },
+  {
+    "id": 25,
+    "description": "ブリューナク(進化後)の残像",
+    "lifeTime": 0.4,
+    "FadeOut": 0,
+    "resourceId": 25
+  },
+  {
+    "id": 26,
+    "description": "アイテムのエフェクト",
+    "lifeTime": 0,
+    "FadeOut": 0,
+    "resourceId": 26
+  }
+]

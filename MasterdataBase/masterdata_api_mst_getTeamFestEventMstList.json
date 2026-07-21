@@ -1,0 +1,22 @@
+{
+  "url": "/api/mst/getTeamFestEventMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "teamFestEventMstId": 2001,
+        "eventName": "第1回バトルパレード！",
+        "eventTheme": "三国志",
+        "questMapMstId": 2001,
+        "questScheduleMstId": 200101,
+        "staminaItemMstId": 4021601,
+        "staminaItemAmountPerRound": 5,
+        "maxStamina": 5,
+        "recoverStaminaPerSec": 7200,
+        "bannerImageId": 0,
+        "resultViewStartTime": 1772352000,
+        "helpMstId": 17002
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "梨璃（ムーンライト）",
+    "description": "最初からプレイできるよ",
+    "hp": 1000,
+    "speed": 400,
+    "radius": 10,
+    "itemRadius": 100,
+    "wallRadius": 65,
+    "friction": 10,
+    "mass": 100,
+    "offense": 100,
+    "noDamageTime": 0.2,
+    "resourceId": 1,
+    "initializeOffesiveSkillId": 15
+  },
+  {
+    "id": 2,
+    "name": "夢結（ムーンライト）",
+    "description": "リリィサバイバル1をクリアする",
+    "hp": 800,
+    "speed": 300,
+    "radius": 10,
+    "itemRadius": 100,
+    "wallRadius": 65,
+    "friction": 10,
+    "mass": 100,
+    "offense": 150,
+    "noDamageTime": 0.2,
+    "resourceId": 2,
+    "initializeOffesiveSkillId": 31
+  },
+  {
+    "id": 8,
+    "name": "雨嘉（猫耳メイド）",
+    "description": "リリィサバイバル2をクリアする",
+    "hp": 700,
+    "speed": 500,
+    "radius": 10,
+    "itemRadius": 100,
+    "wallRadius": 65,
+    "friction": 10,
+    "mass": 100,
+    "offense": 120,
+    "noDamageTime": 0.2,
+    "resourceId": 3,
+    "initializeOffesiveSkillId": 32
+  }
+]

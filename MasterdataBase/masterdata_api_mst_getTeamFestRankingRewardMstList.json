@@ -1,0 +1,26 @@
+{
+  "url": "/api/mst/getTeamFestRankingRewardMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "teamFestRankingRewardMstId": 2001011,
+        "teamFestEventMstId": 2001,
+        "targetRank": 1,
+        "rewardGroupId": 200101
+      },
+      {
+        "teamFestRankingRewardMstId": 2001021,
+        "teamFestEventMstId": 2001,
+        "targetRank": 2,
+        "rewardGroupId": 200102
+      },
+      {
+        "teamFestRankingRewardMstId": 2001031,
+        "teamFestEventMstId": 2001,
+        "targetRank": 3,
+        "rewardGroupId": 200103
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "name": "経験値（小）",
+    "description": "",
+    "value": 100,
+    "radius": 64,
+    "scale": 1,
+    "lifeTime": 360,
+    "resourceId": 1
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "name": "経験値（中）",
+    "description": "",
+    "value": 200,
+    "radius": 64,
+    "scale": 1,
+    "lifeTime": 360,
+    "resourceId": 2
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "name": "経験値（大）",
+    "description": "",
+    "value": 400,
+    "radius": 64,
+    "scale": 1,
+    "lifeTime": 360,
+    "resourceId": 3
+  },
+  {
+    "id": 4,
+    "type": 2,
+    "name": "宝箱",
+    "description": "",
+    "value": 0,
+    "radius": 64,
+    "scale": 1.5,
+    "lifeTime": 360,
+    "resourceId": 4
+  },
+  {
+    "id": 5,
+    "type": 4,
+    "name": "錬金術の爆弾",
+    "description": "",
+    "value": 50,
+    "radius": 64,
+    "scale": 1.5,
+    "lifeTime": 360,
+    "resourceId": 6
+  },
+  {
+    "id": 6,
+    "type": 5,
+    "name": "アイテム吸収器",
+    "description": "",
+    "value": 0,
+    "radius": 64,
+    "scale": 1.5,
+    "lifeTime": 360,
+    "resourceId": 7
+  },
+  {
+    "id": 7,
+    "type": 3,
+    "name": "薬草",
+    "description": "HPを200回復する",
+    "value": 200,
+    "radius": 64,
+    "scale": 1.5,
+    "lifeTime": 360,
+    "resourceId": 5
+  }
+]

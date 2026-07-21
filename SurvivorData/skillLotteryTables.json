@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "description": "石のゴーレム、雷の魔法、地雷魔法陣を外す",
+    "table": [
+      {
+        "type": 1,
+        "skillId": 2
+      },
+      {
+        "type": 1,
+        "skillId": 3
+      },
+      {
+        "type": 1,
+        "skillId": 4
+      },
+      {
+        "type": 1,
+        "skillId": 5
+      },
+      {
+        "type": 1,
+        "skillId": 6
+      },
+      {
+        "type": 1,
+        "skillId": 7
+      },
+      {
+        "type": 1,
+        "skillId": 9
+      },
+      {
+        "type": 1,
+        "skillId": 10
+      },
+      {
+        "type": 1,
+        "skillId": 11
+      },
+      {
+        "type": 1,
+        "skillId": 13
+      },
+      {
+        "type": 1,
+        "skillId": 14
+      },
+      {
+        "type": 1,
+        "skillId": 15
+      },
+      {
+        "type": 1,
+        "skillId": 31
+      },
+      {
+        "type": 1,
+        "skillId": 32
+      },
+      {
+        "type": 2,
+        "skillId": 1
+      },
+      {
+        "type": 2,
+        "skillId": 2
+      },
+      {
+        "type": 2,
+        "skillId": 3
+      },
+      {
+        "type": 2,
+        "skillId": 4
+      },
+      {
+        "type": 2,
+        "skillId": 5
+      },
+      {
+        "type": 2,
+        "skillId": 6
+      },
+      {
+        "type": 2,
+        "skillId": 7
+      },
+      {
+        "type": 2,
+        "skillId": 8
+      },
+      {
+        "type": 2,
+        "skillId": 9
+      },
+      {
+        "type": 2,
+        "skillId": 10
+      },
+      {
+        "type": 2,
+        "skillId": 11
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "全スキル",
+    "table": [
+      {
+        "type": 1,
+        "skillId": 1
+      },
+      {
+        "type": 1,
+        "skillId": 2
+      },
+      {
+        "type": 1,
+        "skillId": 3
+      },
+      {
+        "type": 1,
+        "skillId": 4
+      },
+      {
+        "type": 1,
+        "skillId": 5
+      },
+      {
+        "type": 1,
+        "skillId": 6
+      },
+      {
+        "type": 1,
+        "skillId": 7
+      },
+      {
+        "type": 1,
+        "skillId": 8
+      },
+      {
+        "type": 1,
+        "skillId": 9
+      },
+      {
+        "type": 1,
+        "skillId": 10
+      },
+      {
+        "type": 1,
+        "skillId": 11
+      },
+      {
+        "type": 1,
+        "skillId": 12
+      },
+      {
+        "type": 1,
+        "skillId": 13
+      },
+      {
+        "type": 1,
+        "skillId": 14
+      },
+      {
+        "type": 1,
+        "skillId": 15
+      },
+      {
+        "type": 1,
+        "skillId": 31
+      },
+      {
+        "type": 1,
+        "skillId": 32
+      },
+      {
+        "type": 2,
+        "skillId": 1
+      },
+      {
+        "type": 2,
+        "skillId": 2
+      },
+      {
+        "type": 2,
+        "skillId": 3
+      },
+      {
+        "type": 2,
+        "skillId": 4
+      },
+      {
+        "type": 2,
+        "skillId": 5
+      },
+      {
+        "type": 2,
+        "skillId": 6
+      },
+      {
+        "type": 2,
+        "skillId": 7
+      },
+      {
+        "type": 2,
+        "skillId": 8
+      },
+      {
+        "type": 2,
+        "skillId": 9
+      },
+      {
+        "type": 2,
+        "skillId": 10
+      },
+      {
+        "type": 2,
+        "skillId": 11
+      }
+    ]
+  }
+]
