@@ -6976,6 +6976,48 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11008,
+        "title": "なつみず☆トレジャー【個人】",
+        "completeMissionMstId": 11008001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11009,
+        "title": "なつみず☆トレジャー【レギオン】",
+        "completeMissionMstId": 11009001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11010,
+        "title": "なつみず☆トレジャー【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11011,
+        "title": "リリチャレ!!～なつみず☆トレジャー～",
+        "completeMissionMstId": 11011001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4800
+      },
+      {
+        "missionTitleMstId": 11012,
+        "title": "5.5周年記念レギオンリーグ 特別ミッション",
+        "completeMissionMstId": 11012001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4725
+      },
+      {
+        "missionTitleMstId": 11013,
+        "title": "真誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11014,
         "title": "ラスバレ放送局を観よう！ミッション",
         "completeMissionMstId": 0,

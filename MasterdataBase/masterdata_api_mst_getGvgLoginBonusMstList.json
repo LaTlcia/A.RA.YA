@@ -57,6 +57,22 @@
         "cycleType": 1,
         "imageId": 1,
         "startTime": 1772290800,
+        "endTime": 1785527999
+      },
+      {
+        "gvgLoginBonusMstId": 8,
+        "title": "8月レギオンマッチ特別月間参戦ボーナス",
+        "cycleType": 0,
+        "imageId": 1001,
+        "startTime": 1785528000,
+        "endTime": 1788206399
+      },
+      {
+        "gvgLoginBonusMstId": 9,
+        "title": "8月レギオンマッチ特別月間参戦ボーナス",
+        "cycleType": 1,
+        "imageId": 1,
+        "startTime": 1788206400,
         "endTime": -62170017539
       }
     ]

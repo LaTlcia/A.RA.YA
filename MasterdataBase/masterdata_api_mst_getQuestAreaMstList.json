@@ -5740,6 +5740,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 826101,
+        "questMapMstId": 826,
+        "name": "メダルイベント",
+        "description": "なつみず☆トレジャー",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 826201,
+        "questMapMstId": 826,
+        "name": "メダルイベント",
+        "description": "なつみず☆トレジャー",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

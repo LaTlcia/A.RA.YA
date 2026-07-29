@@ -674,6 +674,34 @@
         "duplicationCategory": 5,
         "loopPattern": 1,
         "effectId": 102
+      },
+      {
+        "rareSkillResourceDirectionMstId": 103,
+        "iconName": "MarisCirclitBreath",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 103
+      },
+      {
+        "rareSkillResourceDirectionMstId": 104,
+        "iconName": "MarisHeliosphere",
+        "duplicationCategory": 1,
+        "loopPattern": 3,
+        "effectId": 104
+      },
+      {
+        "rareSkillResourceDirectionMstId": 105,
+        "iconName": "SolisPhantasm",
+        "duplicationCategory": 1,
+        "loopPattern": 1,
+        "effectId": 105
+      },
+      {
+        "rareSkillResourceDirectionMstId": 106,
+        "iconName": "SolisCirclitBreath",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 106
       }
     ]
   }

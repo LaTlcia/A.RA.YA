@@ -3650,6 +3650,18 @@
         "conditionValue2": 0,
         "startTime": 1784516400,
         "endTime": 1785466799
+      },
+      {
+        "chatStampMstId": 326,
+        "name": "喰っちまいますわよ？",
+        "characterMstId": 42,
+        "type": 9,
+        "howToGetText": "なつみず☆トレジャー【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1785466800,
+        "endTime": 1786633199
       }
     ]
   }

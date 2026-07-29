@@ -40900,6 +40900,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 87106005,
+        "type": 106,
+        "characterMstId": 87,
+        "styleType": 377,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_087-all_tactics_02",
+        "text": "ねぇ、いまどんな気持ち！？"
+      },
+      {
         "ingameVoiceMstId": 87107001,
         "type": 107,
         "characterMstId": 87,
@@ -41489,6 +41498,15 @@
         "type": 106,
         "characterMstId": 88,
         "styleType": 342,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_088-all_tactics_02",
+        "text": "今こそ、訓練の成果を発揮する時よ！"
+      },
+      {
+        "ingameVoiceMstId": 88106003,
+        "type": 106,
+        "characterMstId": 88,
+        "styleType": 377,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_088-all_tactics_02",
         "text": "今こそ、訓練の成果を発揮する時よ！"
@@ -42104,6 +42122,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_089-all_tactics_02",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 89106005,
+        "type": 106,
+        "characterMstId": 89,
+        "styleType": 377,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_089-all_tactics_01",
+        "text": "みんな"
       },
       {
         "ingameVoiceMstId": 89107001,
@@ -47204,6 +47231,15 @@
         "type": 106,
         "characterMstId": 105,
         "styleType": 345,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_105-all_tactics_02",
+        "text": "全てを出し切る時です"
+      },
+      {
+        "ingameVoiceMstId": 105106004,
+        "type": 106,
+        "characterMstId": 105,
+        "styleType": 377,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_105-all_tactics_02",
         "text": "全てを出し切る時です"
