@@ -10354,6 +10354,15 @@
         "text": "ぼくに任せて！"
       },
       {
+        "ingameVoiceMstId": 18106003,
+        "type": 106,
+        "characterMstId": 18,
+        "styleType": 377,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_018-all_rareskill_01",
+        "text": "ぼくに任せて！"
+      },
+      {
         "ingameVoiceMstId": 18107001,
         "type": 107,
         "characterMstId": 18,
@@ -10988,6 +10997,15 @@
         "type": 106,
         "characterMstId": 19,
         "styleType": 342,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_019-all_rareskill_01",
+        "text": "ひめかに任せなさい！"
+      },
+      {
+        "ingameVoiceMstId": 19106003,
+        "type": 106,
+        "characterMstId": 19,
+        "styleType": 377,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_019-all_rareskill_01",
         "text": "ひめかに任せなさい！"
@@ -16159,6 +16177,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 31106002,
+        "type": 106,
+        "characterMstId": 31,
+        "styleType": 377,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_031-all_tactics_02",
+        "text": "もう1人では戦いませんわ！"
+      },
+      {
         "ingameVoiceMstId": 31107001,
         "type": 107,
         "characterMstId": 31,
@@ -16706,6 +16733,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_032-all_rareskill_01",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 32106002,
+        "type": 106,
+        "characterMstId": 32,
+        "styleType": 377,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_032-all_tactics_01",
+        "text": "この手には勝算があります"
       },
       {
         "ingameVoiceMstId": 32107001,

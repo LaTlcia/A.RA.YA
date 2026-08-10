@@ -702,6 +702,27 @@
         "duplicationCategory": 5,
         "loopPattern": 1,
         "effectId": 106
+      },
+      {
+        "rareSkillResourceDirectionMstId": 107,
+        "iconName": "AquallScales",
+        "duplicationCategory": 2,
+        "loopPattern": 4,
+        "effectId": 107
+      },
+      {
+        "rareSkillResourceDirectionMstId": 108,
+        "iconName": "AquallMagiProvidence",
+        "duplicationCategory": 0,
+        "loopPattern": 1,
+        "effectId": 108
+      },
+      {
+        "rareSkillResourceDirectionMstId": 109,
+        "iconName": "SuavisLunar",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 109
       }
     ]
   }

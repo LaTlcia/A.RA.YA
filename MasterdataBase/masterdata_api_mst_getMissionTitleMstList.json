@@ -7025,6 +7025,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11015,
+        "title": "なつみず☆救助レース【個人】",
+        "completeMissionMstId": 11015001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11016,
+        "title": "なつみず☆救助レース【レギオン】",
+        "completeMissionMstId": 11016001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11017,
+        "title": "なつみず☆救助レース【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11018,
+        "title": "リリチャレ!!～なつみず☆救助レース～",
+        "completeMissionMstId": 11018001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4832
+      },
+      {
+        "missionTitleMstId": 11019,
+        "title": "一葉誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11020,
         "title": "ギガント級ヒュージ討伐イベントミッション",
         "completeMissionMstId": 11020010,
@@ -7188,6 +7223,13 @@
       {
         "missionTitleMstId": 11043,
         "title": "ギガント級ヒュージ討伐イベント",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11044,
+        "title": "マルチデイリーミッション",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

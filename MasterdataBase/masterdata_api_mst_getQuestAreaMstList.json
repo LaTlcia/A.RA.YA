@@ -1684,6 +1684,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 167101,
+        "questMapMstId": 167,
+        "name": "マルチバトル",
+        "description": "みんなで！共闘バトル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -5752,6 +5760,22 @@
         "questMapMstId": 826,
         "name": "メダルイベント",
         "description": "なつみず☆トレジャー",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 827101,
+        "questMapMstId": 827,
+        "name": "メダルイベント",
+        "description": "なつみず☆救助レース",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 827201,
+        "questMapMstId": 827,
+        "name": "メダルイベント",
+        "description": "なつみず☆救助レース",
         "mode": 2,
         "hasNextComingSoon": false
       },

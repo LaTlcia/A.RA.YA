@@ -3662,6 +3662,18 @@
         "conditionValue2": 0,
         "startTime": 1785466800,
         "endTime": 1786633199
+      },
+      {
+        "chatStampMstId": 328,
+        "name": "ふぅーん？",
+        "characterMstId": 69,
+        "type": 3,
+        "howToGetText": "なつみず☆救助レース【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1786417200,
+        "endTime": 1787583599
       }
     ]
   }
