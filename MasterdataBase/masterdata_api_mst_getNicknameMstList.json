@@ -655,6 +655,48 @@
         "imageId": 1015900
       },
       {
+        "nicknameMstId": 2002001,
+        "name": "第2回バトルパレード！チーム「サーフ」",
+        "description": "バトルパレード！に参加したリリィに送られる称号",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 2002002,
+        "name": "第2回バトルパレード！チーム「ダイブ」",
+        "description": "バトルパレード！に参加したリリィに送られる称号",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 2002003,
+        "name": "第2回バトルパレード！チーム「ウェーブ」",
+        "description": "バトルパレード！に参加したリリィに送られる称号",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 2002004,
+        "name": "第2回バトルパレード！第1位！",
+        "description": "バトルパレード！にて功績を残したチームに送られる称号",
+        "resourceId": 1,
+        "imageId": 1016100
+      },
+      {
+        "nicknameMstId": 2002005,
+        "name": "第2回バトルパレード！第2位！",
+        "description": "バトルパレード！にて功績を残したチームに送られる称号",
+        "resourceId": 2,
+        "imageId": 1016000
+      },
+      {
+        "nicknameMstId": 2002006,
+        "name": "第2回バトルパレード！第3位！",
+        "description": "バトルパレード！にて功績を残したチームに送られる称号",
+        "resourceId": 3,
+        "imageId": 1015900
+      },
+      {
         "nicknameMstId": 10100101,
         "name": "第1回LCS[準優勝]",
         "description": "レギオンチャンピオンシップ[準優勝]レギオンに送られる称号",

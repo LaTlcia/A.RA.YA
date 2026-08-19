@@ -5780,6 +5780,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 828101,
+        "questMapMstId": 828,
+        "name": "メダルイベント",
+        "description": "夏の瞳は空の下",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 828201,
+        "questMapMstId": 828,
+        "name": "メダルイベント",
+        "description": "夏の瞳は空の下",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5929,6 +5945,22 @@
         "name": "チームイベント",
         "description": "バトルパレード！",
         "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 2002101,
+        "questMapMstId": 2002,
+        "name": "チームイベント",
+        "description": "バトルパレード！",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 2002201,
+        "questMapMstId": 2002,
+        "name": "チームイベント",
+        "description": "バトルパレード！",
+        "mode": 2,
         "hasNextComingSoon": false
       }
     ]

@@ -16,6 +16,20 @@
         "bannerImageId": 0,
         "resultViewStartTime": 1772352000,
         "helpMstId": 17002
+      },
+      {
+        "teamFestEventMstId": 2002,
+        "eventName": "第2回バトルパレード！",
+        "eventTheme": "バトルパニック",
+        "questMapMstId": 2002,
+        "questScheduleMstId": 200201,
+        "staminaItemMstId": 4021602,
+        "staminaItemAmountPerRound": 5,
+        "maxStamina": 5,
+        "recoverStaminaPerSec": 7200,
+        "bannerImageId": 0,
+        "resultViewStartTime": 1787904000,
+        "helpMstId": 17001
       }
     ]
   }

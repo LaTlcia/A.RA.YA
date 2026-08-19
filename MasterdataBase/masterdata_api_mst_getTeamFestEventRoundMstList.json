@@ -98,6 +98,70 @@
         "roundName": "ROUND 12",
         "startTime": 1772222400,
         "endTime": 1772308799
+      },
+      {
+        "teamFestEventRoundMstId": 200201,
+        "teamFestEventMstId": 2002,
+        "roundNum": 1,
+        "roundName": "ROUND 01",
+        "startTime": 1787126400,
+        "endTime": 1787255999
+      },
+      {
+        "teamFestEventRoundMstId": 200202,
+        "teamFestEventMstId": 2002,
+        "roundNum": 2,
+        "roundName": "ROUND 02",
+        "startTime": 1787256000,
+        "endTime": 1787342399
+      },
+      {
+        "teamFestEventRoundMstId": 200203,
+        "teamFestEventMstId": 2002,
+        "roundNum": 3,
+        "roundName": "ROUND 03",
+        "startTime": 1787342400,
+        "endTime": 1787428799
+      },
+      {
+        "teamFestEventRoundMstId": 200204,
+        "teamFestEventMstId": 2002,
+        "roundNum": 4,
+        "roundName": "ROUND 04",
+        "startTime": 1787428800,
+        "endTime": 1787515199
+      },
+      {
+        "teamFestEventRoundMstId": 200205,
+        "teamFestEventMstId": 2002,
+        "roundNum": 5,
+        "roundName": "ROUND 05",
+        "startTime": 1787515200,
+        "endTime": 1787601599
+      },
+      {
+        "teamFestEventRoundMstId": 200206,
+        "teamFestEventMstId": 2002,
+        "roundNum": 6,
+        "roundName": "ROUND 06",
+        "startTime": 1787601600,
+        "endTime": 1787687999
+      },
+      {
+        "teamFestEventRoundMstId": 200207,
+        "teamFestEventMstId": 2002,
+        "roundNum": 7,
+        "roundName": "ROUND 07",
+        "startTime": 1787688000,
+        "endTime": 1787774399
+      },
+      {
+        "teamFestEventRoundMstId": 200208,
+        "teamFestEventMstId": 2002,
+        "roundNum": 8,
+        "roundName": "ROUND 08",
+        "startTime": 1787774400,
+        "endTime": 1787860799
       }
     ]
   }
