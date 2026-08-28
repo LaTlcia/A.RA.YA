@@ -5147,6 +5147,48 @@
         "objectType": 5,
         "objectId": 4006721,
         "num": 1
+      },
+      {
+        "shopDetailMstId": 2558,
+        "shopMstId": 79,
+        "objectType": 5,
+        "objectId": 3001500,
+        "num": 10
+      },
+      {
+        "shopDetailMstId": 2559,
+        "shopMstId": 79,
+        "objectType": 5,
+        "objectId": 1015800,
+        "num": 15
+      },
+      {
+        "shopDetailMstId": 2560,
+        "shopMstId": 79,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 30
+      },
+      {
+        "shopDetailMstId": 2561,
+        "shopMstId": 80,
+        "objectType": 5,
+        "objectId": 3001500,
+        "num": 40
+      },
+      {
+        "shopDetailMstId": 2562,
+        "shopMstId": 80,
+        "objectType": 5,
+        "objectId": 1015800,
+        "num": 35
+      },
+      {
+        "shopDetailMstId": 2563,
+        "shopMstId": 80,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 70
       }
     ]
   }

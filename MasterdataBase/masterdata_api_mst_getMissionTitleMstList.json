@@ -7263,6 +7263,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11049,
+        "title": "残光のティアドロップ【個人】",
+        "completeMissionMstId": 11049001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11050,
+        "title": "残光のティアドロップ【レギオン】",
+        "completeMissionMstId": 11050001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11051,
+        "title": "残光のティアドロップ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11052,
+        "title": "えれんすげハートフルカフェ開催記念",
+        "completeMissionMstId": 11052001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4885
+      },
+      {
+        "missionTitleMstId": 11053,
+        "title": "ぱちんこ アサルトリリィ 導入記念",
+        "completeMissionMstId": 11053001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4887
+      },
+      {
         "missionTitleMstId": 12022,
         "title": "ブーステッド・フレンドイベントミッション",
         "completeMissionMstId": 0,
@@ -8063,6 +8098,111 @@
       {
         "missionTitleMstId": 40005,
         "title": "白百合の十二聖剣：絶海のワールプール",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40006,
+        "title": "白百合の十二聖剣：溟海のブルーローズ",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40007,
+        "title": "白百合の十二聖剣：追憶のリグレット",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40008,
+        "title": "宿星の花束：邂逅のヴァルキュリア",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40009,
+        "title": "宿星の花束：竜楯のエスペランサ",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40010,
+        "title": "宿星の花束：凶星のホライズン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40011,
+        "title": "竜哭の哀歌：暁のラルン外征隊",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40012,
+        "title": "竜哭の哀歌：マリオネット・プリンセス",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40013,
+        "title": "竜哭の哀歌：Tragedy of Fate",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40014,
+        "title": "竜哭の哀歌：夢幻のパラドクス",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40015,
+        "title": "New Color Days：再会と追想のグリモワール",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40016,
+        "title": "New Color Days：決意のカレイドフラワーズ",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40017,
+        "title": "New Color Days：近くて遠いふたりへ",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40018,
+        "title": "未来への結束：比翼の同盟レギオン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40019,
+        "title": "未来への結束：フラグメント・ウィローズ",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 40020,
+        "title": "未来への結束：ハルモニア・ブルーム",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
         "completeResourceId": 0

@@ -1692,6 +1692,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 168101,
+        "questMapMstId": 168,
+        "name": "特別イベント",
+        "description": "ぱちんこ導入記念イベント",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -3664,6 +3672,14 @@
         "questMapMstId": 375,
         "name": "ミニイベント",
         "description": "プレストーリーアルテア編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 376101,
+        "questMapMstId": 376,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -5796,6 +5812,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 829101,
+        "questMapMstId": 829,
+        "name": "メダルイベント",
+        "description": "残光のティアドロップ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 829201,
+        "questMapMstId": 829,
+        "name": "メダルイベント",
+        "description": "残光のティアドロップ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -5934,6 +5966,14 @@
       {
         "questAreaMstId": 1012101,
         "questMapMstId": 1012,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1013101,
+        "questMapMstId": 1013,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,

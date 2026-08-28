@@ -723,6 +723,41 @@
         "duplicationCategory": 0,
         "loopPattern": 0,
         "effectId": 109
+      },
+      {
+        "rareSkillResourceDirectionMstId": 110,
+        "iconName": "HiyokuKyoran",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 110
+      },
+      {
+        "rareSkillResourceDirectionMstId": 112,
+        "iconName": "HiyokuBougetsu",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 112
+      },
+      {
+        "rareSkillResourceDirectionMstId": 113,
+        "iconName": "FidesMagiReflector",
+        "duplicationCategory": 1,
+        "loopPattern": 3,
+        "effectId": 74
+      },
+      {
+        "rareSkillResourceDirectionMstId": 114,
+        "iconName": "FidesDrainTouch",
+        "duplicationCategory": 0,
+        "loopPattern": 3,
+        "effectId": 55
+      },
+      {
+        "rareSkillResourceDirectionMstId": 115,
+        "iconName": "FidesAstralGuarder",
+        "duplicationCategory": 0,
+        "loopPattern": 1,
+        "effectId": 75
       }
     ]
   }

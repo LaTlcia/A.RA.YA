@@ -5881,6 +5881,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 10106004,
+        "type": 106,
+        "characterMstId": 10,
+        "styleType": 382,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_010-all_rareskill_01",
+        "text": "今が攻め時です！"
+      },
+      {
         "ingameVoiceMstId": 10107001,
         "type": 107,
         "characterMstId": 10,
@@ -6419,6 +6428,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_011-all_rareskill_02",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 11106002,
+        "type": 106,
+        "characterMstId": 11,
+        "styleType": 382,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_011-all_rareskill_01",
+        "text": "いっくよー！"
       },
       {
         "ingameVoiceMstId": 11106003,
@@ -7078,6 +7096,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 12106003,
+        "type": 106,
+        "characterMstId": 12,
+        "styleType": 382,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_012-all_rareskill_01",
+        "text": "決めさせてもらうよ！"
+      },
+      {
         "ingameVoiceMstId": 12107001,
         "type": 107,
         "characterMstId": 12,
@@ -7625,6 +7652,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_013-all_tactics_01",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 13106003,
+        "type": 106,
+        "characterMstId": 13,
+        "styleType": 382,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_013-all_rareskill_01",
+        "text": "わたしが守る"
       },
       {
         "ingameVoiceMstId": 13107001,
@@ -8183,6 +8219,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_014-all_tactics_01",
         "text": "皆さんの力になりたいんです"
+      },
+      {
+        "ingameVoiceMstId": 14106004,
+        "type": 106,
+        "characterMstId": 14,
+        "styleType": 382,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_014-all_rareskill_01",
+        "text": "皆さんのことは、私が守ります…！"
       },
       {
         "ingameVoiceMstId": 14107001,
@@ -59210,6 +59255,15 @@
         "type": 106,
         "characterMstId": 131,
         "styleType": 300,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_131-all_rareskill_02",
+        "text": "みんなをいじめないでっ！"
+      },
+      {
+        "ingameVoiceMstId": 131106006,
+        "type": 106,
+        "characterMstId": 131,
+        "styleType": 382,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_131-all_rareskill_02",
         "text": "みんなをいじめないでっ！"
