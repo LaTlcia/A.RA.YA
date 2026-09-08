@@ -6976,6 +6976,13 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11007,
+        "title": "ギガント級共闘戦【特別】",
+        "completeMissionMstId": 11007001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11008,
         "title": "なつみず☆トレジャー【個人】",
         "completeMissionMstId": 11008001,
@@ -7296,6 +7303,34 @@
         "completeMissionMstId": 11053001,
         "specialMissionImageId": 4,
         "completeResourceId": 4887
+      },
+      {
+        "missionTitleMstId": 11054,
+        "title": "えれんすげハートフルカフェ七保＆昇依登場記念",
+        "completeMissionMstId": 11054001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4901
+      },
+      {
+        "missionTitleMstId": 11055,
+        "title": "風紀の道も一歩から【個人】",
+        "completeMissionMstId": 11055001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11056,
+        "title": "風紀の道も一歩から【レギオン】",
+        "completeMissionMstId": 11056001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11057,
+        "title": "風紀の道も一歩から【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
       },
       {
         "missionTitleMstId": 12022,

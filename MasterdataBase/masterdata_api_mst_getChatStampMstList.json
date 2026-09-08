@@ -3498,7 +3498,7 @@
       {
         "chatStampMstId": 313,
         "name": "こっちじゃ！",
-        "characterMstId": 0,
+        "characterMstId": 9,
         "type": 4,
         "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
         "transitionSceneName": "NULL",
@@ -3712,6 +3712,18 @@
         "endTime": 1789311599
       },
       {
+        "chatStampMstId": 332,
+        "name": "取り締まるよ！",
+        "characterMstId": 128,
+        "type": 2,
+        "howToGetText": "風紀の道も一歩から【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1788922800,
+        "endTime": 1790089199
+      },
+      {
         "chatStampMstId": 362,
         "name": "ご奉仕いたします！",
         "characterMstId": 10,
@@ -3841,6 +3853,30 @@
         "conditionValue1": 0,
         "conditionValue2": 0,
         "startTime": 1788490800,
+        "endTime": 1790521199
+      },
+      {
+        "chatStampMstId": 373,
+        "name": "やったね！",
+        "characterMstId": 128,
+        "type": 4,
+        "howToGetText": "えれんすげハートフルカフェ七保＆昇依登場記念ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1789095600,
+        "endTime": 1790521199
+      },
+      {
+        "chatStampMstId": 374,
+        "name": "よろしく",
+        "characterMstId": 99999,
+        "type": 1,
+        "howToGetText": "えれんすげハートフルカフェ七保＆昇依登場記念ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1789095600,
         "endTime": 1790521199
       }
     ]

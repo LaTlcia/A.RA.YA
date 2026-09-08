@@ -3684,6 +3684,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 377101,
+        "questMapMstId": 377,
+        "name": "ミニイベント",
+        "description": "プレストーリー山内昇依編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5824,6 +5832,22 @@
         "questMapMstId": 829,
         "name": "メダルイベント",
         "description": "残光のティアドロップ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 830101,
+        "questMapMstId": 830,
+        "name": "メダルイベント",
+        "description": "風紀の道も一歩から",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 830201,
+        "questMapMstId": 830,
+        "name": "メダルイベント",
+        "description": "風紀の道も一歩から",
         "mode": 2,
         "hasNextComingSoon": false
       },

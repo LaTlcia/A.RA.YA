@@ -758,6 +758,20 @@
         "duplicationCategory": 0,
         "loopPattern": 1,
         "effectId": 75
+      },
+      {
+        "rareSkillResourceDirectionMstId": 116,
+        "iconName": "ReglaAccel",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 5
+      },
+      {
+        "rareSkillResourceDirectionMstId": 118,
+        "iconName": "ReglaHeliosphere",
+        "duplicationCategory": 1,
+        "loopPattern": 3,
+        "effectId": 14
       }
     ]
   }

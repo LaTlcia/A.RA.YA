@@ -15107,6 +15107,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 37710101,
+        "questStageMstId": 37710101,
+        "title": "プレストーリー山内昇依編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_146",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1788854400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -27545,6 +27556,105 @@
         "fileName2": "",
         "imageId": 159119,
         "startTime": 1788145200,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010111,
+        "questStageMstId": 83010111,
+        "title": "1話:風紀委員たるもの-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_01",
+        "fileName2": "",
+        "imageId": 160101,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010112,
+        "questStageMstId": 83010112,
+        "title": "1話:風紀委員たるもの-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_02",
+        "fileName2": "",
+        "imageId": 160102,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010113,
+        "questStageMstId": 83010113,
+        "title": "2話:風紀はカタチから-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_03",
+        "fileName2": "",
+        "imageId": 160103,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010114,
+        "questStageMstId": 83010114,
+        "title": "2話:風紀はカタチから-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_04",
+        "fileName2": "",
+        "imageId": 160104,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010115,
+        "questStageMstId": 83010115,
+        "title": "2話:風紀はカタチから-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_05",
+        "fileName2": "",
+        "imageId": 160105,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010116,
+        "questStageMstId": 83010116,
+        "title": "2話:風紀はカタチから-4",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_06",
+        "fileName2": "",
+        "imageId": 160106,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010117,
+        "questStageMstId": 83010117,
+        "title": "3話:戦う風紀委員！-1",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_07",
+        "fileName2": "",
+        "imageId": 160107,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010118,
+        "questStageMstId": 83010118,
+        "title": "3話:戦う風紀委員！-2",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_08",
+        "fileName2": "",
+        "imageId": 160108,
+        "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83010119,
+        "questStageMstId": 83010119,
+        "title": "3話:戦う風紀委員！-3",
+        "isFullVoice": false,
+        "fileName1": "story_event_police_09",
+        "fileName2": "",
+        "imageId": 160109,
+        "startTime": 1788922800,
         "endTime": -62170017539
       },
       {

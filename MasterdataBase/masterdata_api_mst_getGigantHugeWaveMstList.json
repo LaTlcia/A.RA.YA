@@ -970,6 +970,27 @@
         "dropRewardMaxNum": 0
       },
       {
+        "gigantHugeWaveMstId": 20130101,
+        "gigantHugeStageMstId": 201301,
+        "appearanceGroupId": 20130101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 20130201,
+        "gigantHugeStageMstId": 201302,
+        "appearanceGroupId": 20130201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 20130301,
+        "gigantHugeStageMstId": 201303,
+        "appearanceGroupId": 20130301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
         "gigantHugeWaveMstId": 30010101,
         "gigantHugeStageMstId": 300101,
         "appearanceGroupId": 30010101,
@@ -1148,6 +1169,27 @@
         "gigantHugeWaveMstId": 30120301,
         "gigantHugeStageMstId": 301203,
         "appearanceGroupId": 30120301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 30130101,
+        "gigantHugeStageMstId": 301301,
+        "appearanceGroupId": 30130101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 30130201,
+        "gigantHugeStageMstId": 301302,
+        "appearanceGroupId": 30130201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 30130301,
+        "gigantHugeStageMstId": 301303,
+        "appearanceGroupId": 30130301,
         "dropRewardMinNum": 0,
         "dropRewardMaxNum": 0
       },
@@ -1407,6 +1449,27 @@
         "gigantHugeWaveMstId": 50120301,
         "gigantHugeStageMstId": 501203,
         "appearanceGroupId": 50120301,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 50130101,
+        "gigantHugeStageMstId": 501301,
+        "appearanceGroupId": 50130101,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 50130201,
+        "gigantHugeStageMstId": 501302,
+        "appearanceGroupId": 50130201,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0
+      },
+      {
+        "gigantHugeWaveMstId": 50130301,
+        "gigantHugeStageMstId": 501303,
+        "appearanceGroupId": 50130301,
         "dropRewardMinNum": 0,
         "dropRewardMaxNum": 0
       }

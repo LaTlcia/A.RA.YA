@@ -1292,6 +1292,42 @@
         "rareSkillId": 115,
         "target": 1,
         "directionType": 9
+      },
+      {
+        "rareSkillDetailDirectionMstId": 221,
+        "rareSkillId": 116,
+        "target": 3,
+        "directionType": 6
+      },
+      {
+        "rareSkillDetailDirectionMstId": 222,
+        "rareSkillId": 116,
+        "target": 6,
+        "directionType": 11
+      },
+      {
+        "rareSkillDetailDirectionMstId": 223,
+        "rareSkillId": 116,
+        "target": 1,
+        "directionType": 9
+      },
+      {
+        "rareSkillDetailDirectionMstId": 224,
+        "rareSkillId": 118,
+        "target": 2,
+        "directionType": 4
+      },
+      {
+        "rareSkillDetailDirectionMstId": 225,
+        "rareSkillId": 118,
+        "target": 3,
+        "directionType": 5
+      },
+      {
+        "rareSkillDetailDirectionMstId": 226,
+        "rareSkillId": 118,
+        "target": 2,
+        "directionType": 3
       }
     ]
   }

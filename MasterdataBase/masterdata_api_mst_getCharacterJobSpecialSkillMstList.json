@@ -45836,6 +45836,598 @@
         "contentsType": 6
       },
       {
+        "characterJobSpecialSkillMstId": 38306900,
+        "characterJobMstId": 383069,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 10102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308600,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308601,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308602,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308603,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308604,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308605,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308606,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308607,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308608,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308609,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308610,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308611,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308612,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308613,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308614,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308615,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308616,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308617,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308618,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308619,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308620,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308621,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308622,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308623,
+        "characterJobMstId": 383086,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38308900,
+        "characterJobMstId": 383089,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 20102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312800,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312801,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312802,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312803,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312804,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312805,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312806,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312807,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312808,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312809,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312810,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312811,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312812,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312813,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312814,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312815,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312816,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312817,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312818,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312819,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312820,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 13103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312821,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 23103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312822,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 24103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38312823,
+        "characterJobMstId": 383128,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 14103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313300,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313301,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313302,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 23100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313303,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 13100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313304,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 0,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 14100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313305,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 0,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 24100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313306,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313307,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313308,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 23101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313309,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 13101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313310,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 1,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 14101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313311,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 1,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 24101,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313312,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313313,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313314,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 23102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313315,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 13102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313316,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 2,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 14102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313317,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 2,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 24102,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313318,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 12100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313319,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 22100,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313320,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 23103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313321,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 13103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313322,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 3,
+        "isAwakened": false,
+        "characterJobSpecialSkillEffectMstId": 14103,
+        "contentsType": 6
+      },
+      {
+        "characterJobSpecialSkillMstId": 38313323,
+        "characterJobMstId": 383133,
+        "limitBreakCount": 3,
+        "isAwakened": true,
+        "characterJobSpecialSkillEffectMstId": 24103,
+        "contentsType": 6
+      },
+      {
         "characterJobSpecialSkillMstId": 38605100,
         "characterJobMstId": 386051,
         "limitBreakCount": 0,

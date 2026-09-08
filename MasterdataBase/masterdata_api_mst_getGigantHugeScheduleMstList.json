@@ -554,6 +554,17 @@
         "endTime": 1779029999
       },
       {
+        "gigantHugeScheduleMstId": 201301,
+        "gigantHugeMapMstId": 2013,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 13,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第13回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50131,
+        "startTime": 1789009200,
+        "endTime": 1789570799
+      },
+      {
         "gigantHugeScheduleMstId": 300100,
         "gigantHugeMapMstId": 3001,
         "reprintNum": 0,
@@ -684,6 +695,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50121,
         "startTime": 1778468400,
         "endTime": 1779029999
+      },
+      {
+        "gigantHugeScheduleMstId": 301301,
+        "gigantHugeMapMstId": 3013,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 13,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第13回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50131,
+        "startTime": 1789009200,
+        "endTime": 1789570799
       },
       {
         "gigantHugeScheduleMstId": 400100,
@@ -860,6 +882,17 @@
         "multiScoreGigantHugeRankingRewardGroupId": 50121,
         "startTime": 1778468400,
         "endTime": 1779029999
+      },
+      {
+        "gigantHugeScheduleMstId": 501301,
+        "gigantHugeMapMstId": 5013,
+        "reprintNum": 0,
+        "multiScoreEventGroupId": 13,
+        "multiScoreRankingId": 1,
+        "multiScoreRankingName": "第13回ギガント級共闘戦",
+        "multiScoreGigantHugeRankingRewardGroupId": 50131,
+        "startTime": 1789009200,
+        "endTime": 1789570799
       }
     ]
   }
