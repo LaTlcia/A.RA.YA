@@ -3350,6 +3350,34 @@
         "endTime": 1790539199
       },
       {
+        "loginBonusMstId": 10193,
+        "title": "継承のプリズムパレット編 開幕ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015656,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1790625600,
+        "endTime": 1791921599
+      },
+      {
+        "loginBonusMstId": 10194,
+        "title": "ぽかぽか湯上がり♪ラムネで乾杯ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015657,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1789761600,
+        "endTime": 1791575999
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

@@ -3692,6 +3692,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 378101,
+        "questMapMstId": 378,
+        "name": "ミニイベント",
+        "description": "プレストーリー村元庵珠編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5848,6 +5856,22 @@
         "questMapMstId": 830,
         "name": "メダルイベント",
         "description": "風紀の道も一歩から",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 831101,
+        "questMapMstId": 831,
+        "name": "メダルイベント",
+        "description": "乙女のピンチ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 831201,
+        "questMapMstId": 831,
+        "name": "メダルイベント",
+        "description": "乙女のピンチ",
         "mode": 2,
         "hasNextComingSoon": false
       },

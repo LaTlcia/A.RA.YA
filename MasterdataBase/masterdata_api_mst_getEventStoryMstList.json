@@ -15118,6 +15118,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 37810101,
+        "questStageMstId": 37810101,
+        "title": "プレストーリー村元庵珠編",
+        "isFullVoice": false,
+        "fileName1": "story_selfintroduction_137",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1790600400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -27655,6 +27666,50 @@
         "fileName2": "",
         "imageId": 160109,
         "startTime": 1788922800,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83110111,
+        "questStageMstId": 83110111,
+        "title": "1話:乙女のピンチ-1",
+        "isFullVoice": false,
+        "fileName1": "story_mini_diet_ex01",
+        "fileName2": "",
+        "imageId": 161101,
+        "startTime": 1789700400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83110112,
+        "questStageMstId": 83110112,
+        "title": "1話:乙女のピンチ-2",
+        "isFullVoice": false,
+        "fileName1": "story_mini_diet_ex02",
+        "fileName2": "",
+        "imageId": 161102,
+        "startTime": 1789700400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83110113,
+        "questStageMstId": 83110113,
+        "title": "1話:乙女のピンチ-3",
+        "isFullVoice": false,
+        "fileName1": "story_mini_diet_ex03",
+        "fileName2": "",
+        "imageId": 161103,
+        "startTime": 1789700400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83110114,
+        "questStageMstId": 83110114,
+        "title": "1話:乙女のピンチ-4",
+        "isFullVoice": false,
+        "fileName1": "story_mini_diet_ex04",
+        "fileName2": "",
+        "imageId": 161104,
+        "startTime": 1789700400,
         "endTime": -62170017539
       },
       {

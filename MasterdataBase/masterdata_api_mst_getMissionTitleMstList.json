@@ -7333,6 +7333,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11058,
+        "title": "乙女のピンチ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11059,
+        "title": "ギガント級ヒュージ討伐特別ミッション",
+        "completeMissionMstId": 11059001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11060,
+        "title": "継承のプリズムパレット編 開幕",
+        "completeMissionMstId": 11060001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4926
+      },
+      {
+        "missionTitleMstId": 11061,
+        "title": "灯莉誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11062,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 12022,
         "title": "ブーステッド・フレンドイベントミッション",
         "completeMissionMstId": 0,
