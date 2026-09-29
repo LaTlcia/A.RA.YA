@@ -2116,6 +2116,39 @@
         "endTime": -62170017539
       },
       {
+        "loginBonusCharacterActionMstId": 137001,
+        "type": 0,
+        "characterMstId": 137,
+        "title": "【庵珠】ログインボーナス③",
+        "voiceId": "cv_outgame_001_137-login_normal_001",
+        "faceType": "Normal",
+        "motion": "Anger",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 137002,
+        "type": 0,
+        "characterMstId": 137,
+        "title": "【庵珠】ログインボーナス③",
+        "voiceId": "cv_outgame_001_137-login_normal_002",
+        "faceType": "Serious",
+        "motion": "PoseChange03",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
+        "loginBonusCharacterActionMstId": 137003,
+        "type": 0,
+        "characterMstId": 137,
+        "title": "【庵珠】ログインボーナス③",
+        "voiceId": "cv_outgame_001_137-login_normal_003",
+        "faceType": "Normal",
+        "motion": "PoseChange04",
+        "startTime": -62170017539,
+        "endTime": -62170017539
+      },
+      {
         "loginBonusCharacterActionMstId": 140001,
         "type": 0,
         "characterMstId": 140,

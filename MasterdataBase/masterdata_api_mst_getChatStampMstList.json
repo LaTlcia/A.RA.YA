@@ -3712,6 +3712,18 @@
         "endTime": 1789311599
       },
       {
+        "chatStampMstId": 331,
+        "name": "カッコいい！",
+        "characterMstId": 131,
+        "type": 3,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1790737200,
+        "endTime": 1793415599
+      },
+      {
         "chatStampMstId": 332,
         "name": "取り締まるよ！",
         "characterMstId": 128,
@@ -3722,6 +3734,30 @@
         "conditionValue2": 0,
         "startTime": 1788922800,
         "endTime": 1790089199
+      },
+      {
+        "chatStampMstId": 333,
+        "name": "無実です",
+        "characterMstId": 89,
+        "type": 9,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1790737200,
+        "endTime": 1793415599
+      },
+      {
+        "chatStampMstId": 334,
+        "name": "しょうがないんだから",
+        "characterMstId": 137,
+        "type": 3,
+        "howToGetText": "継承のプリズムパレット【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1790737200,
+        "endTime": 1791903599
       },
       {
         "chatStampMstId": 362,

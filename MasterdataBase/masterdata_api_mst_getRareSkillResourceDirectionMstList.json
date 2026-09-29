@@ -772,6 +772,34 @@
         "duplicationCategory": 1,
         "loopPattern": 3,
         "effectId": 14
+      },
+      {
+        "rareSkillResourceDirectionMstId": 120,
+        "iconName": "UniteHeliosphere",
+        "duplicationCategory": 1,
+        "loopPattern": 3,
+        "effectId": 14
+      },
+      {
+        "rareSkillResourceDirectionMstId": 121,
+        "iconName": "UnitePhantasm",
+        "duplicationCategory": 1,
+        "loopPattern": 1,
+        "effectId": 22
+      },
+      {
+        "rareSkillResourceDirectionMstId": 122,
+        "iconName": "UniteParadoxa",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 38
+      },
+      {
+        "rareSkillResourceDirectionMstId": 123,
+        "iconName": "PhaseTranscendenceS",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 17
       }
     ]
   }

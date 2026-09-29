@@ -7368,6 +7368,34 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11063,
+        "title": "継承のプリズムパレット【個人】",
+        "completeMissionMstId": 11063001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11064,
+        "title": "継承のプリズムパレット【レギオン】",
+        "completeMissionMstId": 11064001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11065,
+        "title": "継承のプリズムパレット【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11066,
+        "title": "千香瑠誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 12022,
         "title": "ブーステッド・フレンドイベントミッション",
         "completeMissionMstId": 0,

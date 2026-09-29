@@ -1700,6 +1700,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 169101,
+        "questMapMstId": 169,
+        "name": "",
+        "description": "RANKUPステージ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -3696,6 +3704,14 @@
         "questMapMstId": 378,
         "name": "ミニイベント",
         "description": "プレストーリー村元庵珠編",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 379101,
+        "questMapMstId": 379,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
         "mode": 1,
         "hasNextComingSoon": false
       },
@@ -5876,6 +5892,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 832101,
+        "questMapMstId": 832,
+        "name": "メダルイベント",
+        "description": "継承のプリズムパレット",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 832201,
+        "questMapMstId": 832,
+        "name": "メダルイベント",
+        "description": "継承のプリズムパレット",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -6022,6 +6054,14 @@
       {
         "questAreaMstId": 1013101,
         "questMapMstId": 1013,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1014101,
+        "questMapMstId": 1014,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,
