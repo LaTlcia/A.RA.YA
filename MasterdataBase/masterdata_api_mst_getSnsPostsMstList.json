@@ -46,7 +46,7 @@
         "isImgActive": true,
         "presetImageId": 0,
         "startTime": -62170017539,
-        "endTime": -62170017539
+        "endTime": 1791446399
       },
       {
         "snsPostsMstId": 6,
@@ -202,6 +202,15 @@
         "endTime": 1681311599
       },
       {
+        "snsPostsMstId": 33,
+        "snsPostsType": 5,
+        "fixedMessage": "",
+        "isImgActive": true,
+        "presetImageId": 0,
+        "startTime": 1793545200,
+        "endTime": 2082725999
+      },
+      {
         "snsPostsMstId": 1010,
         "snsPostsType": 11,
         "fixedMessage": "#ラスバレ新章のススメ",
@@ -353,6 +362,15 @@
         "presetImageId": 27,
         "startTime": 1725073200,
         "endTime": 1725721199
+      },
+      {
+        "snsPostsMstId": 5001,
+        "snsPostsType": 5,
+        "fixedMessage": "初心者ミッションが超豪華にリニューアル！\\n今『ラスバレ』を始めると、ミッションクリアで豪華育成アイテムやガチャチケットがたくさんもらえる大チャンス！\\n",
+        "isImgActive": true,
+        "presetImageId": 0,
+        "startTime": 1791446400,
+        "endTime": 1793545199
       }
     ]
   }

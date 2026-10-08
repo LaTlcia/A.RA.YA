@@ -3760,6 +3760,18 @@
         "endTime": 1791903599
       },
       {
+        "chatStampMstId": 336,
+        "name": "レベルアップ！",
+        "characterMstId": 27,
+        "type": 2,
+        "howToGetText": "リリィズファンタジーゼロ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1791514800,
+        "endTime": 1792681199
+      },
+      {
         "chatStampMstId": 362,
         "name": "ご奉仕いたします！",
         "characterMstId": 10,

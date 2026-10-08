@@ -7396,6 +7396,41 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11067,
+        "title": "リリィズファンタジーゼロ【個人】",
+        "completeMissionMstId": 11067001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11068,
+        "title": "リリィズファンタジーゼロ【レギオン】",
+        "completeMissionMstId": 11068001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11069,
+        "title": "リリィズファンタジーゼロ【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11070,
+        "title": "優珂誕生日キャンペーン",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11072,
+        "title": "初心者ミッション更新記念！友達招待",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 12022,
         "title": "ブーステッド・フレンドイベントミッション",
         "completeMissionMstId": 0,

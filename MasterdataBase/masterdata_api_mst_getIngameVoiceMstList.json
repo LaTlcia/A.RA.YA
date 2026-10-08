@@ -13441,6 +13441,24 @@
         "text": "２振りによる同時攻撃、さばききれるかしら"
       },
       {
+        "ingameVoiceMstId": 27106003,
+        "type": 106,
+        "characterMstId": 27,
+        "styleType": 385,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_027-all_rareskill_03",
+        "text": "２振りによる同時攻撃、さばききれるかしら"
+      },
+      {
+        "ingameVoiceMstId": 27106004,
+        "type": 106,
+        "characterMstId": 27,
+        "styleType": 904,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_027-all_rareskill_03",
+        "text": "２振りによる同時攻撃、さばききれるかしら"
+      },
+      {
         "ingameVoiceMstId": 27107001,
         "type": 107,
         "characterMstId": 27,
@@ -19948,6 +19966,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 40106003,
+        "type": 106,
+        "characterMstId": 40,
+        "styleType": 385,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_040-all_tactics_02",
+        "text": "さあ、ここからが本番よ！"
+      },
+      {
         "ingameVoiceMstId": 40107001,
         "type": 107,
         "characterMstId": 40,
@@ -24698,6 +24725,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_048-all_rareskill_01",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 48106002,
+        "type": 106,
+        "characterMstId": 48,
+        "styleType": 385,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_048-all_tactics_01",
+        "text": "わたくしのやり方でやらせていただきますわ"
       },
       {
         "ingameVoiceMstId": 48107001,
@@ -37406,6 +37442,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_081-all_rareskill_01",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 81106002,
+        "type": 106,
+        "characterMstId": 81,
+        "styleType": 385,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_081-all_tactics_01",
+        "text": "僭越ながらわたくしが指揮させて頂きますわ！"
       },
       {
         "ingameVoiceMstId": 81107001,
@@ -64037,6 +64082,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_142-all_rareskill_02",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 142106003,
+        "type": 106,
+        "characterMstId": 142,
+        "styleType": 385,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_142-all_rareskill_02",
+        "text": "逃がさない！"
       },
       {
         "ingameVoiceMstId": 142107001,

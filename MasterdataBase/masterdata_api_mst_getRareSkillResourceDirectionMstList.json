@@ -800,6 +800,41 @@
         "duplicationCategory": 5,
         "loopPattern": 1,
         "effectId": 17
+      },
+      {
+        "rareSkillResourceDirectionMstId": 124,
+        "iconName": "Sabakinohikari",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 124
+      },
+      {
+        "rareSkillResourceDirectionMstId": 125,
+        "iconName": "Shippujinrai",
+        "duplicationCategory": 0,
+        "loopPattern": 1,
+        "effectId": 125
+      },
+      {
+        "rareSkillResourceDirectionMstId": 126,
+        "iconName": "MajuKyusoku",
+        "duplicationCategory": 1,
+        "loopPattern": 1,
+        "effectId": 126
+      },
+      {
+        "rareSkillResourceDirectionMstId": 127,
+        "iconName": "YamiGenwaku",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 127
+      },
+      {
+        "rareSkillResourceDirectionMstId": 128,
+        "iconName": "Tennomamori",
+        "duplicationCategory": 1,
+        "loopPattern": 1,
+        "effectId": 128
       }
     ]
   }

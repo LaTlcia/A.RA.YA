@@ -1406,6 +1406,90 @@
         "rareSkillId": 17,
         "target": 1,
         "directionType": 2
+      },
+      {
+        "rareSkillDetailDirectionMstId": 240,
+        "rareSkillId": 124,
+        "target": 1,
+        "directionType": 1
+      },
+      {
+        "rareSkillDetailDirectionMstId": 241,
+        "rareSkillId": 124,
+        "target": 6,
+        "directionType": 11
+      },
+      {
+        "rareSkillDetailDirectionMstId": 242,
+        "rareSkillId": 124,
+        "target": 3,
+        "directionType": 6
+      },
+      {
+        "rareSkillDetailDirectionMstId": 243,
+        "rareSkillId": 125,
+        "target": 1,
+        "directionType": 1
+      },
+      {
+        "rareSkillDetailDirectionMstId": 244,
+        "rareSkillId": 125,
+        "target": 1,
+        "directionType": 2
+      },
+      {
+        "rareSkillDetailDirectionMstId": 245,
+        "rareSkillId": 125,
+        "target": 3,
+        "directionType": 6
+      },
+      {
+        "rareSkillDetailDirectionMstId": 246,
+        "rareSkillId": 126,
+        "target": 1,
+        "directionType": 1
+      },
+      {
+        "rareSkillDetailDirectionMstId": 247,
+        "rareSkillId": 126,
+        "target": 1,
+        "directionType": 2
+      },
+      {
+        "rareSkillDetailDirectionMstId": 248,
+        "rareSkillId": 127,
+        "target": 1,
+        "directionType": 1
+      },
+      {
+        "rareSkillDetailDirectionMstId": 249,
+        "rareSkillId": 127,
+        "target": 1,
+        "directionType": 2
+      },
+      {
+        "rareSkillDetailDirectionMstId": 250,
+        "rareSkillId": 127,
+        "target": 6,
+        "directionType": 11
+      },
+      {
+        "rareSkillDetailDirectionMstId": 251,
+        "rareSkillId": 127,
+        "target": 3,
+        "directionType": 6
+      },
+      {
+        "rareSkillDetailDirectionMstId": 252,
+        "rareSkillId": 128,
+        "target": 1,
+        "directionType": 1
+      },
+      {
+        "rareSkillDetailDirectionMstId": 253,
+        "rareSkillId": 128,
+        "target": 1,
+        "directionType": 2
       }
     ]
   }
