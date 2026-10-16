@@ -1708,6 +1708,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 170101,
+        "questMapMstId": 170,
+        "name": "特別イベント",
+        "description": "リリース2100日記念イベント",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -5920,6 +5928,22 @@
         "questMapMstId": 833,
         "name": "メダルイベント",
         "description": "リリィズファンタジーゼロ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 834101,
+        "questMapMstId": 834,
+        "name": "メダルイベント",
+        "description": "がんばりすぎはほどほどに",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 834201,
+        "questMapMstId": 834,
+        "name": "メダルイベント",
+        "description": "がんばりすぎはほどほどに",
         "mode": 2,
         "hasNextComingSoon": false
       },

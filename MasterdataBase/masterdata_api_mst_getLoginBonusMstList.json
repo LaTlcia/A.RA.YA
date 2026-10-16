@@ -3392,6 +3392,34 @@
         "endTime": 1792162799
       },
       {
+        "loginBonusMstId": 10196,
+        "title": "進撃のピュアリティブーケ編 開幕ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015658,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1793131200,
+        "endTime": 1794599999
+      },
+      {
+        "loginBonusMstId": 10197,
+        "title": "異空間リーディングステージ応援vol.2ログインボーナス",
+        "cycleType": 2,
+        "isExactDate": false,
+        "sortOrder": 2,
+        "characterJobMstId": 0,
+        "backGroundId": 3015659,
+        "isCharacterVisible": false,
+        "effectId": 0,
+        "cardMstId": 0,
+        "startTime": 1793131200,
+        "endTime": 1793995199
+      },
+      {
         "loginBonusMstId": 520201,
         "title": "ブーステッド・フレンドログインボーナス",
         "cycleType": 2,

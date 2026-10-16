@@ -7424,10 +7424,52 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11071,
+        "title": "がんばりすぎはほどほどに【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11072,
         "title": "初心者ミッション更新記念！友達招待",
         "completeMissionMstId": 0,
         "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11073,
+        "title": "ラスバレ放送局を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11074,
+        "title": "「LCS決勝配信」を観よう！ミッション",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
+        "missionTitleMstId": 11075,
+        "title": "異空間リーディングステージ応援vol.2",
+        "completeMissionMstId": 11075001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4986
+      },
+      {
+        "missionTitleMstId": 11076,
+        "title": "進撃のピュアリティブーケ編 開幕",
+        "completeMissionMstId": 11076001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 4985
+      },
+      {
+        "missionTitleMstId": 11077,
+        "title": "ギガント級ヒュージ討伐特別ミッション",
+        "completeMissionMstId": 11077001,
+        "specialMissionImageId": 4,
         "completeResourceId": 0
       },
       {
