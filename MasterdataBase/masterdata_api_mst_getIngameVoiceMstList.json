@@ -1426,6 +1426,15 @@
         "text": "皆さんのために一肌脱ぎますわ"
       },
       {
+        "ingameVoiceMstId": 3106003,
+        "type": 106,
+        "characterMstId": 3,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_003-all_rareskill_01",
+        "text": "皆さんのために一肌脱ぎますわ"
+      },
+      {
         "ingameVoiceMstId": 3107001,
         "type": 107,
         "characterMstId": 3,
@@ -2108,6 +2117,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_004-all_rareskill_01",
         "text": "サポートします"
+      },
+      {
+        "ingameVoiceMstId": 4106010,
+        "type": 106,
+        "characterMstId": 4,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_004-all_rareskill_01",
+        "text": "サポートします！"
       },
       {
         "ingameVoiceMstId": 4107001,
@@ -4000,6 +4018,15 @@
         "text": "勝つのは、わたくしたちです"
       },
       {
+        "ingameVoiceMstId": 7106003,
+        "type": 106,
+        "characterMstId": 7,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_007-all_rareskill_01",
+        "text": "勝つのは、わたくしたちです"
+      },
+      {
         "ingameVoiceMstId": 7107001,
         "type": 107,
         "characterMstId": 7,
@@ -4630,6 +4657,15 @@
         "text": "絶対、外さない…っ！"
       },
       {
+        "ingameVoiceMstId": 8106004,
+        "type": 106,
+        "characterMstId": 8,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_008-all_rareskill_01",
+        "text": "絶対、外さない…っ！"
+      },
+      {
         "ingameVoiceMstId": 8107001,
         "type": 107,
         "characterMstId": 8,
@@ -5246,6 +5282,15 @@
         "type": 106,
         "characterMstId": 9,
         "styleType": 358,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_009-all_rareskill_01",
+        "text": "決めるぞ！"
+      },
+      {
+        "ingameVoiceMstId": 9106003,
+        "type": 106,
+        "characterMstId": 9,
+        "styleType": 389,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_009-all_rareskill_01",
         "text": "決めるぞ！"
@@ -51268,6 +51313,15 @@
         "text": "戦況は常に移ろうものよ！"
       },
       {
+        "ingameVoiceMstId": 114106003,
+        "type": 106,
+        "characterMstId": 114,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_114-all_tactics_02",
+        "text": "戦況は常に移ろうものよ！"
+      },
+      {
         "ingameVoiceMstId": 114107001,
         "type": 107,
         "characterMstId": 114,
@@ -51788,6 +51842,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_115-all_tactics_02",
         "text": "うちの案でいこか！"
+      },
+      {
+        "ingameVoiceMstId": 115106003,
+        "type": 106,
+        "characterMstId": 115,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_115-all_tactics_01",
+        "text": "これはどうや！"
       },
       {
         "ingameVoiceMstId": 115107001,

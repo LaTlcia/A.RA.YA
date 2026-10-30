@@ -191,6 +191,24 @@
         "eventStoryBannerMstId": 0,
         "stageViewBgm": "bgm_lb-outgame_001",
         "bgImageId": 0
+      },
+      {
+        "pveMapMstId": 217,
+        "theme": "水属性大量発生",
+        "movieMstId": 0,
+        "bannerMstId": 0,
+        "eventStoryBannerMstId": 0,
+        "stageViewBgm": "bgm_lb-outgame_001",
+        "bgImageId": 0
+      },
+      {
+        "pveMapMstId": 218,
+        "theme": "水属性ボスラッシュ",
+        "movieMstId": 0,
+        "bannerMstId": 0,
+        "eventStoryBannerMstId": 0,
+        "stageViewBgm": "bgm_lb-outgame_001",
+        "bgImageId": 0
       }
     ]
   }

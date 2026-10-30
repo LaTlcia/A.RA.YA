@@ -3724,6 +3724,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 380101,
+        "questMapMstId": 380,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 401101,
         "questMapMstId": 401,
         "name": "討伐任務",
@@ -5948,6 +5956,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 835101,
+        "questMapMstId": 835,
+        "name": "メダルイベント",
+        "description": "進撃のピュアリティブーケ",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 835201,
+        "questMapMstId": 835,
+        "name": "メダルイベント",
+        "description": "進撃のピュアリティブーケ",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -6102,6 +6126,14 @@
       {
         "questAreaMstId": 1014101,
         "questMapMstId": 1014,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1015101,
+        "questMapMstId": 1015,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,

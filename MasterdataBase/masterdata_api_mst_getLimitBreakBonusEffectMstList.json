@@ -1,0 +1,53 @@
+{
+  "url": "/api/mst/getLimitBreakBonusEffectMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "limitBreakBonusEffectMstId": 1,
+        "applyTargetId": 1,
+        "effectGroupId": 0,
+        "label": "ATK",
+        "valueFormat": 1,
+        "suffix": "",
+        "sortOrder": 1
+      },
+      {
+        "limitBreakBonusEffectMstId": 2,
+        "applyTargetId": 2,
+        "effectGroupId": 0,
+        "label": "DEF",
+        "valueFormat": 1,
+        "suffix": "",
+        "sortOrder": 2
+      },
+      {
+        "limitBreakBonusEffectMstId": 3,
+        "applyTargetId": 3,
+        "effectGroupId": 0,
+        "label": "Sp.ATK",
+        "valueFormat": 1,
+        "suffix": "",
+        "sortOrder": 3
+      },
+      {
+        "limitBreakBonusEffectMstId": 4,
+        "applyTargetId": 4,
+        "effectGroupId": 0,
+        "label": "Sp.DEF",
+        "valueFormat": 1,
+        "suffix": "",
+        "sortOrder": 4
+      },
+      {
+        "limitBreakBonusEffectMstId": 5,
+        "applyTargetId": 5,
+        "effectGroupId": 0,
+        "label": "全パラメーター",
+        "valueFormat": 1,
+        "suffix": "",
+        "sortOrder": 5
+      }
+    ]
+  }
+}

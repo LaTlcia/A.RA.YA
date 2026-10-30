@@ -1,0 +1,60 @@
+{
+  "url": "/api/mst/getLimitBreakBonusTypeMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "limitBreakBonusTypeMstId": 1,
+        "limitBreakBonusEffectMstId": 1
+      },
+      {
+        "limitBreakBonusTypeMstId": 2,
+        "limitBreakBonusEffectMstId": 2
+      },
+      {
+        "limitBreakBonusTypeMstId": 3,
+        "limitBreakBonusEffectMstId": 3
+      },
+      {
+        "limitBreakBonusTypeMstId": 4,
+        "limitBreakBonusEffectMstId": 4
+      },
+      {
+        "limitBreakBonusTypeMstId": 5,
+        "limitBreakBonusEffectMstId": 1
+      },
+      {
+        "limitBreakBonusTypeMstId": 5,
+        "limitBreakBonusEffectMstId": 2
+      },
+      {
+        "limitBreakBonusTypeMstId": 6,
+        "limitBreakBonusEffectMstId": 3
+      },
+      {
+        "limitBreakBonusTypeMstId": 6,
+        "limitBreakBonusEffectMstId": 4
+      },
+      {
+        "limitBreakBonusTypeMstId": 7,
+        "limitBreakBonusEffectMstId": 1
+      },
+      {
+        "limitBreakBonusTypeMstId": 7,
+        "limitBreakBonusEffectMstId": 3
+      },
+      {
+        "limitBreakBonusTypeMstId": 8,
+        "limitBreakBonusEffectMstId": 2
+      },
+      {
+        "limitBreakBonusTypeMstId": 8,
+        "limitBreakBonusEffectMstId": 4
+      },
+      {
+        "limitBreakBonusTypeMstId": 9,
+        "limitBreakBonusEffectMstId": 5
+      }
+    ]
+  }
+}

@@ -18210,6 +18210,1782 @@
         "objectType": 5,
         "objectId": 2008500,
         "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217001,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 217002,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 217003,
+        "pveMapMstId": 217,
+        "clearScoreNum": 7500,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 217004,
+        "pveMapMstId": 217,
+        "clearScoreNum": 14000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217005,
+        "pveMapMstId": 217,
+        "clearScoreNum": 25000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 217006,
+        "pveMapMstId": 217,
+        "clearScoreNum": 45000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217007,
+        "pveMapMstId": 217,
+        "clearScoreNum": 80000,
+        "objectType": 5,
+        "objectId": 2001600,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217008,
+        "pveMapMstId": 217,
+        "clearScoreNum": 130000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217009,
+        "pveMapMstId": 217,
+        "clearScoreNum": 180000,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 100000
+      },
+      {
+        "pveScoreRewardMstId": 217010,
+        "pveMapMstId": 217,
+        "clearScoreNum": 230000,
+        "objectType": 5,
+        "objectId": 2008600,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217011,
+        "pveMapMstId": 217,
+        "clearScoreNum": 280000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 217012,
+        "pveMapMstId": 217,
+        "clearScoreNum": 330000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 217013,
+        "pveMapMstId": 217,
+        "clearScoreNum": 380000,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 217014,
+        "pveMapMstId": 217,
+        "clearScoreNum": 430000,
+        "objectType": 5,
+        "objectId": 2001600,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217015,
+        "pveMapMstId": 217,
+        "clearScoreNum": 480000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217016,
+        "pveMapMstId": 217,
+        "clearScoreNum": 530000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 217017,
+        "pveMapMstId": 217,
+        "clearScoreNum": 580000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217018,
+        "pveMapMstId": 217,
+        "clearScoreNum": 630000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217019,
+        "pveMapMstId": 217,
+        "clearScoreNum": 680000,
+        "objectType": 5,
+        "objectId": 2001000,
+        "num": 7
+      },
+      {
+        "pveScoreRewardMstId": 217020,
+        "pveMapMstId": 217,
+        "clearScoreNum": 730000,
+        "objectType": 5,
+        "objectId": 2008600,
+        "num": 200
+      },
+      {
+        "pveScoreRewardMstId": 217021,
+        "pveMapMstId": 217,
+        "clearScoreNum": 805000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217022,
+        "pveMapMstId": 217,
+        "clearScoreNum": 880000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217023,
+        "pveMapMstId": 217,
+        "clearScoreNum": 955000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217024,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1030000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217025,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1105000,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217026,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1180000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217027,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1255000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217028,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1330000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217029,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1405000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 35
+      },
+      {
+        "pveScoreRewardMstId": 217030,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1480000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 70
+      },
+      {
+        "pveScoreRewardMstId": 217031,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1580000,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 200000
+      },
+      {
+        "pveScoreRewardMstId": 217032,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1680000,
+        "objectType": 5,
+        "objectId": 2008600,
+        "num": 200
+      },
+      {
+        "pveScoreRewardMstId": 217033,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1780000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217034,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1880000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 217035,
+        "pveMapMstId": 217,
+        "clearScoreNum": 1980000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 217036,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2080000,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 217037,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2180000,
+        "objectType": 5,
+        "objectId": 2001600,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217038,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2280000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 40
+      },
+      {
+        "pveScoreRewardMstId": 217039,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2380000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217040,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2480000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 35
+      },
+      {
+        "pveScoreRewardMstId": 217041,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2630000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217042,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2780000,
+        "objectType": 5,
+        "objectId": 2001000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 217043,
+        "pveMapMstId": 217,
+        "clearScoreNum": 2930000,
+        "objectType": 5,
+        "objectId": 2008700,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 217044,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3080000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 217045,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3230000,
+        "objectType": 5,
+        "objectId": 1012700,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217046,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3380000,
+        "objectType": 5,
+        "objectId": 2000200,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 217047,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3530000,
+        "objectType": 5,
+        "objectId": 2000800,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 217048,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3680000,
+        "objectType": 5,
+        "objectId": 2000500,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 217049,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3830000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217050,
+        "pveMapMstId": 217,
+        "clearScoreNum": 3980000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 40
+      },
+      {
+        "pveScoreRewardMstId": 217051,
+        "pveMapMstId": 217,
+        "clearScoreNum": 4180000,
+        "objectType": 5,
+        "objectId": 2001700,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 217052,
+        "pveMapMstId": 217,
+        "clearScoreNum": 4380000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 250
+      },
+      {
+        "pveScoreRewardMstId": 217053,
+        "pveMapMstId": 217,
+        "clearScoreNum": 4580000,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 400000
+      },
+      {
+        "pveScoreRewardMstId": 217054,
+        "pveMapMstId": 217,
+        "clearScoreNum": 4780000,
+        "objectType": 5,
+        "objectId": 2008700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217055,
+        "pveMapMstId": 217,
+        "clearScoreNum": 4980000,
+        "objectType": 5,
+        "objectId": 2000200,
+        "num": 8
+      },
+      {
+        "pveScoreRewardMstId": 217056,
+        "pveMapMstId": 217,
+        "clearScoreNum": 5180000,
+        "objectType": 5,
+        "objectId": 2000800,
+        "num": 8
+      },
+      {
+        "pveScoreRewardMstId": 217057,
+        "pveMapMstId": 217,
+        "clearScoreNum": 5380000,
+        "objectType": 5,
+        "objectId": 2000500,
+        "num": 8
+      },
+      {
+        "pveScoreRewardMstId": 217058,
+        "pveMapMstId": 217,
+        "clearScoreNum": 5580000,
+        "objectType": 5,
+        "objectId": 2001700,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 217059,
+        "pveMapMstId": 217,
+        "clearScoreNum": 5780000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 45
+      },
+      {
+        "pveScoreRewardMstId": 217060,
+        "pveMapMstId": 217,
+        "clearScoreNum": 5980000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217061,
+        "pveMapMstId": 217,
+        "clearScoreNum": 6230000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 500
+      },
+      {
+        "pveScoreRewardMstId": 217062,
+        "pveMapMstId": 217,
+        "clearScoreNum": 6480000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 40
+      },
+      {
+        "pveScoreRewardMstId": 217063,
+        "pveMapMstId": 217,
+        "clearScoreNum": 6730000,
+        "objectType": 5,
+        "objectId": 2001000,
+        "num": 7
+      },
+      {
+        "pveScoreRewardMstId": 217064,
+        "pveMapMstId": 217,
+        "clearScoreNum": 6980000,
+        "objectType": 5,
+        "objectId": 2008700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217065,
+        "pveMapMstId": 217,
+        "clearScoreNum": 7230000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217066,
+        "pveMapMstId": 217,
+        "clearScoreNum": 7480000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217067,
+        "pveMapMstId": 217,
+        "clearScoreNum": 7730000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217068,
+        "pveMapMstId": 217,
+        "clearScoreNum": 7980000,
+        "objectType": 5,
+        "objectId": 1001200,
+        "num": 2
+      },
+      {
+        "pveScoreRewardMstId": 217069,
+        "pveMapMstId": 217,
+        "clearScoreNum": 8230000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217070,
+        "pveMapMstId": 217,
+        "clearScoreNum": 8480000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217071,
+        "pveMapMstId": 217,
+        "clearScoreNum": 8730000,
+        "objectType": 5,
+        "objectId": 1001100,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217072,
+        "pveMapMstId": 217,
+        "clearScoreNum": 9030000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 2
+      },
+      {
+        "pveScoreRewardMstId": 217073,
+        "pveMapMstId": 217,
+        "clearScoreNum": 9330000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217074,
+        "pveMapMstId": 217,
+        "clearScoreNum": 9630000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 217075,
+        "pveMapMstId": 217,
+        "clearScoreNum": 9930000,
+        "objectType": 5,
+        "objectId": 1009900,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217076,
+        "pveMapMstId": 217,
+        "clearScoreNum": 10230000,
+        "objectType": 5,
+        "objectId": 1010000,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217077,
+        "pveMapMstId": 217,
+        "clearScoreNum": 10530000,
+        "objectType": 5,
+        "objectId": 1010100,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217078,
+        "pveMapMstId": 217,
+        "clearScoreNum": 10830000,
+        "objectType": 5,
+        "objectId": 1010200,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217079,
+        "pveMapMstId": 217,
+        "clearScoreNum": 11130000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217080,
+        "pveMapMstId": 217,
+        "clearScoreNum": 11430000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 3
+      },
+      {
+        "pveScoreRewardMstId": 217081,
+        "pveMapMstId": 217,
+        "clearScoreNum": 11730000,
+        "objectType": 5,
+        "objectId": 1009900,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217082,
+        "pveMapMstId": 217,
+        "clearScoreNum": 12080000,
+        "objectType": 5,
+        "objectId": 1010000,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217083,
+        "pveMapMstId": 217,
+        "clearScoreNum": 12430000,
+        "objectType": 5,
+        "objectId": 1010100,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217084,
+        "pveMapMstId": 217,
+        "clearScoreNum": 12780000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217085,
+        "pveMapMstId": 217,
+        "clearScoreNum": 13130000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 217086,
+        "pveMapMstId": 217,
+        "clearScoreNum": 13480000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 500
+      },
+      {
+        "pveScoreRewardMstId": 217087,
+        "pveMapMstId": 217,
+        "clearScoreNum": 13880000,
+        "objectType": 5,
+        "objectId": 1010200,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217088,
+        "pveMapMstId": 217,
+        "clearScoreNum": 14280000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217089,
+        "pveMapMstId": 217,
+        "clearScoreNum": 14680000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 217090,
+        "pveMapMstId": 217,
+        "clearScoreNum": 15080000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217091,
+        "pveMapMstId": 217,
+        "clearScoreNum": 15480000,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 217092,
+        "pveMapMstId": 217,
+        "clearScoreNum": 15930000,
+        "objectType": 5,
+        "objectId": 1009900,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217093,
+        "pveMapMstId": 217,
+        "clearScoreNum": 16380000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 217094,
+        "pveMapMstId": 217,
+        "clearScoreNum": 16830000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217095,
+        "pveMapMstId": 217,
+        "clearScoreNum": 17280000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 217096,
+        "pveMapMstId": 217,
+        "clearScoreNum": 17730000,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 217097,
+        "pveMapMstId": 217,
+        "clearScoreNum": 18230000,
+        "objectType": 5,
+        "objectId": 1010000,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217098,
+        "pveMapMstId": 217,
+        "clearScoreNum": 18730000,
+        "objectType": 5,
+        "objectId": 1010100,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217099,
+        "pveMapMstId": 217,
+        "clearScoreNum": 19230000,
+        "objectType": 5,
+        "objectId": 1010200,
+        "num": 60
+      },
+      {
+        "pveScoreRewardMstId": 217100,
+        "pveMapMstId": 217,
+        "clearScoreNum": 19730000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217101,
+        "pveMapMstId": 217,
+        "clearScoreNum": 20230000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 217102,
+        "pveMapMstId": 217,
+        "clearScoreNum": 20730000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217103,
+        "pveMapMstId": 217,
+        "clearScoreNum": 21230000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 217104,
+        "pveMapMstId": 217,
+        "clearScoreNum": 21730000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 217105,
+        "pveMapMstId": 217,
+        "clearScoreNum": 22230000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 500
+      },
+      {
+        "pveScoreRewardMstId": 217106,
+        "pveMapMstId": 217,
+        "clearScoreNum": 22730000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 150
+      },
+      {
+        "pveScoreRewardMstId": 217107,
+        "pveMapMstId": 217,
+        "clearScoreNum": 23230000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 60
+      },
+      {
+        "pveScoreRewardMstId": 217108,
+        "pveMapMstId": 217,
+        "clearScoreNum": 23730000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 217109,
+        "pveMapMstId": 217,
+        "clearScoreNum": 24230000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 200
+      },
+      {
+        "pveScoreRewardMstId": 217110,
+        "pveMapMstId": 217,
+        "clearScoreNum": 24730000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 60
+      },
+      {
+        "pveScoreRewardMstId": 217111,
+        "pveMapMstId": 217,
+        "clearScoreNum": 25230000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218001,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 218002,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 218003,
+        "pveMapMstId": 218,
+        "clearScoreNum": 7500,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 218004,
+        "pveMapMstId": 218,
+        "clearScoreNum": 14000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218005,
+        "pveMapMstId": 218,
+        "clearScoreNum": 25000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 218006,
+        "pveMapMstId": 218,
+        "clearScoreNum": 45000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218007,
+        "pveMapMstId": 218,
+        "clearScoreNum": 80000,
+        "objectType": 5,
+        "objectId": 2001600,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218008,
+        "pveMapMstId": 218,
+        "clearScoreNum": 130000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218009,
+        "pveMapMstId": 218,
+        "clearScoreNum": 180000,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 100000
+      },
+      {
+        "pveScoreRewardMstId": 218010,
+        "pveMapMstId": 218,
+        "clearScoreNum": 230000,
+        "objectType": 5,
+        "objectId": 2008600,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218011,
+        "pveMapMstId": 218,
+        "clearScoreNum": 280000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 218012,
+        "pveMapMstId": 218,
+        "clearScoreNum": 330000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 218013,
+        "pveMapMstId": 218,
+        "clearScoreNum": 380000,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 218014,
+        "pveMapMstId": 218,
+        "clearScoreNum": 430000,
+        "objectType": 5,
+        "objectId": 2001600,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218015,
+        "pveMapMstId": 218,
+        "clearScoreNum": 480000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218016,
+        "pveMapMstId": 218,
+        "clearScoreNum": 530000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 218017,
+        "pveMapMstId": 218,
+        "clearScoreNum": 580000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218018,
+        "pveMapMstId": 218,
+        "clearScoreNum": 630000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218019,
+        "pveMapMstId": 218,
+        "clearScoreNum": 680000,
+        "objectType": 5,
+        "objectId": 2001000,
+        "num": 7
+      },
+      {
+        "pveScoreRewardMstId": 218020,
+        "pveMapMstId": 218,
+        "clearScoreNum": 730000,
+        "objectType": 5,
+        "objectId": 2008600,
+        "num": 200
+      },
+      {
+        "pveScoreRewardMstId": 218021,
+        "pveMapMstId": 218,
+        "clearScoreNum": 805000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218022,
+        "pveMapMstId": 218,
+        "clearScoreNum": 880000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218023,
+        "pveMapMstId": 218,
+        "clearScoreNum": 955000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218024,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1030000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218025,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1105000,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218026,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1180000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218027,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1255000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218028,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1330000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218029,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1405000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 35
+      },
+      {
+        "pveScoreRewardMstId": 218030,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1480000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 70
+      },
+      {
+        "pveScoreRewardMstId": 218031,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1580000,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 200000
+      },
+      {
+        "pveScoreRewardMstId": 218032,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1680000,
+        "objectType": 5,
+        "objectId": 2008600,
+        "num": 200
+      },
+      {
+        "pveScoreRewardMstId": 218033,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1780000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218034,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1880000,
+        "objectType": 5,
+        "objectId": 2000100,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 218035,
+        "pveMapMstId": 218,
+        "clearScoreNum": 1980000,
+        "objectType": 5,
+        "objectId": 2000700,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 218036,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2080000,
+        "objectType": 5,
+        "objectId": 2000400,
+        "num": 25
+      },
+      {
+        "pveScoreRewardMstId": 218037,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2180000,
+        "objectType": 5,
+        "objectId": 2001600,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218038,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2280000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 40
+      },
+      {
+        "pveScoreRewardMstId": 218039,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2380000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218040,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2480000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 35
+      },
+      {
+        "pveScoreRewardMstId": 218041,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2630000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218042,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2780000,
+        "objectType": 5,
+        "objectId": 2001000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 218043,
+        "pveMapMstId": 218,
+        "clearScoreNum": 2930000,
+        "objectType": 5,
+        "objectId": 2008700,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 218044,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3080000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 218045,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3230000,
+        "objectType": 5,
+        "objectId": 1012700,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218046,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3380000,
+        "objectType": 5,
+        "objectId": 2000200,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 218047,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3530000,
+        "objectType": 5,
+        "objectId": 2000800,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 218048,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3680000,
+        "objectType": 5,
+        "objectId": 2000500,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 218049,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3830000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218050,
+        "pveMapMstId": 218,
+        "clearScoreNum": 3980000,
+        "objectType": 5,
+        "objectId": 2005700,
+        "num": 40
+      },
+      {
+        "pveScoreRewardMstId": 218051,
+        "pveMapMstId": 218,
+        "clearScoreNum": 4180000,
+        "objectType": 5,
+        "objectId": 2001700,
+        "num": 10
+      },
+      {
+        "pveScoreRewardMstId": 218052,
+        "pveMapMstId": 218,
+        "clearScoreNum": 4380000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 250
+      },
+      {
+        "pveScoreRewardMstId": 218053,
+        "pveMapMstId": 218,
+        "clearScoreNum": 4580000,
+        "objectType": 7,
+        "objectId": 0,
+        "num": 400000
+      },
+      {
+        "pveScoreRewardMstId": 218054,
+        "pveMapMstId": 218,
+        "clearScoreNum": 4780000,
+        "objectType": 5,
+        "objectId": 2008700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218055,
+        "pveMapMstId": 218,
+        "clearScoreNum": 4980000,
+        "objectType": 5,
+        "objectId": 2000200,
+        "num": 8
+      },
+      {
+        "pveScoreRewardMstId": 218056,
+        "pveMapMstId": 218,
+        "clearScoreNum": 5180000,
+        "objectType": 5,
+        "objectId": 2000800,
+        "num": 8
+      },
+      {
+        "pveScoreRewardMstId": 218057,
+        "pveMapMstId": 218,
+        "clearScoreNum": 5380000,
+        "objectType": 5,
+        "objectId": 2000500,
+        "num": 8
+      },
+      {
+        "pveScoreRewardMstId": 218058,
+        "pveMapMstId": 218,
+        "clearScoreNum": 5580000,
+        "objectType": 5,
+        "objectId": 2001700,
+        "num": 15
+      },
+      {
+        "pveScoreRewardMstId": 218059,
+        "pveMapMstId": 218,
+        "clearScoreNum": 5780000,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 45
+      },
+      {
+        "pveScoreRewardMstId": 218060,
+        "pveMapMstId": 218,
+        "clearScoreNum": 5980000,
+        "objectType": 5,
+        "objectId": 1008300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218061,
+        "pveMapMstId": 218,
+        "clearScoreNum": 6230000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 500
+      },
+      {
+        "pveScoreRewardMstId": 218062,
+        "pveMapMstId": 218,
+        "clearScoreNum": 6480000,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 40
+      },
+      {
+        "pveScoreRewardMstId": 218063,
+        "pveMapMstId": 218,
+        "clearScoreNum": 6730000,
+        "objectType": 5,
+        "objectId": 2001000,
+        "num": 7
+      },
+      {
+        "pveScoreRewardMstId": 218064,
+        "pveMapMstId": 218,
+        "clearScoreNum": 6980000,
+        "objectType": 5,
+        "objectId": 2008700,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218065,
+        "pveMapMstId": 218,
+        "clearScoreNum": 7230000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218066,
+        "pveMapMstId": 218,
+        "clearScoreNum": 7480000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218067,
+        "pveMapMstId": 218,
+        "clearScoreNum": 7730000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218068,
+        "pveMapMstId": 218,
+        "clearScoreNum": 7980000,
+        "objectType": 5,
+        "objectId": 1001200,
+        "num": 2
+      },
+      {
+        "pveScoreRewardMstId": 218069,
+        "pveMapMstId": 218,
+        "clearScoreNum": 8230000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218070,
+        "pveMapMstId": 218,
+        "clearScoreNum": 8480000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218071,
+        "pveMapMstId": 218,
+        "clearScoreNum": 8730000,
+        "objectType": 5,
+        "objectId": 1001100,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218072,
+        "pveMapMstId": 218,
+        "clearScoreNum": 9030000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 2
+      },
+      {
+        "pveScoreRewardMstId": 218073,
+        "pveMapMstId": 218,
+        "clearScoreNum": 9330000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218074,
+        "pveMapMstId": 218,
+        "clearScoreNum": 9630000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 218075,
+        "pveMapMstId": 218,
+        "clearScoreNum": 9930000,
+        "objectType": 5,
+        "objectId": 1009900,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218076,
+        "pveMapMstId": 218,
+        "clearScoreNum": 10230000,
+        "objectType": 5,
+        "objectId": 1010000,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218077,
+        "pveMapMstId": 218,
+        "clearScoreNum": 10530000,
+        "objectType": 5,
+        "objectId": 1010100,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218078,
+        "pveMapMstId": 218,
+        "clearScoreNum": 10830000,
+        "objectType": 5,
+        "objectId": 1010200,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218079,
+        "pveMapMstId": 218,
+        "clearScoreNum": 11130000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218080,
+        "pveMapMstId": 218,
+        "clearScoreNum": 11430000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 3
+      },
+      {
+        "pveScoreRewardMstId": 218081,
+        "pveMapMstId": 218,
+        "clearScoreNum": 11730000,
+        "objectType": 5,
+        "objectId": 1009900,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218082,
+        "pveMapMstId": 218,
+        "clearScoreNum": 12080000,
+        "objectType": 5,
+        "objectId": 1010000,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218083,
+        "pveMapMstId": 218,
+        "clearScoreNum": 12430000,
+        "objectType": 5,
+        "objectId": 1010100,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218084,
+        "pveMapMstId": 218,
+        "clearScoreNum": 12780000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218085,
+        "pveMapMstId": 218,
+        "clearScoreNum": 13130000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 218086,
+        "pveMapMstId": 218,
+        "clearScoreNum": 13480000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 500
+      },
+      {
+        "pveScoreRewardMstId": 218087,
+        "pveMapMstId": 218,
+        "clearScoreNum": 13880000,
+        "objectType": 5,
+        "objectId": 1010200,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218088,
+        "pveMapMstId": 218,
+        "clearScoreNum": 14280000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218089,
+        "pveMapMstId": 218,
+        "clearScoreNum": 14680000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 20
+      },
+      {
+        "pveScoreRewardMstId": 218090,
+        "pveMapMstId": 218,
+        "clearScoreNum": 15080000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218091,
+        "pveMapMstId": 218,
+        "clearScoreNum": 15480000,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 218092,
+        "pveMapMstId": 218,
+        "clearScoreNum": 15930000,
+        "objectType": 5,
+        "objectId": 1009900,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218093,
+        "pveMapMstId": 218,
+        "clearScoreNum": 16380000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 4
+      },
+      {
+        "pveScoreRewardMstId": 218094,
+        "pveMapMstId": 218,
+        "clearScoreNum": 16830000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218095,
+        "pveMapMstId": 218,
+        "clearScoreNum": 17280000,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 1
+      },
+      {
+        "pveScoreRewardMstId": 218096,
+        "pveMapMstId": 218,
+        "clearScoreNum": 17730000,
+        "objectType": 5,
+        "objectId": 1000300,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 218097,
+        "pveMapMstId": 218,
+        "clearScoreNum": 18230000,
+        "objectType": 5,
+        "objectId": 1010000,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218098,
+        "pveMapMstId": 218,
+        "clearScoreNum": 18730000,
+        "objectType": 5,
+        "objectId": 1010100,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218099,
+        "pveMapMstId": 218,
+        "clearScoreNum": 19230000,
+        "objectType": 5,
+        "objectId": 1010200,
+        "num": 60
+      },
+      {
+        "pveScoreRewardMstId": 218100,
+        "pveMapMstId": 218,
+        "clearScoreNum": 19730000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218101,
+        "pveMapMstId": 218,
+        "clearScoreNum": 20230000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 30
+      },
+      {
+        "pveScoreRewardMstId": 218102,
+        "pveMapMstId": 218,
+        "clearScoreNum": 20730000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218103,
+        "pveMapMstId": 218,
+        "clearScoreNum": 21230000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 100
+      },
+      {
+        "pveScoreRewardMstId": 218104,
+        "pveMapMstId": 218,
+        "clearScoreNum": 21730000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 50
+      },
+      {
+        "pveScoreRewardMstId": 218105,
+        "pveMapMstId": 218,
+        "clearScoreNum": 22230000,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 500
+      },
+      {
+        "pveScoreRewardMstId": 218106,
+        "pveMapMstId": 218,
+        "clearScoreNum": 22730000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 150
+      },
+      {
+        "pveScoreRewardMstId": 218107,
+        "pveMapMstId": 218,
+        "clearScoreNum": 23230000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 60
+      },
+      {
+        "pveScoreRewardMstId": 218108,
+        "pveMapMstId": 218,
+        "clearScoreNum": 23730000,
+        "objectType": 5,
+        "objectId": 1011000,
+        "num": 5
+      },
+      {
+        "pveScoreRewardMstId": 218109,
+        "pveMapMstId": 218,
+        "clearScoreNum": 24230000,
+        "objectType": 5,
+        "objectId": 1010300,
+        "num": 200
+      },
+      {
+        "pveScoreRewardMstId": 218110,
+        "pveMapMstId": 218,
+        "clearScoreNum": 24730000,
+        "objectType": 5,
+        "objectId": 1010400,
+        "num": 60
+      },
+      {
+        "pveScoreRewardMstId": 218111,
+        "pveMapMstId": 218,
+        "clearScoreNum": 25230000,
+        "objectType": 5,
+        "objectId": 2008500,
+        "num": 100
       }
     ]
   }

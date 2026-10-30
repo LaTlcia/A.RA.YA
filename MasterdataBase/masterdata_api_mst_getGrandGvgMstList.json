@@ -1094,6 +1094,20 @@
         "eventImageId": 101,
         "isUltimateGvg": false,
         "leagueType": 10
+      },
+      {
+        "grandGvgMstId": 90000002,
+        "entryStartTime": 1793347200,
+        "entryEndTime": 1793717999,
+        "gvgStartTime": 1793718000,
+        "gvgEndTime": 1794236399,
+        "resultStartTime": 1794297600,
+        "resultEndTime": 1794668399,
+        "featuredCardMstId": 304110,
+        "eventName": "レギオンリーグ Ver.2.0 BETA",
+        "eventImageId": 101,
+        "isUltimateGvg": false,
+        "leagueType": 10
       }
     ]
   }

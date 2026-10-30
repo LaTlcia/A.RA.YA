@@ -1,0 +1,50 @@
+{
+  "url": "/api/mst/getRareSkillConditionGroupMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "rareSkillConditionGroupMstId": 1,
+        "rareSkillDetailDirectionMstId": 205,
+        "battleMode": 1,
+        "skillMstId": 60290902,
+        "logic": 1
+      },
+      {
+        "rareSkillConditionGroupMstId": 2,
+        "rareSkillDetailDirectionMstId": 205,
+        "battleMode": 2,
+        "skillMstId": 50290902,
+        "logic": 0
+      },
+      {
+        "rareSkillConditionGroupMstId": 3,
+        "rareSkillDetailDirectionMstId": 209,
+        "battleMode": 1,
+        "skillMstId": 60290903,
+        "logic": 1
+      },
+      {
+        "rareSkillConditionGroupMstId": 4,
+        "rareSkillDetailDirectionMstId": 209,
+        "battleMode": 2,
+        "skillMstId": 50290903,
+        "logic": 0
+      },
+      {
+        "rareSkillConditionGroupMstId": 5,
+        "rareSkillDetailDirectionMstId": 262,
+        "battleMode": 1,
+        "skillMstId": 60370901,
+        "logic": 1
+      },
+      {
+        "rareSkillConditionGroupMstId": 6,
+        "rareSkillDetailDirectionMstId": 262,
+        "battleMode": 2,
+        "skillMstId": 50370901,
+        "logic": 0
+      }
+    ]
+  }
+}

@@ -3760,6 +3760,18 @@
         "endTime": 1791903599
       },
       {
+        "chatStampMstId": 335,
+        "name": "とーぜんでしょ！",
+        "characterMstId": 19,
+        "type": 9,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793415600,
+        "endTime": 1796007599
+      },
+      {
         "chatStampMstId": 336,
         "name": "レベルアップ！",
         "characterMstId": 27,
@@ -3770,6 +3782,30 @@
         "conditionValue2": 0,
         "startTime": 1791514800,
         "endTime": 1792681199
+      },
+      {
+        "chatStampMstId": 337,
+        "name": "全力でいくわよ！",
+        "characterMstId": 142,
+        "type": 2,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793415600,
+        "endTime": 1796007599
+      },
+      {
+        "chatStampMstId": 338,
+        "name": "共に参りましょう！",
+        "characterMstId": 3,
+        "type": 2,
+        "howToGetText": "進撃のピュアリティブーケ【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793415600,
+        "endTime": 1794581999
       },
       {
         "chatStampMstId": 362,
@@ -3926,6 +3962,174 @@
         "conditionValue2": 0,
         "startTime": 1789095600,
         "endTime": 1790521199
+      },
+      {
+        "chatStampMstId": 385,
+        "name": "こっちよ！",
+        "characterMstId": 15,
+        "type": 4,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 386,
+        "name": "素敵よ",
+        "characterMstId": 16,
+        "type": 9,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 387,
+        "name": "なるほどです",
+        "characterMstId": 17,
+        "type": 9,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念ログインボーナス1日目のログインで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793908800,
+        "endTime": 1795463999
+      },
+      {
+        "chatStampMstId": 388,
+        "name": "いいカンジ☆",
+        "characterMstId": 18,
+        "type": 9,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念ログインボーナス4日目のログインで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793908800,
+        "endTime": 1795463999
+      },
+      {
+        "chatStampMstId": 389,
+        "name": "♪",
+        "characterMstId": 19,
+        "type": 3,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念ログインボーナス3日目のログインで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793908800,
+        "endTime": 1795463999
+      },
+      {
+        "chatStampMstId": 390,
+        "name": "一緒にどう？",
+        "characterMstId": 88,
+        "type": 4,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 391,
+        "name": "嬉しいです",
+        "characterMstId": 106,
+        "type": 3,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念ログインボーナス5日目のログインで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793908800,
+        "endTime": 1795463999
+      },
+      {
+        "chatStampMstId": 392,
+        "name": "映えますね",
+        "characterMstId": 105,
+        "type": 9,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 393,
+        "name": "どーぞ！",
+        "characterMstId": 82,
+        "type": 4,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念ログインボーナス2日目のログインで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793908800,
+        "endTime": 1795463999
+      },
+      {
+        "chatStampMstId": 394,
+        "name": "完璧だね！",
+        "characterMstId": 134,
+        "type": 9,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 395,
+        "name": "行ってみよ～！",
+        "characterMstId": 136,
+        "type": 1,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 396,
+        "name": "わかったわ",
+        "characterMstId": 135,
+        "type": 4,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 397,
+        "name": "お疲れ様",
+        "characterMstId": 137,
+        "type": 1,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
+      },
+      {
+        "chatStampMstId": 398,
+        "name": "興味深いです",
+        "characterMstId": 140,
+        "type": 9,
+        "howToGetText": "神庭からふる☆あーとカフェ開催記念特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1793847600,
+        "endTime": 1795445999
       }
     ]
   }

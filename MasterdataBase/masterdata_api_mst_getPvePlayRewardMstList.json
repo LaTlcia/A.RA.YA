@@ -632,6 +632,66 @@
         "pveMapMstId": 121,
         "grade": 5,
         "groupId": 12215
+      },
+      {
+        "pvePlayRewardMstId": 21711,
+        "pveMapMstId": 217,
+        "grade": 1,
+        "groupId": 12211
+      },
+      {
+        "pvePlayRewardMstId": 21712,
+        "pveMapMstId": 217,
+        "grade": 2,
+        "groupId": 12212
+      },
+      {
+        "pvePlayRewardMstId": 21713,
+        "pveMapMstId": 217,
+        "grade": 3,
+        "groupId": 12213
+      },
+      {
+        "pvePlayRewardMstId": 21714,
+        "pveMapMstId": 217,
+        "grade": 4,
+        "groupId": 12214
+      },
+      {
+        "pvePlayRewardMstId": 21715,
+        "pveMapMstId": 217,
+        "grade": 5,
+        "groupId": 12215
+      },
+      {
+        "pvePlayRewardMstId": 21811,
+        "pveMapMstId": 218,
+        "grade": 1,
+        "groupId": 12211
+      },
+      {
+        "pvePlayRewardMstId": 21812,
+        "pveMapMstId": 218,
+        "grade": 2,
+        "groupId": 12212
+      },
+      {
+        "pvePlayRewardMstId": 21813,
+        "pveMapMstId": 218,
+        "grade": 3,
+        "groupId": 12213
+      },
+      {
+        "pvePlayRewardMstId": 21814,
+        "pveMapMstId": 218,
+        "grade": 4,
+        "groupId": 12214
+      },
+      {
+        "pvePlayRewardMstId": 21815,
+        "pveMapMstId": 218,
+        "grade": 5,
+        "groupId": 12215
       }
     ]
   }

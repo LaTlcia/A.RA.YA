@@ -835,6 +835,27 @@
         "duplicationCategory": 1,
         "loopPattern": 1,
         "effectId": 128
+      },
+      {
+        "rareSkillResourceDirectionMstId": 130,
+        "iconName": "HeliosphereS",
+        "duplicationCategory": 1,
+        "loopPattern": 3,
+        "effectId": 14
+      },
+      {
+        "rareSkillResourceDirectionMstId": 131,
+        "iconName": "PhaseTranscendenceS",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 17
+      },
+      {
+        "rareSkillResourceDirectionMstId": 134,
+        "iconName": "HeavensScales",
+        "duplicationCategory": 0,
+        "loopPattern": 4,
+        "effectId": 4
       }
     ]
   }

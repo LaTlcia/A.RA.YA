@@ -15140,6 +15140,17 @@
         "endTime": -62170017539
       },
       {
+        "eventStoryMstId": 38010101,
+        "questStageMstId": 38010101,
+        "title": "三十六品目 じゃがん餅",
+        "isFullVoice": false,
+        "fileName1": "story_mini_dining_36",
+        "fileName2": "",
+        "imageId": 0,
+        "startTime": 1793372400,
+        "endTime": -62170017539
+      },
+      {
         "eventStoryMstId": 70110111,
         "questStageMstId": 70110111,
         "title": "1話:終わらない夏-1",
@@ -28051,6 +28062,171 @@
         "fileName2": "",
         "imageId": 164104,
         "startTime": 1792292400,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510111,
+        "questStageMstId": 83510111,
+        "title": "1話:一柳隊、出撃-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_090301",
+        "fileName2": "",
+        "imageId": 165101,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510112,
+        "questStageMstId": 83510112,
+        "title": "1話:一柳隊、出撃-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_090302",
+        "fileName2": "",
+        "imageId": 165102,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510113,
+        "questStageMstId": 83510113,
+        "title": "2話:故郷への路-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_090303",
+        "fileName2": "",
+        "imageId": 165103,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510114,
+        "questStageMstId": 83510114,
+        "title": "2話:故郷への路-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_090304",
+        "fileName2": "",
+        "imageId": 165104,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510115,
+        "questStageMstId": 83510115,
+        "title": "2話:故郷への路-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_090305",
+        "fileName2": "",
+        "imageId": 165105,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510116,
+        "questStageMstId": 83510116,
+        "title": "2話:故郷への路-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_090306",
+        "fileName2": "",
+        "imageId": 165106,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510117,
+        "questStageMstId": 83510117,
+        "title": "3話:ルサルカ-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_090307",
+        "fileName2": "",
+        "imageId": 165107,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510118,
+        "questStageMstId": 83510118,
+        "title": "3話:ルサルカ-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_090308",
+        "fileName2": "",
+        "imageId": 165108,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510119,
+        "questStageMstId": 83510119,
+        "title": "3話:ルサルカ-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_090309",
+        "fileName2": "",
+        "imageId": 165109,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510120,
+        "questStageMstId": 83510120,
+        "title": "3話:ルサルカ-4",
+        "isFullVoice": false,
+        "fileName1": "story_main_090310",
+        "fileName2": "",
+        "imageId": 165110,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510121,
+        "questStageMstId": 83510121,
+        "title": "4話:夜空に誓って-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_090311",
+        "fileName2": "",
+        "imageId": 165111,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510122,
+        "questStageMstId": 83510122,
+        "title": "4話:夜空に誓って-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_090312",
+        "fileName2": "",
+        "imageId": 165112,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510123,
+        "questStageMstId": 83510123,
+        "title": "4話:夜空に誓って-3",
+        "isFullVoice": false,
+        "fileName1": "story_main_090313",
+        "fileName2": "",
+        "imageId": 165113,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510124,
+        "questStageMstId": 83510124,
+        "title": "5話:霧中市街-1",
+        "isFullVoice": false,
+        "fileName1": "story_main_090314",
+        "fileName2": "",
+        "imageId": 165114,
+        "startTime": 1793415600,
+        "endTime": -62170017539
+      },
+      {
+        "eventStoryMstId": 83510125,
+        "questStageMstId": 83510125,
+        "title": "5話:霧中市街-2",
+        "isFullVoice": false,
+        "fileName1": "story_main_090315",
+        "fileName2": "",
+        "imageId": 165115,
+        "startTime": 1793415600,
         "endTime": -62170017539
       },
       {

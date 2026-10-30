@@ -1,0 +1,72 @@
+{
+  "url": "/api/mst/getRareSkillConditionMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "rareSkillConditionMstId": 1,
+        "rareSkillConditionGroupMstId": 1,
+        "type": 0,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 5011
+      },
+      {
+        "rareSkillConditionMstId": 2,
+        "rareSkillConditionGroupMstId": 1,
+        "type": 0,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 5029
+      },
+      {
+        "rareSkillConditionMstId": 3,
+        "rareSkillConditionGroupMstId": 2,
+        "type": 1,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 0
+      },
+      {
+        "rareSkillConditionMstId": 4,
+        "rareSkillConditionGroupMstId": 3,
+        "type": 0,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 5007
+      },
+      {
+        "rareSkillConditionMstId": 5,
+        "rareSkillConditionGroupMstId": 3,
+        "type": 0,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 5029
+      },
+      {
+        "rareSkillConditionMstId": 6,
+        "rareSkillConditionGroupMstId": 4,
+        "type": 1,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 0
+      },
+      {
+        "rareSkillConditionMstId": 7,
+        "rareSkillConditionGroupMstId": 5,
+        "type": 0,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 5006
+      },
+      {
+        "rareSkillConditionMstId": 8,
+        "rareSkillConditionGroupMstId": 6,
+        "type": 1,
+        "targetScope": 1,
+        "operator": 0,
+        "value": 0
+      }
+    ]
+  }
+}
