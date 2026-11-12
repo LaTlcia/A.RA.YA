@@ -5972,6 +5972,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 836101,
+        "questMapMstId": 836,
+        "name": "メダルイベント",
+        "description": "終夜のトリコロール",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 836201,
+        "questMapMstId": 836,
+        "name": "メダルイベント",
+        "description": "終夜のトリコロール",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

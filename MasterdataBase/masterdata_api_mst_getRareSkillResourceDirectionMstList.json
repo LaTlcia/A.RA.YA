@@ -856,6 +856,20 @@
         "duplicationCategory": 0,
         "loopPattern": 4,
         "effectId": 4
+      },
+      {
+        "rareSkillResourceDirectionMstId": 135,
+        "iconName": "Extend",
+        "duplicationCategory": 5,
+        "loopPattern": 1,
+        "effectId": 82
+      },
+      {
+        "rareSkillResourceDirectionMstId": 136,
+        "iconName": "ShrunkenLand",
+        "duplicationCategory": 0,
+        "loopPattern": 0,
+        "effectId": 5
       }
     ]
   }

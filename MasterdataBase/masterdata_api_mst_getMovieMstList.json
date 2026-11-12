@@ -2444,6 +2444,16 @@
         "endTime": -62170017539
       },
       {
+        "movieMstId": 20194,
+        "movieTitle": "終夜のトリコロール PV",
+        "fileName": "Movie/Movie000816.usm",
+        "category": 2,
+        "isCollection": true,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1794538800,
+        "endTime": -62170017539
+      },
+      {
         "movieMstId": 30001,
         "movieTitle": "梨璃と二水のラスバレ攻略講座①",
         "fileName": "Movie/Movie000064.usm",
@@ -4231,6 +4241,16 @@
         "isCollection": false,
         "isAlwaysOnAlbum": false,
         "startTime": 1784516400,
+        "endTime": -62170017539
+      },
+      {
+        "movieMstId": 30201,
+        "movieTitle": "メイン予告PV",
+        "fileName": "Movie/Movie000828.usm",
+        "category": 3,
+        "isCollection": false,
+        "isAlwaysOnAlbum": false,
+        "startTime": 1794582000,
         "endTime": -62170017539
       }
     ]

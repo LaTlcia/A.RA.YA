@@ -5935,6 +5935,15 @@
         "text": "今が攻め時です！"
       },
       {
+        "ingameVoiceMstId": 10106005,
+        "type": 106,
+        "characterMstId": 10,
+        "styleType": 390,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_010-all_rareskill_01",
+        "text": "今が攻め時です！"
+      },
+      {
         "ingameVoiceMstId": 10107001,
         "type": 107,
         "characterMstId": 10,
@@ -8270,6 +8279,15 @@
         "type": 106,
         "characterMstId": 14,
         "styleType": 382,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_014-all_rareskill_01",
+        "text": "皆さんのことは、私が守ります…！"
+      },
+      {
+        "ingameVoiceMstId": 14106005,
+        "type": 106,
+        "characterMstId": 14,
+        "styleType": 390,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_014-all_rareskill_01",
         "text": "皆さんのことは、私が守ります…！"
@@ -33016,6 +33034,15 @@
         "text": "逃げられるなんて思わないで"
       },
       {
+        "ingameVoiceMstId": 69106005,
+        "type": 106,
+        "characterMstId": 69,
+        "styleType": 390,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_069-all_tactics_02",
+        "text": "逃げられるなんて思わないで"
+      },
+      {
         "ingameVoiceMstId": 69107001,
         "type": 107,
         "characterMstId": 69,
@@ -41102,6 +41129,15 @@
         "type": 106,
         "characterMstId": 87,
         "styleType": 377,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_087-all_tactics_02",
+        "text": "ねぇ、いまどんな気持ち！？"
+      },
+      {
+        "ingameVoiceMstId": 87106006,
+        "type": 106,
+        "characterMstId": 87,
+        "styleType": 390,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_087-all_tactics_02",
         "text": "ねぇ、いまどんな気持ち！？"
@@ -49432,6 +49468,15 @@
         "text": ""
       },
       {
+        "ingameVoiceMstId": 109106004,
+        "type": 106,
+        "characterMstId": 109,
+        "styleType": 390,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_109-all_tactics_01",
+        "text": "やるぞ！　お前ら！"
+      },
+      {
         "ingameVoiceMstId": 109107001,
         "type": 107,
         "characterMstId": 109,
@@ -57662,6 +57707,15 @@
         "type": 106,
         "characterMstId": 128,
         "styleType": 383,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_128-all_tactics_02",
+        "text": "流れを変える！"
+      },
+      {
+        "ingameVoiceMstId": 128106013,
+        "type": 106,
+        "characterMstId": 128,
+        "styleType": 390,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_128-all_tactics_02",
         "text": "流れを変える！"

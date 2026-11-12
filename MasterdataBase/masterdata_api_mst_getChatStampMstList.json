@@ -3808,6 +3808,18 @@
         "endTime": 1794581999
       },
       {
+        "chatStampMstId": 340,
+        "name": "問題ないわ",
+        "characterMstId": 69,
+        "type": 4,
+        "howToGetText": "終夜のトリコロール【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1794538800,
+        "endTime": 1795705199
+      },
+      {
         "chatStampMstId": 362,
         "name": "ご奉仕いたします！",
         "characterMstId": 10,

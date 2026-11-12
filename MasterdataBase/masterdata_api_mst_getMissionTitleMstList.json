@@ -7515,6 +7515,27 @@
         "completeResourceId": 5036
       },
       {
+        "missionTitleMstId": 11084,
+        "title": "終夜のトリコロール【個人】",
+        "completeMissionMstId": 11084001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11085,
+        "title": "終夜のトリコロール【レギオン】",
+        "completeMissionMstId": 11085001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11086,
+        "title": "終夜のトリコロール【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 12022,
         "title": "ブーステッド・フレンドイベントミッション",
         "completeMissionMstId": 0,
