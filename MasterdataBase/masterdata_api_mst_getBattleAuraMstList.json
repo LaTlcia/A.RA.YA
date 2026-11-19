@@ -355,6 +355,33 @@
         "endTime": 1714464000
       },
       {
+        "battleAuraMstId": 1110101,
+        "name": "オーラエフェクト風",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 18,
+        "imageId": 1027300,
+        "startTime": 1795316400,
+        "endTime": 1798729199
+      },
+      {
+        "battleAuraMstId": 1110201,
+        "name": "オーラエフェクト水",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 17,
+        "imageId": 1027200,
+        "startTime": 1795316400,
+        "endTime": 1798729199
+      },
+      {
+        "battleAuraMstId": 1110301,
+        "name": "オーラエフェクト火",
+        "description": "リリィに表示される特別なエフェクト",
+        "resourceId": 16,
+        "imageId": 1027100,
+        "startTime": 1795316400,
+        "endTime": 1798729199
+      },
+      {
         "battleAuraMstId": 2010101,
         "name": "オーラエフェクト赤",
         "description": "リリィに表示される特別なエフェクト",
@@ -901,7 +928,7 @@
         "resourceId": 4,
         "imageId": 1017500,
         "startTime": 1792915200,
-        "endTime": 1800172799
+        "endTime": 1805011199
       },
       {
         "battleAuraMstId": 100160501,
@@ -910,7 +937,7 @@
         "resourceId": 5,
         "imageId": 1017800,
         "startTime": 1792915200,
-        "endTime": 1800172799
+        "endTime": 1805011199
       },
       {
         "battleAuraMstId": 100160601,
@@ -919,7 +946,7 @@
         "resourceId": 6,
         "imageId": 1017900,
         "startTime": 1792915200,
-        "endTime": 1800172799
+        "endTime": 1805011199
       }
     ]
   }

@@ -5988,6 +5988,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 837101,
+        "questMapMstId": 837,
+        "name": "メダルイベント",
+        "description": "秋晴センチメンタル",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 837201,
+        "questMapMstId": 837,
+        "name": "メダルイベント",
+        "description": "秋晴センチメンタル",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",

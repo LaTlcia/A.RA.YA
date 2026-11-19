@@ -16644,6 +16644,38 @@
         "num": 1
       },
       {
+        "loginBonusRewardMstId": 1020100,
+        "loginBonusMstId": 10201,
+        "dayCount": 1,
+        "objectType": 5,
+        "objectId": 1026601,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1020101,
+        "loginBonusMstId": 10201,
+        "dayCount": 2,
+        "objectType": 5,
+        "objectId": 1026701,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1020102,
+        "loginBonusMstId": 10201,
+        "dayCount": 3,
+        "objectType": 5,
+        "objectId": 1026801,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 1020103,
+        "loginBonusMstId": 10201,
+        "dayCount": 4,
+        "objectType": 5,
+        "objectId": 1026901,
+        "num": 1
+      },
+      {
         "loginBonusRewardMstId": 10037001,
         "loginBonusMstId": 10037,
         "dayCount": 1,

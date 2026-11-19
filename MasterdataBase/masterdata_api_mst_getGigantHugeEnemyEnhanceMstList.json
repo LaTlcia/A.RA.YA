@@ -4,6 +4,30 @@
   "payload": {
     "mstList": [
       {
+        "gigantHugeEnemyEnhanceMstId": 1111,
+        "gigantHugeEnemyMstId": 1111,
+        "gigantHugeEnemyPartMstId": 1111,
+        "type": 2,
+        "value": 50,
+        "enhancedGigantHugeEnemyMstId": 1121
+      },
+      {
+        "gigantHugeEnemyEnhanceMstId": 1112,
+        "gigantHugeEnemyMstId": 1112,
+        "gigantHugeEnemyPartMstId": 1112,
+        "type": 2,
+        "value": 50,
+        "enhancedGigantHugeEnemyMstId": 1122
+      },
+      {
+        "gigantHugeEnemyEnhanceMstId": 1113,
+        "gigantHugeEnemyMstId": 1113,
+        "gigantHugeEnemyPartMstId": 1113,
+        "type": 2,
+        "value": 50,
+        "enhancedGigantHugeEnemyMstId": 1123
+      },
+      {
         "gigantHugeEnemyEnhanceMstId": 11311,
         "gigantHugeEnemyMstId": 11311,
         "gigantHugeEnemyPartMstId": 11311,

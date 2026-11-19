@@ -524,6 +524,30 @@
         "num": 100
       },
       {
+        "gigantHugeRewardGroupMstId": 111101,
+        "rewardGroupId": 1111,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 4000939,
+        "num": 600
+      },
+      {
+        "gigantHugeRewardGroupMstId": 111102,
+        "rewardGroupId": 1112,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 4000939,
+        "num": 800
+      },
+      {
+        "gigantHugeRewardGroupMstId": 111103,
+        "rewardGroupId": 1113,
+        "rewardType": 3,
+        "objectType": 5,
+        "objectId": 4000939,
+        "num": 1000
+      },
+      {
         "gigantHugeRewardGroupMstId": 200701,
         "rewardGroupId": 200701,
         "rewardType": 3,

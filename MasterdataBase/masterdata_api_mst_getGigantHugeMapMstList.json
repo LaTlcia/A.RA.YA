@@ -124,6 +124,26 @@
         "boxGachaSeriesMstId": 0
       },
       {
+        "gigantHugeMapMstId": 111,
+        "name": "バトルパーティー特別編",
+        "description": "バトルパーティー特別編",
+        "mapType": 6,
+        "multiScoreRankingId": 0,
+        "bannerId": 1232381,
+        "sortOrder": 100,
+        "backgroundImage": 4000102,
+        "appearType": 0,
+        "defaultMapBgm": "bgm_gigant-map_event_001",
+        "appearanceGigantHugeBgm": "bgm_gigant-map_event_002",
+        "mapLoginBonusItemMstId": 4005846,
+        "mapLoginBonusItemNum": 5,
+        "gigantHugeRankingRewardGroupId": 0,
+        "dailyPlayCount": 0,
+        "isBookmarkRelease": false,
+        "bookmarkReleaseStartTime": -62170017539,
+        "boxGachaSeriesMstId": 0
+      },
+      {
         "gigantHugeMapMstId": 201,
         "name": "ギガント級ヒュージ討伐",
         "description": "カオスサーペントCh.1",
