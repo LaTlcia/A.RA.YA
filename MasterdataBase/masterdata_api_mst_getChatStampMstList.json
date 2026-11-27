@@ -3808,6 +3808,18 @@
         "endTime": 1794581999
       },
       {
+        "chatStampMstId": 339,
+        "name": "お見通しです！",
+        "characterMstId": 4,
+        "type": 2,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1796007600,
+        "endTime": 1798685999
+      },
+      {
         "chatStampMstId": 340,
         "name": "問題ないわ",
         "characterMstId": 69,
@@ -3818,6 +3830,30 @@
         "conditionValue2": 0,
         "startTime": 1794538800,
         "endTime": 1795705199
+      },
+      {
+        "chatStampMstId": 341,
+        "name": "負けません！",
+        "characterMstId": 14,
+        "type": 2,
+        "howToGetText": "「クリエイターズスタンプパック」を購入することで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1796007600,
+        "endTime": 1798685999
+      },
+      {
+        "chatStampMstId": 342,
+        "name": "勝つゾ！",
+        "characterMstId": 6,
+        "type": 2,
+        "howToGetText": "共鳴のルーセントスフィア【個人】特別ミッションで入手可能",
+        "transitionSceneName": "NULL",
+        "conditionValue1": 0,
+        "conditionValue2": 0,
+        "startTime": 1796007600,
+        "endTime": 1797173999
       },
       {
         "chatStampMstId": 362,

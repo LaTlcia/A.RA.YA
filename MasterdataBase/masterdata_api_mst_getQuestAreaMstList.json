@@ -1716,6 +1716,14 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 171101,
+        "questMapMstId": 171,
+        "name": "特別イベント",
+        "description": "L アサルトリリィ導入記念",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 201101,
         "questMapMstId": 201,
         "name": "メダルイベント",
@@ -3726,6 +3734,14 @@
       {
         "questAreaMstId": 380101,
         "questMapMstId": 380,
+        "name": "ミニイベント",
+        "description": "ふじの食堂",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 381101,
+        "questMapMstId": 381,
         "name": "ミニイベント",
         "description": "ふじの食堂",
         "mode": 1,
@@ -6004,6 +6020,22 @@
         "hasNextComingSoon": false
       },
       {
+        "questAreaMstId": 838101,
+        "questMapMstId": 838,
+        "name": "メダルイベント",
+        "description": "共鳴のルーセントスフィア",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 838201,
+        "questMapMstId": 838,
+        "name": "メダルイベント",
+        "description": "共鳴のルーセントスフィア",
+        "mode": 2,
+        "hasNextComingSoon": false
+      },
+      {
         "questAreaMstId": 901101,
         "questMapMstId": 901,
         "name": "ライブ連動シナリオ",
@@ -6166,6 +6198,14 @@
       {
         "questAreaMstId": 1015101,
         "questMapMstId": 1015,
+        "name": "踏破イベント",
+        "description": "サバイバルアタック",
+        "mode": 1,
+        "hasNextComingSoon": false
+      },
+      {
+        "questAreaMstId": 1016101,
+        "questMapMstId": 1016,
         "name": "踏破イベント",
         "description": "サバイバルアタック",
         "mode": 1,

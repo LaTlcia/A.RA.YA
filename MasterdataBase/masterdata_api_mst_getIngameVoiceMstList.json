@@ -148,6 +148,15 @@
         "text": "みんな、行くよっ！"
       },
       {
+        "ingameVoiceMstId": 1106007,
+        "type": 106,
+        "characterMstId": 1,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_001-all_rareskill_02",
+        "text": "みんな、行くよっ！"
+      },
+      {
         "ingameVoiceMstId": 1107001,
         "type": 107,
         "characterMstId": 1,
@@ -800,6 +809,15 @@
         "type": 106,
         "characterMstId": 2,
         "styleType": 900,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_002-all_rareskill_02",
+        "text": "はあああああぁぁっっ!!"
+      },
+      {
+        "ingameVoiceMstId": 2106007,
+        "type": 106,
+        "characterMstId": 2,
+        "styleType": 389,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_002-all_rareskill_02",
         "text": "はあああああぁぁっっ!!"
@@ -2776,6 +2794,15 @@
         "text": "攻めるなら、今だ"
       },
       {
+        "ingameVoiceMstId": 5106006,
+        "type": 106,
+        "characterMstId": 5,
+        "styleType": 389,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_005-all_rareskill_01",
+        "text": "攻めるなら、今だ"
+      },
+      {
         "ingameVoiceMstId": 5107001,
         "type": 107,
         "characterMstId": 5,
@@ -3392,6 +3419,15 @@
         "type": 106,
         "characterMstId": 6,
         "styleType": 358,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_006-all_rareskill_01",
+        "text": "梅の動きについてこれるか？"
+      },
+      {
+        "ingameVoiceMstId": 6106003,
+        "type": 106,
+        "characterMstId": 6,
+        "styleType": 389,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_006-all_rareskill_01",
         "text": "梅の動きについてこれるか？"
@@ -5939,6 +5975,15 @@
         "type": 106,
         "characterMstId": 10,
         "styleType": 390,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_010-all_rareskill_01",
+        "text": "今が攻め時です！"
+      },
+      {
+        "ingameVoiceMstId": 10106006,
+        "type": 106,
+        "characterMstId": 10,
+        "styleType": 392,
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_010-all_rareskill_01",
         "text": "今が攻め時です！"
@@ -8831,6 +8876,15 @@
         "targetCharacterMstId": 0,
         "cueName": "cv_battle_001_015-all_rareskill_02",
         "text": ""
+      },
+      {
+        "ingameVoiceMstId": 15106002,
+        "type": 106,
+        "characterMstId": 15,
+        "styleType": 392,
+        "targetCharacterMstId": 0,
+        "cueName": "cv_battle_001_015-all_rareskill_01",
+        "text": "全力で挑みましょう"
       },
       {
         "ingameVoiceMstId": 15107001,

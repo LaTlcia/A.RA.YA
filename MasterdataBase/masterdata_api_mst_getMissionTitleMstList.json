@@ -7606,6 +7606,27 @@
         "completeResourceId": 0
       },
       {
+        "missionTitleMstId": 11097,
+        "title": "共鳴のルーセントスフィア【個人】",
+        "completeMissionMstId": 11097001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11098,
+        "title": "共鳴のルーセントスフィア【レギオン】",
+        "completeMissionMstId": 11098001,
+        "specialMissionImageId": 4,
+        "completeResourceId": 3417
+      },
+      {
+        "missionTitleMstId": 11099,
+        "title": "共鳴のルーセントスフィア【デイリー】",
+        "completeMissionMstId": 0,
+        "specialMissionImageId": 0,
+        "completeResourceId": 0
+      },
+      {
         "missionTitleMstId": 11100,
         "title": "バトルパーティー特別編",
         "completeMissionMstId": 11100001,

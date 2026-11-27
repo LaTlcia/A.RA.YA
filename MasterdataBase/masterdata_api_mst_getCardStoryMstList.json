@@ -1732,6 +1732,36 @@
         "objectType": 6,
         "objectId": 1,
         "num": 30
+      },
+      {
+        "cardStoryMstId": 183,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010389002",
+        "uniqueId": 10389002,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 184,
+        "isFullVoice": false,
+        "fileName": "story_memoria_010389006",
+        "uniqueId": 10389006,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+      },
+      {
+        "cardStoryMstId": 185,
+        "isFullVoice": false,
+        "fileName": "story_memoria_020000280",
+        "uniqueId": 20000280,
+        "hasSamplePart": false,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
       }
     ]
   }
